@@ -39,14 +39,11 @@
 
 
 
-
-
-
-
-
-
 ## PI Setup
 
+| Section Resources |
+| -- |
+| |
 
 
 ## PI Performance
