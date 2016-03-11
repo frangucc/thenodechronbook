@@ -40,8 +40,6 @@ Welcome to the Node Chronicles. This is a journey into the world of Electrical C
 * Add 2 females
 * Add 2 males
 
-![](http://span.ece.utah.edu/uploads/ECElogo.png)
-
 Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/about/history/#1800)
 
 
@@ -58,6 +56,7 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 > 1889 - The Department of Physics is established. Samuel Wesley Stratton, who later becomes president of Massachusetts Institute of Technology, is placed in charge. Stratton recognizes the potential of electricity and related phenomena and supported that newly developing field of technology. Under his direction, the first electrical laboratory is constructed in 1891, and the first courses in electrical engineering are offered. In 1892, Stratton resigns to accept a position in the Department of Physics at the newly established University of Chicago.
 
 
+![](http://span.ece.utah.edu/uploads/ECElogo.png)
 
 
 | Section Feedback |
