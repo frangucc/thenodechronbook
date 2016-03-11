@@ -1,6 +1,9 @@
 # Introduction to Gamifyed: The Node Chronicles, Volume 1
 
-**PREFACE**
+
+## **PREFACE**
+
+
 
 Here's what I'd like for you to do for me:
 
@@ -9,7 +12,7 @@ Here's what I'd like for you to do for me:
 Tell me a story. 
 
 
-### PAGE 1 - SPLASH
+##### PAGE 1 - SPLASH
 
 > Talk is cheap in the 21st century. You either got what it takes or you don't. Only the skilled will survive.
 
@@ -19,7 +22,7 @@ Outline of the PI board acts as the surrounding frame of the illustration where 
 
 TBD
 
-| Credits |
+| CREDITS |
 | -- | -- |
 | Writer | Franchino |
 | Artist | Colbert |
@@ -27,10 +30,7 @@ TBD
 ---
 
 
-> Welcome to the Node Chronicles. This is a journey into the world of Electrical Computer Engineering, the most interesting field known to man. 
-
-
-
+> Welcome to the Node Chronicles. This is a journey into the world of **Electrical Computer Engineering**, the most interesting field known to man. 
 
 ---
 
@@ -46,7 +46,7 @@ TBD
 
 > Orphaned as a child, GOU....
 
-
+**GOU:** Dialogue TBD
 
 
 
