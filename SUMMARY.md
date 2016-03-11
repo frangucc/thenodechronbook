@@ -5,6 +5,6 @@
 * [Chapter 2](chapter_2.md)
 * [Chapter 3](chapter_3.md)
 * [Chapter 4](chapter_4.md)
-* [Appendix](appendix.md)
 * Chapter 5
+* [Appendix](appendix.md)
 
