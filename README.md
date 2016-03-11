@@ -18,7 +18,7 @@ Tell me a story.
 
 Outline of the PI board acts as the surrounding frame of the illustration where the world is becoming of age and only the strong are left standing.
 
-**SCENE DETAILS**
+**SPECIFIC SCENE DETAILS**
 
 TBD
 
