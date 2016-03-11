@@ -48,10 +48,12 @@
 ## PI Setup
 
 
+
 ## PI Performance
 
 
-## How fast exactly is a PI out of the box
+> How fast exactly is a PI out of the box
+
 
 * What can you overclock it to and how to do so (disclaimer)
 * Where does it fit in - academically, industrial
@@ -69,16 +71,25 @@
 
 ## Graphics
 
+| Section Resources |
+| -- |
+| |
+
+
 
 ## Basic Hello Worlds in All High Level Langs
+
+| Section Resources |
+| -- |
+| |
+
 
 
 ## PI Bare metal programming in C
 
-| Resources |
+| Section Resources |
 | -- |
-| [https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
- |
+| [https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)|
 
 
 
