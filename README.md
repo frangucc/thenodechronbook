@@ -20,13 +20,21 @@ Welcome to the Node Chronicles. This is a journey into the world of Electrical C
 
 ---
 
-
-
 | Objectives of Opening Words |
 | -- |
 | Explain the Field of ECE |
 | Show examples of what's possible |
 | Explain how the book is going to work |
+
+---
+**OPENING SCREENPLAY**
+
+
+> Orphaned as a child, GOU....
+
+
+
+
 
 
 
