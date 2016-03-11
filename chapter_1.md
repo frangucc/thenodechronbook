@@ -64,8 +64,7 @@
 | Sysbench |
 | Octane |
 | Sunspider |
-| [https://learn.adafruit.com/introducing-the-raspberry-pi-2-model-b/performance-improvements ](https://learn.adafruit.com/introducing-the-raspberry-pi-2-model-b/performance-improvements )
- |
+| [https://learn.adafruit.com/introducing-the-raspberry-pi-2-model-b/performance-improvements ](https://learn.adafruit.com/introducing-the-raspberry-pi-2-model-b/performance-improvements )|
 
 
 ## Graphics
@@ -75,6 +74,11 @@
 
 
 ## PI Bare metal programming in C
+
+| Resources |
+| -- |
+| [https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
+ |
 
 
 
