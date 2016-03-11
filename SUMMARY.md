@@ -12,6 +12,6 @@
 * [Chapter 9](chapter_9.md)
 * [Chapter 10](chapter_10.md)
 * [Chapter 11](chapter_11.md)
-* Chapter 12
+* [Chapter 12](chapter_12.md)
 * [Appendix](appendix.md)
 
