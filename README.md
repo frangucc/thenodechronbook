@@ -37,9 +37,10 @@ Welcome to the Node Chronicles. This is a journey into the world of Electrical C
 
 
 
-
-
 ## The Forefathers of ECE
+
+**HISTORICAL FIGURES CAST**
+
 * Nicola Tesla
 * Thomas Edison
 * Alan Turing
@@ -75,8 +76,26 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 | Can you clearly explain or diagram the field of ece? |
 
 
+
+---
+
+**THE FOREFATHERS SCREENPLAY**
+
+> There once was a time when electricity...
+
+GOU: TBD
+
+NON: TBD
+
+CHINO: TBD
+
+GOU: TBD
+
+
+
 ## The New Democratizers of Hardware
 
+**SPECIAL GUEST CAST**
 * Lady Ada
 * Massimo Bansi
 * Elon Musk
