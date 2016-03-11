@@ -5,4 +5,5 @@
 * [Chapter 2](chapter_2.md)
 * [Chapter 3](chapter_3.md)
 * [Appendix](appendix.md)
+* Chapter 4
 
