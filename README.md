@@ -1,21 +1,35 @@
 # Introduction to Gamifyed: The Node Chronicles, Volume 1
 
+**PREFACE**
 
 Here's what I'd like for you to do for me:
-
 
 > Make me laugh. Make me cry. Tell me my place in the world. Lift me out of my skin and place me in another. Show me places I have never visited and carry me to the ends of time and space. Give my demons names and help me confront them. Demonstrate for me possibilities I've never thought of and present me with heroes who will give me courage and hope. Ease my sorrows and increase my joy. Teach me compassion. Entertain and enchant and enlighten me. 
 
 Tell me a story. 
 
+
+### PAGE 1 - SPLASH
+
 > Talk is cheap in the 21st century. You either got what it takes or you don't. Only the skilled will survive.
 
+Outline of the PI board acts as the surrounding frame of the illustration where the world is becoming of age and only the strong are left standing.
 
+**SCENE DETAILS**
+
+TBD
+
+| Credits |
+| -- | -- |
+| Writer | Franchino |
+| Artist | Colbert |
 
 ---
 
 
-Welcome to the Node Chronicles. This is a journey into the world of Electrical Computer Engineering, the most interesting field known to man. 
+> Welcome to the Node Chronicles. This is a journey into the world of Electrical Computer Engineering, the most interesting field known to man. 
+
+
 
 
 ---
@@ -96,6 +110,7 @@ GOU: TBD
 ## The New Democratizers of Hardware
 
 **SPECIAL GUEST CAST**
+
 * Lady Ada
 * Massimo Bansi
 * Elon Musk
