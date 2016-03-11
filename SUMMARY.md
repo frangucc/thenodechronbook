@@ -9,4 +9,5 @@
 * [Chapter 6](chapter_6.md)
 * [Chapter 7](chapter_7.md)
 * [Appendix](appendix.md)
+* Chapter 8
 
