@@ -1,3 +1,6 @@
-# My Awesome Book
+# Gamifyed: The Node Chronicles, Volume 1
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+> Talk is cheap in the 21st century. You either got what it takes or you don't. Only the skilled will survive.
+
+
