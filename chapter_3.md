@@ -1,4 +1,4 @@
-# Wireless Connectivity 101
+# Wireless Connectivity
 
 
 
