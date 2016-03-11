@@ -20,7 +20,7 @@ Outline of the PI board acts as the surrounding frame of the illustration where 
 
 **SPECIFIC SCENE DETAILS**
 
-TBD
+TBD - FRANCHINO
 
 | CREDITS |
 | -- | -- |
