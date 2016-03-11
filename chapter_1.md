@@ -30,11 +30,11 @@
 
 **Gou:** No, but I did just finish creating a PI Zero cluster using Docker. 
 
-**Non:** What????  Where did you get that many PI Zeros, my friends waited in line for an entire day for one. How much did you pay? 
+**Non:** What? Where did you get that many PI Zeros, my friends waited in line for an entire day and only could get one! How much did you pay? 
 
 > Non stares at Gou waiting for a reaction. Gou then quielty responds.  
 
-**Gou:** Promo-codes dummy, I paid five bucks each.
+**Gou:** Promo-codes dummy, I paid five bucks each and bought 50 of em.
 
 
 
