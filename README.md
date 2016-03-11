@@ -3,6 +3,13 @@
 
 > Talk is cheap in the 21st century. You either got what it takes or you don't. Only the skilled will survive.
 
+| Objectives of Opening Words |
+| -- |
+| Explain the Field of ECE |
+| Show examples of what's possible |
+| Explain how the book is going to work |
+
+
 
 
 ## The Forefathers of ECE
