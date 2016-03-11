@@ -1,4 +1,5 @@
-# Introduction to Gamifyed: The Node Chronicles, Volume 1
+# THE NODE CHRONICLES
+### *Volume 1*
 
 
 ## **PREFACE**
