@@ -43,8 +43,10 @@ TBD - FRANCHINO
 | Explain or demonstrate how the book is going to work |
 
 ---
-** THE NODE CHRONICLES: ** Page 1: Nicola Tesla, creator of the alternating current is muscled and destroyed.
 
+## The Forefathers of ECE
+
+** THE NODE CHRONICLES: ** Page 1: Nicola Tesla, creator of the alternating current is muscled and destroyed.
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
@@ -75,7 +77,7 @@ TBD - FRANCHINO
 > **PANEL SIX** - TESLA IS LEFT CRUSHED, HIS IDEAS, STOLEN AND CRUSHED, HE HAS BEEN DEFEATED. SEVERAL YEARS PRIOR HIS TOWERS WERE DESTROYED BY THE GOVERNMENT UNDER THE JP MORGANS INSTRUCTIONS. THE COPS AND JP MORGAN HAVE RAIDED THE APARTMENT, DESTROYED EVERYTHING AND LEFT TESLA GRIEVING FOR HE KNOWS HE WILL NEVER BE ABLE TO SUCCEED WITH FREE ENERGY.
 
 * **9 TESLA, WHISPER:** The present is theirs; the future, for which I really worked, is mine. 
-* **10 CAP:** The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+* **10 CAP:** The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence. 
 
 | REFERENCES |
 | -- |
@@ -124,9 +126,6 @@ In 2009, following an Internet campaign, British Prime Minister Gordon Brown mad
 | [ALAN TURING MOVIE SCENE](http://cdn.thedailybeast.com/content/dailybeast/articles/2014/11/29/the-castration-of-alan-turing-britain-s-code-breaking-wwii-hero/jcr:content/image.img.2000.jpg/1417261521198.cached.jpg) |
 
 
-
-## The Forefathers of ECE
-
 **HISTORICAL FIGURES CAST**
 
 * Nicola Tesla
@@ -136,6 +135,8 @@ In 2009, following an Internet campaign, British Prime Minister Gordon Brown mad
 * Jack Kilby
 * Add 2 females
 * Add 2 males
+
+*Each volume will reveal more about each of the historical figures*
 
 Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/about/history/#1800)
 
@@ -148,9 +149,9 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 > 1958 - UOI ECE alumnus Jack Kilby (BSEE '47) invents the [integrated circuit](https://upload.wikimedia.org/wikipedia/en/4/42/Kilby_solid_circuit.jpg) while working at Texas Instruments in Dallas.
 
-> 1891 - The first electrical laboratory is constructed under the direction of Samuel Wesley Stratton, head of physics. The first courses in electrical engineering are offered here; therefore, 1891 is recognized as the date for establishment of the Department of Electrical and Computer Engineering (originally called the Department of Electrical Engineering).
+> 1890's - Tesla invented electric oscillators, meters, improved lights and the high-voltage transformer known as the Tesla coil. He also experimented with X-rays, gave short-range demonstrations of radio communication two years before Guglielmo Marconi and piloted a radio-controlled boat around a pool in Madison Square Garden. Together, Tesla and Westinghouse lit the 1891 World’s Columbian Exposition in Chicago and partnered with General Electric to install AC generators at Niagara Falls, creating the first modern power station. 
 
-> 1889 - The Department of Physics is established. Samuel Wesley Stratton, who later becomes president of Massachusetts Institute of Technology, is placed in charge. Stratton recognizes the potential of electricity and related phenomena and supported that newly developing field of technology. Under his direction, the first electrical laboratory is constructed in 1891, and the first courses in electrical engineering are offered. In 1892, Stratton resigns to accept a position in the Department of Physics at the newly established University of Chicago.
+> 1889 - General Electric organizes the first modern research-and-development laboratory. Edison begins work on a storage battery for use in electric cars.
 
 *Revise this timeline to be more general and include the historical figures listed above*
 
