@@ -1,3 +1,3 @@
-# Intentionally Blank
+# Hybrid Mobile Programming in JavaScript
 
 
