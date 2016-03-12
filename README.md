@@ -13,7 +13,7 @@ Here's what I'd like for you to do for me:
 Tell me a story. 
 
 
-##### PAGE 1 - SPLASH
+##### FIRST SPLASH PAGE
 
 > Talk is cheap in the 21st century. You either got what it takes or you don't. Only the skilled will survive.
 
@@ -42,12 +42,12 @@ TBD - FRANCHINO
 | Explain how the book is going to work |
 
 ---
-**OPENING SCREENPLAY**
+**PAGE ONE**
 
 
-> Orphaned as a child, GOU....
+> **PANEL ONE** as a child, GOU....
 
-**GOU:** Dialogue TBD
+  **GOU:** Dialogue TBD
 
 
 
