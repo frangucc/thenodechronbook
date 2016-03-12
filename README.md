@@ -57,7 +57,7 @@ Outline of the PI board acts as the surrounding frame of the illustration where 
 THE INTRODUCTION
 ## The Forefathers of ECE
 
-** THE NODE CHRONICLES: ** Page 1: Nicola Tesla, creator of the alternating current is muscled and destroyed.
+** THE NODE CHRONICLES INTRO: ** Page 1: Nicola Tesla, creator of the alternating current is muscled and destroyed.
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
@@ -105,7 +105,7 @@ Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. A
 In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted him a posthumous pardon in 2013.
 
 ---
-** THE NODE CHRONICLES: ** Page 2: Alan Turing, creator of the Turing Machine (the modern computer) is castrated and poisoned for being gay.
+** THE NODE CHRONICLES INTRO: ** Page 2: Alan Turing, creator of the Turing Machine (the modern computer) is castrated and poisoned for being gay.
 
 
 > **PANEL ONE** - ALAN TURING IS BEING ABUSED IN AN INSANE ASYLUM, HE IS WEARING A STRAIGHT JACKED AND BEING TAKEN TO THE PLACE WHERE HIS BALLS WILL BE CASTRATED. He IS SEEN THROUGH THE SMALL FACE PANEL OF THE DOOR FOR THE INSANE ASYLUM HE IS IN.
@@ -183,7 +183,7 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 PRESENT DAY
 
-** THE NODE CHRONICLES: ** Page 3: Gou and his brother Nōn are having a conversation in Gou's bedroom about hacking.
+** THE NODE CHRONICLES INTRO: ** Page 3: Gou and his brother Nōn are having a conversation in Gou's bedroom about hacking.
 
 > **PANEL ONE** - GOU IS FIXATED ON SOMETHING HE IS WORKING ON. TBD
 
