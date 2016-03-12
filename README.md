@@ -172,8 +172,7 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 PRESENT DAY
 
-** THE NODE CHRONICLES: ** Page 3: Gou and his brother Nōn are having a conversation in Gou's bedroom.
-
+** THE NODE CHRONICLES: ** Page 3: Gou and his brother Nōn are having a conversation in Gou's bedroom about hacking.
 
 > **PANEL ONE** - GOU IS FIXATED ON SOMETHING HE IS WORKING ON. TBD
 
