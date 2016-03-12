@@ -48,18 +48,14 @@ TBD - FRANCHINO
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
-* 
-**1 CAP:** Dialogue TBD
+* **1 CAP:** Dialogue TBD
 
 > **PANEL TWO** - PULL BACK FURTHER TO SHOW NICOLA TESLAS FACE, WIDE EYEED AS HE JUST WITNESSES WIRELESS ELECTRICITY WORKING FOR THE FIRST TIME
 
 
-* 
-**2 CAP:** ...I can't believe it...
-* 
-**3 CAP:** ...it works...
-*
-**4 CAP** ...
+* **2 CAP:** ...I can't believe it...
+* **3 CAP:** ...it works...
+* **4 CAP** ...sds...
 
 
 ## The Forefathers of ECE
