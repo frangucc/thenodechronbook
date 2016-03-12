@@ -47,7 +47,7 @@ TBD - FRANCHINO
 
 > **PANEL ONE** as a child, GOU....
 
-  **GOU:** Dialogue TBD
+**GOU:**      Dialogue TBD
 
 
 
