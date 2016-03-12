@@ -178,7 +178,7 @@ PRESENT DAY
 
 * **1 CAP:** Swarn never to mess with computers and technology, Gou Sokyeo taught himself against his fathers wishes. Disguised as a normal thirteen year old boy, he is one of most elite ECE hackers in the world. Living in a world of mass confusion, he prowls the field of technology discovering new ways to improve life as we know it.
 
-* **1 CAP:** Swarn never to mess with computers and 
+* **2 Nōn:** TBD
 
 ## The New Democratizers of Hardware
 
