@@ -152,6 +152,8 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 > 1889 - The Department of Physics is established. Samuel Wesley Stratton, who later becomes president of Massachusetts Institute of Technology, is placed in charge. Stratton recognizes the potential of electricity and related phenomena and supported that newly developing field of technology. Under his direction, the first electrical laboratory is constructed in 1891, and the first courses in electrical engineering are offered. In 1892, Stratton resigns to accept a position in the Department of Physics at the newly established University of Chicago.
 
+*Revise this timeline to be more general and include the historical figures listed above*
+
 
 ![](http://span.ece.utah.edu/uploads/ECElogo.png)
 
@@ -167,19 +169,16 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 ---
 
-**THE FOREFATHERS SCREENPLAY**
+PRESENT DAY
 
-> There once was a time when electricity...
-
-GOU: TBD
-
-NON: TBD
-
-CHINO: TBD
-
-GOU: TBD
+** THE NODE CHRONICLES: ** Page 3: Gou and his brother Nōn are having a conversation in Gou's bedroom.
 
 
+> **PANEL ONE** - GOU IS FIXATED ON SOMETHING HE IS WORKING ON. TBD
+
+* **1 CAP:** Swarn never to mess with computers and technology, Gou Sokyeo taught himself against his fathers wishes. Disguised as a normal thirteen year old boy, he is one of most elite ECE hackers in the world. Living in a world of mass confusion, he prowls the field of technology discovering new ways to improve life as we know it.
+
+* **1 CAP:** Swarn never to mess with computers and 
 
 ## The New Democratizers of Hardware
 
