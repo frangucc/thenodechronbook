@@ -20,22 +20,20 @@ CHAPTER 1
 
 ### SCREENPLAY
 
-
-
 ---
 
 
 > Location of Non + Gou and their physical interaction screenplay - tbd
 
-**Non:** Dude, have you seen the new PI 3?
+* **Non:** Dude, have you seen the new PI 3?
 
-**Gou:** No, but I did just finish creating a PI Zero cluster using Docker. 
+* **Gou:** No, but I did just finish creating a PI Zero cluster using Docker. 
 
-**Non:** What? Where did you get that many PI Zeros, my friends waited in line for an entire day and only could get one! How much did you pay? 
+* **Non:** What? Where did you get that many PI Zeros, my friends waited in line for an entire day and only could get one! How much did you pay? 
 
 > Non stares at Gou waiting for a reaction. Gou then quielty responds.  
 
-**Gou:** Promo-codes dummy, I paid five bucks each and bought 50 of em.
+* **Gou:** Promo-codes dummy, I paid five bucks each and bought 50 of em.
 
 
 
