@@ -197,13 +197,15 @@ PRESENT DAY
 
 ADDITIONAL INTRODUCTION RESEARCH
 
-## The New Democratizers of Hardware
+## The New Democratizers
 
 **SPECIAL GUEST CAST**
 
 * Lady Ada
 * Massimo Bansi
 * Elon Musk
+* Neil Tyson DeGrasse
+* Michio Kaku
 * RASP PI CREATOR
 * 5 more people
 
@@ -232,6 +234,21 @@ ADDITIONAL INTRODUCTION RESEARCH
 * OSX
 
 
+## The Main Cast
+
+* Gou Sokyeo
+* Nōn Sokyeo
+* Lilu
+* Chino Sokyeo
+* Vero
+* Michio
+* Ladybug
+* Lisa
+* Bonner
+* Ophir
+* Eric "Lefty" Kaufman
+* Brad Balder
+* Anonymous
 
 
 
