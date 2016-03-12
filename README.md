@@ -43,7 +43,7 @@ TBD - FRANCHINO
 | Explain or demonstrate how the book is going to work |
 
 ---
-** THE NODE CHRONICLES: ** Page 1: The History of ECE
+** THE NODE CHRONICLES: ** Page 1: The creator of alternating current, Nicola Tesla, is destroyed.
 
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
@@ -67,18 +67,31 @@ TBD - FRANCHINO
 
 * **6 TESLA:** You're making a mistake. JP Morgan has stolen everything from me. 
 
-> **PANEL FIVE** - THE DOOR IS KICKED IN AS A CREW OF POLICE RUSH THE OLD APARTMENT WHERE TESLA HAS BEEN TESTING HIS FREE WIRELESS ENERGY SYSTEM. BEHIND THE POLICE OFFICERS STANDS A MAN IN THE SHADOWS WHO IS PRESUMED TO BE JP MORGAN, WHO IS CONTROLLING THE COPS. JP IS WEARING A LONG COAT, TOP HAT, CANE AND HAS A SHINY GOLD POCKET WATCH.
+> **PANEL FIVE** - THE DOOR IS KICKED IN AS A CREW OF POLICE RUSH THE OLD APARTMENT WHERE TESLA HAS BEEN TESTING HIS FREE WIRELESS ENERGY SYSTEM. BEHIND THE POLICE OFFICERS STANDS A MAN IN THE SHADOWS WHO IS PRESUMED TO BE JP MORGAN JR, WHO IS CONTROLLING THE COPS. JP IS WEARING A LONG COAT, TOP HAT, CANE AND HAS A SHINY GOLD POCKET WATCH.
 
-* **7 JP MORGAN:** Did you think you could undermine me? 
+* **7 JP MORGAN:** I got you're letter. Did you think you could undermine my family? 
 * **8 TESLA:** How could you, these are my ideas, electricity should be free, its not yours to control!
 
 > **PANEL SIX** - TESLA IS LEFT CRUSHED, HIS IDEAS, STOLEN AND CRUSHED, HE HAS BEEN DEFEATED. SEVERAL YEARS PRIOR HIS TOWERS WERE DESTROYED BY THE GOVERNMENT UNDER THE JP MORGANS INSTRUCTIONS. THE COPS AND JP MORGAN HAVE RAIDED THE APARTMENT, DESTROYED EVERYTHING AND LEFT TESLA GRIEVING FOR HE KNOWS HE WILL NEVER BE ABLE TO SUCCEED WITH FREE ENERGY.
 
 * **9 TESLA, WHISPER:** The present is theirs; the future, for which I really worked, is mine. 
+* **10 CAP:** The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
 
 | REFERENCES |
 | -- |
 | [Images of Nicola Teslas Inventions](http://www.teslasociety.com/tesla_tower.htm) |
+| [Letter from Nikola Tesla to J. P. Morgan, Jr., 10 January 1916](http://www.themorgan.org/collection/archives/item/letter-from-nikola-tesla#) | 
+
+
+Meanwhile, almost 40 years later, Alan Turing was prosecuted in 1952 for homosexual acts, when such behaviour was still a criminal act in the UK. He accepted treatment with DES (chemical castration) as an alternative to prison. Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. An inquest determined his death as suicide, but it has been noted that the known evidence is equally consistent with accidental poisoning.[8] In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted him a posthumous pardon in 2013.[9][10][11]
+
+---
+** THE NODE CHRONICLES: ** Page 2: The History of ECE
+
+
+> **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
+
+* **1 CAP:** If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.
 
 
 ## The Forefathers of ECE
