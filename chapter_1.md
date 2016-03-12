@@ -10,6 +10,12 @@ CHAPTER 1
 * Educational Applications - expiraments, GPIO, microcontroller, coding for all, accessibility
 * Global world problem solving applications - explore the fields this touches - the interesting work being done world wide with these devices - profile
 
+---
+** CHAPTER 1: ** Page 1: TBD
+
+> **PANEL ONE** - TBD
+
+* **Non:** Dude, have you seen the new PI 3?
 
 
 ## Intro to PI Hardware - PI 1, 2, 3 and ZERO
@@ -18,12 +24,10 @@ CHAPTER 1
 > PI 3 Quad Core 1.2 GHZ - half the speed of a new laptop
 
 
-### SCREENPLAY
-
 ---
+** CHAPTER 1: ** Page 2: TBD
 
-
-> Location of Non + Gou and their physical interaction screenplay - tbd
+> **PANEL ONE** - TBD
 
 * **Non:** Dude, have you seen the new PI 3?
 
