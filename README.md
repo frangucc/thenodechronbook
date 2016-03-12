@@ -37,19 +37,29 @@ TBD - FRANCHINO
 
 | Objectives of Opening Words |
 | -- |
-| Explain the Field of ECE |
-| Show examples of what's possible |
-| Explain how the book is going to work |
+| Take reader to the very beginning of modern electricity and alternating currents |
+| Explain the Field of ECE as it exists today |
+| Show examples of what's possible when you master this field |
+| Explain or demonstrate how the book is going to work |
 
 ---
-**PAGE ONE**
+** THE NODE CHRONICLES: ** Page 1: The History of ECE
 
 
-> **PANEL ONE** as a child, GOU....
+> **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
-**GOU:**      Dialogue TBD
+* 
+**1 CAP:** Dialogue TBD
+
+> **PANEL TWO** - PULL BACK FURTHER TO SHOW NICOLA TESLAS FACE, WIDE EYEED AS HE JUST WITNESSES WIRELESS ELECTRICITY WORKING FOR THE FIRST TIME
 
 
+* 
+**2 CAP:** ...I can't believe it...
+* 
+**3 CAP:** ...it works...
+*
+**4 CAP** ...
 
 
 ## The Forefathers of ECE
