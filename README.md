@@ -43,14 +43,14 @@ TBD - FRANCHINO
 | Explain or demonstrate how the book is going to work |
 
 ---
-** THE NODE CHRONICLES: ** Page 1: The creator of alternating current, Nicola Tesla, is destroyed.
+** THE NODE CHRONICLES: ** Page 1: Nicola Tesla, creator of the alternating current is muscled and destroyed.
 
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
 * **1 CAP:** If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.
 
-> **PANEL TWO** - PULL BACK FURTHER TO SHOW NICOLA TESLAS FACE, WIDE EYED AS HE JUST WITNESSES WIRELESS ELECTRICITY WORKING FOR THE FIRST TIME
+> **PANEL TWO** - PULL BACK FURTHER TO SHOW NICOLA TESLAS FACE, WIDE EYED AS HE JUST WITNESSES WIRELESS ELECTRICITY WORKING FOR THE FIRST TIME.
 
 * **2 TESLA:** ...free energy...
 * **3 TESLA:** ...it works...
@@ -82,16 +82,47 @@ TBD - FRANCHINO
 | [Images of Nicola Teslas Inventions](http://www.teslasociety.com/tesla_tower.htm) |
 | [Letter from Nikola Tesla to J. P. Morgan, Jr., 10 January 1916](http://www.themorgan.org/collection/archives/item/letter-from-nikola-tesla#) | 
 
+---
+**Segway to the second page:**
 
-Meanwhile, almost 40 years later, Alan Turing was prosecuted in 1952 for homosexual acts, when such behaviour was still a criminal act in the UK. He accepted treatment with DES (chemical castration) as an alternative to prison. Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. An inquest determined his death as suicide, but it has been noted that the known evidence is equally consistent with accidental poisoning.[8] In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted him a posthumous pardon in 2013.[9][10][11]
+Meanwhile, almost 40 years later, Alan Turing was prosecuted in 1952 for homosexual acts, when such behaviour was still ****a criminal act in the UK. He accepted treatment with DES (chemical castration) as an alternative to prison. 
+
+Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. An inquest determined his death as suicide, but it has been noted that the known evidence is equally consistent with accidental poisoning.
+
+In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted him a posthumous pardon in 2013.
 
 ---
-** THE NODE CHRONICLES: ** Page 2: The History of ECE
+** THE NODE CHRONICLES: ** Page 2: Alan Turing, creator of the Turing Machine (the modern computer) is castrated and poisoned for being gay.
 
 
-> **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
+> **PANEL ONE** - ALAN TURING IS BEING ABUSED IN AN INSANE ASYLUM, HE IS WEARING A STRAIGHT JACKED AND BEING TAKEN TO THE PLACE WHERE HIS BALLS WILL BE CASTRATED. He IS SEEN THROUGH THE SMALL FACE PANEL OF THE DOOR FOR THE INSANE ASYLUM HE IS IN.
 
-* **1 CAP:** If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.
+* **1 CAP:** We are not interested in the fact that the brain has the consistency of cold porridge.
+
+* **2 WARDENS ASSISTANT:** Let's go Alan, it's your turn.
+
+> **PANEL TWO** - THE WARDENS ASSISTANT RIPS THE MASK OFF HIS FACE.
+
+* **3 ALAN:** No, please, you don't understand.
+
+> **PANEL THREE** - A CLOSE UP OF THE WARDENS FACE AS HE SENTENCES ALAN TO HIS CASTRATION.
+
+* **4 WARDEN:** It's quite the shame. Inventor of the computer, a queer.
+
+> **PANEL FOUR** - A CLOSE UP ALAN TURINGS SWEET FACE. HE IS A NICE MAN, NEVER HURT ANYONE. HE IS FRIGHTENED AND HAS BEEN TREATED LIKE AN ANIMAL.
+
+* **5 ALAN:** I'm a human being, you can't do this to me!!!
+
+> **PANEL FIVE** - ALAN IS DRAGGED AWAY PAST MULTIPLE INSANE PEOPLE ON THE FLOORS, CHAINED TO WALLS LIKE CAGED ANIMALS. HE IS TAKEN TO BE CASTRATED.
+
+* **6 ALAN:** Please, don't do this to me. It's not my fault!
+
+* **7 CAP:** We can only see a short distance ahead, but we can see plenty there that needs to be done.
+
+| REFERENCES |
+| -- |
+| [ALAN TURING MOVIE SCENE](http://cdn.thedailybeast.com/content/dailybeast/articles/2014/11/29/the-castration-of-alan-turing-britain-s-code-breaking-wwii-hero/jcr:content/image.img.2000.jpg/1417261521198.cached.jpg) |
+
 
 
 ## The Forefathers of ECE
