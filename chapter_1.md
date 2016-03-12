@@ -1,3 +1,4 @@
+CHAPTER 1
 #  The Raspberry PI 101 - Title TBD
 
 > Introducing the CC sized computer revolution and its amazing applications - insert quote here
