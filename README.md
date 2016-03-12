@@ -12,6 +12,24 @@ Here's what I'd like for you to do for me:
 
 Tell me a story. 
 
+**CHAPTER DETAILS**
+
+TBD - FRANCHINO
+
+| PAGES |
+| -- |
+| SPLASH PAGE | See Below |
+| PAGE 1 | See Below |
+| PAGE 2 | See Below |
+| PAGE 3 | See Below |
+
+&nbsp;
+
+| CREDITS |
+| -- | -- |
+| Writer | Franchino |
+| Artist | Colbert |
+
 
 ##### FIRST SPLASH PAGE
 
@@ -19,14 +37,6 @@ Tell me a story.
 
 Outline of the PI board acts as the surrounding frame of the illustration where the world is becoming of age and only the strong are left standing.
 
-**SPECIFIC SCENE DETAILS**
-
-TBD - FRANCHINO
-
-| CREDITS |
-| -- | -- |
-| Writer | Franchino |
-| Artist | Colbert |
 
 ---
 
@@ -44,6 +54,7 @@ TBD - FRANCHINO
 
 ---
 
+THE INTRODUCTION
 ## The Forefathers of ECE
 
 ** THE NODE CHRONICLES: ** Page 1: Nicola Tesla, creator of the alternating current is muscled and destroyed.
