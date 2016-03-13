@@ -108,7 +108,7 @@ Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. A
 In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted him a posthumous pardon in 2013.
 
 ---
-**PAGE 3**
+PAGE 3
 
 ** THE NODE CHRONICLES INTRO: **  Alan Turing, creator of the Turing Machine (the modern computer) is castrated and poisoned for being gay.
 
