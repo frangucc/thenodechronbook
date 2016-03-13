@@ -62,12 +62,44 @@ CHAPTER 1
 
 | Benchmarking Tools |
 | -- |
-| Nbench |
+| Nbench  |
 | Sysbench |
 | Octane |
 | Sunspider |
 | [https://learn.adafruit.com/introducing-the-raspberry-pi-2-model-b/performance-improvements ](https://learn.adafruit.com/introducing-the-raspberry-pi-2-model-b/performance-improvements )|
 
+NBENCH TEST RESULT EXAMPLE
+
+```
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+NUMERIC SORT        :          444.24  :      11.39  :       3.74
+STRING SORT         :          36.251  :      16.20  :       2.51
+BITFIELD            :      1.2604e+08  :      21.62  :       4.52
+FP EMULATION        :          69.824  :      33.50  :       7.73
+FOURIER             :          4728.6  :       5.38  :       3.02
+ASSIGNMENT          :          6.7648  :      25.74  :       6.68
+IDEA                :          1297.9  :      19.85  :       5.89
+HUFFMAN             :           654.5  :      18.15  :       5.80
+NEURAL NET          :          6.2233  :      10.00  :       4.21
+LU DECOMPOSITION    :          228.32  :      11.83  :       8.54
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 19.909
+FLOATING-POINT INDEX: 8.599
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : 4 CPU ARMv7 Processor rev 5 (v7l)
+L2 Cache            :
+OS                  : Linux 3.18.5-v7+
+C compiler          : gcc version 4.6.3 (Debian 4.6.3-14+rpi1)
+libc                : libc-2.13.so
+MEMORY INDEX        : 4.228
+INTEGER INDEX       : 5.607
+FLOATING-POINT INDEX: 4.769
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+
+```
 
 ## Graphics
 
