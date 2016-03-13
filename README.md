@@ -30,8 +30,9 @@ TBD - FRANCHINO
 | Writer | Franchino |
 | Artist | Colbert |
 
+PAGE 1
 
-##### FIRST SPLASH PAGE
+**FIRST SPLASH PAGE**
 
 > Talk is cheap in the 21st century. You either got what it takes or you don't. Only the skilled will survive.
 
@@ -54,10 +55,12 @@ Outline of the PI board acts as the surrounding frame of the illustration where 
 
 ---
 
-THE INTRODUCTION
+THE INTRODUCTION CHAPTER
 ## The Forefathers of ECE
 
-** THE NODE CHRONICLES INTRO: ** Page 1: Nicola Tesla, creator of the alternating current is muscled and destroyed.
+PAGE 2
+
+** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed.
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
@@ -96,7 +99,7 @@ THE INTRODUCTION
 | [Letter from Nikola Tesla to J. P. Morgan, Jr., 10 January 1916](http://www.themorgan.org/collection/archives/item/letter-from-nikola-tesla#) | 
 
 ---
-**Segway to the second page:**
+**Segway to the Alan Turing section:**
 
 Meanwhile, almost 40 years later, Alan Turing was prosecuted in 1952 for homosexual acts, when such behaviour was still ****a criminal act in the UK. He accepted treatment with DES (chemical castration) as an alternative to prison. 
 
@@ -105,7 +108,9 @@ Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. A
 In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted him a posthumous pardon in 2013.
 
 ---
-** THE NODE CHRONICLES INTRO: ** Page 2: Alan Turing, creator of the Turing Machine (the modern computer) is castrated and poisoned for being gay.
+**PAGE 3**
+
+** THE NODE CHRONICLES INTRO: **  Alan Turing, creator of the Turing Machine (the modern computer) is castrated and poisoned for being gay.
 
 
 > **PANEL ONE** - ALAN TURING IS BEING ABUSED IN AN INSANE ASYLUM, HE IS WEARING A STRAIGHT JACKED AND BEING TAKEN TO THE PLACE WHERE HIS BALLS WILL BE CASTRATED. He IS SEEN THROUGH THE SMALL FACE PANEL OF THE DOOR FOR THE INSANE ASYLUM HE IS IN.
