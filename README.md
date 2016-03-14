@@ -198,51 +198,99 @@ PAGE 6, 7, 8, 9
 
 ** THE NODE CHRONICLES INTRO: ** Gou and his brother Nōn are having a mixed conversation in their secret basement headqaurters about their father, hacking and some of the cool stuff Gou's been setting up around the house. You get a sense for what sorts of projects Gou's working on and his relationship with his father and siblings.
 
+
+
+---
+
+> **NOTE TO ARTIST** Please review the next part of the script and let's together decide home many pages and panels it should span. For example, perhaps the first panel is a full page, a closeup of Gou's face and what he's working on.
+
+---
+
+
+
+
+PAGE 7
+
+> **PANEL ONE** - GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. IF IT WORKS, HE'LL MAKE A TON OF MONEY MINING FOR BITCOIN. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES WITH RODIN COILS. WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT. HE'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND THE INTERNAL WIRING OF THE POWER SOURCE AS HE SNIPS THE TWO WIRES CONNECTING THE EXISTING COPPER COIL TO THE BASE OF THE BATTERY. SEE REFERENCE MATERIALS BELOW FOR IMAGES OF THE INSIDE OF A POWER SOURCE AND A RODIN COIL.
+
 * **1 CAP:** Swarn to be a normal boy and not to get caught up in computers and technology, Gou Sokyeo taught himself the art of electrical computer engineering against his fathers wishes. 
 
-> **PANEL ONE** - GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES INTO ULTRA EFFICIENT POWER SOURCES BY REPLACING THEIR STANDARD COPPER COILS WITH RODIN COILS. WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT.
+PAGE 8
+
+> **PANEL ONE** - FIRST EVER LOOK AT NON, GOU'S BROTHER. HE'S BOUNCING A MINI SOCCER BALL OFF THE WALL BESIDE GOU, POSSIBLY SITTING IN A CHAIR HE'S TIPPING BACK. 
 
 * **2 Nōn:** What's dad so against technology anyhow? And why are you salvaging these old coils? 
 
+> **PANEL TWO** - GOU RESPONDS TO NON WITHOUT ALLOWING HIMSELF TO BE DISTRACTED. AS HE WORKS ON CLIPPING OUT THE CURRENT COPPER COIL FROM THE POWER SUPPLY, HE RESPONDS TO NON VERY CASUALLY, AS IF BARELY PAYING ATTENTION TO WHAT NON HAS TO SAY.
+
 * **3 Gou** I dunno. I think he doesn't want me to grow up to fast... that and I think something happened to him in the field just before he went on his sabbatical. And I'm replacing the coils with Rodin coils. Trying something...
 
+> **PANEL FOUR** - NON STOPS BOUNCING THE BALL AS IF HE'S INTENTIONALLY LEFT IT ROLL AWAY AS HE FACES GOU. HE LOOKS CONCERNED AND NERVOUS FOR GOU AS HE TRIES TO WARM HIM. BUT GOU DOESN'T SEEM TO BE QUITE AS CONCERNED.
+
 * **4 Nōn** You know if he catches you down here with all this stuff he's gonna kill you.
+
+> **PANEL FIVE** - INTENTIONALLY BLANK
 
 * **5 Gou** I got eyes and ears on him all the time. You see this sonar sensor? If he even comes near the basement door upstairs I'll know. 
 
 * **6 CAP** Disguised as a normal thirteen year old boy, he is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
 
+> **PANEL SIX** - INTENTIONALLY BLANK
+
 * **7 Nōn** The guys a couch potatoe.
+
+> **PANEL SEVEN** - INTENTIONALLY BLANK
 
 * **8 Gou** You know Vero said he wasn't always a bum, and that one day he completely changed, almost as if he gave up on life.
 
-* **9 Nōn** Where's Lilu? 
+PAGE 9
 
-* **10 Gou** She's out flying the drone I built her. Check it out, I can see whatever the drone sees. 
+* **1 Nōn** Where's Lilu? 
 
-* **11 Nōn** That's fricking crazy! You did that with the PI zero? 
+* **2 Gou** She's out flying the drone I built her. Check it out, I can see whatever the drone sees. 
 
-* **12 Gou** Yep.
+* **3 CAP** TBD
 
-* **13 Nōn** How are you transmitting the footage? 
+* **4 Nōn** That's fricking crazy! You did that with the PI zero? 
 
-* **14 Gou** Using a Particle Electron, they sent me one to test. It's got a Ublox chip that gives me 3G access. Pretty much works anywhere a phone works. 
+* **5 Gou** Yep.
 
-* **15 Nōn** Dope. You gonna use that for the near space weather balloon project? 
+* **6 Nōn** How are you transmitting the footage? 
 
-* **16 Gou** Pier 19 baby. Disrupt. Still need to figure out how to insulate everything. It get's pretty cold up there. 
+* **7 Gou** Using a Particle Electron, they sent me one to test. It's got a Ublox chip that gives me 3G access. Pretty much works anywhere a phone works. 
 
-* **17 Nōn** You're crazy. You're gonna get in serious trouble. 
+* **8 CAP** TBD
+
+* **9 Nōn** Dope. You gonna use that for the near space weather balloon project? 
+
+* **10 Gou** Pier 19 baby. Disrupt. Still need to figure out how to insulate everything. It get's pretty cold up there. 
+
+* **11 Nōn** You're crazy. You're gonna get in serious trouble. 
+
+* **12 CAP** TBD
+
+PAGE 10
 
 * **SOUND** Blip. Blip Bleep. 
 
-* **18 Gou** Crap someones coming. Jinx, open terminal. Jinx, turn on camera eight.
+* **1 Gou** Crap someones coming. Jinx, open terminal. Jinx, turn on camera eight.
 
-* **19 Gou** Ugh it's Lilu. Nevermind. Go get her and bring her upstairs, tell her I'll look at the drone in a bit to go do something else.
+* **2 Gou** Ugh it's Lilu. Nevermind. Go get her and bring her upstairs, tell her I'll look at the drone in a bit to go do something else.
 
-* **17 Nōn** What do I look like? 
+* **3 CAP** TBD
 
-* **18 Nōn** Fine... I'll do it, but you owe me. We're playing soccer later. For an hour.
+* **4 Nōn** What do I look like? 
+
+* **5 Nōn** Fine... I'll do it, but you owe me. We're playing soccer later. For an hour.
+
+* **6 CAP** TBD
+
+| REFERENCE MATERIALS |
+| -- |
+| [Some basement inspiration](https://problemspaces.slack.com/archives/artists_and_animators/p1453769635000006) |
+| [Previous bluelines of Gou working on old Power Supplies](https://problemspaces.slack.com/files/asrigallarts/F0KETA1EE/pasted_image_at_2016_01_26_02_34_pm.png) |
+| [Coil Extraction Sketch](https://problemspaces.slack.com/files/franchino/F0KJS67KM/slack_for_ios_upload.jpg) |
+| [A photo of an actual power supply's guts](https://problemspaces.slack.com/files/franchino/F0KC6BC1E/slack_for_ios_upload.jpg) |
 
 
 ---
