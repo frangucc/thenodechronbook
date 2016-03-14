@@ -34,9 +34,11 @@ PAGE 1
 
 **FIRST SPLASH PAGE**
 
+This is still a work in progress - splash page should act as a second cover for the journey ahead. 
+
 > Talk is cheap in the 21st century. You either got what it takes or you don't. Only the skilled will survive.
 
-Outline of the PI board acts as the surrounding frame of the illustration where the world is becoming of age and only the strong are left standing.
+**IDEA #1: **Outline of the PI board acts as the surrounding frame of the illustration where the world is becoming of age and only the strong are left standing.
 
 
 ---
@@ -58,7 +60,7 @@ Outline of the PI board acts as the surrounding frame of the illustration where 
 THE INTRODUCTION CHAPTER
 ## The Forefathers of ECE
 
-PAGE 2
+PAGE 2 & 3
 
 ** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed.
 
@@ -94,7 +96,6 @@ PAGE 2
 * **10 CAP:** The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence. 
 
 CURRENT BLUE LINES
-
 ![](NC_02_72.jpg)
 
 
@@ -113,7 +114,7 @@ Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. A
 In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted him a posthumous pardon in 2013.
 
 ---
-PAGE 3
+PAGE 4 & 5
 
 ** THE NODE CHRONICLES INTRO: **  Alan Turing, creator of the Turing Machine (the modern computer) is castrated and poisoned for being gay.
 
