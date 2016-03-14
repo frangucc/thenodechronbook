@@ -194,14 +194,55 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 PRESENT DAY
 
-** THE NODE CHRONICLES INTRO: ** Page 3: Gou and his brother Nōn are having a conversation in Gou's bedroom about hacking.
+PAGE 6, 7, 8, 9
 
-> **PANEL ONE** - GOU IS FIXATED ON SOMETHING HE IS WORKING ON. TBD
+** THE NODE CHRONICLES INTRO: ** Gou and his brother Nōn are having a mixed conversation in their secret basement headqaurters about their father, hacking and some of the cool stuff Gou's been setting up around the house. You get a sense for what sorts of projects Gou's working on and his relationship with his father and siblings.
 
-* **1 CAP:** Swarn never to mess with computers and technology, Gou Sokyeo taught himself against his fathers wishes. Disguised as a normal thirteen year old boy, he is one of most elite ECE hackers in the world. Living in a world of mass confusion, he prowls the field of technology discovering new ways to improve life as we know it.
+* **1 CAP:** Swarn to be a normal boy and not to get caught up in computers and technology, Gou Sokyeo taught himself the art of electrical computer engineering against his fathers wishes. 
 
-* **2 Nōn:** TBD
+> **PANEL ONE** - GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES INTO ULTRA EFFICIENT POWER SOURCES BY REPLACING THEIR STANDARD COPPER COILS WITH RODIN COILS. WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT.
 
+* **2 Nōn:** What's dad so against technology anyhow? And why are you salvaging these old coils? 
+
+* **3 Gou** I dunno. I think he doesn't want me to grow up to fast... that and I think something happened to him in the field just before he went on his sabbatical. And I'm replacing the coils with Rodin coils. Trying something...
+
+* **4 Nōn** You know if he catches you down here with all this stuff he's gonna kill you.
+
+* **5 Gou** I got eyes and ears on him all the time. You see this sonar sensor? If he even comes near the basement door upstairs I'll know. 
+
+* **6 CAP** Disguised as a normal thirteen year old boy, he is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
+
+* **7 Nōn** The guys a couch potatoe.
+
+* **8 Gou** You know Vero said he wasn't always a bum, and that one day he completely changed, almost as if he gave up on life.
+
+* **9 Nōn** Where's Lilu? 
+
+* **10 Gou** She's out flying the drone I built her. Check it out, I can see whatever the drone sees. 
+
+* **11 Nōn** That's fricking crazy! You did that with the PI zero? 
+
+* **12 Gou** Yep.
+
+* **13 Nōn** How are you transmitting the footage? 
+
+* **14 Gou** Using a Particle Electron, they sent me one to test. It's got a Ublox chip that gives me 3G access. Pretty much works anywhere a phone works. 
+
+* **15 Nōn** Dope. You gonna use that for the near space weather balloon project? 
+
+* **16 Gou** Pier 19 baby. Disrupt. Still need to figure out how to insulate everything. It get's pretty cold up there. 
+
+* **17 Nōn** You're crazy. You're gonna get in serious trouble. 
+
+* **SOUND** Blip. Blip Bleep. 
+
+* **18 Gou** Crap someones coming. Jinx, open terminal. Jinx, turn on camera eight.
+
+* **19 Gou** Ugh it's Lilu. Nevermind. Go get her and bring her upstairs, tell her I'll look at the drone in a bit to go do something else.
+
+* **17 Nōn** What do I look like? 
+
+* **18 Nōn** Fine... I'll do it, but you owe me. We're playing soccer later. For an hour.
 
 
 ---
