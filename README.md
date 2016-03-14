@@ -202,7 +202,7 @@ PAGE 6, 7, 8, 9
 
 ---
 
-> **NOTE TO ARTIST** Please review the next part of the script and let's together decide home many pages and panels it should span. For example, perhaps the first panel is a full page, a closeup of Gou's face and what he's working on.
+> **NOTE TO ARTIST** The next set of pages and panels are loosley formatted - we may need an extra page or two or we may be able to combine some of these panels. Be sure to review and provide feedback before jumping into blueline this section.
 
 ---
 
