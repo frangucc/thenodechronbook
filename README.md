@@ -273,23 +273,32 @@ PAGE 9
 
 ![](https://pbs.twimg.com/media/Cdh4GDSUMAApZAt.jpg)
 
-> **PANEL THREE** - TBD, LILU FLYING THE DRONE GOU MADE OUTSIDE.
+> **PANEL THREE** - LILU FLYING THE DRONE GOU MADE OUTSIDE. TBD WIP...
+
+![](https://hackster.imgix.net/uploads/image/file/111261/IMG_20160113_180144.jpg?w=580&h=435&fit=max&fm=jpg)
 
 * **3 Gou** She's out flying the drone I built her. Check it out, I can see whatever the drone sees. 
 
 * **4 CAP** TBD
 
-> **PANEL FOUR** - TBD
+> **PANEL FOUR** - GOU PULLS UP THE VIDEO OF LILU'S DRONES CAMERAS POINT OF VIEW AS IT HOVERS OVER THE EDGE OF THE GARFIELD PARK CONSERVATORY WHICH IS PRACTICALLY CONNECTED TO THEIR BACK YARD. THEY TUNE IN AND WATCH THE VIDEO STREAMING FROM THE DRONE ON ONE OF GOU'S MANY COMPUTER SCREENS. NON HOVERS OVER HIS SHOULDER TO TAKE A PEEK AND IS IMPRESSED, BUT NOT ASTONISHED. NON'S USED TO HIS BROTHER DOING STUFF LIKE THIS. GOU SOMETIMES MAKES NON NERVOUS BECAUSE HE KNOWS HOW MUCH TROUBLE THEY'LL GET INTO IF THEIR FATHER FINDS OUT THEIR MESSING WITH ALL THIS STUFF.
 
 * **5 Nōn** That's fricking crazy! You did that with the PI zero? 
 
-* **6 Gou** Yep.
+![](http://www.modmypi.com/image/cache/data/rpi-products/raspberry-pi-zero/DSC_0155-800x609.jpg)
 
-> **PANEL FIVE** - TBD
+
+> **PANEL FIVE** - NON AWAITS GOUS ANSWER AS GOU FINISHES HIS GLANCE AT THE COMPUTER SCREENS. HE IS SIMULTANIOUSLY HACKING ON HIS PROJECT WHILE TRYING TO MAINTAIN THE CONVERSATION WITH NON. NON IS ONE OF THE FEW PEOPLE HE WILL ACTUALLY ANSWER QUESTIONS FOR.
+
+* **6 Gou** Yep. Two actually, one in the drone and one in the XBOX remote I hacked.
+
+![](https://shkspr.mobi/blog/wp-content/uploads/2015/11/11-Xbox-Pi-Zero-all-wired-up.jpg)
 
 * **7 Nōn** How are you transmitting the footage? 
 
-> **PANEL SIX** - TBD
+> **PANEL SIX** - GOU HOLDS UP A PARTICLE ELECTRON BOARD
+
+![](https://cdn.shopify.com/s/files/1/0925/6626/products/150803_Particle-27_large.jpg?v=1446682968)
 
 * **8 Gou** Using a Particle Electron, they sent me one to test. It's got a Ublox chip that gives me 3G access. Pretty much works anywhere a phone works. 
 
@@ -352,6 +361,7 @@ ADDITIONAL INTRODUCTION RESEARCH
 * RASP PI CREATOR
 * 5 more people
 
+![](https://pbs.twimg.com/media/Cdh9YvhUMAAv2kL.jpg:large)
 
 > One of the not-so-obvious side benefits of the miniaturization of electronics is that folks far removed from the realm of electronic engineering become comfortable with small electronic devices and think, “Wouldn’t it be neat if I had a [gizmo] that did…?” Back when computers were called “workstations” their inner workings seemed mysterious, complex, and expensive, and few consumers thought about how they could exploit the computational power. But now that the equivalent of a workstation fits into a hand-sized smartphone complete with a rechargeable power source and a high-definition screen,  software creation is appealing to a non-technical audience. There’s an app for seemingly everything, and even 10-year olds are creating them.
 
