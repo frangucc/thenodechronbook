@@ -64,6 +64,8 @@ PAGE 2 & 3
 
 ** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
 
+![](IMG_4232.JPG)
+
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
 * **1 CAP:** If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.
@@ -198,7 +200,7 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 PRESENT DAY
 
-PAGE 6, 7, 8, 9
+PAGE 6, 7, 8, 9, 10
 
 ** THE NODE CHRONICLES INTRO: ** Gou and his brother Nōn are having a mixed conversation in their secret basement headqaurters about their father, hacking and some of the cool stuff Gou's been setting up around the house. You get a sense for what sorts of projects Gou's working on and his relationship with his father and siblings.
 
@@ -226,11 +228,15 @@ PAGE 7
 
 * **1 CAP:** Swarn to be a normal boy and not to get caught up in computers and technology, Gou Sokyeo taught himself the art of electrical computer engineering against his fathers wishes. 
 
+![](https://pbs.twimg.com/media/Cdh34XLUsAEUtKo.jpg)
+
 PAGE 8
 
 > **PANEL ONE** - FIRST EVER LOOK AT NON, GOU'S BROTHER. HE'S BOUNCING A MINI SOCCER BALL OFF THE WALL BESIDE GOU, POSSIBLY SITTING IN A CHAIR HE'S TIPPING BACK. 
 
 * **2 Nōn:** What's dad so against technology anyhow? And why are you salvaging these old coils? 
+
+![](https://pbs.twimg.com/media/Ccluhu_XIAAcV29.jpg:large)
 
 > **PANEL TWO** - GOU RESPONDS TO NON WITHOUT ALLOWING HIMSELF TO BE DISTRACTED. AS HE WORKS ON CLIPPING OUT THE CURRENT COPPER COIL FROM THE POWER SUPPLY, HE RESPONDS TO NON VERY CASUALLY, AS IF BARELY PAYING ATTENTION TO WHAT NON HAS TO SAY. A CUTE KID, HE'S WEARING A SOCCER JERSEY AND IS CLEARLY MORE OF A JOCK.
 
@@ -259,11 +265,15 @@ PAGE 9
 
 * **1 Gou** You know Vero said he wasn't always a bum, and that one day he completely changed, almost as if he gave up on life.
 
-> **PANEL TWO** - TBD
+![](https://pbs.twimg.com/media/Cdh4YL3UsAQ4i-d.jpg)
+
+> **PANEL TWO** - NON HAS AN UH OH MOMENT WHEN HE REALIZES HE SHOULD BE LOOKING AFTER HIS YOUNGER SISTER LILU. THE BOYS QUICKLY FIND OUT EXACTLY WHAT SHE'S DOING.
 
 * **2 Nōn** Where's Lilu? 
 
-> **PANEL THREE** - TBD
+![](https://pbs.twimg.com/media/Cdh4GDSUMAApZAt.jpg)
+
+> **PANEL THREE** - TBD, LILU FLYING THE DRONE GOU MADE OUTSIDE.
 
 * **3 Gou** She's out flying the drone I built her. Check it out, I can see whatever the drone sees. 
 
