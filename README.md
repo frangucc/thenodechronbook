@@ -18,10 +18,10 @@ TBD - FRANCHINO
 
 | PAGES |
 | -- |
-| SPLASH PAGE | See Below |
-| PAGE 1 | See Below |
-| PAGE 2 | See Below |
-| PAGE 3 | See Below |
+| SPLASH PAGE | Undecided |
+| PAGE 2 & 3 | Tesla, Draft Complete |
+| PAGE 4 & 5 | Turing, Draft Complete |
+| PAGE 6-10 | Gou & Nōn Establishing Scene @ the Basement Headquarters |
 
 &nbsp;
 
@@ -34,11 +34,11 @@ PAGE 1
 
 **FIRST SPLASH PAGE**
 
-This is still a work in progress - splash page should act as a second cover for the journey ahead. 
+This is still a work in progress - splash page should act as a second cover for the journey ahead. The intro chapter covers 2 important historical figures and then cuts to modern day, Gou and Non at the BHQ (The Basement Headquarters).
 
 > Talk is cheap in the 21st century. You either got what it takes or you don't. Only the skilled will survive.
 
-**IDEA #1: **Outline of the PI board acts as the surrounding frame of the illustration where the world is becoming of age and only the strong are left standing.
+**IDEA #1: **Some collage of Tesla and the cops, the Warden and Turing and Non and Gou at the center of it all... Gou's father perhaps as well, who would appear to be their major antagonist, who later is revealed to be Gou's best resource and partner.
 
 
 ---
@@ -50,10 +50,10 @@ This is still a work in progress - splash page should act as a second cover for 
 
 | Objectives of Opening Words |
 | -- |
-| Take reader to the very beginning of modern electricity and alternating currents |
-| Explain the Field of ECE as it exists today |
-| Show examples of what's possible when you master this field |
-| Explain or demonstrate how the book is going to work |
+| Take reader to the very beginning of modern electricity and alternating currents, a brief history of ECE |
+| Explain the Field of ECE as it exists today, where we stand |
+| Show examples of what's possible when you master this field, show some really cool inventions early on |
+| Explain or demonstrate how the book is going to work, give a taste of the types of project, action and how a reader should behave or what they will do throughout the book. |
 
 ---
 
@@ -62,7 +62,7 @@ THE INTRODUCTION CHAPTER
 
 PAGE 2 & 3
 
-** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed.
+** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
@@ -81,18 +81,22 @@ PAGE 2 & 3
 
 * **5 POLICE:** Tesla, open the door, we know you're in there. You were told to cease and desist.
 
-* **SOUND:** CRAAAK--THUMPPPP
+* **SOUND:** KNOCK, KNOCK, KNOCK
 
 * **6 TESLA:** You're making a mistake. The world needs this. We will destroy our planet without it. 
 
 > **PANEL FIVE** - THE DOOR IS KICKED IN AS A CREW OF POLICE RUSH THE OLD APARTMENT WHERE TESLA HAS BEEN TESTING HIS FREE WIRELESS ENERGY SYSTEM. BEHIND THE POLICE OFFICERS STANDS A MAN IN THE SHADOWS WHO IS PRESUMED TO BE JP MORGAN JR, WHO IS CONTROLLING THE COPS. JP IS WEARING A LONG COAT, TOP HAT, CANE AND HAS A SHINY GOLD POCKET WATCH.
 
+* **SOUND:** CRAAAK--THUMPPPP
+
 * **7 JP MORGAN:** I got you're letter. Did you think you could undermine my family? 
+
 * **8 TESLA:** How could you, these are my ideas, electricity should be free, its not yours to control!
 
 > **PANEL SIX** - TESLA IS LEFT CRUSHED, HIS IDEAS, STOLEN AND CRUSHED, HE HAS BEEN DEFEATED. SEVERAL YEARS PRIOR HIS TOWERS WERE DESTROYED BY THE GOVERNMENT UNDER THE JP MORGANS INSTRUCTIONS. THE COPS AND JP MORGAN HAVE RAIDED THE APARTMENT, DESTROYED EVERYTHING AND LEFT TESLA GRIEVING FOR HE KNOWS HE WILL NEVER BE ABLE TO SUCCEED WITH FREE ENERGY.
 
 * **9 TESLA, WHISPER:** The present is theirs; the future, for which I really worked, is mine. 
+
 * **10 CAP:** The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence. 
 
 CURRENT BLUE LINES
