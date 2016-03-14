@@ -93,6 +93,11 @@ PAGE 2
 * **9 TESLA, WHISPER:** The present is theirs; the future, for which I really worked, is mine. 
 * **10 CAP:** The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence. 
 
+CURRENT BLUE LINES
+
+![](NC_02_72.jpg)
+
+
 | REFERENCES |
 | -- |
 | [Images of Nicola Teslas Inventions](http://www.teslasociety.com/tesla_tower.htm) |
