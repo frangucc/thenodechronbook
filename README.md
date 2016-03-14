@@ -202,7 +202,7 @@ PAGE 6, 7, 8, 9
 
 ---
 
-> **NOTE TO ARTIST** The next set of pages and panels are loosley formatted - we may need an extra page or two or we may be able to combine some of these panels. Be sure to review and provide feedback before jumping into blueline this section.
+> **NOTE TO ARTIST** The next set of pages and panels are loosley formatted - we may need an extra page or two or we may be able to combine some of these panels. Be sure to review and provide feedback before jumping into doing the bluelines for this section.
 
 ---
 
