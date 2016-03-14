@@ -206,12 +206,19 @@ PAGE 6, 7, 8, 9
 
 ---
 
+PAGE 6
 
+> **PANEL ONE** - THE FIRST OF A SERIES OF REVEALING SHOTS GOING FROM FAR TO NEAR, OF GOU AND NON IN THEIR HIGHLY SECRETIVE BASEMENT HEADQUARTERS, A SECTION OF THE BASEMENT HIDDEN BEHIND A SECRET WALL COVERED IN OLD BOXES AND JUNK. ONLY THE TWO BROTHERS AT THIS POINT KNOW ABOUT THIS PLACE. SEE REFERENCES OF WHAT THIS BASEMENT COULD LOOK LIKE BELOW.
 
+* **1 CAP:** TBD explain the location and significance of the basement headquarters of BHQ as Nōn somtimes puts it.
+
+> **PANEL TWO** - CLOSER TO THE BOYS...
+
+> **PANEL THREE** - CLOSER...
 
 PAGE 7
 
-> **PANEL ONE** - GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. IF IT WORKS, HE'LL MAKE A TON OF MONEY MINING FOR BITCOIN. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES WITH RODIN COILS. WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT. HE'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND THE INTERNAL WIRING OF THE POWER SOURCE AS HE SNIPS THE TWO WIRES CONNECTING THE EXISTING COPPER COIL TO THE BASE OF THE BATTERY. SEE REFERENCE MATERIALS BELOW FOR IMAGES OF THE INSIDE OF A POWER SOURCE AND A RODIN COIL.
+> **PANEL ONE** - FULL PAGE PANEL. GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. IF IT WORKS, HE'LL MAKE A TON OF MONEY MINING FOR BITCOIN. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES WITH RODIN COILS. WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT. HE'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND THE INTERNAL WIRING OF THE POWER SOURCE AS HE SNIPS THE TWO WIRES CONNECTING THE EXISTING COPPER COIL TO THE BASE OF THE BATTERY. SEE REFERENCE MATERIALS BELOW FOR IMAGES OF THE INSIDE OF A POWER SOURCE AND A RODIN COIL.
 
 * **1 CAP:** Swarn to be a normal boy and not to get caught up in computers and technology, Gou Sokyeo taught himself the art of electrical computer engineering against his fathers wishes. 
 
@@ -221,7 +228,7 @@ PAGE 8
 
 * **2 Nōn:** What's dad so against technology anyhow? And why are you salvaging these old coils? 
 
-> **PANEL TWO** - GOU RESPONDS TO NON WITHOUT ALLOWING HIMSELF TO BE DISTRACTED. AS HE WORKS ON CLIPPING OUT THE CURRENT COPPER COIL FROM THE POWER SUPPLY, HE RESPONDS TO NON VERY CASUALLY, AS IF BARELY PAYING ATTENTION TO WHAT NON HAS TO SAY.
+> **PANEL TWO** - GOU RESPONDS TO NON WITHOUT ALLOWING HIMSELF TO BE DISTRACTED. AS HE WORKS ON CLIPPING OUT THE CURRENT COPPER COIL FROM THE POWER SUPPLY, HE RESPONDS TO NON VERY CASUALLY, AS IF BARELY PAYING ATTENTION TO WHAT NON HAS TO SAY. A CUTE KID, HE'S WEARING A SOCCER JERSEY AND IS CLEARLY MORE OF A JOCK.
 
 * **3 Gou** I dunno. I think he doesn't want me to grow up to fast... that and I think something happened to him in the field just before he went on his sabbatical. And I'm replacing the coils with Rodin coils. Trying something...
 
@@ -229,55 +236,77 @@ PAGE 8
 
 * **4 Nōn** You know if he catches you down here with all this stuff he's gonna kill you.
 
-> **PANEL FIVE** - INTENTIONALLY BLANK
+> **PANEL FIVE** - BALL ROLLS AWAY. 
+
+
+> **PANEL SIX** - GOU HOLDS UP THE HC-SRO4 SONAR SENSOR AND EXPLAINS TO NON THAT HE'S IMPLEMENTED HIS OWN SECURITY SYSTEM. 
 
 * **5 Gou** I got eyes and ears on him all the time. You see this sonar sensor? If he even comes near the basement door upstairs I'll know. 
 
 * **6 CAP** Disguised as a normal thirteen year old boy, he is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
 
-> **PANEL SIX** - INTENTIONALLY BLANK
+> **PANEL SEVEN** - INTENTIONALLY BLANK
 
 * **7 Nōn** The guys a couch potatoe.
 
-> **PANEL SEVEN** - INTENTIONALLY BLANK
-
-* **8 Gou** You know Vero said he wasn't always a bum, and that one day he completely changed, almost as if he gave up on life.
-
 PAGE 9
 
-* **1 Nōn** Where's Lilu? 
+> **PANEL ONE** - TBD
 
-* **2 Gou** She's out flying the drone I built her. Check it out, I can see whatever the drone sees. 
+* **1 Gou** You know Vero said he wasn't always a bum, and that one day he completely changed, almost as if he gave up on life.
 
-* **3 CAP** TBD
+> **PANEL TWO** - TBD
 
-* **4 Nōn** That's fricking crazy! You did that with the PI zero? 
+* **2 Nōn** Where's Lilu? 
 
-* **5 Gou** Yep.
+> **PANEL THREE** - TBD
 
-* **6 Nōn** How are you transmitting the footage? 
+* **3 Gou** She's out flying the drone I built her. Check it out, I can see whatever the drone sees. 
 
-* **7 Gou** Using a Particle Electron, they sent me one to test. It's got a Ublox chip that gives me 3G access. Pretty much works anywhere a phone works. 
+* **4 CAP** TBD
 
-* **8 CAP** TBD
+> **PANEL FOUR** - TBD
+
+* **5 Nōn** That's fricking crazy! You did that with the PI zero? 
+
+* **6 Gou** Yep.
+
+> **PANEL FIVE** - TBD
+
+* **7 Nōn** How are you transmitting the footage? 
+
+> **PANEL SIX** - TBD
+
+* **8 Gou** Using a Particle Electron, they sent me one to test. It's got a Ublox chip that gives me 3G access. Pretty much works anywhere a phone works. 
+
+* **9 CAP** TBD
 
 * **9 Nōn** Dope. You gonna use that for the near space weather balloon project? 
 
+> **PANEL SEVEN** - TBD
+
 * **10 Gou** Pier 19 baby. Disrupt. Still need to figure out how to insulate everything. It get's pretty cold up there. 
 
+> **PANEL EIGHT** - TBD
 * **11 Nōn** You're crazy. You're gonna get in serious trouble. 
 
 * **12 CAP** TBD
 
 PAGE 10
 
+> **PANEL ONE** - TBD
+
 * **SOUND** Blip. Blip Bleep. 
 
 * **1 Gou** Crap someones coming. Jinx, open terminal. Jinx, turn on camera eight.
 
+> **PANEL TWO** - TBD
+
 * **2 Gou** Ugh it's Lilu. Nevermind. Go get her and bring her upstairs, tell her I'll look at the drone in a bit to go do something else.
 
 * **3 CAP** TBD
+
+> **PANEL THREE** - TBD
 
 * **4 Nōn** What do I look like? 
 
