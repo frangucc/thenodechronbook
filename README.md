@@ -204,27 +204,36 @@ PAGE 6, 7, 8, 9, 10
 
 ** THE NODE CHRONICLES INTRO: ** Gou and his brother Nōn are having a mixed conversation in their secret basement headqaurters about their father, hacking and some of the cool stuff Gou's been setting up around the house. You get a sense for what sorts of projects Gou's working on and his relationship with his father and siblings.
 
+What's more interesting in this chapter is that there's clearly a struggle and pressure. Gou is hiding what he's doing from his father, who when first depicted in the book appears to be an angry man. Almost as if a reincarnation of Tesla, only meaner and more badass. In the first chapter, Gou is caught with one of his hacking devices and his father snaps and rages, much like JP Morgan Jr. does in the first scene. 
+
+While Tesla and Turing had to deal with much worse situations, it reminds us that even today, there is always conflict, there is always something or someone standing in your way. Gou's current conflict with his father (who somewhat even resembles Tesla) is a prelude to a much more dramatic situation towards the end of the book.
+
+Eventually, Gou's father teams up with Gou after snapping out of his funk. This happens once the antagonist role is passed off to the greedy vulture capitalist duo (Brad and Eric) who try and steal Gou's invention using lawyers, shady dealings and politics. Gou's father has no choice at this point to shave, shape up and get in gear and represent the ultimate father and sons family business, something many fathers would love to have and share with their sons.
 
 
 ---
 
-> **NOTE TO ARTIST** The next set of pages and panels are loosley formatted - we may need an extra page or two or we may be able to combine some of these panels. Be sure to review and provide feedback before jumping into doing the bluelines for this section.
+> **NOTE TO ARTIST** The next set of pages and panels are loosley formatted - we may need an extra page or two or we may be able to combine some of these panels. Be sure to review and provide feedback before jumping into doing the bluelines for this section. I'm still waiting on first round of feedback from Colbert.
 
 ---
 
 PAGE 6
 
-> **PANEL ONE** - THE FIRST OF A SERIES OF REVEALING SHOTS GOING FROM FAR TO NEAR, OF GOU AND NON IN THEIR HIGHLY SECRETIVE BASEMENT HEADQUARTERS, A SECTION OF THE BASEMENT HIDDEN BEHIND A SECRET WALL COVERED IN OLD BOXES AND JUNK. ONLY THE TWO BROTHERS AT THIS POINT KNOW ABOUT THIS PLACE. SEE REFERENCES OF WHAT THIS BASEMENT COULD LOOK LIKE BELOW.
+> **PANEL ONE** - THE FIRST OF A SERIES OF REVEALING SHOTS GOING FROM FAR TO NEAR OF GOU AND NON IN THEIR HIGHLY SECRETIVE BASEMENT HEADQUARTERS. BEHIND THE STAIRCASE AND AROUND THE BEND OF THE LARGE BASEMENT ROOM, A WALL FILLED WITH STORED STUFF EMERGES. DOZES OF HUGE BOXES STACKED TO THE CEILING REVEALSE GLIMSES OF LIGHT FROM THE CRACKS WHERE THE EDGES OF EACH BOX MEET, RESEMBLING THE OUTLINE OF A DOOR BEHIND THE BOXES. THE BOYS HAVE MASKED AN ENTIRE WALL WITH A DOOR AS IF THE BASEMENT ENDED RIGHT THERE (THE LIGHT IS ONLY ON BECAUSE THEY ARE IN THERE WORKING). WHEN THE CORRECT BOX IS MOVED, A HOLE LEADS TO A DOOR, WHICH ONCE ENTERED OPENS UP INTO GOU'S SECRET BASEMENT HEADQUARTERS (BHQ). IT'S HOW THEY GET IN AND OUT. ONLY THE TWO BROTHERS AT THIS POINT KNOW ABOUT THIS PLACE. SEE REFERENCES OF WHAT THIS BASEMENT COULD LOOK LIKE BELOW.
 
-* **1 CAP:** TBD explain the location and significance of the basement headquarters of BHQ as Nōn somtimes puts it.
+* **1 CAP:** Deep in the cool dark basement lies Gou's the secret headquarters, hidden behind thick cardboard boxes filled with the family's old and unused posessions. 
 
-> **PANEL TWO** - CLOSER TO THE BOYS...
+> **PANEL TWO** - CLOSER REVEAL OF THE TWO BOYS WORKING OUT OF GOU'S SECRET BASEMENT HIDEOUT HEADQUARTERS...
 
-> **PANEL THREE** - CLOSER...
+* **2 CAP:** Tis not without strife Gou secretly develops his innovations, for his father Chino does not want him to follow in his footsteps.
+
+> **PANEL THREE** - EVEN CLOSER... UNTIL WE GET RIGHT UP BEHIND THEM AND SEE WHAT GOU'S WORKSTATION AND SETUP LOOKS LIKE. OFF AND AROUND THE AREA ARE PALETS OF OLD PC'S COVERED IN TARPS AND STACKS OF OLD PC POWER SUPPLIES THAT GOU HAPPENS TO BE SALVAGING FOR SOME REASON. THE COMPUTER SCREENS HAVE GECKOBOARDS AND GOU IS CLEARLY MONITORING EVERYTING FROM LATEST BITCOIN STOCK PRICES TO SECURITY CAMERAS AROUND THE PROPERTY. YOU GET THE FEELING THAT IT'S THE START OF A CIA LIKE HEADQUARTER HACKER OPERATION AND THAT THERE IS A TON OF ROOM FOR EXPANSION.
+
+* **3 CAP:** It's not without strife Gou must develop his innovations, for his father Chino 
 
 PAGE 7
 
-> **PANEL ONE** - FULL PAGE PANEL. GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. IF IT WORKS, HE'LL MAKE A TON OF MONEY MINING FOR BITCOIN. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES WITH RODIN COILS. WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT. HE'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND THE INTERNAL WIRING OF THE POWER SOURCE AS HE SNIPS THE TWO WIRES CONNECTING THE EXISTING COPPER COIL TO THE BASE OF THE BATTERY. SEE REFERENCE MATERIALS BELOW FOR IMAGES OF THE INSIDE OF A POWER SOURCE AND A RODIN COIL.
+> **PANEL ONE** - FULL PAGE PANEL. GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. IF IT WORKS, HE'LL MAKE A TON OF MONEY MINING FOR BITCOIN. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES WITH RODIN COILS. WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT. HE'S FAILED SEVERAL TIMES OF IT AND RODIN COILS ARE CONTROVERSIAL IN THE FIRST PLACE, HOWEVER IF YOU LOOK THEM UP ON YOUTUBE, YOU WILL FIND HUNDREDS OF THOUSANDS OF EE'S EXPIRAMENTING WITH THEM. HE'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND THE INTERNAL WIRING OF THE POWER SOURCE AS HE SNIPS THE TWO WIRES CONNECTING THE EXISTING COPPER COIL TO THE BASE OF THE BATTERY. SEE REFERENCE MATERIALS BELOW FOR IMAGES OF THE INSIDE OF A POWER SOURCE AND A RODIN COIL.
 
 * **1 CAP:** Swarn to be a normal boy and not to get caught up in computers and technology, Gou Sokyeo taught himself the art of electrical computer engineering against his fathers wishes. 
 
@@ -232,26 +241,31 @@ PAGE 7
 
 PAGE 8
 
-> **PANEL ONE** - FIRST EVER LOOK AT NON, GOU'S BROTHER. HE'S BOUNCING A MINI SOCCER BALL OFF THE WALL BESIDE GOU, POSSIBLY SITTING IN A CHAIR HE'S TIPPING BACK. 
+> **PANEL ONE** - FIRST EVER LOOK AT NON, GOU'S BROTHER. HE'S BOUNCING A MINI SOCCER BALL (SIZE 1 FUTSAL BALL) OFF THE WALL BESIDE GOU, POSSIBLY SITTING IN A CHAIR HE'S TIPPING BACK. NEXT TO HIM IS ARE SEVERAL STACKS OF OLD POWER SUPPLIES THAT HAVE BEEN RIPPED OUT OF A BUNCH OF OLD PCS. THE PCS ARE IN ANOTHER HUGE PILE, COVERED UP BY A TARP, JUST IN CASE.
 
-* **2 Nōn:** What's dad so against technology anyhow? And why are you salvaging these old coils? 
+* **2 Nōn:** What's dad got against technology anyhow? And why are you salvaging old PC power sources? 
 
 ![](https://pbs.twimg.com/media/Ccluhu_XIAAcV29.jpg:large)
 
-> **PANEL TWO** - GOU RESPONDS TO NON WITHOUT ALLOWING HIMSELF TO BE DISTRACTED. AS HE WORKS ON CLIPPING OUT THE CURRENT COPPER COIL FROM THE POWER SUPPLY, HE RESPONDS TO NON VERY CASUALLY, AS IF BARELY PAYING ATTENTION TO WHAT NON HAS TO SAY. A CUTE KID, HE'S WEARING A SOCCER JERSEY AND IS CLEARLY MORE OF A JOCK.
+> **PANEL TWO** - GOU RESPONDS TO NON WITHOUT ALLOWING HIMSELF TO BE DISTRACTED AS HE WORKS ON CLIPPING OUT THE CURRENT COPPER COIL FROM THE POWER SUPPLY WITH A WIRE CUTTING PLIERS. HE RESPONDS TO NON VERY CASUALLY, AS IF BARELY PAYING ATTENTION TO WHAT NON HAS TO SAY. NON IS WEARING A SOCCER JERSEY AND IS CLEARLY MORE OF A JOCK, WHILE GOU IS DRESSED IN HIS BASEMENT HACKER OUTFIT (SEE CHAPTER WARDROBE NOTES BELOWS)
 
-* **3 Gou** I dunno. I think he doesn't want me to grow up to fast... that and I think something happened to him in the field just before he went on his sabbatical. And I'm replacing the coils with Rodin coils. Trying something...
+* **3 Gou** I dunno. I think he doesn't want us to grow up to fast... that and I think something happened to him in the industry just before he went on his sabbatical. And I'm replacing the coils with Rodin Coils. Testing something...
 
-> **PANEL FOUR** - NON STOPS BOUNCING THE BALL AS IF HE'S INTENTIONALLY LEFT IT ROLL AWAY AS HE FACES GOU. HE LOOKS CONCERNED AND NERVOUS FOR GOU AS HE TRIES TO WARM HIM. BUT GOU DOESN'T SEEM TO BE QUITE AS CONCERNED.
+> **PANEL FOUR** - NON STOPS BOUNCING THE BALL AS IF HE'S INTENTIONALLY LEFT IT ROLL AWAY AS HE FACES GOU. HE LOOKS CONCERNED AND NERVOUS FOR GOU AS HE TRIES TO WARN HIM. BUT GOU DOESN'T SEEM TO BE QUITE AS CONCERNED.
+
+> **PANEL FIVE** - BALL ROLLS AWAY AS NON PEERS IN OVER GOUS SHOULDER. GOU HAS JUST S
 
 * **4 Nōn** You know if he catches you down here with all this stuff he's gonna kill you.
 
-> **PANEL FIVE** - BALL ROLLS AWAY. 
+> **PANEL SIX** - GOU HOLDS UP THE HC-SRO4 SONAR SENSOR AND EXPLAINS TO NON THAT HE'S IMPLEMENTED HIS OWN SECURITY SYSTEM. GOU HOLDS UP THE SENSORS BEFORE NONS EYES BUT NONS NOT AMAZED, RATHER, HE'S SKETPICAL, AS IF TO SAY, WHAT DID YOU DO NOW?
 
-
-> **PANEL SIX** - GOU HOLDS UP THE HC-SRO4 SONAR SENSOR AND EXPLAINS TO NON THAT HE'S IMPLEMENTED HIS OWN SECURITY SYSTEM. 
 
 * **5 Gou** I got eyes and ears on him all the time. You see this sonar sensor? If he even comes near the basement door upstairs I'll know. 
+
+
+* **5.1 NOTE** Get the HC-SRO4 Ultrasonic sensor expansion pack online and setup your own security system like Gou. 
+
+* **5.2 QR CODE** http://store.gamifyed.com/#/sonar-expansion-pack
 
 * **6 CAP** Disguised as a normal thirteen year old boy, he is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
 
