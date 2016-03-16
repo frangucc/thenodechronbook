@@ -58,7 +58,7 @@ This is still a work in progress - splash page should act as a second cover for 
 ---
 
 THE INTRODUCTION CHAPTER
-## The Forefathers of ECE
+## Stealth Mode
 
 PAGE 2 & 3
 
@@ -223,17 +223,19 @@ PAGE 6
 
 * **1 CAP:** Deep in the cool dark basement lies Gou's the secret headquarters, hidden behind thick cardboard boxes filled with the family's old and unused posessions. 
 
-> **PANEL TWO** - CLOSER REVEAL OF THE TWO BOYS WORKING OUT OF GOU'S SECRET BASEMENT HIDEOUT HEADQUARTERS...
+> **PANEL TWO** - CLOSER REVEAL OF THE TWO BOYS WORKING OUT OF GOU'S STEALTH MODE HEADQUARTERS...
 
-* **2 CAP:** Tis not without strife Gou secretly develops his innovations, for his father Chino does not want him to follow in his footsteps.
+* **2 CAP:** Tis not without strife Gou secretly develops his innovations in stealth mode, for his father Chino does not want him to follow in his footsteps.
 
 > **PANEL THREE** - EVEN CLOSER... UNTIL WE GET RIGHT UP BEHIND THEM AND SEE WHAT GOU'S WORKSTATION AND SETUP LOOKS LIKE. OFF AND AROUND THE AREA ARE PALETS OF OLD PC'S COVERED IN TARPS AND STACKS OF OLD PC POWER SUPPLIES THAT GOU HAPPENS TO BE SALVAGING FOR SOME REASON. THE COMPUTER SCREENS HAVE GECKOBOARDS AND GOU IS CLEARLY MONITORING EVERYTING FROM LATEST BITCOIN STOCK PRICES TO SECURITY CAMERAS AROUND THE PROPERTY. YOU GET THE FEELING THAT IT'S THE START OF A CIA LIKE HEADQUARTER HACKER OPERATION AND THAT THERE IS A TON OF ROOM FOR EXPANSION.
 
-* **3 CAP:** It's not without strife Gou must develop his innovations, for his father Chino 
+* **3 CAP:** It's no secret that the worlds greatest inventors, from Davinici to Einstein kept their inventions a secret until they were ready. 
+
+* **4 CAP:** By banning Gou from hacking on code and hardware, Chino had inadvertently created one of the youngest stealth mode hackers on the planet.
 
 PAGE 7
 
-> **PANEL ONE** - FULL PAGE PANEL. GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. IF IT WORKS, HE'LL MAKE A TON OF MONEY MINING FOR BITCOIN. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES WITH RODIN COILS. WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT. HE'S FAILED SEVERAL TIMES OF IT AND RODIN COILS ARE CONTROVERSIAL IN THE FIRST PLACE, HOWEVER IF YOU LOOK THEM UP ON YOUTUBE, YOU WILL FIND HUNDREDS OF THOUSANDS OF EE'S EXPIRAMENTING WITH THEM. HE'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND THE INTERNAL WIRING OF THE POWER SOURCE AS HE SNIPS THE TWO WIRES CONNECTING THE EXISTING COPPER COIL TO THE BASE OF THE BATTERY. SEE REFERENCE MATERIALS BELOW FOR IMAGES OF THE INSIDE OF A POWER SOURCE AND A RODIN COIL.
+> **PANEL ONE** - FULL PAGE PANEL. GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. IF IT WORKS HIS BITCOIN MINING OPERATION WILL ACTUALLY BECOME PROFITABLE. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES WITH RODIN COILS, A TOPIC MANY SAY IS PSUEDO SCIENCE. IN THIS MOMENT, WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT. HE'S FAILED SEVERAL TIMES OF IT AND RODIN COILS ARE CONTROVERSIAL IN THE FIRST PLACE, [HOWEVER IF YOU LOOK THEM UP ON YOUTUBE](https://www.youtube.com/results?search_query=rodin+coil), YOU WILL FIND 50,000 EE'S EXPIRAMENTING WITH THEM. GOU'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. NON COULD GET IN TROUBLE JUST FOR BEING AROUND GOU IT'S THAT DANGEROUS. AND WHILE TOTALLY CHILL MOST OF THE TIME, YOU DON'T WANT TO PISS OFF CHINO, THEIR FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND THE INTERNAL WIRING OF THE POWER SOURCE AS HE SNIPS THE TWO WIRES CONNECTING THE EXISTING COPPER COIL TO THE BASE OF THE BATTERY. SEE REFERENCE MATERIALS BELOW FOR IMAGES OF THE INSIDE OF A POWER SOURCE AND A RODIN COIL.
 
 * **1 CAP:** Swarn to be a normal boy and not to get caught up in computers and technology, Gou Sokyeo taught himself the art of electrical computer engineering against his fathers wishes. 
 
@@ -241,53 +243,65 @@ PAGE 7
 
 PAGE 8
 
-> **PANEL ONE** - FIRST EVER LOOK AT NON, GOU'S BROTHER. HE'S BOUNCING A MINI SOCCER BALL (SIZE 1 FUTSAL BALL) OFF THE WALL BESIDE GOU, POSSIBLY SITTING IN A CHAIR HE'S TIPPING BACK. NEXT TO HIM IS ARE SEVERAL STACKS OF OLD POWER SUPPLIES THAT HAVE BEEN RIPPED OUT OF A BUNCH OF OLD PCS. THE PCS ARE IN ANOTHER HUGE PILE, COVERED UP BY A TARP, JUST IN CASE.
+> **PANEL ONE** - FIRST EVER SCENE WITH GOU AND NON, THEY ARE INTRODUCED AS A PAIR, ONLY GOU IS CLEARLY THE LEAD HACKER IN THE FAMILY. NON'S JUGGLING A MINI SOCCER BALL (SIZE 1 FUTSAL BALL). AFTER ABOUT 60 JUGGLES HE SMASHES THE BALL WITH HIS RIGHT FOOT AND SMASHES AN OLD UNUSED MONITOR ON THE OTHER SIDE OF THE ROOM THEY ARE IN. NEXT TO HIM IS ARE SEVERAL STACKS OF OLD POWER SUPPLIES THAT HAVE BEEN RIPPED OUT OF A BUNCH OF OLD PCS. THE PCS ARE IN ANOTHER HUGE PILE, COVERED UP BY A TARP, JUST IN CASE.
 
-* **2 Nōn:** What's dad got against technology anyhow? And why are you salvaging old PC power sources? 
+* **Sound:** Pap, pap, pap, pap
+
+> **PANEL TWO** - A CLOSE UP OF NONS CAREFUL LOOK AS HE JUGGLES THE BALL COMFORTABLY ON HIS FOOT. PROPER FORM IS KEY TO THIS SHOT. 
+
+* **Sound Continues:** Pap, pap, pap, pap, powwwww-boooot!!!
+
+> **PANEL THREE** - NON GOES FROM A JUGGLE TO A VOLLEY KICK, SHOOTING THE BALL INTO A LINE DRIVE ACROSS THE ROOM THEY ARE IN AND NAILS AN OLD COMPUTER SCREEN AT WHAT LOOKS LIKE TO BE NONS DESK (WHICH HE NEVER USES).
+
+* **1 Nōn:** 55, 56, 57, 58, 59, 60, g-g-g-g-goooooallllllla-soooooo
+
+> **PANEL FOUR** - NON DOES A CELEBRATION DANCE, THE RONALDO MOVE, AFTER HE SCORES - HE'S EXAGGERATING AND MAKING A BIG DEAL OF THE SILLY GOAL HE SCORES, AND ISN'T PHASED BY DAMAGING THE SCREEN. 
+
+* **2 Gou:** Will you get outta here with that ball! I'm working!
+
+> **PANEL FIVE** - GOU SHOUTS AT NON.
+
+* **3 Nōn:** Hastag Anger Issues. What's dad got against us messing with technology anyhow? And why are you salvaging old PC power sources? 
 
 ![](https://pbs.twimg.com/media/Ccluhu_XIAAcV29.jpg:large)
 
-> **PANEL TWO** - GOU RESPONDS TO NON WITHOUT ALLOWING HIMSELF TO BE DISTRACTED AS HE WORKS ON CLIPPING OUT THE CURRENT COPPER COIL FROM THE POWER SUPPLY WITH A WIRE CUTTING PLIERS. HE RESPONDS TO NON VERY CASUALLY, AS IF BARELY PAYING ATTENTION TO WHAT NON HAS TO SAY. NON IS WEARING A SOCCER JERSEY AND IS CLEARLY MORE OF A JOCK, WHILE GOU IS DRESSED IN HIS BASEMENT HACKER OUTFIT (SEE CHAPTER WARDROBE NOTES BELOWS)
+> **PANEL SIX** - GOU RESPONDS TO NON WITHOUT ALLOWING HIMSELF TO BE DISTRACTED ANYMORE AS HE WORKS ON CLIPPING OUT THE CURRENT COPPER COIL FROM THE POWER SUPPLY WITH A WIRE CUTTING PLIERS. HE RESPONDS TO NON VERY CASUALLY, AS IF BARELY PAYING ATTENTION TO WHAT NON HAS TO SAY. NON IS WEARING A SOCCER JERSEY AND IS CLEARLY MORE OF A JOCK, WHILE GOU IS DRESSED IN HIS BASEMENT HACKER OUTFIT (SEE CHAPTER WARDROBE NOTES BELOWS)
 
 * **3 Gou** I dunno. I think he doesn't want us to grow up to fast... that and I think something happened to him in the industry just before he went on his sabbatical. And I'm replacing the coils with Rodin Coils. Testing something...
 
-> **PANEL FOUR** - NON STOPS BOUNCING THE BALL AS IF HE'S INTENTIONALLY LEFT IT ROLL AWAY AS HE FACES GOU. HE LOOKS CONCERNED AND NERVOUS FOR GOU AS HE TRIES TO WARN HIM. BUT GOU DOESN'T SEEM TO BE QUITE AS CONCERNED.
-
-> **PANEL FIVE** - BALL ROLLS AWAY AS NON PEERS IN OVER GOUS SHOULDER. GOU HAS JUST S
+> **PANEL SEVEN** - NON STOPS BOUNCING THE BALL AS IF HE'S INTENTIONALLY LEFT IT ROLL AWAY AS HE FACES GOU. HE LOOKS CONCERNED AND NERVOUS FOR GOU AS HE TRIES TO WARN HIM. BUT GOU DOESN'T SEEM TO BE QUITE AS CONCERNED.
 
 * **4 Nōn** You know if he catches you down here with all this stuff he's gonna kill you.
 
-> **PANEL SIX** - GOU HOLDS UP THE HC-SRO4 SONAR SENSOR AND EXPLAINS TO NON THAT HE'S IMPLEMENTED HIS OWN SECURITY SYSTEM. GOU HOLDS UP THE SENSORS BEFORE NONS EYES BUT NONS NOT AMAZED, RATHER, HE'S SKETPICAL, AS IF TO SAY, WHAT DID YOU DO NOW?
-
+> **PANEL EIGHT** - GOU HOLDS UP THE HC-SRO4 SONAR SENSOR AND EXPLAINS TO NON THAT HE'S IMPLEMENTED HIS OWN SECURITY SYSTEM. GOU HOLDS UP THE SENSORS BEFORE NONS EYES BUT NONS NOT AMAZED, RATHER, HE'S SKETPICAL, AS IF TO SAY, WHAT DID YOU DO NOW?
 
 * **5 Gou** I got eyes and ears on him all the time. You see this sonar sensor? If he even comes near the basement door upstairs I'll know. 
-
 
 * **5.1 NOTE** Get the HC-SRO4 Ultrasonic sensor expansion pack online and setup your own security system like Gou. 
 
 * **5.2 QR CODE** http://store.gamifyed.com/#/sonar-expansion-pack
 
-* **6 CAP** Disguised as a normal thirteen year old boy, he is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
-
-> **PANEL SEVEN** - INTENTIONALLY BLANK
-
-* **7 Nōn** The guys a couch potatoe.
+* **6 CAP** Disguised as a normal thirteen year old boy, Gou is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
 
 PAGE 9
 
-> **PANEL ONE** - TBD
+> **PANEL ONE** - THE BOYS CONTINUE TO HACK, AND THE CAMERA BACKS OFF FROM THEM A LITTLE AS THEY CONTINUE TO CHAT.
+
+* **7 Nōn** The guys a couch potatoe.
+
+> **PANEL TWO** - WE CUT TO A SCENE OF CHINO UPSTAIRS LAYING ON THE COUCH IN HIS ROBE. IT'S THE AFTERNOON AND HE CLEARLY HAS NO AMBITION. THERE IS MUCH MORE TO THIS PANEL TBD.
 
 * **1 Gou** You know Vero said he wasn't always a bum, and that one day he completely changed, almost as if he gave up on life.
 
 ![](https://pbs.twimg.com/media/Cdh4YL3UsAQ4i-d.jpg)
 
-> **PANEL TWO** - NON HAS AN UH OH MOMENT WHEN HE REALIZES HE SHOULD BE LOOKING AFTER HIS YOUNGER SISTER LILU. THE BOYS QUICKLY FIND OUT EXACTLY WHAT SHE'S DOING.
+> **PANEL THREE** - THE IMAGE OF CHINO IS INTERRUPTED BY A RANDOM UH OH MOMENT NON HAS WHEN HE REALIZES HE SHOULD BE LOOKING AFTER HIS YOUNGER SISTER LILU. HE APPARENTLY FORGOT HE WAS SUPPOSED TO BE LOOKING AFTER HIS YOUNGER SISTER BUT NOT TO WORRY THIS TIME, THE BOYS QUICKLY FIND OUT EXACTLY WHAT SHE'S DOING.
 
 * **2 Nōn** Where's Lilu? 
 
 ![](https://pbs.twimg.com/media/Cdh4GDSUMAApZAt.jpg)
 
-> **PANEL THREE** - LILU FLYING THE DRONE GOU MADE OUTSIDE. TBD WIP...
+> **PANEL FOUR** - WHILE FOCUSED IN ON THE COIL HE'S FINALLY RIPPED OUT OF THE LAST POWER SUPPLY, GOU CASUALLY MURMERS TO NON THAT LILU IS OUTSIDE FLYING A DRONE HE MADE HER. 
 
 ![](https://hackster.imgix.net/uploads/image/file/111261/IMG_20160113_180144.jpg?w=580&h=435&fit=max&fm=jpg)
 
@@ -295,61 +309,68 @@ PAGE 9
 
 * **4 CAP** TBD
 
-> **PANEL FOUR** - GOU PULLS UP THE VIDEO OF LILU'S DRONES CAMERAS POINT OF VIEW AS IT HOVERS OVER THE EDGE OF THE GARFIELD PARK CONSERVATORY WHICH IS PRACTICALLY CONNECTED TO THEIR BACK YARD. THEY TUNE IN AND WATCH THE VIDEO STREAMING FROM THE DRONE ON ONE OF GOU'S MANY COMPUTER SCREENS. NON HOVERS OVER HIS SHOULDER TO TAKE A PEEK AND IS IMPRESSED, BUT NOT ASTONISHED. NON'S USED TO HIS BROTHER DOING STUFF LIKE THIS. GOU SOMETIMES MAKES NON NERVOUS BECAUSE HE KNOWS HOW MUCH TROUBLE THEY'LL GET INTO IF THEIR FATHER FINDS OUT THEIR MESSING WITH ALL THIS STUFF.
+> **PANEL FIVE** - NONS FACE IS PRICELESS. AT FIRST IT SORTA GOES OVER HIS HEAD, BUT THEN 
 
-* **5 Nōn** That's fricking crazy! You did that with the PI zero? 
+* **5 Nōn** A drone?
 
+* **6 Nōn** A drone!!!! That's fricking crazy! 
+
+> **PANEL SIX** - GOU PULLS UP THE VIDEO OF LILU'S DRONES CAMERAS POINT OF VIEW AS IT HOVERS OVER THE EDGE OF THE GARFIELD PARK CONSERVATORY WHICH IS PRACTICALLY CONNECTED TO THEIR BACK YARD. THEY TUNE IN AND WATCH THE VIDEO STREAMING FROM THE DRONE ON ONE OF GOU'S MANY COMPUTER SCREENS. NON HOVERS OVER HIS SHOULDER TO TAKE A PEEK AND IS IMPRESSED, BUT NOT ASTONISHED. NON'S USED TO HIS BROTHER DOING STUFF LIKE THIS. GOU SOMETIMES MAKES NON NERVOUS BECAUSE HE KNOWS HOW MUCH TROUBLE THEY'LL GET INTO IF THEIR FATHER FINDS OUT THEIR MESSING WITH ALL THIS STUFF.
+
+* **7 Gou** Yeah, check it out, looks like she's flying it over the conservatory out back.
 ![](http://www.modmypi.com/image/cache/data/rpi-products/raspberry-pi-zero/DSC_0155-800x609.jpg)
 
+* **8 Nōn** That's so cool. You made that with the PI Zero?
+ 
+> **PANEL SEVEN** - NON AWAITS GOUS ANSWER AS GOU FINISHES HIS GLANCE AT THE COMPUTER SCREENS. HE IS SIMULTANIOUSLY HACKING ON HIS PROJECT WHILE TRYING TO MAINTAIN THE CONVERSATION WITH NON AND WHILE PULLING UP THE DRONES POV CAMERA OVERLOOKING THE ARIAL SHOT OF THE CONSERVATORY.
 
-> **PANEL FIVE** - NON AWAITS GOUS ANSWER AS GOU FINISHES HIS GLANCE AT THE COMPUTER SCREENS. HE IS SIMULTANIOUSLY HACKING ON HIS PROJECT WHILE TRYING TO MAINTAIN THE CONVERSATION WITH NON. NON IS ONE OF THE FEW PEOPLE HE WILL ACTUALLY ANSWER QUESTIONS FOR.
-
-* **6 Gou** Yep. Two actually, one in the drone and one in the XBOX remote I hacked.
+* **8 Gou** Yep. Two actually, one in the drone and one in the XBOX remote I hacked.
 
 ![](https://shkspr.mobi/blog/wp-content/uploads/2015/11/11-Xbox-Pi-Zero-all-wired-up.jpg)
 
 * **7 Nōn** How are you transmitting the footage? 
 
-> **PANEL SIX** - GOU HOLDS UP A PARTICLE ELECTRON BOARD
+> **PANEL SEVEN** - GOU HOLDS UP A PARTICLE ELECTRON BOARD
 
 ![](https://cdn.shopify.com/s/files/1/0925/6626/products/150803_Particle-27_large.jpg?v=1446682968)
 
-* **8 Gou** Using a Particle Electron, they sent me one to test. It's got a Ublox chip that gives me 3G access. Pretty much works anywhere a phone works. 
+* **8 Gou** Using a Particle Electron, they sent me one to test, it's still in Beta. It's got a Ublox chip that gives me 3G access anywhere a cell phone works. It's nice but the resolution has to be highly compressed for it to stream in real-time.
 
 * **9 CAP** TBD
 
-* **9 Nōn** Dope. You gonna use that for the near space weather balloon project? 
-
-> **PANEL SEVEN** - TBD
-
-* **10 Gou** Pier 19 baby. Disrupt. Still need to figure out how to insulate everything. It get's pretty cold up there. 
+* **10 Nōn** Dope. You should use that for the near space weather balloon project. 
 
 > **PANEL EIGHT** - TBD
+
+* **11 Gou** Pier 19 baby. Disrupt. Still need to figure out how to insulate everything. It get's pretty cold up there. 
+
+> **PANEL NINE** - TBD
+
 * **11 Nōn** You're crazy. You're gonna get in serious trouble. 
 
 * **12 CAP** TBD
 
 PAGE 10
 
-> **PANEL ONE** - TBD
+> **PANEL ONE** - AN ALERT IS TRIGGERD ON GOU'S CELL PHONE. IT GOES OFF WHILE ON HIS WORKSTATION, NEXT TO HIS LAPTOP. A BIRDSEYE VIEW OF HIS DESK IS SHOWN, WITH ALL HIS ELECTRONICS SCATTERED EVERYWHERE AND AN OCULUS RIFT OFF TO THE SIDE. A VIRTUAL REALITY HEADSET WE SEE GOU USE LATER IN THE BOOK.
 
 * **SOUND** Blip. Blip Bleep. 
 
 * **1 Gou** Crap someones coming. Jinx, open terminal. Jinx, turn on camera eight.
 
-> **PANEL TWO** - TBD
+> **PANEL TWO** - CAMERA EIGHT IS TURNED ON IN A WINDOW ON HIS FAR RIGHT UPPER MONITOR. GOU HAS 6 MONITORS, 3 ONTOP OF 3. 
 
-* **2 Gou** Ugh it's Lilu. Nevermind. Go get her and bring her upstairs, tell her I'll look at the drone in a bit to go do something else.
+* **2 Gou** Ugh it's Vero. Nevermind. Go distract her and lead her upstairs, tell her I'm at the conservatory doing homework with some friends.
 
-* **3 CAP** TBD
+* **3 CAP** Vero, Chino's former front-end engineer is now the kids caretaker. For whatever reasons, she took an oath just before Chino hit rock bottom, never to let his kids suffer.
 
-> **PANEL THREE** - TBD
+* **4 Nōn** On it. 
 
-* **4 Nōn** What do I look like? 
+> **PANEL THREE** - NON JETS BACK UP STAIRS TO GREET VERO WHO'S ABOUT TO COME DOWNSTAIRS TO DO LAUNDRY. MAY NEED 2 PANELS HERE.
 
-* **5 Nōn** Fine... I'll do it, but you owe me. We're playing soccer later. For an hour.
+* **5 Nōn** And you owe me. We're playing soccer later. For two hours straight.
 
-* **6 CAP** TBD
+* **6 CAP** Too good of a person, Vero deals with headache after headache helping to raise kids that aren't even hers. 
 
 | REFERENCE MATERIALS |
 | -- |
