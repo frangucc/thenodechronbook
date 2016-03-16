@@ -119,13 +119,27 @@ Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. A
 
 In 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated". Queen Elizabeth II granted him a posthumous pardon in 2013.
 
+For the purposes of this book, we will soften this section, however Franchino, the writer is still adamant about us taking a risk. His current views on dramatic situations, horror, violence, dark matters, history, minor profanity is the following:
+
+"Our content is PG. Parental Guidance is suggested. The book is honest and science and technology has never been smooth sailing for inventors. Since Plato and Da Vinci, inventors have been persecuted. Even today, inventors are ripped off constantly by venture capitalists and greedy power magnates. 
+
+I would compare the level of risk we are taking to modern action oriented video games. While not rated M or as graphic as Grand Theft Auto, there is an edge and some grit to it, as is there with the power of hacking.
+
+We must remember that hacking is an extremely complex subject only mastered by young, maturing kids familiar with a deep understanding of the internet. 
+
+For now, we will go with this calculated risk until we hear from parents that it's unacceptable or have evidence it is counter productive. Remember, schools left this part of the curriculum for dead and just because it's education, doesn't mean it has to be like Dora the Explorer. 
+
+Also, remember that we are writing a graphic novel, and there are bad guys, suspense, drama, problems, fear, wars, global situations, politics and more. We are in a unique position to for the first time ever, infuse education and drama in such a way that could be highly compelling to a much broader audience (if it works). 
+
+I plan to fully test this hypothesis with our beta audiences until I find imperical evidence that it hurt sales and our overall mission. So for now, do not lump us into a grammar school friendly book. This is the anti-school book for hackers looking for some real world views of the field."
+
 ---
 PAGE 4 & 5
 
-** THE NODE CHRONICLES INTRO: **  Alan Turing, creator of the Turing Machine (the modern computer) is castrated and poisoned for being gay.
+** THE NODE CHRONICLES INTRO: ** Meanwhile, almost 40 years later, Alan Turing was unjustly prosecuted in 1952 for what most people today do not regard as a criminal act.  Turing accepted an alternative, yet far more barbaric sentence rather than prison.
 
 
-> **PANEL ONE** - ALAN TURING IS BEING ABUSED IN AN INSANE ASYLUM, HE IS WEARING A STRAIGHT JACKED AND BEING TAKEN TO THE PLACE WHERE HIS BALLS WILL BE CASTRATED. He IS SEEN THROUGH THE SMALL FACE PANEL OF THE DOOR FOR THE INSANE ASYLUM HE IS IN.
+> **PANEL ONE** - ALAN TURING IS BEING ABUSED IN AN INSANE ASYLUM, HE IS WEARING A STRAIGHT JACKED AND BEING TAKEN TO THE PLACE WHERE HE WILL BE CASTRATED (WE DON'T SAY CASTRATED IN THE DIALOGUE, BUT THIS IS WHAT REALLY HAPPEND TO THE INVENTOR OF THE MODERN DAY COMPUTER). HE IS FIRST SEEN THROUGH THE SMALL FACE PANEL OF THE DOOR FOR THE INSANE ASYLUM HE IS IN.
 
 * **1 CAP:** We are not interested in the fact that the brain has the consistency of cold porridge.
 
@@ -135,15 +149,15 @@ PAGE 4 & 5
 
 * **3 ALAN:** No, please, you don't understand.
 
-> **PANEL THREE** - A CLOSE UP OF THE WARDENS FACE AS HE SENTENCES ALAN TO HIS CASTRATION.
+> **PANEL THREE** - A CLOSE UP OF THE WARDENS FACE AS HE SENTENCES ALAN TO HIS PUNISHMENT.
 
-* **4 WARDEN:** It's quite the shame. Inventor of the computer, a queer.
+* **4 WARDEN:** It's quite the shame. Inventor of the modern computer, a queer.
 
 > **PANEL FOUR** - A CLOSE UP ALAN TURINGS SWEET FACE. HE IS A NICE MAN, NEVER HURT ANYONE. HE IS FRIGHTENED AND HAS BEEN TREATED LIKE AN ANIMAL.
 
 * **5 ALAN:** I'm a human being, you can't do this to me!!!
 
-> **PANEL FIVE** - ALAN IS DRAGGED AWAY PAST MULTIPLE INSANE PEOPLE ON THE FLOORS, CHAINED TO WALLS LIKE CAGED ANIMALS. HE IS TAKEN TO BE CASTRATED.
+> **PANEL FIVE** - ALAN IS DRAGGED AWAY PAST MULTIPLE INSANE PEOPLE ON THE FLOORS, CHAINED TO WALLS LIKE CAGED ANIMALS. HE IS TAKEN FOR HIS PUNISHMENT.
 
 * **6 ALAN:** Please, don't do this to me. It's not my fault!
 
@@ -309,11 +323,11 @@ PAGE 9
 
 * **4 CAP** TBD
 
-> **PANEL FIVE** - NONS FACE IS PRICELESS. AT FIRST IT SORTA GOES OVER HIS HEAD, BUT THEN 
+> **PANEL FIVE** - NONS FACE IS PRICELESS. AT FIRST IT SORTA GOES OVER HIS HEAD, BUT THEN, POW IT HITS HIM.
 
-* **5 Nōn** A drone?
+* **5 Nōn** A drone? But who, but when?
 
-* **6 Nōn** A drone!!!! That's fricking crazy! 
+* **6 Nōn** A drone!!!! You made a drone! That's fricking crazy! 
 
 > **PANEL SIX** - GOU PULLS UP THE VIDEO OF LILU'S DRONES CAMERAS POINT OF VIEW AS IT HOVERS OVER THE EDGE OF THE GARFIELD PARK CONSERVATORY WHICH IS PRACTICALLY CONNECTED TO THEIR BACK YARD. THEY TUNE IN AND WATCH THE VIDEO STREAMING FROM THE DRONE ON ONE OF GOU'S MANY COMPUTER SCREENS. NON HOVERS OVER HIS SHOULDER TO TAKE A PEEK AND IS IMPRESSED, BUT NOT ASTONISHED. NON'S USED TO HIS BROTHER DOING STUFF LIKE THIS. GOU SOMETIMES MAKES NON NERVOUS BECAUSE HE KNOWS HOW MUCH TROUBLE THEY'LL GET INTO IF THEIR FATHER FINDS OUT THEIR MESSING WITH ALL THIS STUFF.
 
@@ -336,11 +350,11 @@ PAGE 9
 
 * **8 Gou** Using a Particle Electron, they sent me one to test, it's still in Beta. It's got a Ublox chip that gives me 3G access anywhere a cell phone works. It's nice but the resolution has to be highly compressed for it to stream in real-time.
 
-* **9 CAP** TBD
+* **9 QR CODE** Get the drone expansion pack at http://shop.gamifyed.com/#/drones 
 
 * **10 Nōn** Dope. You should use that for the near space weather balloon project. 
 
-> **PANEL EIGHT** - TBD
+> **PANEL EIGHT** - A CLOSE UP OF GOU'S FACE AS IF HE'S LOOKING INTO THE FUTURE AND IT'S AMAZING.
 
 * **11 Gou** Pier 19 baby. Disrupt. Still need to figure out how to insulate everything. It get's pretty cold up there. 
 
@@ -358,7 +372,7 @@ PAGE 10
 
 * **1 Gou** Crap someones coming. Jinx, open terminal. Jinx, turn on camera eight.
 
-> **PANEL TWO** - CAMERA EIGHT IS TURNED ON IN A WINDOW ON HIS FAR RIGHT UPPER MONITOR. GOU HAS 6 MONITORS, 3 ONTOP OF 3. 
+> **PANEL TWO** - CAMERA EIGHT IS TURNED ON IN A WINDOW ON HIS FAR RIGHT UPPER MONITOR. GOU HAS 6 MONITORS, 3 ONTOP OF 3. VERO IS WALKING DOWN THE LAST HALL BEFORE THE BASEMENT WITH A LAUNDRY BASKET.
 
 * **2 Gou** Ugh it's Vero. Nevermind. Go distract her and lead her upstairs, tell her I'm at the conservatory doing homework with some friends.
 
@@ -437,7 +451,6 @@ ADDITIONAL INTRODUCTION RESEARCH
 * Eric "Lefty" Kaufman
 * Brad Balder
 * Anonymous
-
 
 
 
