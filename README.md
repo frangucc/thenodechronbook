@@ -8,13 +8,70 @@
 
 Here's what I'd like for you to do for me:
 
-> Make me laugh. Make me cry. Tell me my place in the world. Lift me out of my skin and place me in another. Show me places I have never visited and carry me to the ends of time and space. Give my demons names and help me confront them. Demonstrate for me possibilities I've never thought of and present me with heroes who will give me courage and hope. Ease my sorrows and increase my joy. Teach me compassion. Entertain and enchant and enlighten me. 
+> Make me laugh. Make me cry. Tell me my place in the world. Lift me out of my skin and place me in another. Show me places I have never visited and carry me to the ends of time and space. Give my demons names and help me confront them. Demonstrate for me possibilities I've never thought of and present me with heroes who will give me courage and hope. Ease my sorrows and increase my joy. Teach me compassion. Entertain and enchant and enlighten me.  Tell me a story. 
 
-Tell me a story. 
+**PREFACE**
 
-**CHAPTER DETAILS**
+This book started off as an expirament involving three years of user research and testing. The goal of the research was to imperically decide if 'educational content' mixed with a bit of 'shock and awe' could be used as an essential method to distract our target age goups from their desire to indulge in their preferred use of freetime. 
 
-TBD - FRANCHINO
+Gamifyed is the first company to take this calculated risk. As a company, we've infused real world drama, politics, mild violence and tongue-and-cheek dialogue with highly advanced educational content. The Node Chronicles borrows the fundamental concepts used in graphic novels to keep kids interested: action, drama, politics, suspence, thrills, hardships, horror and movement. We're giving them something real, something they want for the ultimate trade-off, for them to learn ECE, deeply.
+
+Every mention of technology, each product, each reference to code or computer science is repetable and associated with additional content online or on mobile. Anything Gou or his friends do in this book can be repeated by the reader. QR codes offer extended content and resistence for readers of all ages.
+
+Editors of this book are often shocked. They are astonished at the risks I've taken as a writer and business owner. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture in an educational text book."
+
+I disagree. This book isn't necessarily for toddlers or naive grammer school kids who've never heard the word 'crap' or who live in a bubble. Call it expiramental but it's meant for teenagers and it's meant to be honest. At the same time, this isn't my chance to brainwash your kid. That's not my goal either. 
+
+When I looked back at the history of ECE, I found it fascinating that so many of the pioneers of modern science and computing we're persecuted. Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged, even DaVinci lived in fear. Infact, the list of scientests who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell.
+
+Even today, individual innovators are screwed over by venture capitalists, their ideas are stolen, patents infringed, employees go rogue, the powers that be are always stepping in. Just this week the government tried to slam Apple and invade their rights.
+
+Fortunately however, all this sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure and so forth.  
+
+So as you read along, know that as an author I try my best to carefully blend the graphic novel format with education - and it's my first time publishing anything. I spent the last 15 years of my life struggling as a computer scientist, wishing I had this when I was a kid. 
+
+And know that I don't want to be anything like Dora the Explorer or Little Einstiens. I'm of the opinion that ECE is a complex subject typically mastered by highly intelligent teenagers and young adults who hate being lied to. They want the truth and as educators, Gamifyed is going to give it to them, tastefully.
+
+So if you are still wondering, the answer is YES. This book is definitely a shade darker than what you may have been expecting. We will be weaving low level technical tutorials with common patterns in sabotage, techno politics, bad investors, copycats, greed, splurging, being rich, making poor decisions, government violations, cyber security, privacy concerns, corruption and so forth. 
+
+We will make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. We will go where no textbook has ever gone before.
+
+As an example, right now in San Francisco, in the year 2016, the city is practically at a techno civil war amongst those who make big money and those who work regular blue collar jobs. The blue collar employees are sick of the techno what-nots and their arrogant attitudes and inflated cost of living. The blue collar workers have even abandoned all technology and will go as far as to ridicule the computer geeks who walk the streets. 
+
+The movie Big Hero 6 starts off in an illegal robot gambling ring, Hiro's parents and brother die and the entire plot is based on deceit and corrupt power.
+
+I do draw the line however in some spots. I'm not interested in teaching about sex, drugs or in making the main characters opinionated about certain politics to where their views become overly influential in areas such as religion, sexual orientation or violence. I believe that some things should remain a mystery for kids as long as they can or be left for the family to teach. 
+
+Overall, as the author, I try to keep the cast relatively neutral on certain world views but that doesn't mean they aren't addressed. The best I can do is demonstrate that the good cast members have sophisticated conciouses with complex reasoning abilities. 
+
+At the end of the day this isn't me taking my chance at corrupting your kids. This is about me doing what I felt I had to do to get my own childrens attention and formatting it in a way that I believe I could sell to you're household without having to change it that much. 
+
+The truth is that 8 out of 10 kids under 15 in this country would much rather be playing or socializing than studying computers. I find this problem to be an opportunity to try something bold and new.  I see it as an opportunity to hijack the things they love to teach them things they should know. Tactically, I see it as a way to help them memorize things by association to realistic situations in life they already are exposed to. I also see this as a chance to inspire kids about technology in ways my parents never we're able to.
+
+The dramatic or edgy situations and dialogue are meant to keep you're kids intersted for their own good. They are sometimes used to anchor important concepts or even break up the monotony of complexity. ECE is one of the most complex fields known to man. Paradoxically, once you understand the hard parts, it becomes second nature and the sky is the limit. 
+
+The moral of the story is that there are consequences to everything you do, even in science and engineering, a field that should be free of peril. Keeping quiet about your business and remaining humble until you're proven is always a good thing. There are breakdowns and cultural ways to lead by example. [Just take the Tao of Programming for example](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjk26HEscbLAhXInIMKHSa2C2wQFggdMAA&url=http%3A%2F%2Fwww.mit.edu%2F~xela%2Ftao.html&usg=AFQjCNEUxXeIMdY1u9TUk4LmKS3T3CoMNA&sig2=IStx6t9GxRo-INzO4wU2ug), the 5 page essay almost all MIT students read. It's a book of wisdom on how to handle pressure, stress, anxiety, horrible bosses and so forth. 
+
+Having a moral compass is mandatory if you want to lead others and knowing who to trust is essential when capitalizing on breakthrough technology. Working hard is vital and powering through with extreme levels of warewithall are the only way you'll succeed in this industry. At the end of the day, these are the fundamentals I believe in personally and want to communicate. I am no stranger to betrayl, politics and the stressful situations this industry has to offer.
+
+I often tell my students after watching clips of the movie The Martian that Mark Watney survies on Mars only because of his advanced knowledge of ECE and Science.
+
+The most important takeaway from my teams researh interviewing hundreds of kids, parents and accomplished industry professionals is that great STEM majors ultimately will attribute their aha moments and milestones in learning to something much deeper; certain memories in their early life or areas they got stuck that they wish they could have punched through on sooner.
+
+We've all heard the story about the programmer who wrote his first program on his TI 85 or hacked into his highschool network and changed their grades - but that's all BS in my opinion. What we don't hear are the more intimate stories about how ones parents or sibling influenced them at a young age, specifically - or what particular moments sparked real breakthroughs in learning to code or mastering circuitry. 
+
+In a recent interview of a 18 year old Univeristy of Illinois sophmore ECE major, it was noted that 'pointers' in programming had repetedly haunted him since the day he overheard his father fiercely arguing with his apprentice about their significance. Pointers are a really complex subject in low-level programming. It wasn't until 6 years later that Rushi had conquered them and it was if he had a vendetta against them. Seventeen is a really early age to understand 'pointers' in the way Rushi had, and it was because each year and from time to time, he would revisit them, trying each time to comprehend them until one day on an impossible project at school it just clicked.  
+
+Passing down a careful blend of must know topics tied to dramatic situations is what makes this format so unique to me. I can do with it what regular text books have never been able to and I can re-create these moments with intense illustrations and action. Major textbook publishers would never dare mix controversial values, deep politics and grit with learning - let alone comic books. And I don't disagree. School isn't a place for super off topic, indy written content by enlarge. But school also isn't a place for developing prodigies now is it. 
+
+And that's what this book is really about. The 'missing curriculum' - it's about not letting our kids get any older without understanding certain things and what it means to be equipped with the power of ECE. The young mind is powerful, kids exhibit extreme memory and learning capabilities when they play video games or sports.
+
+So I digress; If you're looking for something less gritty, try Kano or the Manga Guides, it looks and feels like something for 2nd and 5th graders (althought I would read for yourself first and judge if you're tareting younger adolescents). If you're looking for something seriously hardcore that's built from the ground up with careful research, something that can genuinely build a real interest, choose Gamifyed and The Node Chronicles. 
+
+It's honest, tastefully gritty and perhaps the most entertaining program for 10-18 year olds who aren't naive. 
+
+Franchino
+
 
 | PAGES |
 | -- |
