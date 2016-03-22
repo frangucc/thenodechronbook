@@ -28,19 +28,21 @@ Almost everything Gou and his friends demonstrate in this book can be repeated b
 
 There's a ton of resistence for readers of all ages and we take great pride in our quality assurance process. All of the tutorials are guaranteed to work or be supported.
 
-Something else to note is that editors of this book are often shocked. They are astonished at the choices I've taken as a writer, whether it be how I'm using the word hacker or how I've chosen to depict the industry. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture in an educational text book."
+Something else to note is that editors of this book are often shocked at the some of direction I've taken as a writer, whether it be how I'm using the word hacker or how I've chosen to depict the industry. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture, failures and nightmare situations in an educational text book."
 
-I disagree. This book isn't necessarily for toddlers or naive grammer school kids who've never heard the word 'crap' or who live in a bubble. Call it expiramental but it's meant for teenagers and it's meant to be honest. Actually, these sort of edge could be what very well ends up attracting the type of people we need in this field, searchers of truth and mature, higher level visionaries. At the same time, my goal is not to try and brainwash your kid. 
+I disagree. This book isn't necessarily for toddlers either. For kids whos first time reading the world 'crap' or who for those who live in a bubble, we can't please everyone. But moreso, we do it because it's meant to attract teenagers. It's also meant to be refreshingly honest for kids who really want to know the truth about what lies ahead. Actually, we think that this sort of edge could be what very well ends up aiding in our ultimate goal - to make kids love this series. 
 
-When I looked back at the history of ECE, I found it fascinating that so many of the pioneers of modern science and computing we're persecuted. Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged, even DaVinci lived in fear. Infact, the list of scientests who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell.
+At the same time, my goal is not to try and brainwash your kid, but it just so happens that when I looked back at the history of ECE, I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. And as a fifteen year industry veteran, I can tell you that the same stuff happens today, all the time. 
 
-Even today, individual innovators are screwed over by venture capitalists, their ideas are stolen, patents infringed, employees go rogue, the powers that be are always stepping in. Just this week the government tried to slam Apple and invade their rights.
+As an example, Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged by JP Morgan and his sone, even DaVinci lived in fear so he wrote his notes backwareds. Infact, the list of scientests who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell.
 
-Fortunately however, all this sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure and so forth.  
+Individual innovators have been screwed over by vulture capitalists, their ideas are stolen, patents infringed, employees go rogue, the powers that be are always stepping in. Just this week the government tried to slam Apple and invade their rights. At the same time, the venture capitalists essential. The discoragers that beat you down only make you tougher and navigating these waters is what makes some engineers successful and others, mundane. 
 
-So as you read along, know that as an author I try my best to carefully blend the graphic novel format with education - and it's my first time publishing anything. I spent the last 15 years of my life struggling as a computer scientist, wishing I had this when I was a kid. 
+Incidentally, all this drama and sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure and so forth.  
 
-And know that I don't want to be anything like Dora the Explorer or Little Einstiens. I'm of the opinion that ECE is a complex subject typically mastered by highly intelligent teenagers and young adults who hate being lied to. They want the truth and as educators, Gamifyed is going to give it to them, tastefully.
+So as you read along, know that as an author I try my best to carefully blend the graphic novel format with education.
+
+And know that I don't want to be anything like Dora the Explorer or Little Einstiens - and know that it teeters on the brink of PG-13. I'm of the opinion that ECE is a complex subject typically mastered by highly intelligent teenagers and young adults who hate being lied to. They want the truth and as educators, Gamifyed is going to give it to them, tastefully.
 
 So if you are still wondering, the answer is YES. This book is definitely a shade darker than what you may have been expecting. We will be weaving low level technical tutorials with common patterns in sabotage, techno politics, bad investors, copycats, greed, splurging, being rich, making poor decisions, government violations, cyber security, privacy concerns, corruption and so forth. 
 
