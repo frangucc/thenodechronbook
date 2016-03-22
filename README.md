@@ -12,7 +12,7 @@ Here's what I'd like for you to do for me:
 
 **PREFACE**
 
-The Node Chronicles were created because of numerous failed attempts at getting my grammer school children interested in programming and hardware. The idea of infusing fundamentals with high end graphics started in my home and has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
+The Node Chronicles were created because of numerous failed attempts at getting my own grammer school children interested in programming and hardware. The idea of infusing fundamentals with high end graphics started in my home and has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
 
 What started off as a problem a few years ago has translated into some highly forensic user research and testing. The goal of the research has been to decide if 'educational content' mixed with 'comic book action and illustration' could infact help kids memorize important engineering concepts. 
 
