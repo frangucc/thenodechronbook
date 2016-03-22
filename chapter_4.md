@@ -1,8 +1,5 @@
 # Basic Circuitry
 
-## Wired internet, ethernet
+## Electricity
 
-## Basic circuits
-
-## Transistors, resistors, bread boards, cables, parallel, serial ports, GPIO
 
