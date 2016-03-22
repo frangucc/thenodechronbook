@@ -34,19 +34,19 @@ Something else to note is that editors of this book are often shocked at the som
 
 I disagree. This book isn't necessarily for toddlers either. For kids whos first time reading the world 'crap' or who for those who live in a bubble, we can't please everyone. But moreso, we do it because it's meant to attract teenagers. It's also meant to be refreshingly honest for kids who really want to know the truth about what lies ahead. Actually, we think that this sort of edge could be what very well ends up aiding in our ultimate goal - to make kids love this series. 
 
-At the same time, my goal is not to try and brainwash your kid, but it just so happens that when I looked back at the history of ECE, I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. And as a fifteen year industry veteran, I can tell you that the same stuff happens today, all the time. 
+At the same time, my goal is not to try and brainwash your kid. It just so happens that when I looked back at the history of ECE, I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. And as a fifteen year industry veteran, I can tell you that the same stuff happens today, all the time. 
 
 As an example, Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged by JP Morgan and his sone, even DaVinci lived in fear so he wrote his notes backwareds. Infact, the list of scientests who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell.
 
-Individual innovators have been screwed over by vulture capitalists, their ideas are stolen, patents infringed, employees go rogue, the powers that be are always stepping in. Just this week the government tried to slam Apple and invade their rights. At the same time, the venture capitalists essential. The discoragers that beat you down only make you tougher and navigating these waters is what makes some engineers successful and others, mundane. 
+Individual innovators have been screwed over by vulture capitalists since the beginning of time. Their ideas are stolen, patents infringed, employees go rogue, the powers that be are always stepping in exhibiting their greed and will to control the industry. At the same time, the venture capitalists essential, so the writing can't all be one sided. And the discoragers that beat you down only make you tougher. In the end navigating these waters with the help of good mentors, advisors and resources is what makes some engineers successful and others so mundane. 
 
 Incidentally all this drama and sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure and so forth.  
 
 So as you read along know that as an author I try my best to carefully blend the graphic novel format with education.
 
-And know that I don't want this to be anything like Dora the Explorer or Little Einstiens, simply because it may seem taboo to mix education with something a bit edgy. I would say the book teeters on the brink of PG-13. 
+And know that I don't want this to be anything like Dora the Explorer or Little Einstiens, simply because it may seem taboo to mix education with something a bit edgy. I would say the book teeters on the brink of PG and PG-13. Someplace in-between.
 
-So if you are still wondering, the answer is YES. This book is definitely a shade darker than what you may have been expecting. We will be weaving low level technical tutorials with common patterns in sabotage, techno politics, bad investors, copycats, greed, splurging, being rich, making poor decisions, government violations, cyber security, privacy concerns, corruption and so forth. We need ways that aren't all hunky dory - we need to give them a sense of real world urgency to get them to follow through with supplemental projects.
+So if you are still wondering, the answer is YES. This book is definitely a shade darker than what you may have been expecting. We will be weaving low level technical tutorials with common patterns in sabotage, techno politics, bad investors, copycats, greed, splurging, being rich, making poor decisions, government violations, cyber security, privacy concerns, corruption and so forth. We need stories that aren't all hunky dory - we need to give them a sense of real world urgency to get them to follow through with supplemental projects. Cool tech just isn't enough, just ask any millenial or generation z constituant. 
 
 We will make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. We will go where no textbook has ever gone before.
 
@@ -54,7 +54,7 @@ As another possible example, right now in San Francisco, in the year 2016, the c
 
 And let's not forget, the movie Big Hero 6 starts off in an illegal robot gambling ring, a main character who's parents and brother die while the entire plot is based on deceit and corrupt power from investors and even the education system itself.
 
-I often tell my students after watching clips of the movie The Martian that Mark Watney survies on Mars only because of his advanced knowledge of ECE and Science.
+I'll often tell my students after watching clips of the movie The Martian that Mark Watney survies on Mars only because of his advanced knowledge of ECE and Science.
 
 I do draw the line however in some spots. I'm not interested in teaching about sex, drugs or in making the main characters opinionated about certain politics to where their views become overly influential in areas such as religion, sexual orientation or violence. I believe that some things should remain a mystery for kids as long as they can or be left for the family to teach. 
 
