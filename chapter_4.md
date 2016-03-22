@@ -42,7 +42,11 @@
 - Registers
 - Memory
 - Control
-- 
+- von Neumann vs Harvard
 ## Instruction set
+- Machine code
+- Opcodes
+- CPU addressing schemes
+- Assembly -> Machine code
 
 
