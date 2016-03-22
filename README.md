@@ -12,19 +12,21 @@ Here's what I'd like for you to do for me:
 
 **PREFACE**
 
-The Node Chronicles was created because of numerous failed attempts at getting my own kids motivated and interested in programming and hardware. It started in my home and has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
+The Node Chronicles was created because of numerous failed attempts at getting my grammer school children interested in programming and hardware. The idea of infusing fundamentals with high end graphics started in my home and has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
 
-What started off as a problem led me to two years of user research and a third year of forensic user testing. The goal of the research was to decide if 'educational content' mixed with 'comic book action and illustration' could infact help kids memorize important engineering concepts. 
+What started off as a problem a few years ago has translated into some highly forensic user research and testing. The goal of the research has been to decide if 'educational content' mixed with 'comic book action and illustration' could infact help kids memorize important engineering concepts. 
 
-How well could a student retain information after reading it in comic book form versus straight text? How often before a kid would return to the material without pressure? Were kids showing any signs of addiction to the platform in ways they do with their other devices? And so on.
+How well can a young newb (or adult) retain information after reading it in graphic novel form versus straight text or video? How often before a kid would return to the material without being pressured? Does this format help draw kids in as do their other devices? And so on.
 
-At the time of this writing, I'd consider this all to be expiramental. But soon this won't be the case, it will either fail, show negligible improvement or dramatically improve the way kids pick this stuff up. 
+At the time of this writing in 2016 I'd still consider this all to be quite expiramental. Soon however, this won't be the case, it will either fail, show negligible improvement or dramatically improve the way newbs pick this stuff up. 
 
-It's going to be an ongoing endeavor for my company to know these things. To help support our research we encourage observers, teachers and parents who have provided this opportunity for their kids to keep in close contact with us as you implement this missing curriculum. At it's core, the entire novel is built ontop of a cohesive series of lessons on the Raspberry PI, Arduino, Circuitry, Programming, Internet and Sensors. 
+It's going to be an ongoing endeavor for my company to know these things. To help support our research we encourage observers, teachers and parents who have provided this opportunity for their kids to keep a close eye on readers and report back to us what you're finding. At it's core, the entire novel is built ontop of a cohesive series of lessons on the Raspberry PI, Arduino, Circuitry, Programming, Internet and Sensors. The creative portion tends to be inspired by historical events, realistic situations or the inevitable.
 
-Gamifyed is the first company to confront this challenge. With the help of former Marvel artists, DC writers and top ECE practicioners, our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. 
+Gamifyed is the first mover to go full-speed ahead with this idea. With the help of former Marvel artists, DC writers and top ECE practicioners, our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. 
 
-Almost everything Gou and his friends demonstrate in this book can be repeated by the reader. The book features a ton of QR code code extended content, open source code snippets and a flagship feature, expansion packs. There's a ton of resistence for readers of all ages and we take great pride in our quality assurance process so all of the tutorials are guaranteed to work or be supported. 
+Almost everything Gou and his friends demonstrate in this book can be repeated by the reader. The book features a ton of QR code code extended content, open source code snippets and a flagship feature, expansion packs. Expansion packs are companion physical kits that go along with each chapter. The goal is to offer reasonably priced hardware packs to give readers the real-world, hands on experience they need to succeed in this field. In the tech industry, it's all about what you have done and demonstrating tangible abilities. 
+
+There's a ton of resistence for readers of all ages and we take great pride in our quality assurance process. All of the tutorials are guaranteed to work or be supported.
 
 Something else to note is that editors of this book are often shocked. They are astonished at the choices I've taken as a writer, whether it be how I'm using the word hacker or how I've chosen to depict the industry. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture in an educational text book."
 
