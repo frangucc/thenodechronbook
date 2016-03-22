@@ -12,7 +12,15 @@ Here's what I'd like for you to do for me:
 
 **PREFACE**
 
-The Node Chronicles started off as an expirament involving three years of user research and testing. The goal of the research was to decide if 'educational content' mixed with 'comic book action and illustration' could infact help kids memorize important concepts. In search of evidence to support this, we encourage observers, teachers and parents who have provided this opportunity for their kids to keep in close contact with us as you implement this missing curriculum. At it's core, the entire novel is built ontop of a cohesive series of lessons on the Raspberry PI, Arduino, Circuitry, Programming, Internet and Sensors. 
+The Node Chronicles was created because of numerous failed attempts at getting my own kids motivated and interested in programming and hardware. It started in my home and has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
+
+What started off as a problem led me to two years of user research and a third year of forensic user testing. The goal of the research was to decide if 'educational content' mixed with 'comic book action and illustration' could infact help kids memorize important engineering concepts. 
+
+How well could a student retain information after reading it in comic book form versus straight text? How often before a kid would return to the material without pressure? Were kids showing any signs of addiction to the platform in ways they do with their other devices? And so on.
+
+At the time of this writing, I'd consider this all to be expiramental. But soon this won't be the case, it will either fail, show negligible improvement or dramatically improve the way kids pick this stuff up. 
+
+It's going to be an ongoing endeavor for my company to know these things. To help support our research we encourage observers, teachers and parents who have provided this opportunity for their kids to keep in close contact with us as you implement this missing curriculum. At it's core, the entire novel is built ontop of a cohesive series of lessons on the Raspberry PI, Arduino, Circuitry, Programming, Internet and Sensors. 
 
 Gamifyed is the first company to confront this challenge. With the help of former Marvel artists, DC writers and top ECE practicioners, our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. 
 
