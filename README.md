@@ -18,7 +18,7 @@ The idea of infusing fundamentals with high end graphics started in my home and 
 
 What started off as a problem a few years ago has translated into some highly forensic user research and testing. The goal of the research has been to decide if 'educational content' mixed with 'comic book action and illustration' could infact help kids memorize important engineering concepts. 
 
-How well can a young newb (or adult) retain information after reading it in graphic novel form versus straight text or video? How often before a kid would return to the material without being pressured? Does this format help draw kids in as do their other devices? And so on.
+How well can a young newb (or adult) retain information after reading technical information in graphic novel form with rich illustrations as opposed to straight text or video? How often before a kid returns to the material without being pressured? Does this format help draw kids in as do their other devices? And so on.
 
 At the time of this writing in 2016 I'd still consider this all to be quite expiramental. Soon however, this won't be the case, it will either fail, show negligible improvement or dramatically improve the way newbs pick this stuff up. 
 
