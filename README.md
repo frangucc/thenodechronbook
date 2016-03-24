@@ -14,23 +14,23 @@ Here's what I'd like for you to do for me:
 
 The Node Chronicles started up because of the numerous failed attempts I had at getting my own kids interested in computer science. 
 
-The idea of infusing fundamentals with high end graphics started in my home and has now become a globally recognized platform used by teachers, parents and young innovators everywhere. To what extent it's effective is still in question and the honess is on you to help us validate how well it performs. 
+What started as an expirament at infusing fundamentals with rich graphics has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
 
-What started off as a problem a few years ago has translated into some highly forensic user research and testing. The goal of the research has been to decide if 'educational content' mixed with 'comic book action and illustration' could infact help kids memorize important engineering concepts. 
+Now that I've been able to form a company, research has become forensic. Our resaerch teams goal is to prove just how 'educational content' mixed with 'comic book action and illustration' helps kids memorize important engineering concepts. 
 
-Does a young newb (or adult) retain information differently with this format than plain text or video? How often before a reader returns to the material without being pressured? Does this format help draw kids in as do their other devices? And so on.
+Does a young newb (or even an adult) retain information differently with this format? What's unique about it compared to plain text or video? How often before a reader returns to the material without being pressured? Does this format help draw kids in over their other devices?
 
-Gamifyed is the first mover to go full-speed ahead with this idea. With the help of former Marvel artists, DC writers and top ECE practicioners our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. We want this to be the book you can't put down; the path to some serious techno enlighment.
+Gamifyed is the first mover to go full-speed ahead with this idea. With the help of former Marvel artists, DC writers and top ECE practicioners our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. Gamifyed wants this to be the book you can't put down; the path to some serious techno enlighment, a segway to some serious hacking abilities.
 
-Something else to note is that editors of this book are often shocked at the some of direction I've taken as a writer, whether it be how I'm using the word 'hacker' or how I've chosen to depict the industry. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture, failures and nightmare situations in an educational text book."
+Editors of this book are often shocked at the some of direction I've taken as a writer; whether it be how I'm using the word 'hacker' or how I've chosen to depict the industry. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture, failures and nightmare situations in an educational text book!"
 
-I disagree. This book isn't necessarily for toddlers. I do it because the books meant to attract teenagers before it's too late. It's also meant to be refreshingly honest. Actually, I think that this sort of edge could be what very well ends up aiding in my ultimate goal; to make certain concepts stand out.
+I disagree. This book isn't necessarily for toddlers either. The book is meant to attract teenagers before it's too late. It's also meant to be refreshingly honest. Actually I think that this sort of edge could be what very well ends up aiding in my ultimate goal; to be the best book for grasping the field of ECE.
 
-Look, I'm not trying to brainwash your kid. It just so happens that when I looked back at the history of ECE I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. It's competition. And as a fifteen year industry veteran, I can tell you that communication, politics and street smarts as just as important as being a geek.
+It just so happens that when I looked back at the history of ECE I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. In a nutshell, the field is all about competition. Communication, politics and street smarts are just as important as being a geek, so I figure this is how we'll fill the pages up.
 
-Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged by JP Morgan and his sone, even DaVinci lived in fear so he wrote his notes backwareds. Infact, the list of scientests who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell.
+To be specific, Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged by JP Morgan and his son, even DaVinci lived in fear so he wrote his notes backwareds. Infact, the list of scientests who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell. 
 
-Incidentally all this drama and sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure and so forth.  
+All this drama and sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure, movement and so forth.  
 
 I want to make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. In some ways, I want to go where no textbook has ever gone before.
 
