@@ -12,9 +12,9 @@ Here's what I'd like for you to do for me:
 
 **PREFACE**
 
-The Node Chronicles started up because of the numerous failed attempts I had at getting my own kids interested in computer science. 
+I created The Node Chronicles because of the failed attempts I experienced trying to get my own kids interested in computer science. 
 
-What started as an experiment at infusing fundamentals with rich graphics has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
+What started as a simple experiment with fundamentals and graphic content has now become a globally recognized platform embraced by teachers, parents and young innovators everywhere.
 
 Now that I've been able to form a company, research has become forensic. Our resaerch teams goal is to prove just how 'educational content' mixed with 'contextual comic book action and illustrations' could help kids memorize important engineering concepts. 
 
