@@ -39,8 +39,7 @@ CHAPTER 1
 
 * **Gou:** Promo-codes dummy, I paid five bucks each and bought 50 of em.
 
-
-
+#### Basic Diagram of a PI
 
 ## PI Setup
 
@@ -48,6 +47,14 @@ CHAPTER 1
 | -- |
 | |
 
+
+## Operating Systems
+
+An operating system is just a very complicated program. It has the job of organizing other programs on a computer, including sharing the computer's time, memory, hardware and other resources. Some big families of desktop operating systems that you may have heard of include GNU/Linux, Mac OS X and Microsoft Windows. Other devices also need operating systems such as phones, which may use operating systems such as Android, iOS and Windows Phone.
+
+Since the operating system has to interact with the hardware on a computer system, it also has to have specific knowledge of the hardware on a system. To allow operating systems to be used on a variety of computers, the concept of drivers was invented. Drivers are small bits of code that can be added and removed from the operating system in order to allow the operating system to talk to a particular piece of hardware. In this course, we do not cover how to create such removable drivers, and instead focus on making specific ones for the Raspberry Pi.
+
+There are all kinds of different designs of operating systems, and this course can only just scratch the surface. In this course we will mainly focus on getting the operating system to interact with a variety of bits of hardware, as this is often the trickiest bit, and the part for which the least documentation and help exists online.
 
 ## PI Performance
 
