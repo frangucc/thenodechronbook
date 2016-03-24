@@ -20,15 +20,7 @@ What started off as a problem a few years ago has translated into some highly fo
 
 How well can a young newb (or adult) retain information after reading technical information in graphic novel form with rich illustrations as opposed to straight text or video? How often before a kid returns to the material without being pressured? Does this format help draw kids in as do their other devices? And so on.
 
-At the time of this writing in 2016 I'd still consider this all to be quite expiramental. Soon however, this won't be the case, it will either be considered an epic failure, show negligible improvement or dramatically improve the way newbs pick this stuff up. I'm hoping for the later, for everyones sake.
-
-It's going to be an ongoing endeavor for my company to know these things. To help support our research we encourage observers, teachers and parents who have provided this opportunity for their kids to keep a close eye on readers and report back to us what you're finding. At it's core, the entire novel is built ontop of a cohesive series of lessons on the Raspberry PI, Arduino, circuitry, programming, the Internet and dozens of scientific sensors. The creative portion tends to be inspired by historical events, realistic situations or the inevitable.
-
 Gamifyed is the first mover to go full-speed ahead with this idea. With the help of former Marvel artists, DC writers and top ECE practicioners our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. 
-
-Almost everything Gou and his friends demonstrate in this book can be repeated by the reader. The book features a ton of QR code code extended content, open source code snippets and a flagship feature, expansion packs. Expansion Packs are physical kits that go along with each chapter. The goal is to offer reasonably priced, a la carte hardware packs to give readers the real-world hands on experience they need to succeed in this field. In the tech industry, it's all about what you have done and demonstrating tangible abilities - so let's not be hasty here. 
-
-While many say it can't be done, I believe there's a ton of resistence for readers of all ages and levels. And we take great pride in our quality assurance process, so part of our goal is to impress the buffs. All of the tutorials are guaranteed to work or be supported or my name is mud.
 
 Something else to note is that editors of this book are often shocked at the some of direction I've taken as a writer, whether it be how I'm using the word 'hacker' or how I've chosen to depict the industry. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture, failures and nightmare situations in an educational text book."
 
@@ -44,9 +36,6 @@ Incidentally all this drama and sacrafice makes for some rich inspiration for wh
 
 So as you read along know that as an author I try my best to carefully blend the graphic novel format with education.
 
-And know that I don't want this to be anything like Dora the Explorer or Little Einstiens, simply because it may seem taboo to mix education with something a bit edgy. I would say the book teeters on the brink of PG and PG-13. Someplace in-between.
-
-So if you are still wondering, the answer is YES. This book is definitely a shade darker than what you may have been expecting. We will be weaving low level technical tutorials with common patterns in sabotage, techno politics, bad investors, copycats, greed, splurging, being rich, making poor decisions, government violations, cyber security, privacy concerns, corruption and so forth. We need stories that aren't all hunky dory - we need to give them a sense of real world urgency to get them to follow through with supplemental projects. Cool tech just isn't enough, just ask any millenial or generation z constituant. 
 
 We will make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. We will go where no textbook has ever gone before.
 
@@ -84,7 +73,18 @@ So I digress; If you're looking for something less gritty, try Kano or the Manga
 
 It's honest, tastefully gritty and perhaps the most entertaining program for 10-18 year olds who aren't naive and thirst for something more. 
 
-Franchino
+
+** Target Audience**
+
+Almost everything Gou and his friends demonstrate in this book can be repeated by the reader. The book features a ton of QR code code extended content, open source code snippets and a flagship feature, expansion packs. Expansion Packs are physical kits that go along with each chapter. The goal is to offer reasonably priced, a la carte hardware packs to give readers the real-world hands on experience they need to succeed in this field. In the tech industry, it's all about what you have done and demonstrating tangible abilities - so let's not be hasty here. 
+
+While many say it can't be done, I believe there's a ton of resistence for readers of all ages and levels. And we take great pride in our quality assurance process, so part of our goal is to impress the buffs. All of the tutorials are guaranteed to work or be supported or my name is mud.
+
+** Beta Feedback **
+
+At the time of this writing in 2016 I'd still consider this all to be quite expiramental. Soon however, this won't be the case, it will either be considered an epic failure, show negligible improvement or dramatically improve the way newbs pick this stuff up. I'm hoping for the later, for everyones sake.
+
+It's going to be an ongoing endeavor for my company to know these things. To help support our research we encourage observers, teachers and parents who have provided this opportunity for their kids to keep a close eye on readers and report back to us what you're finding. At it's core, the entire novel is built ontop of a cohesive series of lessons on the Raspberry PI, Arduino, circuitry, programming, the Internet and dozens of scientific sensors. The creative portion tends to be inspired by historical events, realistic situations or the inevitable.
 
 
 | PAGES |
