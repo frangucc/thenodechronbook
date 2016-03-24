@@ -32,7 +32,7 @@ Alan Turing, the inventor of the modern computer was castrated for being gay in 
 
 Incidentally all this drama and sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure and so forth.  
 
-I want to make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. We will go where no textbook has ever gone before.
+I want to make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. In some ways, I want to go where no textbook has ever gone before.
 
 As another possible example, right now in San Francisco, in the year 2016, the city is practically at a techno civil war amongst those who make big money and those who work regular blue collar jobs. The blue collar employees are sick of the techno what-nots and their arrogant attitudes and inflated cost of living. The blue collar workers have even abandoned all technology and will go as far as to ridicule the computer geeks who walk the streets. I haven't quite figured out how this helps our book, but it's reality and we think it could help thicken our plot somehow.
 
