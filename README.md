@@ -34,10 +34,7 @@ Individual innovators have been screwed over by vulture capitalists since the be
 
 Incidentally all this drama and sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure and so forth.  
 
-So as you read along know that as an author I try my best to carefully blend the graphic novel format with education.
-
-
-We will make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. We will go where no textbook has ever gone before.
+I want to make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. We will go where no textbook has ever gone before.
 
 As another possible example, right now in San Francisco, in the year 2016, the city is practically at a techno civil war amongst those who make big money and those who work regular blue collar jobs. The blue collar employees are sick of the techno what-nots and their arrogant attitudes and inflated cost of living. The blue collar workers have even abandoned all technology and will go as far as to ridicule the computer geeks who walk the streets. I haven't quite figured out how this helps our book, but it's reality and we think it could help thicken our plot somehow.
 
@@ -55,7 +52,6 @@ And that's what this book is really about. The 'missing curriculum' - it's about
 
 So I digress; If you're looking for something less gritty, try Kano or the Manga Guides, it looks and feels like something for 2nd and 5th graders (although I would read for yourself first and judge if you're tareting younger adolescents). If you're looking for something seriously hardcore that's built from the ground up with careful research, something that can genuinely build a real interest, choose Gamifyed and The Node Chronicles. 
 
-It's honest, tastefully gritty and perhaps the most entertaining program for 10-18 year olds who aren't naive and thirst for something more. 
 
 
 ** Target Audience**
