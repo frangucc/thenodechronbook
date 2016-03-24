@@ -54,6 +54,8 @@ We've all heard the story about the programmer who wrote his first program on hi
 
 The most important takeaway from my teams researh interviewing hundreds of kids, parents and accomplished industry professionals is that great STEM majors ultimately will attribute their aha moments and milestones in learning to something much deeper; certain memories in their early life or areas they got stuck that they wish they could have punched through on sooner. For homes that lack this rich early life culture, The Node Chronicles is here to provide them. 
 
+Individual innovators have been screwed over by vulture capitalists and snakes since the beginning of time. Their ideas are stolen, patents infringed, employees go rogue, the powers that be are always stepping in exhibiting their greed and will to control the industry. At the same time, the venture capitalists are essential. And the discoragers that beat you down only make you tougher. So in the end, we also need to teach how to navigate these waters with the help of good mentors, advisors and resources is what makes some engineers successful and others so mundane. 
+
 
 
 
