@@ -12,7 +12,7 @@ Here's what I'd like for you to do for me:
 
 **PREFACE**
 
-The Node Chronicles were created because of numerous failed attempts at getting my own grammer school children interested in programming and hardware. 
+The Node Chronicles started up because of the numerous failed attempts I had at getting my own kids interested in computer science. 
 
 The idea of infusing fundamentals with high end graphics started in my home and has now become a globally recognized platform used by teachers, parents and young innovators everywhere. To what extent it's effective is still in question and the honess is on you to help us validate how well it performs. 
 
