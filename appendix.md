@@ -38,4 +38,22 @@ Almost everything Gou and his friends demonstrate in this book can be repeated b
 While many say it can't be done, I believe there's a ton of resistence for readers of all ages and levels. And we take great pride in our quality assurance process, so part of our goal is to impress the buffs. All of the tutorials are guaranteed to work or be supported or my name is mud.
 
 
+Overall, as the author, I try to keep the cast relatively neutral on certain world views but that doesn't mean they aren't addressed. The best I can do is demonstrate that the good cast members have sophisticated conciouses with complex reasoning abilities while others make poor decisions and suffer. 
+
+At the end of the day this isn't me taking my chance at corrupting your kids. This is about me doing what I felt I had to do to get my own childrens attention and formatting it in a way that I believe could make a huge difference in getting kids at younger ages to adopt.
+
+The truth is that 8 out of 10 kids under 15 in this country would much rather be playing or socializing than studying computers. I find this problem to be an opportunity to try something bold and new.  I see it as an opportunity to hijack the things they love to teach them things they should know. Tactically, I see it as a way to help them memorize things by association to realistic situations in life they already are exposed to.
+
+The dramatic or edgy situations and dialogue are meant to keep you're kids interested for their own good. They are sometimes used to anchor important concepts or even break up the monotony of complexity. ECE is one of the most complex fields known to man. Paradoxically, once you understand the hard parts, it becomes second nature and the sky is the limit. 
+
+The moral of the story is that there are consequences to everything you do, even in science and engineering, a field that should be free of peril. Keeping quiet about your business and remain humble until you're proven is always a good thing. [Just take the Tao of Programming for example](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjk26HEscbLAhXInIMKHSa2C2wQFggdMAA&url=http%3A%2F%2Fwww.mit.edu%2F~xela%2Ftao.html&usg=AFQjCNEUxXeIMdY1u9TUk4LmKS3T3CoMNA&sig2=IStx6t9GxRo-INzO4wU2ug), the 5 page essay almost all MIT students read. It's a book of wisdom on how to handle pressure, stress, anxiety, horrible bosses and so forth. 
+
+Having a moral compass is mandatory if you want to lead others and knowing who to trust is essential when capitalizing on breakthrough technology. Working hard is vital and powering through with extreme levels of warewithall are the only way you'll succeed in this industry. At the end of the day, these are the fundamentals I believe in personally and want to communicate through my writing.
+
+We've all heard the story about the programmer who wrote his first program on his TI 85 or hacked into his highschool network and changed their grades - but that's all BS in my opinion. What we don't hear are the more intimate stories about how ones parents or sibling influenced them at a young age, specifically - or what particular moments sparked real breakthroughs in learning to code or mastering circuitry. 
+
+The most important takeaway from my teams researh interviewing hundreds of kids, parents and accomplished industry professionals is that great STEM majors ultimately will attribute their aha moments and milestones in learning to something much deeper; certain memories in their early life or areas they got stuck that they wish they could have punched through on sooner. For homes that lack this rich early life culture, The Node Chronicles is here to provide them. 
+
+
+
 
