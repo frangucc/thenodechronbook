@@ -26,7 +26,7 @@ Editors of this book are often shocked at the some of direction I've taken as a 
 
 I disagree. This book isn't necessarily for toddlers either. The book is meant to attract teenagers before it's too late. It's also meant to be refreshingly honest. Actually I think that this sort of edge could be what very well ends up aiding in my ultimate goal; to be the best book for grasping the field of ECE.
 
-It just so happens that when I looked back at the history of ECE I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. In a nutshell, the field is all about competition. Communication, politics and street smarts are just as important as being a geek, so I figure this is how we'll fill the pages up.
+It just so happens that when I looked back at the history of ECE I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. In a nutshell, the field is all about competition. Communication, politics and street smarts are just as important as being a geek.
 
 To be specific, Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged by JP Morgan and his son, even DaVinci lived in fear so he wrote his notes backwareds. Infact, the list of scientests who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell. 
 
@@ -34,29 +34,29 @@ All this drama and sacrafice makes for some rich inspiration for what we need as
 
 I want to make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. In some ways, I want to go where no textbook has ever gone before.
 
-As another possible example, right now in San Francisco, in the year 2016, the city is practically at a techno civil war amongst those who make big money and those who work regular blue collar jobs. The blue collar employees are sick of the techno what-nots and their arrogant attitudes and inflated cost of living. The blue collar workers have even abandoned all technology and will go as far as to ridicule the computer geeks who walk the streets. I haven't quite figured out how this helps our book, but it's reality and we think it could help thicken our plot somehow.
+As another possible example, right now in San Francisco, in the year 2016, the city is practically at a techno civil war amongst those who make big money and those who work regular blue collar jobs. The blue collar employees are sick of the techno what-nots and their arrogant attitudes and inflated cost of living. The blue collar workers have even abandoned all technology and will go as far as to ridicule the computer geeks who walk the streets. 
 
-And let's not forget, the movie Big Hero 6 starts off in an illegal robot gambling ring, a main character who's parents and brother die while the entire plot is based on deceit and corrupt power from investors and even the education system itself.
+And let's not forget the movie 'Big Hero 6' starts off in an illegal robot gambling ring, a main character who's parents and brother die and the entire plot is based on deceit and corrupt power from investors and even the education system itself.
 
-I'll often tell my students after watching clips of the movie The Martian that Mark Watney survies on Mars only because of his advanced knowledge of ECE and Science.
+I'll often tell my students after watching clips of the movie 'The Martian' that Mark Watney survies on Mars only because of his advanced knowledge of ECE and Science.
 
-I do draw the line however in some spots. I'm not interested in teaching about sex, drugs or in making the main characters opinionated about certain politics to where their views become overly influential in areas such as religion, sexual orientation or violence. I believe that some things should remain a mystery for kids as long as they can or be left for the family to teach. 
+I do draw the line however in some spots. I'm not interested in teaching about sex, drugs or in making the main characters negatively opinionated about religion, sexual orientation or violence. I believe that some things should remain a mystery for kids as well.
 
-In a recent interview of a 18 year old Univeristy of Illinois sophmore ECE major, it was noted that 'pointers' in programming had repetedly haunted him since the day he overheard his father fiercely arguing with his apprentice about their significance. Pointers are a really complex subject in low-level programming. It wasn't until 6 years later that Rushi had conquered them and it was if he had a vendetta against them. Seventeen is a really early age to understand 'pointers' in the way Rushi had, and it was because each year and from time to time, he would revisit them, trying each time to comprehend them until one day on an impossible project at school it just clicked.  
+In a recent interview of a 18 year old Univeristy of Illinois sophmore ECE major it was noted that 'pointers' in programming had repetedly haunted him since the day he overheard his father fiercely arguing with his apprentice about their significance. Pointers are a really complex subject in low-level programming. It wasn't until 6 years later that Rushi had conquered them and it was if he had a vendetta against them. Seventeen is a really early age to understand 'pointers' in the way Rushi had, and it was because each year and from time to time, he would revisit them, trying each time to comprehend them until one day on an impossible project at school it just clicked.  
 
-Passing down a careful blend of must know topics tied to dramatic situations is what makes this format so unique to me. I can do with it what regular text books have never been able to and I can re-create these moments with intense illustrations and action. Major textbook publishers would never dare mix controversial values, deep politics and grit with learning - let alone comic books. And I don't disagree. School isn't a place for super off topic, expiramental indy written content by enlarge. But school also isn't a place for developing prodigies now is it. 
+Passing down a careful blend of must know topics tied to dramatic situations is what makes this format so unique to me. I can do with it what regular text books have never been able to and I can re-create these moments with intense illustrations and action. Major textbook publishers would never dare mix controversial values, deep politics and grit with learning - let alone comic books. And I don't disagree. School isn't a place for super off topic, expiramental indy written content by enlarge. But the general curriculum also isn't a place for developing prodigies now is it?
 
-And that's what this book is really about. The 'missing curriculum' - it's about not letting our kids get any older without understanding certain things and what it means to be equipped with the power of ECE. The young mind is powerful, kids exhibit extreme memory and learning capabilities when they play video games or sports.
+And that's what this book is really about: the 'missing curriculum' - it's about not letting our kids get any older without understanding certain things and what it means to be equipped with the power of ECE. The young mind is powerful, kids exhibit extreme memory and learning capabilities when they play video games or sports.
 
-So I digress; If you're looking for something less gritty, try Kano or the Manga Guides, it looks and feels like something for 2nd and 5th graders (although I would read for yourself first and judge if you're tareting younger adolescents). If you're looking for something seriously hardcore that's built from the ground up with careful research, something that can genuinely build a real interest, choose Gamifyed and The Node Chronicles. 
-
+So I digress; If you're looking for something less gritty, try Kano or the Manga Guides. If you're looking for something seriously hardcore that's built from the ground up with careful research, something that can genuinely build a real interest, choose Gamifyed and The Node Chronicles. 
 
 
 ** Target Audience**
 
-Almost everything Gou and his friends demonstrate in this book can be repeated by the reader. The book features a ton of QR code code extended content, open source code snippets and a flagship feature, expansion packs. Expansion Packs are physical kits that go along with each chapter. The goal is to offer reasonably priced, a la carte hardware packs to give readers the real-world hands on experience they need to succeed in this field. In the tech industry, it's all about what you have done and demonstrating tangible abilities - so let's not be hasty here. 
+The simple answer is 9 to 19 year olds.
 
-While many say it can't be done, I believe there's a ton of resistence for readers of all ages and levels. And we take great pride in our quality assurance process, so part of our goal is to impress the buffs. All of the tutorials are guaranteed to work or be supported or my name is mud.
+The more complicated answer is: almost everything Gou and his friends demonstrate in this book can be repeated by the reader. The book features a ton of QR code code extended content, open source code snippets and a flagship feature, expansion packs. Expansion Packs are physical kits that go along with each chapter. The goal is to offer reasonably priced, a la carte hardware packs to give readers the real-world hands on experience they need to succeed in this field. In the tech industry, it's all about what you have done and demonstrating tangible abilities - so let's not be hasty here. Anyone capable of reading a comic book will benefit from this book.
+  
 
 ** Beta Feedback **
 
@@ -67,10 +67,10 @@ It's going to be an ongoing endeavor for my company to know these things. To hel
 
 | PAGES |
 | -- |
-| SPLASH PAGE | Undecided |
-| PAGE 2 & 3 | Tesla, Draft Complete |
-| PAGE 4 & 5 | Turing, Draft Complete |
-| PAGE 6-10 | Gou & Nōn Establishing Scene @ the Basement Headquarters |
+| PAGE 0 & 1 | Inside cover and Splash Page |
+| PAGE 2-5 | Tesla, Draft Complete |
+| PAGE 6-10 | Turing, Draft Complete |
+| PAGE 10-20 | Gou & Nōn Establishing Scene @ the Basement Headquarters |
 
 &nbsp;
 
@@ -109,7 +109,7 @@ This is still a work in progress - splash page should act as a second cover for 
 THE INTRODUCTION CHAPTER
 ## Stealth Mode
 
-PAGE 2 & 3
+PAGE 2-6
 
 ** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
 
@@ -183,7 +183,7 @@ Also, remember that we are writing a graphic novel, and there are bad guys, susp
 I plan to fully test this hypothesis with our beta audiences until I find imperical evidence that it hurt sales and our overall mission. So for now, do not lump us into a grammar school friendly book. This is the anti-school book for hackers looking for some real world views of the field."
 
 ---
-PAGE 9, 10, 11, 12
+PAGE 7-10
 
 ** THE NODE CHRONICLES INTRO: ** Meanwhile, almost 40 years later, Alan Turing was unjustly prosecuted in 1952 for what most people today do not regard as a criminal act.  Turing accepted an alternative, yet far more barbaric sentence rather than prison.
 
@@ -277,7 +277,7 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 PRESENT DAY
 
-PAGE 6, 7, 8, 9, 10
+PAGE 11-20
 
 ** THE NODE CHRONICLES INTRO: ** Gou and his brother Nōn are having a mixed conversation in their secret basement headqaurters about their father, hacking and some of the cool stuff Gou's been setting up around the house. You get a sense for what sorts of projects Gou's working on and his relationship with his father and siblings.
 
@@ -294,7 +294,7 @@ Eventually, Gou's father teams up with Gou after snapping out of his funk. This 
 
 ---
 
-PAGE 6
+PAGE 11
 
 > **PANEL ONE** - THE FIRST OF A SERIES OF REVEALING SHOTS GOING FROM FAR TO NEAR OF GOU AND NON IN THEIR HIGHLY SECRETIVE BASEMENT HEADQUARTERS. BEHIND THE STAIRCASE AND AROUND THE BEND OF THE LARGE BASEMENT ROOM, A WALL FILLED WITH STORED STUFF EMERGES. DOZES OF HUGE BOXES STACKED TO THE CEILING REVEALSE GLIMSES OF LIGHT FROM THE CRACKS WHERE THE EDGES OF EACH BOX MEET, RESEMBLING THE OUTLINE OF A DOOR BEHIND THE BOXES. THE BOYS HAVE MASKED AN ENTIRE WALL WITH A DOOR AS IF THE BASEMENT ENDED RIGHT THERE (THE LIGHT IS ONLY ON BECAUSE THEY ARE IN THERE WORKING). WHEN THE CORRECT BOX IS MOVED, A HOLE LEADS TO A DOOR, WHICH ONCE ENTERED OPENS UP INTO GOU'S SECRET BASEMENT HEADQUARTERS (BHQ). IT'S HOW THEY GET IN AND OUT. ONLY THE TWO BROTHERS AT THIS POINT KNOW ABOUT THIS PLACE. SEE REFERENCES OF WHAT THIS BASEMENT COULD LOOK LIKE BELOW.
 
@@ -310,7 +310,7 @@ PAGE 6
 
 * **4 CAP:** By banning Gou from hacking on code and hardware, Chino had inadvertently created one of the youngest stealth mode hackers on the planet.
 
-PAGE 7
+PAGE 12
 
 > **PANEL ONE** - FULL PAGE PANEL. GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT. IF IT WORKS HIS BITCOIN MINING OPERATION WILL ACTUALLY BECOME PROFITABLE. HE'S TRYING TO SEE IF HE CAN RETROFIT OLD DESKTOP POWER SUPPLIES WITH RODIN COILS, A TOPIC MANY SAY IS PSUEDO SCIENCE. IN THIS MOMENT, WE SEE GOU TRIAGING OUT THE EXISTING COPPER COILS AND EXAMINING THEM UNDER A LIGHT. HE'S FAILED SEVERAL TIMES OF IT AND RODIN COILS ARE CONTROVERSIAL IN THE FIRST PLACE, [HOWEVER IF YOU LOOK THEM UP ON YOUTUBE](https://www.youtube.com/results?search_query=rodin+coil), YOU WILL FIND 50,000 EE'S EXPIRAMENTING WITH THEM. GOU'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. NON COULD GET IN TROUBLE JUST FOR BEING AROUND GOU IT'S THAT DANGEROUS. AND WHILE TOTALLY CHILL MOST OF THE TIME, YOU DON'T WANT TO PISS OFF CHINO, THEIR FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND THE INTERNAL WIRING OF THE POWER SOURCE AS HE SNIPS THE TWO WIRES CONNECTING THE EXISTING COPPER COIL TO THE BASE OF THE BATTERY. SEE REFERENCE MATERIALS BELOW FOR IMAGES OF THE INSIDE OF A POWER SOURCE AND A RODIN COIL.
 
@@ -318,7 +318,7 @@ PAGE 7
 
 ![](https://pbs.twimg.com/media/Cdh34XLUsAEUtKo.jpg)
 
-PAGE 8
+PAGE 13
 
 > **PANEL ONE** - FIRST EVER SCENE WITH GOU AND NON, THEY ARE INTRODUCED AS A PAIR, ONLY GOU IS CLEARLY THE LEAD HACKER IN THE FAMILY. NON'S JUGGLING A MINI SOCCER BALL (SIZE 1 FUTSAL BALL). AFTER ABOUT 60 JUGGLES HE SMASHES THE BALL WITH HIS RIGHT FOOT AND SMASHES AN OLD UNUSED MONITOR ON THE OTHER SIDE OF THE ROOM THEY ARE IN. NEXT TO HIM IS ARE SEVERAL STACKS OF OLD POWER SUPPLIES THAT HAVE BEEN RIPPED OUT OF A BUNCH OF OLD PCS. THE PCS ARE IN ANOTHER HUGE PILE, COVERED UP BY A TARP, JUST IN CASE.
 
@@ -360,7 +360,7 @@ PAGE 8
 
 * **6 CAP** Disguised as a normal thirteen year old boy, Gou is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
 
-PAGE 9
+PAGE 14
 
 > **PANEL ONE** - THE BOYS CONTINUE TO HACK, AND THE CAMERA BACKS OFF FROM THEM A LITTLE AS THEY CONTINUE TO CHAT.
 
@@ -427,7 +427,7 @@ PAGE 9
 
 * **12 CAP** TBD
 
-PAGE 10
+PAGE 15
 
 > **PANEL ONE** - AN ALERT IS TRIGGERD ON GOU'S CELL PHONE. IT GOES OFF WHILE ON HIS WORKSTATION, NEXT TO HIS LAPTOP. A BIRDSEYE VIEW OF HIS DESK IS SHOWN, WITH ALL HIS ELECTRONICS SCATTERED EVERYWHERE AND AN OCULUS RIFT OFF TO THE SIDE. A VIRTUAL REALITY HEADSET WE SEE GOU USE LATER IN THE BOOK.
 
