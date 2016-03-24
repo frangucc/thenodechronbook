@@ -302,7 +302,6 @@ PAGE 12
 
 * **1 CAP:** Swarn to be a normal boy and not to get caught up in computers and technology, Gou Sokyeo taught himself the art of electrical computer engineering against his fathers wishes. 
 
-![](https://pbs.twimg.com/media/Cdh34XLUsAEUtKo.jpg)
 
 PAGE 13
 
@@ -345,6 +344,10 @@ PAGE 13
 * **5.2 QR CODE** http://store.gamifyed.com/#/sonar-expansion-pack
 
 * **6 CAP** Disguised as a normal thirteen year old boy, Gou is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
+
+![](https://files.slack.com/files-pri/T0ELWSVMG-F0U44H9UM/nc_08_72.jpg)
+
+![](https://files.slack.com/files-pri/T0ELWSVMG-F0U3X8Y3Y/nc_09_72.jpg)
 
 PAGE 14
 
@@ -413,6 +416,8 @@ PAGE 14
 
 * **12 CAP** TBD
 
+![](https://files.slack.com/files-pri/T0ELWSVMG-F0U48GK8Q/nc_10_72.jpg)
+
 PAGE 15
 
 > **PANEL ONE** - AN ALERT IS TRIGGERD ON GOU'S CELL PHONE. IT GOES OFF WHILE ON HIS WORKSTATION, NEXT TO HIS LAPTOP. A BIRDSEYE VIEW OF HIS DESK IS SHOWN, WITH ALL HIS ELECTRONICS SCATTERED EVERYWHERE AND AN OCULUS RIFT OFF TO THE SIDE. A VIRTUAL REALITY HEADSET WE SEE GOU USE LATER IN THE BOOK.
@@ -435,7 +440,11 @@ PAGE 15
 
 * **6 CAP** Too good of a person, Vero deals with headache after headache helping to raise kids that aren't even hers. 
 
-| REFERENCE MATERIALS |
+![](https://files.slack.com/files-pri/T0ELWSVMG-F0U44JNSH/nc_11_72.jpg)
+
+
+
+| SECTION REFERENCE MATERIALS |
 | -- |
 | [Some basement inspiration](https://problemspaces.slack.com/archives/artists_and_animators/p1453769635000006) |
 | [Previous bluelines of Gou working on old Power Supplies](https://problemspaces.slack.com/files/asrigallarts/F0KETA1EE/pasted_image_at_2016_01_26_02_34_pm.png) |
@@ -443,63 +452,7 @@ PAGE 15
 | [A photo of an actual power supply's guts](https://problemspaces.slack.com/files/franchino/F0KC6BC1E/slack_for_ios_upload.jpg) |
 
 
----
 
-ADDITIONAL INTRODUCTION RESEARCH
-
-## The New Democratizers
-
-**SPECIAL GUEST CAST**
-
-* Lady Ada
-* Massimo Bansi
-* Elon Musk
-* Neil Tyson DeGrasse
-* Michio Kaku
-* RASP PI CREATOR
-* 5 more people
-
-![](https://pbs.twimg.com/media/Cdh9YvhUMAAv2kL.jpg:large)
-
-> One of the not-so-obvious side benefits of the miniaturization of electronics is that folks far removed from the realm of electronic engineering become comfortable with small electronic devices and think, “Wouldn’t it be neat if I had a [gizmo] that did…?” Back when computers were called “workstations” their inner workings seemed mysterious, complex, and expensive, and few consumers thought about how they could exploit the computational power. But now that the equivalent of a workstation fits into a hand-sized smartphone complete with a rechargeable power source and a high-definition screen,  software creation is appealing to a non-technical audience. There’s an app for seemingly everything, and even 10-year olds are creating them.
-
-[Artile on Democratization of Hardware](http://www.edn.com/electronics-blogs/powersource/4311918/Adafruit-Sparkfun-point-to-the-democratization-of-hardware)
-
-[Next Web Article on Dem. of Hardwrae](https://thenxtbet.wordpress.com/2014/03/26/is-democratization-of-hardware-the-next-big-wave-in-smartphones/)
-
-
-## The big corporations that revolutionized everything else
-
-* INTEL
-* IBM
-* APPLE
-* MOTOROLA
-* Add 2 others
-
-
-
-## A brief history of software and operating systems
-
-* Linux
-* Windows
-* OSX
-
-
-## The Main Cast
-
-* Gou Sokyeo
-* Nōn Sokyeo
-* Lilu
-* Chino Sokyeo
-* Vero
-* Michio
-* Ladybug
-* Lisa
-* Bonner
-* Ophir
-* Eric "Lefty" Kaufman
-* Brad Balder
-* Anonymous
 
 
 
