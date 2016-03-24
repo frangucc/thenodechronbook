@@ -205,10 +205,24 @@ Also, remember that we are writing a graphic novel, and there are bad guys, susp
 I plan to fully test this hypothesis with our beta audiences until I find imperical evidence that it hurt sales and our overall mission. So for now, do not lump us into a grammar school friendly book. This is the anti-school book for hackers looking for some real world views of the field."
 
 ---
-PAGE 4 & 5
+PAGE 9, 10, 11, 12
 
 ** THE NODE CHRONICLES INTRO: ** Meanwhile, almost 40 years later, Alan Turing was unjustly prosecuted in 1952 for what most people today do not regard as a criminal act.  Turing accepted an alternative, yet far more barbaric sentence rather than prison.
 
+#### Turing PART 1
+
+First part must talk about the turing machine and what he created and how he used it to defeat the Nazis. 
+
+| REFERENCES |
+| -- |
+| [How a Turing Machine Works](https://www.youtube.com/watch?v=dNRDvLACg5Q) |
+| [The Turying Full Story in under 2 minutes](https://www.youtube.com/watch?v=EhDBJ7Mym3I) | 
+
+
+
+#### Turing PART 2
+
+The second part of the Turing section is about how it all ends for him. 
 
 > **PANEL ONE** - ALAN TURING IS BEING ABUSED IN AN INSANE ASYLUM, HE IS WEARING A STRAIGHT JACKED AND BEING TAKEN TO THE PLACE WHERE HE WILL BE CASTRATED (WE DON'T SAY CASTRATED IN THE DIALOGUE, BUT THIS IS WHAT REALLY HAPPEND TO THE INVENTOR OF THE MODERN DAY COMPUTER). HE IS FIRST SEEN THROUGH THE SMALL FACE PANEL OF THE DOOR FOR THE INSANE ASYLUM HE IS IN.
 
