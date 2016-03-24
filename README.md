@@ -14,13 +14,13 @@ Here's what I'd like for you to do for me:
 
 The Node Chronicles started up because of the numerous failed attempts I had at getting my own kids interested in computer science. 
 
-What started as an expirament at infusing fundamentals with rich graphics has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
+What started as an experiment at infusing fundamentals with rich graphics has now become a globally recognized platform used by teachers, parents and young innovators everywhere.
 
-Now that I've been able to form a company, research has become forensic. Our resaerch teams goal is to prove just how 'educational content' mixed with 'comic book action and illustration' helps kids memorize important engineering concepts. 
+Now that I've been able to form a company, research has become forensic. Our resaerch teams goal is to prove just how 'educational content' mixed with 'contextual comic book action and illustrations' could help kids memorize important engineering concepts. 
 
 Does a young newb (or even an adult) retain information differently with this format? What's unique about it compared to plain text or video? How often before a reader returns to the material without being pressured? Does this format help draw kids in over their other devices?
 
-Gamifyed is the first mover to go full-speed ahead with this idea. With the help of former Marvel artists, DC writers and top ECE practicioners our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. Gamifyed wants this to be the book you can't put down; the path to some serious techno enlighment, a segway to some serious hacking abilities.
+Gamifyed is the first mover to go full-speed ahead with this idea. With the help of former Marvel artists, DC writers and top ECE practitioners our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. Gamifyed wants this to be the book you can't put down; the path to some serious techno enlightenment, a segway to some serious hacking abilities.
 
 Editors of this book are often shocked at the some of direction I've taken as a writer; whether it be how I'm using the word 'hacker' or how I've chosen to depict the industry. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture, failures and nightmare situations in an educational text book!"
 
@@ -28,25 +28,25 @@ I disagree. This book isn't necessarily for toddlers either. The book is meant t
 
 It just so happens that when I looked back at the history of ECE I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. In a nutshell, the field is all about competition. Communication, politics and street smarts are just as important as being a geek.
 
-To be specific, Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged by JP Morgan and his son, even DaVinci lived in fear so he wrote his notes backwareds. Infact, the list of scientests who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell. 
+To be specific, Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged by JP Morgan and his son, even DaVinci lived in fear so he wrote his notes backwards. Infact, the list of scientists who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell. 
 
 All this drama and sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure, movement and so forth.  
 
 I want to make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. In some ways, I want to go where no textbook has ever gone before.
 
-As another possible example, right now in San Francisco, in the year 2016, the city is practically at a techno civil war amongst those who make big money and those who work regular blue collar jobs. The blue collar employees are sick of the techno what-nots and their arrogant attitudes and inflated cost of living. The blue collar workers have even abandoned all technology and will go as far as to ridicule the computer geeks who walk the streets. 
+As another possible example, right now in San Francisco, in the year 2016, the city is practically at a techno civil war among those who make big money and those who work regular blue collar jobs. The blue collar employees are sick of the techno what-nots and their arrogant attitudes and inflated cost of living. The blue collar workers have even abandoned all technology and will go as far as to ridicule the computer geeks who walk the streets. 
 
 And let's not forget the movie 'Big Hero 6' starts off in an illegal robot gambling ring, a main character who's parents and brother die and the entire plot is based on deceit and corrupt power from investors and even the education system itself.
 
-I'll often tell my students after watching clips of the movie 'The Martian' that Mark Watney survies on Mars only because of his advanced knowledge of ECE and Science.
+I'll often tell my students after watching clips of the movie 'The Martian' that Mark Watney survives on Mars only because of his advanced knowledge of ECE and Science.
 
 I do draw the line however in some spots. I'm not interested in teaching about sex, drugs or in making the main characters negatively opinionated about religion, sexual orientation or violence. I believe that some things should remain a mystery for kids as well.
 
-In a recent interview of a 18 year old Univeristy of Illinois sophmore ECE major it was noted that 'pointers' in programming had repetedly haunted him since the day he overheard his father fiercely arguing with his apprentice about their significance. Pointers are a really complex subject in low-level programming. It wasn't until 6 years later that Rushi had conquered them and it was if he had a vendetta against them. Seventeen is a really early age to understand 'pointers' in the way Rushi had, and it was because each year and from time to time, he would revisit them, trying each time to comprehend them until one day on an impossible project at school it just clicked.  
+In a recent interview of a 18 year old Univeristy of Illinois sophmore ECE major it was noted that 'pointers' in programming had repeatedly haunted him since the day he overheard his father fiercely arguing with his apprentice about their significance. Pointers are a really complex subject in low-level programming. It wasn't until 6 years later that Rushi had conquered them and it was if he had a vendetta against them. Seventeen is a really early age to understand 'pointers' in the way Rushi had, and it was because each year and from time to time, he would revisit them, trying each time to comprehend them until one day on an impossible project at school it just clicked.  
 
-Passing down a careful blend of must know topics tied to dramatic situations is what makes this format so unique to me. I can do with it what regular text books have never been able to and I can re-create these moments with intense illustrations and action. Major textbook publishers would never dare mix controversial values, deep politics and grit with learning - let alone comic books. And I don't disagree. School isn't a place for super off topic, expiramental indy written content by enlarge. But the general curriculum also isn't a place for developing prodigies now is it?
+Passing down a careful blend of must know topics tied to dramatic situations is what makes this format so unique to me. I can do with it what regular text books have never been able to and I can re-create these moments with intense illustrations and action. Major textbook publishers would never dare mix controversial values, deep politics and grit with learning - let alone comic books. And I don't disagree. School isn't a place for super off topic, experimental indy written content by enlarge. But the general curriculum also isn't a place for developing prodigies now is it?
 
-And that's what this book is really about: the 'missing curriculum' - it's about not letting our kids get any older without understanding certain things and what it means to be equipped with the power of ECE. The young mind is powerful, kids exhibit extreme memory and learning capabilities when they play video games or sports.
+And that's what this book is really about: the 'missing curriculum - it's about not letting our kids get any older without understanding certain things and what it means to be equipped with the power of ECE. The young mind is powerful, kids exhibit extreme memory and learning capabilities when they play video games or sports.
 
 So I digress; If you're looking for something less gritty, try Kano or the Manga Guides. If you're looking for something seriously hardcore that's built from the ground up with careful research, something that can genuinely build a real interest, choose Gamifyed and The Node Chronicles. 
 
@@ -60,7 +60,7 @@ The more complicated answer is: almost everything Gou and his friends demonstrat
 
 ** Beta Feedback **
 
-At the time of this writing in 2016 I'd still consider this all to be quite expiramental. Soon however, this won't be the case, it will either be considered an epic failure, show negligible improvement or dramatically improve the way newbs pick this stuff up. I'm hoping for the later, for everyones sake.
+At the time of this writing in 2016 I'd still consider this all to be quite experimental. Soon however, this won't be the case, it will either be considered an epic failure, show negligible improvement or dramatically improve the way newbs pick this stuff up. I'm hoping for the later, for everyone's sake.
 
 It's going to be an ongoing endeavor for my company to know these things. To help support our research we encourage observers, teachers and parents who have provided this opportunity for their kids to keep a close eye on readers and report back to us what you're finding. At it's core, the entire novel is built ontop of a cohesive series of lessons on the Raspberry PI, Arduino, circuitry, programming, the Internet and dozens of scientific sensors. The creative portion tends to be inspired by historical events, realistic situations or the inevitable.
 
@@ -162,11 +162,11 @@ CURRENT BLUE LINES
 ---
 **Segway to the Alan Turing section:**
 
-Meanwhile, almost 40 years later, Alan Turing was prosecuted in 1952 for homosexual acts, when such behaviour was still ****a criminal act in the UK. He accepted treatment with DES (chemical castration) as an alternative to prison. 
+Meanwhile, almost 40 years later, Alan Turing was prosecuted in 1952 for homosexual acts, when such behavior was still ****a criminal act in the UK. He accepted treatment with DES (chemical castration) as an alternative to prison. 
 
 Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. An inquest determined his death as suicide, but it has been noted that the known evidence is equally consistent with accidental poisoning.
 
-Alan Turing invented the turing machine to crack Nazi code generated by their infamouse Enigma Machine. By deciphering encrypted messages captured over the air waves, Turing helped the opposition learn the Nazi's plans and positining for attack. The turing machine would later become the premise of every modern computer. Finite State Machines are what interprets the binary system of all mainstream hardware and operating systems to this very day. He is considered one of the most significant inventors of the 20th century. 
+Alan Turing invented the turing machine to crack Nazi code generated by their infamous Enigma Machine. By deciphering encrypted messages captured over the air waves, Turing helped the opposition learn the Nazi's plans and positioning for attack. The turing machine would later become the premise of every modern computer. Finite State Machines are what interprets the binary system of all mainstream hardware and operating systems to this very day. He is considered one of the most significant inventors of the 20th century. 
 
 ![](https://photos-1.dropbox.com/t/2/AAAxJf7cXm6wifTfF_PA_kd8G5OgvaX1YKJ8KCeQiCVp9Q/12/185319728/jpeg/32x32/3/1458860400/0/2/turing_machine_imitation_game.jpg/EIDm1YwBGDwgBygH/JoKX44Hv9OJcabsUEOWIaQmqPHn1xNZUVE0OGPS-Jq0?size_mode=3&size=1280x960)
 
