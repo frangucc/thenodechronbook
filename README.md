@@ -16,9 +16,7 @@ I created The Node Chronicles because of the failed attempts I experienced tryin
 
 What started as a simple experiment with fundamentals and graphic content has now become a globally recognized platform embraced by teachers, parents and young innovators everywhere.
 
-Now that I've been able to form a company, research has become forensic. Our resaerch teams goal is to prove just how 'educational content' mixed with 'contextual comic book action and illustrations' could help kids memorize important engineering concepts. 
-
-Does a young newb (or even an adult) retain information differently with this format? What's unique about it compared to plain text or video? How often before a reader returns to the material without being pressured? Does this format help draw kids in over their other devices?
+It's been 3 years since that first test and research become much more forensic. Does a newb (or even an adult) retain information differently with this format? Does this format help draw kids in over their other devices? How exactly should we layer in complexity for the different age groups? 
 
 Gamifyed is the first mover to go full-speed ahead with this idea. With the help of former Marvel artists, DC writers and top ECE practitioners our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. Gamifyed wants this to be the book you can't put down; the path to some serious techno enlightenment, a segway to some serious hacking abilities.
 
@@ -93,7 +91,7 @@ This is still a work in progress - splash page should act as a second cover for 
 ---
 
 
-> Welcome to the Node Chronicles. This is a journey into the world of **Electrical Computer Engineering**, the most interesting field known to man. 
+> Welcome to the Node Chronicles. This is a journey into the world of **Electrical Computer Engineering**, the most progressive field known to man. 
 
 ---
 
@@ -261,11 +259,9 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 
 ---
 
-PRESENT DAY
+PRESENT DAY, PAGES 11-20
 
-PAGE 11-20
-
-** THE NODE CHRONICLES INTERNAL INTRO: ** Gou and his brother Nōn are having a mixed conversation in their secret basement headqaurters about their father, hacking and some of the cool stuff Gou's been setting up around the house. You get a sense for what sorts of projects Gou's working on and his relationship with his father and siblings.
+** THE NODE CHRONICLES INTERNAL INTRO: ** Gou and his brother Nōn are having a mixed conversation in their secret basement headquarters about their father, hacking and some of the cool stuff Gou's been setting up around the house. You get a sense for what sorts of projects Gou's working on and his relationship with his father and siblings.
 
 What's more interesting in this chapter is that there's clearly a struggle and pressure. Gou is hiding what he's doing from his father, who when first depicted in the book appears to be an angry man. Almost as if a reincarnation of Tesla, only meaner and more badass. In the first chapter, Gou is caught with one of his hacking devices and his father snaps and rages, much like JP Morgan Jr. does in the first scene. 
 
@@ -280,30 +276,39 @@ Eventually, Gou's father teams up with Gou after snapping out of his funk. This 
 
 ---
 
-PAGE 11
+PAGE 11 & 12 [PROPERTY & BASEMENT INTRO]
+
+* **1 CAP:** Thus 'stealth mode' was their only option; Tesla, Turing and the hundreds of pioneers who came before Gou Sokeyo paid the ultimate sacrafices, their inventions forwarded and eventually, even their lives were lost. Human greed and lust for power will never change; there's always a snake in the grass waiting to strike. 
+
+* **2 CAP:** For the two boys and their sister Lilu, why their father bought the old Frank Lloyd Wright house has and will always be a mystery. Vero their caretaker says it was a bad investment their father Chino made just before he cracked up and quit working. 
+
+* **3 CAP:** Tucked away hidden down in the back of a prohibition era basement exists one of todays greatest young hackers. Frightened more than by any, his father hasn't the slightest clue what he's up to downstairs, for if he had, he would "KILL HIM."
 
 > **PANEL ONE** - THE FIRST OF A SERIES OF REVEALING SHOTS GOING FROM FAR TO NEAR OF GOU AND NON IN THEIR HIGHLY SECRETIVE BASEMENT HEADQUARTERS. BEHIND THE STAIRCASE AND AROUND THE BEND OF THE LARGE BASEMENT ROOM, A WALL FILLED WITH STORED STUFF EMERGES. DOZES OF HUGE BOXES STACKED TO THE CEILING REVEALSE GLIMSES OF LIGHT FROM THE CRACKS WHERE THE EDGES OF EACH BOX MEET, RESEMBLING THE OUTLINE OF A DOOR BEHIND THE BOXES. THE BOYS HAVE MASKED AN ENTIRE WALL WITH A DOOR AS IF THE BASEMENT ENDED RIGHT THERE (THE LIGHT IS ONLY ON BECAUSE THEY ARE IN THERE WORKING). WHEN THE CORRECT BOX IS MOVED, A HOLE LEADS TO A DOOR, WHICH ONCE ENTERED OPENS UP INTO GOU'S SECRET BASEMENT HEADQUARTERS (BHQ). IT'S HOW THEY GET IN AND OUT. ONLY THE TWO BROTHERS AT THIS POINT KNOW ABOUT THIS PLACE. SEE REFERENCES OF WHAT THIS BASEMENT COULD LOOK LIKE BELOW.
 
-* **1 CAP:** Deep in the cool dark basement lies Gou's the secret headquarters, hidden behind thick cardboard boxes filled with the family's old and unused posessions. 
+FRANK TODO: Add references to this scene about the green mill, al capones old hideouts, pathways to city hall - this interesting place could be the underground railroad in Chicago.
+
+The general idea of the 10th and 11th page is that it's the opening to the setting. Zoom from afar to see the big home and what the landscape looks like. Zoom into see the ornate brickwork of the old politicians small mansion in Garfield Park. Get into the basement, which rumor has it was once connected to Al Capones underground railroad system and that you could get to city hall and the green mill from the basement tunnels. Just at the foot of the tunnel is the last room which is the only access to the tunnel. This is where Gou and Non have setup shop. The room is blocked off by a bunch of old boxes, Lily, Chino and Vero have no idea it's there. 
 
 > **PANEL TWO** - CLOSER REVEAL OF THE TWO BOYS WORKING OUT OF GOU'S STEALTH MODE HEADQUARTERS...
 
-* **2 CAP:** Tis not without strife Gou secretly develops his innovations in stealth mode, for his father Chino does not want him to follow in his footsteps.
+* **2 CAP:** Tis not without strife Gou secretly develops his innovations in stealth mode, for his father Chino does not want him to follow in his footsteps. [Add much more cleverness to this caption: As in the days of yester the top inventors, for whatever reasons, worked in stealth mode. Stuff about copycats, greedy companies and politicians are always searching for the next big thing and they lack their own creativity to invent them.]
 
 > **PANEL THREE** - EVEN CLOSER... UNTIL WE GET RIGHT UP BEHIND THEM AND SEE WHAT GOU'S WORKSTATION AND SETUP LOOKS LIKE. OFF AND AROUND THE AREA ARE PALETS OF OLD PC'S COVERED IN TARPS AND STACKS OF OLD PC POWER SUPPLIES THAT GOU HAPPENS TO BE SALVAGING FOR SOME REASON. THE COMPUTER SCREENS HAVE GECKOBOARDS AND GOU IS CLEARLY MONITORING EVERYTING FROM LATEST BITCOIN STOCK PRICES TO SECURITY CAMERAS AROUND THE PROPERTY. YOU GET THE FEELING THAT IT'S THE START OF A CIA LIKE HEADQUARTER HACKER OPERATION AND THAT THERE IS A TON OF ROOM FOR EXPANSION.
 
 * **3 CAP:** It's no secret that the worlds greatest inventors, from Davinici to Einstein kept their inventions a secret until they were ready. 
 
-* **4 CAP:** By banning Gou from hacking on code and hardware, Chino had inadvertently created one of the youngest stealth mode hackers on the planet.
+* **4 CAP:** By banning Gou from hacking on code and hardware, his father Chino had inadvertently created one of the youngest stealth mode hackers on the planet.
 
-PAGE 12
+PAGE 13
 
 > **PANEL ONE** - FULL PAGE PANEL. GOU IS FIXATED ON A HIGHLY EXPIRAMENTAL PROJECT WHICH HE DOESN'T QUITE SHARE WITH THE READER YET (SPOILER ALERT, IT'S THE NODE). GOU'S TAKING A HUGE RISK BY DOING THIS IN HIS BASEMENT, AS HE'S BEEN FORBIDDEN TO HACK ON COMPUTERS BY HIS FATHER. NON COULD GET IN TROUBLE JUST FOR BEING AROUND GOU IT'S THAT DANGEROUS. AND WHILE TOTALLY CHILL MOST OF THE TIME, YOU DON'T WANT TO PISS OFF CHINO, THEIR FATHER. IN THIS PANEL, WE SEE A CLOSEUP OF GOU'S FACE AND NODE.
 
 * **1 CAP:** Swarn to be a normal boy and not to get caught up in computers and technology, Gou Sokyeo taught himself the art of electrical computer engineering against his fathers wishes. 
 
+![](https://files.slack.com/files-pri/T0ELWSVMG-F0TKMTYMS/nc_07_72.jpg)
 
-PAGE 13
+PAGE 14 [SHOWING OFF, GOU & NON FIRST DIALOGUE]
 
 > **PANEL ONE** - FIRST EVER SCENE WITH GOU AND NON, THEY ARE INTRODUCED AS A PAIR, ONLY GOU IS CLEARLY THE LEAD HACKER IN THE FAMILY. NON'S JUGGLING A MINI SOCCER BALL (SIZE 1 FUTSAL BALL). AFTER ABOUT 60 JUGGLES HE SMASHES THE BALL WITH HIS RIGHT FOOT AND SMASHES AN OLD UNUSED MONITOR ON THE OTHER SIDE OF THE ROOM THEY ARE IN. NEXT TO HIM IS ARE SEVERAL STACKS OF OLD POWER SUPPLIES THAT HAVE BEEN RIPPED OUT OF A BUNCH OF OLD PCS. THE PCS ARE IN ANOTHER HUGE PILE, COVERED UP BY A TARP, JUST IN CASE.
 
@@ -349,7 +354,7 @@ PAGE 13
 
 ![](https://files.slack.com/files-pri/T0ELWSVMG-F0U3X8Y3Y/nc_09_72.jpg)
 
-PAGE 14
+PAGE 15 [DAD UPSTAIRS SOLEMNLY WATCHING ASSHOLES ON TV]
 
 > **PANEL ONE** - THE BOYS CONTINUE TO HACK, AND THE CAMERA BACKS OFF FROM THEM A LITTLE AS THEY CONTINUE TO CHAT.
 
