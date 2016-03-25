@@ -7,7 +7,7 @@ CHAPTER 1
 ## Who's using the Raspberry PI
 
 * Pioneering Applications - smaller, cheaper, empowering new apps
-* Educational Applications - expiraments, GPIO, microcontroller, coding for all, accessibility
+* Educational Applications - experiments, GPIO, microcontroller, coding for all, accessibility
 * Global world problem solving applications - explore the fields this touches - the interesting work being done world wide with these devices - profile
 
 ---
@@ -18,10 +18,43 @@ CHAPTER 1
 * **Non:** Dude, have you seen the new PI 3?
 
 
+This is one of my favorite things to talk about. What are they used for today but more importantly, what are they going to be used for more in the near future? What's so great about them?
+
+1. They are much cheaper than a computer and you get a real computer
+2. They are unique in their own right because they have a GPIO - laptops and PC's do not offer a GPIO. 
+3. CC sized computers with greater processing power, ones like we may see in the very near future enable other equipment used in agriculture, at industry
+4. Learning how to minaturize our computers - we're moving backwards to nano and MEMS - which is opening up a whole reange of new applications.
+
+RUSHI: FRANK: TODO: [What are examples of either these chips or IoT suited chips - we are unlocking all this potential]
+
+| GIVE EXAMPLES IN CONTEXT MODEL + RPI 4 & 5 |
+| -- |
+| TODO: RUSHI & FRANK |
+
+
+
+
+
+
 ## Intro to PI Hardware - PI 1, 2, 3 and ZERO
 
 
 > PI 3 Quad Core 1.2 GHZ - half the speed of a new laptop
+
+What are the constants
+1. Same style of GPIO programming
+2. Still limited by INPUTs and OUTPUTs
+3. Video is still limited, can't be in different formats
+4. Still need external peripherals
+5. All really good learning devices
+6. Low memory, low power
+7. C compilers
+8. Assembly
+9. Bluetooth or Wifi or some connection
+10. Microprocessor 
+11. Architecture (how many registers they are, what IO ports there are, how are they arranged, how is memory accessed, how much memory is internal to the microprocessor, operating voltage) (ARM) and Programming
+
+What are the variables
 
 
 ---
