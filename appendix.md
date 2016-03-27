@@ -30,7 +30,18 @@ Hardware - Electrical Engineering Circuits
 
 
 
- 
+ ## VIDEO SCRIPT
+
+**PARITY**
+
+What makes video games as a teaching tool so perfect is the teachers ability to customize content and how quickly we can receive input and adapt. When you mix custom graphics, computers and gamification, you get an entertaining simulation. 
+
+To teach complex subjects learners need to consistently practice. Keeping it entertaining is easier said than done but when you get it right, it's extremely powerful.
+
+I don't think we've ever seen an game this modern and intentional about teaching science - we've brought together the best talent in the world to create this. We're keeping a close watch on 
+
+
+
 
 ## GARBAGE EXTRA WRITING
 
