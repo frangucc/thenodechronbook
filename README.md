@@ -8,19 +8,23 @@
 
 To be the king, one has to know he is the king:
 
-The life in front of us is a scrambled pattern of mostly other peoples ideas, some of them good, some of them bad. Students, teachers and most importantly, parents want their kids to navigate this jungle of patterns. To do so, the mind must be sharp, like a machete. The ability to reason about problems scientifically and to then engineer an actual solution is as awesome of a talent as it is to play soccer like a professional at the age of nine, or to play the piano like Mozart at the age of five. 
+The life in front of us is a scrambled pattern of mostly other peoples ideas, some of them good, some of them bad. To navigate this jungle the mind must be sharp like a machete. Scientifically slashing through problems in an effort to engineer an actual solution is a talent so elusive we take it for granted. 
 
-You need only pick up this book once or twice to be offended. No matter who you are. We will insult your intelligence, wage war with your ideas of what it means to be a hacker and frighten your principals. And we will do all this without dropping a single F-BOMB.
+When parents tell me their kids won't read this or do any of it, I say, MAKE THEM. What are you afraid little Mikey will cry? Find a way to make him like it as he will get used to it and some day thank you. 
 
-This is the missing curriculum people and your kids are going to read it and get tested on it. They're not just gonna float past life in the 21st century on a fluffy brown cloud named poopy. If that's what you expected get out of here, we don't want you here. The planet is in trouble for real this time and it's time for all you people to become @(!$*&@*#'ing super heros. Yes I am being seriuos. 
+As you can see you need only pick up this book once or twice to be offended. No matter who you are - we will insult your intelligence, wage war with your ideas and frighten your principals. And we will do all this without dropping a single F-BOMB or any violent killings. Instead, we'll do it with positive acknowledgement towards the readers profile. We do it by making you become a black belt in technology, a boy scout troop of science and a princess of coding. 
 
-Urban agriculture is going to be essential if you don't want to be eating fruit with radiation from Fukishima and our grandkids having three eyes. And we certainly are going to need to study marine biology more closely if we don't plan on watching our oceans die. Africa could be the next healthy continent while America submerges under water, we could all one day back where we all started.
+This is the **missing curriculum** people! Your kids are going to read it and get tested on it. Call it a connundrum, call it a fluffy brown cloud named poopy. The planet is in trouble for real this time and it's time for all you people to become the real super heros. Yes I am being serious; you, the people this time are being called upon by the planet to save yourself, find a way out and seek higher ground. 
 
-No look I'm exaggerating a little, but if we can send our kids to karate class at age five to chop wood with their hands and force them to play soccer at age 3, then we damn sure can teach a little code and science literacy to our kids more often. I mean, even the boyscouts make us look bad. 
+Urban agriculture is going to be essential if you don't want to be eating fruit with radiation from Fukishima. And we certainly are going to need to study marine biology more closely if we don't plan on watching our oceans die. Africa could be the next healthy continent while America becomes unlivable due to pollution. The days of pencil pushing are over.
 
-So the next time I hear a parent say, my kid won't read that, I will respond with. Then make him! Find a way to make him like it. Tell him he has to and that you will quiz him later on it or no more sleep overs at 'little Timmy the ass grabbers'' house down the street. 
+So if we can send our kids to karate class at age five to chop wood with their hands and force them to play soccer at age 3, then we damn sure can teach a little literacy in the science of how things work. And quit calling us nerds and geeks. We are chidlren of the planet who might one day help save our families or this planet, much in the way Mark Watney survives on Mars in The Martian. We have more important hobbys that might some day help save this planet. 
 
-With a little shot of discipline, you're kids will get excited about doing this and they will take to it just as they do Xtramath or StudyIsland, the extra supplementary onlnie programs your teachers enroll them in at school. Gamifyed is the code academy for hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing for accomplishments - and we did it our way, with noone standing in our way telling us what to do. s
+With a little shot of discipline you're kids will get excited about doing this and they will take to it just as they do the two very Xtramath or StudyIsland (two mediocre gamifyed online programs many teachers prescribe that most kids don't mind). 
+
+Gamifyed is the first STEM Academy Program for hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing for accomplishments - and we did it our way, with noone standing in our way telling us what to do. The Node Chronicles is a wonderful way to get your kids understanding the context of the industry better. Finding out what's possible through storytelling and action illustrations is just something we do in addition to hardware hacking.
+
+At this point, we're not going to analyze whether it works or not, we're just gonna put this out there and see what happens. 
 
 > Something mysterious is formed, born in the silent void. waiting alone and unmoving, it is at once still and yet in constant motion. It is the source of all programs. I do not know its name, so I will call it the Tao of Programming.
 
