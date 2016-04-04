@@ -6,9 +6,23 @@
 
 
 
-Here's what I'd like for you to do for me:
+To be the king, one has to know he is the king:
 
-> Make me laugh. Make me cry. Tell me my place in the world. Lift me out of my skin and place me in another. Show me places I have never visited and carry me to the ends of time and space. Give my demons names and help me confront them. Demonstrate for me possibilities I've never thought of and present me with heroes who will give me courage and hope. Ease my sorrows and increase my joy. Teach me compassion. Entertain and enchant and enlighten me.  Tell me a story. 
+The life in front of us is a scrambled pattern of mostly other peoples ideas, some of them good, some of them bad. Students, teachers and most importantly, parents want their kids to navigate this jungle of patterns. To do so, the mind must be sharp, like a machete. The ability to reason about problems scientifically and to then engineer an actual solution is as awesome of a talent as it is to play soccer like a professional at the age of nine, or to play the piano like Mozart at the age of five. 
+
+You need only pick up this book once or twice to be offended. No matter who you are. We will insult your intelligence, wage war with your ideas of what it means to be a hacker and frighten your principals. And we will do all this without dropping a single F-BOMB.
+
+This is the missing curriculum people and your kids are going to read it and get tested on it. They're not just gonna float past life in the 21st century on a fluffy brown cloud named poopy. If that's what you expected get out of here, we don't want you here. The planet is in trouble for real this time and it's time for all you people to become @(!$*&@*#'ing super heros. Yes I am being seriuos. 
+
+Urban agriculture is going to be essential if you don't want to be eating fruit with radiation from Fukishima and our grandkids having three eyes. And we certainly are going to need to study marine biology more closely if we don't plan on watching our oceans die. Africa could be the next healthy continent while America submerges under water, we could all one day back where we all started.
+
+No look I'm exaggerating a little, but if we can send our kids to karate class at age five to chop wood with their hands and force them to play soccer at age 3, then we damn sure can teach a little code and science literacy to our kids more often. I mean, even the boyscouts make us look bad. 
+
+So the next time I hear a parent say, my kid won't read that, I will respond with. Then make him! Find a way to make him like it. Tell him he has to and that you will quiz him later on it or no more sleep overs at 'little Timmy the ass grabbers'' house down the street. 
+
+With a little shot of discipline, you're kids will get excited about doing this and they will take to it just as they do Xtramath or StudyIsland, the extra supplementary onlnie programs your teachers enroll them in at school. Gamifyed is the code academy for hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing for accomplishments - and we did it our way, with noone standing in our way telling us what to do. 
+
+> Something mysterious is formed, born in the silent void. waiting alone and unmoving, it is at once still and yet in constant motion. It is the source of all programs. I do not know its name, so I will call it the Tao of Programming.
 
 **PREFACE**
 
