@@ -20,7 +20,7 @@ No look I'm exaggerating a little, but if we can send our kids to karate class a
 
 So the next time I hear a parent say, my kid won't read that, I will respond with. Then make him! Find a way to make him like it. Tell him he has to and that you will quiz him later on it or no more sleep overs at 'little Timmy the ass grabbers'' house down the street. 
 
-With a little shot of discipline, you're kids will get excited about doing this and they will take to it just as they do Xtramath or StudyIsland, the extra supplementary onlnie programs your teachers enroll them in at school. Gamifyed is the code academy for hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing for accomplishments - and we did it our way, with noone standing in our way telling us what to do. 
+With a little shot of discipline, you're kids will get excited about doing this and they will take to it just as they do Xtramath or StudyIsland, the extra supplementary onlnie programs your teachers enroll them in at school. Gamifyed is the code academy for hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing for accomplishments - and we did it our way, with noone standing in our way telling us what to do. s
 
 > Something mysterious is formed, born in the silent void. waiting alone and unmoving, it is at once still and yet in constant motion. It is the source of all programs. I do not know its name, so I will call it the Tao of Programming.
 
