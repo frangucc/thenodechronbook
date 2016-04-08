@@ -1,6 +1,11 @@
 # THE NODE CHRONICLES
 ### *Volume 1*
 
+NOTE TO EARLY READERS: 
+
+We are open sourcing the core of our curriculum, make no mistake of that. Any attempt to make money by charging for our products at this stage of the game is simply to fund what we do. This will never change. In other words, there will be pull requests happening to this document.
+
+With that said, please wait for instruction on contributing. We will announce an open activity for all those interested in contributing to our underlying research and knowledge base. We respect a wide variety of motives for contributing so please get in touch with Frank@fye2.com if you would like to consider adding to this document. 
 
 ## **PREFACE**
 
