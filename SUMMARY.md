@@ -14,7 +14,7 @@
 * [Chapter 11](chapter_11.md)
 * [Chapter 12](chapter_12.md)
 * [Cast](cast.md)
-   * Blogs
+* Blogs
 * [Blogs](blogs.md)
 * [Appendix](appendix.md)
 
