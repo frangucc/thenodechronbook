@@ -12,8 +12,8 @@
 * [Chapter 9](chapter_9.md)
 * [Chapter 10](chapter_10.md)
 * [Chapter 11](chapter_11.md)
+* [Appendix](appendix.md)
 * [Chapter 12](chapter_12.md)
 * [Cast](cast.md)
 * [Blogs](blogs.md)
-* [Appendix](appendix.md)
 
