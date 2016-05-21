@@ -3,9 +3,9 @@
 
 NOTE TO EARLY READERS: 
 
-We are open sourcing the core of our curriculum, make no mistake of that. Any attempt to make money by charging for our products at this stage of the game is simply to fund what we do. This will never change. In other words, there will be pull requests happening to this document.
+We are open sourcing the core of our curriculum, make no mistake of that. Any attempt to make money by charging for our products at this stage of the game is simply to fund what we do. This will never change. In other words, there will be pull requests to this document.
 
-With that said, please wait for instruction on contributing. We will announce an open activity for all those interested in contributing to our underlying research and knowledge base. We respect a wide variety of motives for advising or contributing, so please get in touch with Frank@fye2.com if interested. 
+With that said please wait for instruction on contributing. We will announce an open activity for all those interested in contributing to our underlying research and knowledge base. We respect a wide variety of motives for advising or contributing, so please get in touch with Frank@fye2.com if interested. 
 
 Please also consider there are many factors that go into this type of project. This document is slowly being updated and we appreciate you're patience. 
 
@@ -13,21 +13,19 @@ Please also consider there are many factors that go into this type of project. T
 
 To be the king, one has to know he is the king:
 
-The life in front of us is a scrambled pattern of mostly other peoples ideas, some of them good, some of them bad. To navigate this jungle the mind must be sharp like a machete. Scientifically slashing through problems in an effort to engineer an actual solution is a talent so elusive we take it for granted. 
+The life in front of us is a scrambled pattern of mostly other peoples ideas, some of them good, some of them bad. To navigate the tech jungle the mind must be sharp like a machete. The Gamifyed group of core contributors think about one thing and one thing only, how to streamline the information we see ahead; we fight to pave the path infront of the next generation. 
 
-When parents tell me their kids won't read this or do any of it, I say, MAKE THEM. What are you afraid little Mikey will cry? Find a way to make him like it as he will get used to it and some day thank you. 
+When parents tell me their kids won't read this or do any of it, I say, MAKE THEM. What are you afraid little Mikey will cry? Each family has their own method for educating their children. And so do schools. Only you as a reader have the power to take steps towards a scientific future. Neil Tyson Degrasse has more to say than we do about why you should learn this stuff. Infact, some of the original hackers could give a "CRAP" about what you know and learn, because they were too busy lost in their own programs and gadgets. 
 
-As you can see you need only pick up this book once or twice to be offended. No matter who you are - we will insult your intelligence, wage war with your ideas and frighten your principals. And we will do all this without dropping a single F-BOMB or any violent killings. Instead, we'll do it with positive acknowledgement towards the readers profile. We do it by making you become a black belt in technology, a boy scout troop of science and a princess of coding. 
+As you can see you need only pick up this book once or twice to be offended. No matter who you are; it's highly likely that Gamifyed will insult your intelligence, wage war with your ideas and straight piss you off. And it's ok to be pissed off. Consumers are pissed off. Politicians are pissed. Parents are pissed. Hunger, poverty, global warming, hospitals and education are pissed off.
 
-This is the **missing curriculum** people! Your kids are going to read it and get tested on it. Call it a connundrum, call it a fluffy brown cloud named poopy. The planet is in trouble for real this time and it's time for all you people to become the real super heros. Yes I am being serious; you, the people this time are being called upon by the planet to save yourself, find a way out and seek higher ground. 
+The fact is we are all being served crap and being told to like it and anything awesome controls our lives. The rich have too many options, the poor not enough, tech is everywhere yet nowhere, science is proven and unitilezed. And you're here, wondering if you should continue reading. I say bagh. 
 
-Urban agriculture is going to be essential if you don't want to be eating fruit with radiation from Fukishima. And we certainly are going to need to study marine biology more closely if we don't plan on watching our oceans die. Africa could be the next healthy continent while America becomes unlivable due to pollution. The days of pencil pushing are over.
+This is the **missing curriculum** people! Your kids are going to read some of it, all of it, or heck maybe just look at the pics. You will read parts, maybe all of it, and some will go an even step further and investigate the ideas and links we've put in the book and find that this is a book of modern magic we sometimes call hacking. Not black, not white, perhaps gray, sometimes for profit and possibly even risky. 
 
-So if we can send our kids to karate class at age five to chop wood with their hands and force them to play soccer at age 3, then we damn sure can teach a little literacy in the science of how things work. And quit calling us nerds and geeks. We are chidlren of the planet who might one day help save our families or this planet, much in the way Mark Watney survives on Mars in The Martian. We have more important hobbys that might some day help save this planet. 
+With this in mind, remember that Gamifyed is the first STEM Academy Program for Hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing & adaptive accomplishments. 
 
-With a little shot of discipline you're kids will get excited about doing this and they will take to it just as they do the two very Xtramath or StudyIsland (two mediocre gamifyed online programs many teachers prescribe that most kids don't mind). 
 
-Gamifyed is the first STEM Academy Program for hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing for accomplishments - and we did it our way, with noone standing in our way telling us what to do. The Node Chronicles is a wonderful way to get your kids understanding the context of the industry better. Finding out what's possible through storytelling and action illustrations is just something we do in addition to hardware hacking.
 
 At this point, we're not going to analyze whether it works or not, we're just gonna put this out there and see what happens. 
 
