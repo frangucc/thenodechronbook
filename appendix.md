@@ -40,8 +40,7 @@ To teach complex subjects learners need to consistently practice. Keeping it ent
 
 I don't think we've ever seen an game this modern and intentional about teaching science - we've brought together the best talent in the world to create this. We're keeping a close watch on 
 
-
-
+Need a song like this but not about some crazy relationship but about a diverse group of kids smiles on faces in tight action groups with lots of technology lighting up their faces - some exceptional branding: https://www.youtube.com/watch?v=5AOtEnH87Mg
 
 ## GARBAGE EXTRA WRITING
 
