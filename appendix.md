@@ -72,5 +72,14 @@ The most important takeaway from my teams researh interviewing hundreds of kids,
 Individual innovators have been screwed over by vulture capitalists and snakes since the beginning of time. Their ideas are stolen, patents infringed, employees go rogue, the powers that be are always stepping in exhibiting their greed and will to control the industry. At the same time, the venture capitalists are essential. And the discoragers that beat you down only make you tougher. So in the end, we also need to teach how to navigate these waters with the help of good mentors, advisors and resources is what makes some engineers successful and others so mundane. 
 
 
+GARBAGE ASS FLUFF FOR DORKY READERS
+
+The planet is in trouble for real this time and it's time for all you people to become the real super heros. Yes I am being serious; you, the people this time are being called upon by the planet to save yourself, find a way out and seek higher ground. 
+
+Urban agriculture is going to be essential if you don't want to be eating fruit with radiation from Fukishima. And we certainly are going to need to study marine biology more closely if we don't plan on watching our oceans die. Africa could be the next healthy continent while America becomes unlivable due to pollution. The days of pencil pushing are over.
+
+So if we can send our kids to karate class at age five to chop wood with their hands and force them to play soccer at age 3, then we damn sure can teach a little literacy in the science of how things work. And quit calling us nerds and geeks. We are chidlren of the planet who might one day help save our families or this planet, much in the way Mark Watney survives on Mars in The Martian. We have more important hobbys that might some day help save this planet. 
+
+With a little shot of discipline you're kids will get excited about doing this and they will take to it just as they do the two very Xtramath or StudyIsland (two mediocre gamifyed online programs many teachers prescribe that most kids don't mind). 
 
 
