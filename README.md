@@ -25,8 +25,6 @@ This is the **missing curriculum** people! Your kids are going to read some of i
 
 With this in mind, remember that Gamifyed is the first STEM Academy Program for Hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing & adaptive accomplishments. 
 
-
-
 At this point, we're not going to analyze whether it works or not, we're just gonna put this out there and see what happens. 
 
 > Something mysterious is formed, born in the silent void. waiting alone and unmoving, it is at once still and yet in constant motion. It is the source of all programs. I do not know its name, so I will call it the Tao of Programming.
