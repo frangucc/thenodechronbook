@@ -1,3 +1,6 @@
 {
-    "plugins": ["gist"]
+    "plugins": [
+        "-gist"
+    ],
+    "pluginsConfig": {}
 }
