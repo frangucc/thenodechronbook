@@ -17,7 +17,7 @@ CHAPTER 1
 
 * **Non:** Dude, have you seen the new PI 3?
 
-{% gist id="SamyPesse/6ceb8cb8d531ffab75f0",hideFooter=true %}{% endgist %}
+{% gist id="frangucc/f396c3f501533b6f471f03b82375d737",hideFooter=true %}{% endgist %}
 
 This is one of my favorite things to talk about. What are they used for today but more importantly, what are they going to be used for more in the near future? What's so great about them?
 
