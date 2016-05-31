@@ -18,7 +18,7 @@ CHAPTER 1
 * **Non:** Dude, have you seen the new PI 3?
 
 
-{% gist id="https://gist.github.com/frangucc/f396c3f501533b6f471f03b82375d737" %}{% endgist %}
+{% gist id='https://gist.github.com/frangucc/f396c3f501533b6f471f03b82375d737' %}{% endgist %}
 
 This is one of my favorite things to talk about. What are they used for today but more importantly, what are they going to be used for more in the near future? What's so great about them?
 
