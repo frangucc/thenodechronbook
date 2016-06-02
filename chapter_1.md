@@ -49,6 +49,7 @@ RUSHI: FRANK: TODO: [What are examples of either these chips or IoT suited chips
 What are the constants
 1. Same style of GPIO programming
 2. Still limited by INPUTs and OUTPUTs
+https://learn.adafruit.com/reading-a-analog-in-and-controlling-audio-volume-with-the-raspberry-pi/overview
 3. Video is still limited, can't be in different formats
 4. Still need external peripherals
 5. All really good learning devices
