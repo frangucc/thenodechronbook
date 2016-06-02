@@ -18,6 +18,7 @@ What's included in the package:
 4. Pi Zero or Pi 2 or Pi 3 depending on which one you buy
 5. Greeting card with getting started instruction + download app info
 6. Comic Book
+7. Packaging
 
 | Title | Card # | Parts | Gists |
 | -- | -- | -- | -- |
@@ -34,15 +35,91 @@ What's included in the package:
 2. Tutorial
 3. QR Code
 4. SKU
-5. 
-
-
-
 
 ## Project Card 2
+##### ADC Conversion
+
+1. Materials
+2. Tutorial
+3. QR Code
+4. SKU
+
 ## Project Card 3
+##### Sound Input & Output
+
+1. Materials
+2. Tutorial
+3. QR Code
+4. SKU
+
 ## Project Card 4
+##### Working with Data
+
+1. Materials
+2. Tutorial
+3. QR Code
+4. SKU
+
 ## Project Card 5
+##### Motors
+
+1. Materials
+2. Tutorial
+3. QR Code
+4. SKU
+
+## Inspiration Card 1
+##### Vision
+
+1. Tags
+2. Symbols
+3. Ideas and Clues
+4. QR Code
+5. SKU
+6. Potions
+
+## Inspiration Card 2
+##### Mechanics
+
+1. Tags
+2. Symbols
+3. Ideas and Clues
+4. QR Code
+5. SKU
+6. Potions
+
+## Inspiration Card 3
+##### Automation
+
+1. Tags
+2. Symbols
+3. Ideas and Clues
+4. QR Code
+5. SKU
+6. Potions
+
+## Inspiration Card 4
+##### Connections, Clouds & Pipes
+
+1. Tags
+2. Symbols
+3. Ideas and Clues
+4. QR Code
+5. SKU
+6. Potions
+
+
+## Inspiration Card 5
+##### Machine Learning 
+
+1. Tags
+2. Symbols
+3. Ideas and Clues
+4. QR Code
+5. SKU
+6. Potions
+
+
 
 
 
@@ -98,7 +175,6 @@ RUSHI: FRANK: TODO: [What are examples of either these chips or IoT suited chips
 What are the constants
 1. Same style of GPIO programming
 2. Still limited by INPUTs and OUTPUTs
-https://learn.adafruit.com/reading-a-analog-in-and-controlling-audio-volume-with-the-raspberry-pi/overview
 3. Video is still limited, can't be in different formats
 4. Still need external peripherals
 5. All really good learning devices
