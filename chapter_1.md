@@ -3,6 +3,55 @@ CHAPTER 1
 
 > Introducing the CC sized computer revolution and its amazing applications - insert quote here
 
+Quesetions from June 2 sessions:
+
+1. What is the PI from a unique separate functionality perspective [web server, coding or prototyping environment, slim linux machine, gpio, general purpose computer/desktop, graphics card [TASK: Definitize this list of things]]
+2. What are the different levels of use: [turning on and off, running headless, configuring machine, overclocking, configuration hacks, graphics setups, power libraries, modded OS pi's (kali linux, ubuntu)]
+3. What are the genres of projects & experiments: [coding environments, gpio projects, IoT Demos, security pentesting, robotics, artificial intelligence, airplay devices, etc]
+4. Can this full spectrum be delivered in a hackifyed gamifyed way?
+
+What's included in the package:
+
+1. 5 Circuit Cards
+2. 5 Inspiration Cards
+3. Sensors, Resistors, Wires, Breadboard & Sensor Parts [see matrix]
+4. Pi Zero or Pi 2 or Pi 3 depending on which one you buy
+5. Greeting card with getting started instruction + download app info
+6. Comic Book
+
+| Title | Card # | Parts | Gists |
+| -- | -- | -- | -- |
+| LED Lights | 1 | 3 Wires, 1 Resistor, 1 LED | 3:2 |
+| ADC Conversion w/ Light & Touch | 2 | ADC, Photoresistor, Potentimeter, 7-10 Wires | 3:2 |
+| Sound Input & Output | 3 | Mic + Speaker, 6-7 Wires | 3:2 |
+| Data Storage, Pipes/Connection/Tunnels & GPS?Streaming | 4 | 2:2 | 3:2 |
+| Robot? Power/Motors/AI / Sheild/Breakout | 5 | 2:2 | 3:2 |
+
+## Project Card 1
+##### LED Blinking Light Test
+
+1. Materials
+2. Tutorial
+3. QR Code
+4. SKU
+5. 
+
+
+
+
+## Project Card 2
+## Project Card 3
+## Project Card 4
+## Project Card 5
+
+
+
+
+
+See notes finish table later...
+
+
+
 
 ## Who's using the Raspberry PI
 
