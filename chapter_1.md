@@ -3,7 +3,7 @@ CHAPTER 1
 
 > Introducing the CC sized computer revolution and its amazing applications - insert quote here
 
-Quesetions from June 2 sessions:
+Questions from June 2 sessions:
 
 1. What is the PI from a unique separate functionality perspective [web server, coding or prototyping environment, slim linux machine, gpio, general purpose computer/desktop, graphics card [TASK: Definitize this list of things]]
 2. What are the different levels of use: [turning on and off, running headless, configuring machine, overclocking, configuration hacks, graphics setups, power libraries, modded OS pi's (kali linux, ubuntu)]
@@ -164,12 +164,7 @@ RUSHI: FRANK: TODO: [What are examples of either these chips or IoT suited chips
 
 
 
-
-
-
 ## Intro to PI Hardware - PI 1, 2, 3 and ZERO
-
-
 > PI 3 Quad Core 1.2 GHZ - half the speed of a new laptop
 
 What are the constants
@@ -185,7 +180,7 @@ What are the constants
 10. Microprocessor 
 11. Architecture (how many registers they are, what IO ports there are, how are they arranged, how is memory accessed, how much memory is internal to the microprocessor, operating voltage) (ARM) and Programming
 
-What are the variables
+What are the variables?
 
 
 ---
