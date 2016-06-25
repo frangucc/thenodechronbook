@@ -15,51 +15,17 @@ To be the king, one has to know he is the king:
 
 The life in front of us is a scrambled pattern of mostly other peoples ideas, some of them good, some of them bad. To navigate the tech jungle the mind must be sharp like a machete. The Gamifyed group of core contributors think about one thing and one thing only, how to streamline the information we see ahead; we fight to pave the path infront of the next generation. 
 
-When parents tell me their kids won't read this or do any of it, I say, MAKE THEM. What are you afraid little Mikey will cry? Each family has their own method for educating their children. And so do schools. Only you as a reader have the power to take steps towards a scientific future. Neil Tyson Degrasse has more to say than we do about why you should learn this stuff. Infact, some of the original hackers could give a "CRAP" about what you know and learn, because they were too busy lost in their own programs and gadgets. 
-
-As you can see you need only pick up this book once or twice to be offended. No matter who you are; it's highly likely that Gamifyed will insult your intelligence, wage war with your ideas and straight piss you off. And it's ok to be pissed off. Consumers are pissed off. Politicians are pissed. Parents are pissed. Hunger, poverty, global warming, hospitals and education are pissed off.
-
-The fact is we are all being served crap and being told to like it and anything awesome controls our lives. The rich have too many options, the poor not enough, tech is everywhere yet nowhere, science is proven and unitilezed. And you're here, wondering if you should continue reading. I say bagh. 
-
 This is the **missing curriculum** people! Your kids are going to read some of it, all of it, or heck maybe just look at the pics. You will read parts, maybe all of it, and some will go an even step further and investigate the ideas and links we've put in the book and find that this is a book of modern magic we sometimes call hacking. Not black, not white, perhaps gray, sometimes for profit and possibly even risky. 
-
-With this in mind, remember that Gamifyed is the first STEM Academy Program for Hardeware and ECE. We are the first to bring a physical hands on engineering curriculum to schools with methods for testing & adaptive accomplishments. 
-
-At this point, we're not going to analyze whether it works or not, we're just gonna put this out there and see what happens. 
 
 > Something mysterious is formed, born in the silent void. waiting alone and unmoving, it is at once still and yet in constant motion. It is the source of all programs. I do not know its name, so I will call it the Tao of Programming.
 
 **PREFACE**
-
-I created The Node Chronicles because of the failed attempts I experienced trying to get my own kids interested in computer science. 
 
 What started as a simple experiment with fundamentals and graphic content has now become a globally recognized platform embraced by teachers, parents and young innovators everywhere.
 
 It's been 3 years since that first test and research become much more forensic. Does a newb (or even an adult) retain information differently with this format? Does this format help draw kids in over their other devices? How exactly should we layer in complexity for the different age groups? 
 
 Gamifyed is the first mover to go full-speed ahead with this idea. With the help of former Marvel artists, DC writers and top ECE practitioners our goal is to genuinely inspire and teach young readers using a carefully stitched together technical literature, tutorials, action, movement, suspense, drama, politics, hardships and real-world scenarios. Gamifyed wants this to be the book you can't put down; the path to some serious techno enlightenment, a segway to some serious hacking abilities.
-
-Editors of this book are often shocked at the some of direction I've taken as a writer; whether it be how I'm using the word 'hacker' or how I've chosen to depict the industry. They say to themselves, "but this is for kids, we can't possibly use the word crap or talk about torture, failures and nightmare situations in an educational text book!"
-
-I disagree. This book isn't necessarily for toddlers either. The book is meant to attract teenagers before it's too late. It's also meant to be refreshingly honest. Actually I think that this sort of edge could be what very well ends up aiding in my ultimate goal; to be the best book for grasping the field of ECE.
-
-It just so happens that when I looked back at the history of ECE I found it fascinating how so many of the pioneers of modern science and computing we're persecuted, discouraged, lied to and so on. In a nutshell, the field is all about competition. Communication, politics and street smarts are just as important as being a geek.
-
-To be specific, Alan Turing, the inventor of the modern computer was castrated for being gay in the UK in the 1950's. Tesla was sabotaged by JP Morgan and his son, even DaVinci lived in fear so he wrote his notes backwards. Infact, the list of scientists who've been persecuted reads like the who's who of science: Copernicus, Bruno, Galileo, Descartes, Newton, Halley, Darwin, Hubble, even Bertrand Russell. 
-
-All this drama and sacrafice makes for some rich inspiration for what we need as authors of a graphic novel: bad guys, hardships, horror, adventure, movement and so forth.  
-
-I want to make kids feel like their fighting for something, that their backs are up against the wall and that ECE is a tool for survival. In some ways, I want to go where no textbook has ever gone before.
-
-As another possible example, right now in San Francisco, in the year 2016, the city is practically at a techno civil war among those who make big money and those who work regular blue collar jobs. The blue collar employees are sick of the techno what-nots and their arrogant attitudes and inflated cost of living. The blue collar workers have even abandoned all technology and will go as far as to ridicule the computer geeks who walk the streets. 
-
-And let's not forget the movie 'Big Hero 6' starts off in an illegal robot gambling ring, a main character who's parents and brother die and the entire plot is based on deceit and corrupt power from investors and even the education system itself.
-
-I'll often tell my students after watching clips of the movie 'The Martian' that Mark Watney survives on Mars only because of his advanced knowledge of ECE and Science.
-
-I do draw the line however in some spots. I'm not interested in teaching about sex, drugs or in making the main characters negatively opinionated about religion, sexual orientation or violence. I believe that some things should remain a mystery for kids as well.
-
-In a recent interview of a 18 year old Univeristy of Illinois sophmore ECE major it was noted that 'pointers' in programming had repeatedly haunted him since the day he overheard his father fiercely arguing with his apprentice about their significance. Pointers are a really complex subject in low-level programming. It wasn't until 6 years later that Rushi had conquered them and it was if he had a vendetta against them. Seventeen is a really early age to understand 'pointers' in the way Rushi had, and it was because each year and from time to time, he would revisit them, trying each time to comprehend them until one day on an impossible project at school it just clicked.  
 
 Passing down a careful blend of must know topics tied to dramatic situations is what makes this format so unique to me. I can do with it what regular text books have never been able to and I can re-create these moments with intense illustrations and action. Major textbook publishers would never dare mix controversial values, deep politics and grit with learning - let alone comic books. And I don't disagree. School isn't a place for super off topic, experimental indy written content by enlarge. But the general curriculum also isn't a place for developing prodigies now is it?
 
@@ -70,17 +36,12 @@ So I digress; If you're looking for something less gritty, try Kano or the Manga
 
 ** Target Audience**
 
-The simple answer is 9 to 19 year olds.
+The simple answer is 9 to 19 year olds. PLTW Info....
 
 The more complicated answer is: almost everything Gou and his friends demonstrate in this book can be repeated by the reader. The book features a ton of QR code code extended content, open source code snippets and a flagship feature, expansion packs. Expansion Packs are physical kits that go along with each chapter. The goal is to offer reasonably priced, a la carte hardware packs to give readers the real-world hands on experience they need to succeed in this field. In the tech industry, it's all about what you have done and demonstrating tangible abilities - so let's not be hasty here. Anyone capable of reading a comic book will benefit from this book.
   
 
 ** Beta Feedback **
-
-At the time of this writing in 2016 I'd still consider this all to be quite experimental. Soon however, this won't be the case, it will either be considered an epic failure, show negligible improvement or dramatically improve the way newbs pick this stuff up. I'm hoping for the later, for everyone's sake.
-
-It's going to be an ongoing endeavor for my company to know these things. To help support our research we encourage observers, teachers and parents who have provided this opportunity for their kids to keep a close eye on readers and report back to us what you're finding. At it's core, the entire novel is built ontop of a cohesive series of lessons on the Raspberry PI, Arduino, circuitry, programming, the Internet and dozens of scientific sensors. The creative portion tends to be inspired by historical events, realistic situations or the inevitable.
-
 
 | PAGES |
 | -- |
