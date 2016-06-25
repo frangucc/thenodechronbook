@@ -1,5 +1,29 @@
 CHAPTER 1
-#  The Raspberry PI 101 - Title TBD
+#  The Raspberry PI 101
+
+https://www.raspberrypi.org/downloads/noobs/ 
+
+Beginners should start with NOOBS. You can purchase a pre-installed NOOBS SD card from many retailers, such as Pimoroni, Adafruit and The Pi Hut, or download NOOBS below and follow the NOOBS setup guide in our help pages.
+
+NOOBS is an easy operating system installer which contains Raspbian. It also provides a selection of alternative operating systems which are then downloaded from the internet and installed.
+
+NOOBS Lite contains the same operating system installer without Raspbian pre-loaded. It provides the same operating system selection menu allowing Raspbian and other images to be downloaded and installed.
+
+``` [https://downloads.raspberrypi.org/NOOBS_latest](https://downloads.raspberrypi.org/NOOBS_latest)
+[https://downloads.raspberrypi.org/NOOBS_lite_latest](https://downloads.raspberrypi.org/NOOBS_lite_latest)```
+
+WHAT YOU WILL NEED
+
+REQUIRED
+
+
+
+[https://www.raspberrypi.org/help/noobs-setup/](https://www.raspberrypi.org/help/noobs-setup/)
+
+[https://www.raspberrypi.org/help/quick-start-guide/](https://www.raspberrypi.org/help/quick-start-guide/)
+
+[https://www.raspberrypi.org/help/physical-computing/](https://www.raspberrypi.org/help/physical-computing/)
+
 
 > Introducing the CC sized computer revolution and its amazing applications - insert quote here
 
