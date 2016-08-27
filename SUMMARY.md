@@ -16,5 +16,5 @@
 * [Appendix](appendix.md)
 * [Cast](cast.md)
 * [Blogs](blogs.md)
-* Entire Book Outline
+* [Entire Book Outline](entire_book_outline.md)
 
