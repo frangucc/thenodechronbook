@@ -1,12 +1,14 @@
 # Entire Book Outline
 
+The Node Chronicles is a one-of-a-kind graphic novel that weaves full lifecycle project tutorials with vivid hacker culture and clever depictions of the industry.  
 
+The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino) by having the protagonist examine some critical use cases of tiny computers and microcontrollers. The book illuminates the common traits of an MIT taoist programming prodigy, Gou, and the life around him.
 
-This book promises to always keep a full life-cycle of a products development in "tutorial formation" while consistently delivering a context of the industry in graphic novel form.  The node Chronicles starts off with a clever dive into the PI Zero and later, the Arduino by examining critical use cases first-hand with rich illustrations depicting real-world hacker culture. 
+The book has many derrived benefits as well. For example it highlights dozens upon dozens of cutting edge hardware components, sensors and code snippets used in thousands of bleeding edge electrical computer devices. ECE is a field where everything is becoming a computer. The process of designing new electrical devices in every shape, form and texture is well encapsulated and visually communicated by this book. It helps inspire kids to want to learn in this area.
 
-"Together, these boards contain the fundamental components necessary to build thousands of ECE devices. ECE is the field where everything is becoming a computer and encapsulates new electrical devices in every shape, form and texture.
+"Our initial barriers in teaching young engineers had everything to do with the demonstrations of "why hackers huge amounts of time dedicated to this" and "what becomes of inventors when they follow and break the rules." The nature of the graphic novel has unshackled us from the traditional text book and in the future we may develop games and an animated series to go along with our products."
 
-The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. The graphic novel navigates through each of them in an orderly way and continously drives towards the end the objective of guiding well grounded engineerists.
+The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. This transmedia form of learning navigates through each of these degrees in an way and that continuously praises the well grounded engineerist who has knowledge of the business around your innovations, common pitfalls and warewithall requirements of becoming successful.
 
 The engineerist reading this book will become familiar with the critical concepts needed experiment with hundreds of scientific sensors, capture their inputs and write their applications. This new and well put together graphic medium gives readers of all ages the context in which the most important open source innovations have risen. Moreover, it covers the socioeconomic scenarios in which their creators battled to launch their ideas.  
 
