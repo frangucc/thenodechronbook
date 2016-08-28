@@ -2,23 +2,33 @@
 
 ### What just happened?
 
-The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical computer science. There's nothing else like it on the market and it will be some time before something does come out. And when that something new comes out, you should but that too. 
+The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical computer science.  And if something new comes out just like it, you should but that too, for this is as much about learning as it is entertainment. 
 
 So let's just take a second to think about that. TNC is a comic book that teaches. How so? Well, let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it. 
 
-If you've ever interacted with an extremely good engineer or hacker then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit. Watching them in action makes you wonder where you've spent all of your time. 
+If you've ever interacted with an extremely good engineer or hacker then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you wonder where you've spent all of your time thus far. 
 
-Let's also say that there's a secret understanding that the A+ ones have. It's like their own secret lingo. 
+Let's also say that there's a secret understanding that the A+ ones have. It's like their own secret lingo. We sometimes refer to this as the Tao.
 
-Well we're here to teach you that lingo. Within minutes of picking up this book you'll understand. You'll know what it's like to hang with a elit3 and what's really on their agenda. Yes, we're talking about those certain characters you can't help but envy. 
+Well we're here to teach you that lingo. Within minutes of picking up this book you'll understand. If you're reasonably smart, you'll pick up on quite a bit infact. And you'll pick up on it by getting to know one of the most elit3 hardware hackers in the world.  
 
-As you pick up this and experience vivid real-life hacker culture, I want you to know that you will forever come back to this book from time to time. You will read it, achieve it, master it and own it some day, and when that day comes, we'll have something new waiting for you. Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. 
+As you pick up on things that you once you wish you could do, you'll quickly become addicted. You'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and exist as a quibit. 
 
-As you dive into the dozens of full lifecycle projects try and put your shoes in the characters as much as possible, including what happens in their personal lives. Try and think through each of their situations and opportunities, failures and be supportive. 
+We're talking about real, vivid real-life hacker culture here folks. I want you need to know right now that you will forever come back to this book. From time to time you will pick it up and read it, access it from your memory and ubiquitously live with it on all your devices. The minute you can emulate Gou yourself is forever the moment you personally, become an elit3.
 
-The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino) by having the protagonist, Gou Sokyeo, examine some critical use cases of tiny computers and microcontrollers. The text illuminates the common traits the MIT bound taoist and examines the events around him that lead to his innovations. He is by all means, the youngest, most elit3 hacker on the planet. And his network is becoming one of the youngest, most promising communities on the planet. By picking up this book, you have just entered into that community. And you will quickly find out if you have what it takes.
+And when that day comes, there will always be something new for you to conquer. There will always be a mission to complete, a invention to launch and a way to survive. 
 
-So if you think you have what it takes to crack hardware components, mathmatically divide sensors data and write programs that power some of the most sophisticated electrical computing devices on the planet, then get going. What are you waiting for, go to chapter one and get started!
+Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. 
+
+So as you dive into the dozens of full life-cycle projects, pay close attention to the situations and opportunities and failures that led to the greatest innovations in history. From Tesla's discover of alternating current to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications.
+
+The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo, examines some critical use cases of tiny computers and microcontrollers while he offers an inpsiring tour of some of the coolest new inventions on the planet. 
+
+Reading about Gou and his network illuminates the common traits the MIT bound Taoist. His work ethic, Taoist mindset and personal values are in many ways what leads him to his major breakthroughs. 
+
+He is by all means, the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising ECE communities on the planet. By picking up this book, you have just entered into a community where mods at every major university back Gou up on Github and with all his open source initatives. And you will quickly find out if you have what it takes to collaborate with hackers all over the world.
+
+So if you think you have what it takes to crack hardware components, mathematically divide sensors data and write programs that power some of the most sophisticated electrical computing devices on the planet, then get going. What are you waiting for, go to chapter one and get started!
 
 And for parents and educators wondering about what we mean by hacking let's just say that we don't beat-around-the-bush about hacking. Hacking what's considered a super power, and you can use your super power to do evil or do good. 
 
