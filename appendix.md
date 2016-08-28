@@ -82,3 +82,15 @@ So if we can send our kids to karate class at age five to chop wood with their h
 With a little shot of discipline you're kids will get excited about doing this and they will take to it just as they do the two very Xtramath or StudyIsland (two mediocre gamifyed online programs many teachers prescribe that most kids don't mind). 
 
 
+
+"Hackers" that go around MMORPGs are called "script kiddies"... they download scripts usually written by people with little knowledge about systems but enough to get a basic task done, i.e. Unity 3D games nearly always have the same exploits, because they are designed with the same libraries and the 3 or 4 scripts out there to hack Unity games are just barely modified by one scripter, and they claim they "hacked" the game (usually as easy as changing a port number).
+
+Script kiddies make up the majority of people that call themselves hackers.
+
+## On Hackers
+
+Hackers have always felt the term meant this innocent sort of "respectful exploration and experimentation" with life, but the media has had to play catch up to bring their definition into allignment, they still have some ways to go in fact.
+
+I think this largely originated from crackers and people committing cyber crime claiming to be hackers in order to downplay what they were doing, or reason it as "for good", and since the media had no idea what that meant, they just went with it. After years of reports of "a hacker broke into ABC bank" people took it to mean something bad.
+
+People who break into things are in fact cracking, not hacking, and the definition goes all the way back to when I was a child in the early 80s and before.
