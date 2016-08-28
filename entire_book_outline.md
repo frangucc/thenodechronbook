@@ -1,5 +1,7 @@
 # Entire Book Outline
 
+### possible use in intro
+
 The Node Chronicles is a one-of-a-kind graphic novel that weaves full lifecycle project tutorials with vivid hacker culture and clever depictions of the industry.  
 
 The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino) by having the protagonist examine some critical use cases of tiny computers and microcontrollers. The book illuminates the common traits of an MIT taoist programming prodigy, Gou, and the life around him.
