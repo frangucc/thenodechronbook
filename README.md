@@ -26,23 +26,23 @@ The Node Chronicles starts off with a dive into the PI Zero (and later the Ardui
 
 Reading about Gou and his network illuminates the common traits the MIT bound Taoist. His work ethic, Taoist mindset and personal values are in many ways what leads him to his major breakthroughs. 
 
-He is by all means, the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising ECE communities on the planet. By picking up this book, you have just entered into a community where mods at every major university back Gou up on Github and with all his open source initatives. And you will quickly find out if you have what it takes to collaborate with hackers all over the world.
+He is by all means, the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising ECE communities on the planet. By picking up this book, you have just entered into a community where mods at every major university back Gou up on Github and with all his open source initatives. And you will quickly find out if you have what it takes to be a part of that community.
 
-So if you think you have what it takes to crack hardware components, mathematically divide sensors data and write programs that power some of the most sophisticated electrical computing devices on the planet, then get going. What are you waiting for, go to chapter one and get started!
+So if you think you have what it takes to design your own hardware components, programmatically divide sensors data and write servers that can bring online (or off) some of the most sophisticated electrical computing devices on the planet, then get going. Go to chapter one and get started!
 
-And for parents and educators wondering about what we mean by hacking let's just say that we don't beat-around-the-bush about hacking. Hacking what's considered a super power, and you can use your super power to do evil or do good. 
+And for you parents and educators wondering about what we mean by "hacking," let's just say that we don't beat-around-the-bush about hacking. Hacking what's considered, dare I say, a new and very real super power, and it can be used to do evil or to work wonders. 
 
-The term will never go away. And we're confronted all the time by people who say we shouldn't use the term. But the same people who typically tell us this, can't describe what a hackathon is, or what a Ruby hacker might do, or a growth hacker. 
+The term will never go away. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country and there are more than 1000 job listings on Indeed with reference to the word hacking. 
+
+And whilst I am confronted constantly by people who say we shouldn't use the term. The same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere. When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize what hackers do. One could easily argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. 
+
+Steve Jobs And Steve Wozniak (the old farts that started Apple) even started their careers as hackers.
 
 Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not "bad".  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad.
 
-It's not the skill that made him good or bad.  It's what he did with the skill. Those using their ability to hack to commit cyber-crime are NEVER cool with us. In-fact, we even confront them in the book at some point. 
+It's not the skill that made him good or bad.  It's what he did with the skill. Those using their ability to hack to commit cyber-crime are NEVER cool with us. In-fact, we even confront them in the book at some point and draw a clear line in the sand about what's right and wrong. 
 
-Hackers using their ability to quickly interrogate a new system, learn it's behaviors and manipulate it's science to innovate a new device are always rewarded. Hacking is a method of learning in this case.
-
-Many people associate hacking with cracking (breaking into software i.e. security), which is a different act and people who practice it usually have an entirely different mindset.
-
-Illegal activity is something entirely different, but none the less can be combined with hacking, just like you can combine knives with murder, but still use them to cut tomatoes better than using your hands.
+Illegal activity is something entirely different, but none the less can be combined with hacking, just like you can combine knives with murder, but you still use them to cut tomatoes to make pasta.
 
 Hacking is just circumventing the norm; life hacks, computer hacks, etc., are all ways of just using things differently, usually apposed to the accepted way of using it, or with counter intuition.
 
@@ -54,16 +54,17 @@ We only ever hear about the malicious hacking, such as when data is stolen from 
 
 However, in society, we as a people tend to be against corrupt organizations or companies that abuse their power.  As such, hackers who hack these companies as often seen as heros.  It's still malicious, but as the saying goes, the enemy of my enemy is my friend.
 
+Millenials are fascinated by all of this stuff but they don't know who to trust and just want honesty. If you're a parent or teacher, I am confident that you will see that I've carefully and tastefully used just enough culture, mystery, mild violence and honesty to help rope the kids in a little so they can prepare for the potential lifestyle of being an ECE industry contributor someday. 
+
 ####
-
-
-, a term now used by EVRYONE these days can refer to two things, and unfortunately it's always referred to HACKING and 
 
 ECE is a field where everything is becoming a computer. The process of designing new electrical devices in every shape, form and texture is well encapsulated and visually communicated by this book. It helps inspire kids to want to learn in this area.
 
-"Our initial barriers in teaching young engineers had everything to do with the demonstrations of "why hackers huge amounts of time dedicated to this" and "what becomes of inventors when they follow and break the rules." The nature of the graphic novel has unshackled us from the traditional text book and in the future we may develop games and an animated series to go along with our products."
+"Our initial barriers in teaching young engineers had everything to do with the demonstrations of "why hackers huge amounts of time dedicated to this" and "what becomes of inventors when they follow and break the rules." 
 
-The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. This transmedia form of learning navigates through each of these degrees in an way and that continuously praises the well grounded engineerist who has knowledge of the business around your innovations, common pitfalls and warewithall requirements of becoming successful.
+The nature of the graphic novel unshackles us from what the traditional text book has to offer. And we believe that some day, Playstation and XBOX 3D games could become some of the most important tools for simulating and playing with hardware hacks or to learn about complex stuff that requires really deep, immersive, graphical environments to train. The concept of transmedia in this case gives Gamifyed a huge advantage as a new platform for teaching kids hardware hacking.
+
+The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. The graphic textbook covers these fields in an way  that continuously praises the well grounded engineerist for his theoretical through process and  simulatanious knowledge of the business. The way common pitfalls are avoided and how the satisfaction of say, having the warewithall to sit and learn for hours uninterrupted are all covered in this book.
 
 The engineerist reading this book will become familiar with the critical concepts needed experiment with hundreds of scientific sensors, capture their inputs and write their applications. This new and well put together graphic medium gives readers of all ages the context in which the most important open source innovations have risen. Moreover, it covers the socioeconomic scenarios in which their creators battled to launch their ideas.  
 
