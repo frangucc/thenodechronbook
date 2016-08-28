@@ -1,4 +1,94 @@
 # THE NODE CHRONICLES
+
+### What just happened?
+
+The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical computer science. There's nothing else like it on the market and it will be some time before something does come out. And when that something new comes out, you should but that too. 
+
+So let's just take a second to think about that. TNC is a comic book that teaches. How so? Well, let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it. 
+
+If you've ever interacted with an extremely good engineer or hacker then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit. Watching them in action makes you wonder where you've spent all of your time. 
+
+Let's also say that there's a secret understanding that the A+ ones have. It's like their own secret lingo. 
+
+Well we're here to teach you that lingo. Within minutes of picking up this book you'll understand. You'll know what it's like to hang with a elit3 and what's really on their agenda. Yes, we're talking about those certain characters you can't help but envy. 
+
+As you pick up this and experience vivid real-life hacker culture, I want you to know that you will forever come back to this book from time to time. You will read it, achieve it, master it and own it some day, and when that day comes, we'll have something new waiting for you. Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. 
+
+As you dive into the dozens of full lifecycle projects try and put your shoes in the characters as much as possible, including what happens in their personal lives. Try and think through each of their situations and opportunities, failures and be supportive. 
+
+The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino) by having the protagonist, Gou Sokyeo, examine some critical use cases of tiny computers and microcontrollers. The text illuminates the common traits the MIT bound taoist and examines the events around him that lead to his innovations. He is by all means, the youngest, most elit3 hacker on the planet. And his network is becoming one of the youngest, most promising communities on the planet. By picking up this book, you have just entered into that community. And you will quickly find out if you have what it takes.
+
+So if you think you have what it takes to crack hardware components, mathmatically divide sensors data and write programs that power some of the most sophisticated electrical computing devices on the planet, then get going. What are you waiting for, go to chapter one and get started!
+
+And for parents and educators wondering about what we mean by hacking let's just say that we don't beat-around-the-bush about hacking. Hacking what's considered a super power, and you can use your super power to do evil or do good. 
+
+The term will never go away. And we're confronted all the time by people who say we shouldn't use the term. But the same people who typically tell us this, can't describe what a hackathon is, or what a Ruby hacker might do, or a growth hacker. 
+
+Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not "bad".  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad.
+
+It's not the skill that made him good or bad.  It's what he did with the skill. Those using their ability to hack to commit cyber-crime are NEVER cool with us. In-fact, we even confront them in the book at some point. 
+
+Hackers using their ability to quickly interrogate a new system, learn it's behaviors and manipulate it's science to innovate a new device are always rewarded. Hacking is a method of learning in this case.
+
+Many people associate hacking with cracking (breaking into software i.e. security), which is a different act and people who practice it usually have an entirely different mindset.
+
+Illegal activity is something entirely different, but none the less can be combined with hacking, just like you can combine knives with murder, but still use them to cut tomatoes better than using your hands.
+
+Hacking is just circumventing the norm; life hacks, computer hacks, etc., are all ways of just using things differently, usually apposed to the accepted way of using it, or with counter intuition.
+
+The only thing common among all hackers is a tendency to bend or skate on the edge of rules, be they social, legal, or even just habitual or expectations.
+
+They do not, as part of the hacking definition itself, cause any harm.
+
+We only ever hear about the malicious hacking, such as when data is stolen from a company's servers or when a website is edited.
+
+However, in society, we as a people tend to be against corrupt organizations or companies that abuse their power.  As such, hackers who hack these companies as often seen as heros.  It's still malicious, but as the saying goes, the enemy of my enemy is my friend.
+
+####
+
+
+, a term now used by EVRYONE these days can refer to two things, and unfortunately it's always referred to HACKING and 
+
+ECE is a field where everything is becoming a computer. The process of designing new electrical devices in every shape, form and texture is well encapsulated and visually communicated by this book. It helps inspire kids to want to learn in this area.
+
+"Our initial barriers in teaching young engineers had everything to do with the demonstrations of "why hackers huge amounts of time dedicated to this" and "what becomes of inventors when they follow and break the rules." The nature of the graphic novel has unshackled us from the traditional text book and in the future we may develop games and an animated series to go along with our products."
+
+The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. This transmedia form of learning navigates through each of these degrees in an way and that continuously praises the well grounded engineerist who has knowledge of the business around your innovations, common pitfalls and warewithall requirements of becoming successful.
+
+The engineerist reading this book will become familiar with the critical concepts needed experiment with hundreds of scientific sensors, capture their inputs and write their applications. This new and well put together graphic medium gives readers of all ages the context in which the most important open source innovations have risen. Moreover, it covers the socioeconomic scenarios in which their creators battled to launch their ideas.  
+
+The books key takeaway is that it is as much as a cultural indoctrination as it is a tutorial and learning mechanism.
+
+Our research over the past two years has consistently proved that young masters of success latch onto vivid context. Boys obsessed with watching professional athletes on YouTube teach themselves new techniques. Girls inspired by talented singers on Television watch and listen to clips over and over. In general, prodigies are becoming the new norm for American families and so can the idea of raising a young engineer. 
+
+The Node Chronicles attempts to be what Thrasher magazine was to skateboarding in the 80's and 90's - a movement which led to the exponential motivation and advancement of the sport. Todays professional skateboarders are doing unthinkable things because of Thrashers ability to steadily capture the industry at any given moment consistently.
+
+The show Mr. Robot and The Silicon Valley recently highlighted that television could be combined with reasonably accurate technical content to create a show loved by millions while being cultishly coveted by an entire industry. Fans of these shows who code or do start-ups love one thing, that they are somewhat accurate on the technical content. Millions more are even more fascinated who know less about the field and it's because the field is filled with excitement, danger, risk, betrayal and tons of other concerns.
+
+A media scan at any given moment is all you need to find inspiration for content. Millions of people write incredibly amazing tutorials and are now making chips and boards that do the unimaginable and Gamifyed simply curates this stuff and fits it all into a classical context. When read from cover to cover in just under a couple hours you walk away with a sense of accomplishment, a new vocabulary and theoretical base of knowledge that's well worth the $75 dollars. 
+
+While other economies around the world lead in manufacturing and even education, America is typically known for their innovation. We also happen to be the leading contributors to the open source movement by a landslide.
+
+The Node Chronicles is pushing a similar boundary in American education. With more than 250 schools already analyzing this for their classrooms and 2500 books sold, the user feedback we've gotten can be grouped into three important statistics about this book.
+
+* 250 teachers representing close to 250 schools purchased the book unaware that they were part of a survey. Each were shipped the first edition and given a month to analyze the book. After the first month they were given a survey. Of the 250 surveys sent, 226 responded within a week. 
+
+96% of the respondands answered three simple questions .
+
+How likely are you to push to make this required reading for your STEM program?
+
+How likely are you to recommend this to parents interested in their kids learning about electronics, coding and computer engineering?
+
+How likely are you to purchase more products from us in the future? 
+
+Here were the results of the survey. 
+
+In 2017, Gamifyed will continue to invest in it's vision to become the leading cultural curator for classrooms and homes where ECE is quickly becoming a top priority. With 50 billion IoT Devices to come online by the year 2020 and each field becoming an information technology field, the prospect of a new "academy" style cultural movement for kids and teenagers could be huge. 
+
+The Node Chronicles is the first real, American born, globally relevant graphic novel based on the fascinating tech culture, with historical references to pioneers and their personal situations ranging from Tesla and Alan Turing to Bill Gates and Massimo Banzi. 
+
+
+
 ### *Volume 1*
 
 NOTE TO EARLY READERS: 
