@@ -1,4 +1,5 @@
-CHAPTER 1
+CHAPTER 1 - VISIT THE GITHUB READMES, DO NOT READ THIS CRAP RIGHT NOW
+
 #  The Raspberry PI 101 + ;0
 
 https://www.raspberrypi.org/downloads/noobs/ 
