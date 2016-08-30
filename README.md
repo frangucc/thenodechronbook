@@ -6,21 +6,31 @@ So let's just take a second to think about that. TNC is a comic book that teache
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-Let's just say is EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved in.
+Let's just say is EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved.
 
-Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff and seeing those inventions through to mass production. And yes, it's often about making money, and lot's of it. These days the majority of all major innovations have some form of computer in them, so that's the area we're going to look at. 
+Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff and seeing those inventions through to mass production. And yes actually, it is often about making money, by the boatload. 
 
-And more importantly, we'll also take a look at some of the people, both young and old who've been able to 'hack it' in this industry. We'll examine their personal lives, unique traits and socioeconomic behaviors that led to their successes (and failures).
+These days the majority of all major innovations have some form of computer in them, so that's the area we're going to look at. 
 
-What we all need to realize right now is that computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones, even your dolls. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can practically drive the vehicle on it's own. Robots are everywhere now and soon, biohacks could even cure diseases or help the paralyzed walk again. 
+And we'll also take a look at some of the people, both young and old who've been able to 'hack it' in this fascinating industry. We'll examine their personal lives, unique traits and socioeconomic behaviors that led to their successes (and failures).
+
+What we all need to realize right now is that computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones, even your dolls. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can practically drive the vehicle on it's own. Robots are everywhere now and soon, biohacks could even cure diseases or help the paralyzed walk again. A lot of what was once sci-fi is now becoming reality.
+
+## The best way to get started.
 
 If you've ever interacted with an gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you wonder where you've spent all of your time thus far. And when you find out they make as much as doctors, wear flip-flops to work and are often pampered at work, you begin to wonder if you can hack it too.
 
-While this all sounds nice and smooth, there is one thing we should note. These gurus have been putting in work since many were 12 years old. Some say to become truly great you need at least 10,000 hours. Woah, that's a lot of time spent on the computer geeking out. 
+While this all sounds nice and smooth, there is one thing we should note. These gurus have been putting in work since many were 12 years old. Some say to become truly great you need at least 10,000 hours. Woah, that's a lot of time spent on the computer geeking out.
 
-Let's also say that there's a secret understanding that the A+ ones have. It's like their own secret lingo. We sometimes refer to this as the Tao.
+But why do they do it? What is it that's so powerful that it can make a man or woman sit for thousands of hours in-front of complex code and slave away on microscopic circuits?
 
-We're here to teach you that lingo. Within minutes of picking up this book you'll understand. If you're reasonably smart, you'll pick up on quite a bit infact. And you'll pick up on it by getting to know one of the most elit3 hardware hackers in the world.  
+Let's just say that there's a secret understanding that the A+ ones have. It's appears in their own secret lingo, it's exuded in their late night behaviors and praised on github with a thousand stars. At MIT, they sometimes refer to some of this as the Tao, or at Facebook it's described as the the Hacker Way.
+
+The word “hacker” has an unfairly negative connotation from being portrayed in the media as people who break into computers. In reality, hacking just means building something quickly or testing the boundaries of what can be done. Like most things, it can be used for good or bad, but the vast majority of hackers I’ve met tend to be idealistic people who want to have a positive impact on the world.
+
+The Hacker Way is an approach to building that involves continuous improvement and iteration. Hackers believe that something can always be better, and that nothing is ever complete. They just have to go fix it — often in the face of people who say it’s impossible or are content with the status quo.
+
+We're here to teach you all the proper lingo. Within minutes of picking up this book you'll understand. If you're reasonably smart, you'll pick up on quite a bit infact. And you'll pick up on it by getting to know one of the most elit3 hardware hackers in the world.  
 
 As you pick up on things that you once you wish you could do, you'll quickly become addicted. You'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and exist as a quibit. 
 
