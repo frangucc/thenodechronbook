@@ -6,7 +6,7 @@
 
 So let's just take a second to think about that. TNC is a comic book that teaches? How so? 
 
-It has been observed that a big part of 'learning all this stuff' has EVERYTHING to do with the culture surrounding it and the environment (you live it). With that and few simple tools such as a laptop and the internet, you're good to go. 
+It has been observed that a big part of 'learning all this stuff' has EVERYTHING to do with the culture surrounding it and the environment (you live it you learn). With that and few simple tools such as a laptop and the internet, you should be good to go. 
 
 The graphic novel aspect helps paint incredible pictures of what it means to be a true hacker. At the same time, it forces us to limit what we can fit in the book, so careful choices have to be made about what we show you. 
 
