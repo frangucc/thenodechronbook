@@ -68,6 +68,8 @@ Gou Sokyeo and his powerful network of family and friends will be right by your 
 
 As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Tesla's discovery of alternating current, to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications. But first you'll need to develop some critical instincts.
 
+## About the projects.
+
 The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo, examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions on the planet being built with them. When you follow the QR codes in the book, you'll even have the opportunity to work on the projects yourself. Don't worry, we'll help you gather all the parts you'll need. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910719/setup.jpg)
@@ -98,16 +100,6 @@ It's not the skill that made him good or bad.  It's what he did with the skill. 
 
 Illegal activity is something entirely different, but none the less can be combined with hacking, just like you can combine knives with murder, but you still use them to cut tomatoes to make pasta.
 
-Hacking is just circumventing the norm; life hacks, computer hacks, etc., are all ways of just using things differently, usually apposed to the accepted way of using it, or with counter intuition.
-
-The only thing common among all hackers is a tendency to bend or skate on the edge of rules, be they social, legal, or even just habitual or expectations. They do not, as part of the hacking definition itself, cause any harm.
-
-We only ever hear about the malicious hacking, such as when data is stolen from a company's servers or when a website is edited. However, in society, we as a people tend to be against corrupt organizations or companies that abuse their power.  As such, hackers who hack these companies as often seen as heros.  It's still malicious, but as the saying goes, the enemy of my enemy is my friend.
-
-As a writer, father and educator, I am of the view that todays millenials are fascinated by all of this stuff but they don't know who to trust and just want honesty. I also am of the opinion that millenials are gifted in ways other generations are not however they have yet to unlock their soft skills as a generation. 
-
-If you're a parent or teacher, I am confident that you will see that I've carefully and tastefully used just enough culture, mystery, mild violence and honesty to help rope teens in with just enough honest so as to get their buy-in. 
-
 # Teaching isn't just about memorization.
 
 As new company exploring an expiramental new transmedia method of teaching, our initial barriers in convincing young prospects had everything to do with getting the kids to spend time willingly on this, on their own. As parents or teachers, we know there's only so much we can do to tell this kids this is awesome, but at some point, they need to find this part out on their own.
@@ -118,7 +110,7 @@ And what we found is that being able to leverage the graphic novel format comple
 
 To prove this, we setup tests with kids to measure how they learn when using different forms of media. Given the same content on paper in text form, with graphics and as a game, we observed that in game form, not only was retention of information higher, but that kids were more likely to want to continue on. Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was twice as impactful on the learner. 
 
-![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910691/phones.jpg)
+![](https://cl.ly/080Q0I1G1y21/non_reading.jpg)
 
 The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. The graphic textbook covers these fields in an way that continuously praises the well grounded engineerist for his theoretical thought process and simulatanious knowledge of the business and strategies many have used to successfully launch their products. We often refer to this as the politics behind the innovation. At the same time, the reader is expected to acknowledge new lifes experiences of their own as a result from reading along and cracking The Books code.
 
