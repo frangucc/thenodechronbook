@@ -16,7 +16,7 @@ And we'll also take a look at some of the people, both young and old who've been
 
 What we all need to realize right now is that computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones, even your dolls. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can practically drive the vehicle on it's own. Robots are everywhere now and soon, biohacks could even cure diseases or help the paralyzed walk again. A lot of what was once sci-fi is now becoming reality.
 
-## The best way to get started.
+## The hacker way.
 
 If you've ever interacted with an gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you wonder where you've spent all of your time thus far. And when you find out they make as much as doctors, wear flip-flops to work and are often pampered at work, you begin to wonder if you can hack it too.
 
@@ -30,17 +30,19 @@ The word “hacker” has an unfairly negative connotation from being portrayed 
 
 The Hacker Way is an approach to building that involves continuous improvement and iteration. Hackers believe that something can always be better, and that nothing is ever complete. They just have to go fix it — often in the face of people who say it’s impossible or are content with the status quo.
 
-We're here to teach you all the proper lingo. Within minutes of picking up this book you'll understand. If you're reasonably smart, you'll pick up on quite a bit infact. And you'll pick up on it by getting to know one of the most elit3 hardware hackers in the world.  
+Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. If you're reasonably smart, you'll pick up on quite a bit infact, including some highly technical concepts ranging from various coding algorithms to circuitry and the math sensors produce. And you'll pick up on it by getting to know one of the most elit3 hardware hackers in the world.  
 
-As you pick up on things that you once you wish you could do, you'll quickly become addicted. You'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and exist as a quibit. 
+And as others take note to your accomplishments in this field you'll quickly become addicted. You'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and exist as a quibit. 
 
-We're talking about real, vivid real-life hacker culture here folks. I want you need to know right now that you will forever come back to this book. From time to time you will pick it up and read it, access it from your memory and ubiquitously live with it on all your devices. The minute you can emulate Gou yourself is forever the moment you personally, become an elit3.
+We're talking about real, vivid real-life hacker culture here folks. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book. From time to time you will pick it up and read it, access it from your memory and ubiquitously live with it on all your devices. The minute you can emulate Gou's traits will forever be the moment that you personally, become an elit3 hacker worthy of a job anywhere you want and a life however so you dream it.
 
-And when that day comes, there will always be something new for you to conquer. There will always be a mission to complete, a invention to launch and a way to survive. 
+And when that day comes, there will always be something new for you to conquer. There will always be a mission to complete, a invention to launch and a way to survive. It's what keeps even the most fascinating billionaires on the planet going, working harder than anyone they know.
 
-Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. 
+# How it all begins.
 
-So as you dive into the dozens of full life-cycle projects, pay close attention to the situations and opportunities and failures that led to the greatest innovations in history. From Tesla's discover of alternating current to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications.
+Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. We want you to succeed. 
+
+So as you dive into the dozens of full life-cycle projects, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Tesla's discover of alternating current to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications.
 
 The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo, examines some critical use cases of tiny computers and microcontrollers while he offers an inpsiring tour of some of the coolest new inventions on the planet. 
 
