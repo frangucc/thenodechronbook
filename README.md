@@ -1,5 +1,7 @@
 # THE NODE CHRONICLES
 
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910713/book.jpg)
+
 # The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS).  
 
 So let's just take a second to think about that. TNC is a comic book that teaches? How so? Well let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it, and that with a 'graphic novel' we can paint some incredible pictures so to speak. And what exactly is EECS you ask? 
@@ -36,13 +38,13 @@ Let's just say that there's a secret understanding that the A+ ones have. It's a
 
 # Becoming an elit3.
 
-Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms either. If you're reasonably smart, you'll pick up on quite a bit infact, including highly technical crap ranging from AI coding algorithms to circuitry and the math that scientific sensors produce. Best of all, you will come to know all of it through the lens of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
+Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms either. If you're reasonably smart, you'll pick up on quite a bit infact, including highly technical crap ranging from AI coding algorithms to circuitry and the math that scientific sensors produce. Best of all, you will come to know all of it through the eyes (and over teh shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
 
-And as you proceed and others take note to your accomplishments in this field, you'll quickly find the warewithall you need to become addicted. You'll power up fast, and if you don't, your doing something wrong. If you're following Gou's lead, you'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and learn to co-exist as if a quibit. 
-
-If you listen to Gou for me, I promise you one day it will just hit you. Bam. You'll wake up and realize you're not a newb anymore and that others will completely respect you for your hacking chops. Your friends jaws will drop as they watch you earn cold hard cash coding from your dorm room. They'll admire your ability to build anything you can fathom and soon enough, you'll become what's known as an guru or an elit3.
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
 
 Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture that most can't even relate to. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book and hopefully realize something new each time you pick it up. Something mind-blowing. From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial or access it from your memory. It will be with you ubiquitously. It will live with it on all your devices. 
+
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
 
 The minute you can emulate Gou's traits will forever be the moment that you become an elit3 hacker worthy of a job at any company you wish. You'll have the power to design a lifestyle however so you dream it.
 
@@ -52,11 +54,17 @@ And when that day comes, there will always be something new for you to conquer; 
 
 Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. We want you to succeed. 
 
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
+
 As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Tesla's discovery of alternating current, to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications.
 
 The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo, examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions on the planet being built with them. When you follow the QR codes in the book, you'll even have the opportunity to work on the projects yourself. Don't worry, we'll help you gather all the parts you'll need. 
 
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910719/setup.jpg)
+
 Reading about Gou and his network illuminates the common traits the MIT bound Taoist hacker. His work ethic, mindset and personal values are in many ways what leads him to his major breakthroughs. And his life isn't always easy. Things don't always go smooth, as they won't for you at some point.
+
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917331/gou4.jpg)
 
 Gou is by all means, the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising ECE communities on the planet. By picking up this book, you have just entered into a community where mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will personally will soon find out if you have what it takes to be a part of that community.
 
@@ -110,7 +118,7 @@ In general, prodigies are becoming the new norm within the American household an
 
 The idea that your child has other options besides just sports or music has never been more present. The idea that you could become the next Mark Zuckerberg or Sergay Brin has become evident by the number of unicorns surfacing all of the World. Teens are literally building things in their basements that go online and become worth millions of dollars. Some of the best programmers I have ever worked with we're 15 years old. And Gou Sokyeo is only 13.
 
-# asdfadsf
+# Proof of concept.
 
 The Node Chronicles attempts to be what Thrasher magazine was to skateboarding in the 80's and 90's - a movement which led to the exponential motivation and advancement of the sport. Todays professional skateboarders are doing unthinkable things because of Thrashers ability to steadily capture the industry at any given moment consistently.
 
@@ -136,8 +144,14 @@ Here were the results of the survey.
 
 In 2017, Gamifyed will continue to invest in it's vision to become the leading cultural curator for classrooms and homes where ECE is quickly becoming a top priority. With 50 billion IoT Devices to come online by the year 2020 and each field becoming an information technology field, the prospect of a new "academy" style cultural movement for kids and teenagers could be huge. 
 
-The Node Chronicles is the first real, American born, globally relevant graphic novel based on the fascinating tech culture, with historical references to pioneers and their personal situations ranging from Tesla and Alan Turing to Bill Gates and Massimo Banzi. 
+The Node Chronicles is the first real, American born, globally relevant graphic novel based on the fascinating tech culture, with historical references to pioneers and their personal situations ranging from 
+and Alan Turing to Bill Gates and Massimo Banzi. 
 
+### *Exerpts*
+
+And as you proceed and others take note to your accomplishments in this field, you'll quickly find the warewithall you need to become addicted. You'll power up fast, and if you don't, your doing something wrong. If you're following Gou's lead, you'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and learn to co-exist as if a quibit. 
+
+If you listen to Gou for me, I promise you one day it will just hit you. Bam. You'll wake up and realize you're not a newb anymore and that others will completely respect you for your hacking chops. Your friends jaws will drop as they watch you earn cold hard cash coding from your dorm room. They'll admire your ability to build anything you can fathom and soon enough, you'll become what's known as an guru or an elit3.
 
 
 ### *Volume 1*
