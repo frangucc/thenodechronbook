@@ -78,7 +78,9 @@ The term will never go away. Last year UCLA hosted one of the largest "HACK-A-TH
 
 ![](https://cl.ly/1Y100z152k3O/lahacks.jpg)
 
-And whilst I am confronted constantly by people who say we shouldn't use the term. The same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere. When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize what hackers do. One could easily argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Steve Jobs And Steve Wozniak (the old farts that started Apple) even started their careers as hackers.
+And whilst I am confronted constantly by people who say we shouldn't use the term. The same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere. When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize what hackers do. One could easily argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current or that Alan Turing was cracking the enigma when he discovered the modern computer. 
+
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917317/turing.jpg)
 
 Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not "bad".  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad.
 
@@ -106,6 +108,8 @@ And what we found is that being able to leverage the graphic novel format comple
 
 To prove this, we setup tests with kids to measure how they learn when using different forms of media. Given the same content on paper in text form, with graphics and as a game, we observed that in game form, not only was retention of information higher, but that kids were more likely to want to continue on. Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was twice as impactful on the learner. 
 
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910691/phones.jpg)
+
 The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. The graphic textbook covers these fields in an way that continuously praises the well grounded engineerist for his theoretical thought process and simulatanious knowledge of the business and strategies many have used to successfully launch their products. We often refer to this as the politics behind the innovation. At the same time, the reader is expected to acknowledge new lifes experiences of their own as a result from reading along and cracking The Books code.
 
 The books key takeaway is that it is as much as a cultural indoctrination as it is a new theory of how to teach. If we as a company were to coin an acronym for the phenomenom we're pioneering, we'd call it: Graphicly Interactive Storytelling Transmedia Textbook or GISTT. But before we go and throw that term around, know that we're still just figuring all this out. Whether or not the classroom is meant to feel more like Disney or Marvel or an immersive video gaming experience has yet to be proven. One can only speculate right now.
@@ -128,6 +132,8 @@ A media scan at any given moment is all you need to find inspiration for content
 
 While other economies around the world lead in manufacturing and even education, America is typically known for their innovation. We also happen to be the leading contributors to the open source movement by a landslide.
 
+### *Excerpts and Random Facts*
+
 The Node Chronicles is pushing a similar boundary in American education. With more than 250 schools already analyzing this for their classrooms and 2500 books sold, the user feedback we've gotten can be grouped into three important statistics about this book.
 
 * 250 teachers representing close to 250 schools purchased the book unaware that they were part of a survey. Each were shipped the first edition and given a month to analyze the book. After the first month they were given a survey. Of the 250 surveys sent, 226 responded within a week. 
@@ -144,10 +150,7 @@ Here were the results of the survey.
 
 In 2017, Gamifyed will continue to invest in it's vision to become the leading cultural curator for classrooms and homes where ECE is quickly becoming a top priority. With 50 billion IoT Devices to come online by the year 2020 and each field becoming an information technology field, the prospect of a new "academy" style cultural movement for kids and teenagers could be huge. 
 
-The Node Chronicles is the first real, American born, globally relevant graphic novel based on the fascinating tech culture, with historical references to pioneers and their personal situations ranging from 
-and Alan Turing to Bill Gates and Massimo Banzi. 
-
-### *Exerpts*
+The Node Chronicles is the first real, American born, globally relevant graphic novel based on the fascinating tech culture, with historical references to pioneers and their personal situations ranging from and Alan Turing to Bill Gates and Massimo Banzi. 
 
 And as you proceed and others take note to your accomplishments in this field, you'll quickly find the warewithall you need to become addicted. You'll power up fast, and if you don't, your doing something wrong. If you're following Gou's lead, you'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and learn to co-exist as if a quibit. 
 
@@ -174,7 +177,7 @@ This is the **missing curriculum** people! Your kids are going to read some of i
 
 > Something mysterious is formed, born in the silent void. waiting alone and unmoving, it is at once still and yet in constant motion. It is the source of all programs. I do not know its name, so I will call it the Tao of Programming.
 
-**PREFACE**
+**BOOK PREFACE**
 
 What started as a simple experiment with fundamentals and graphic content has now become a globally recognized platform embraced by teachers, parents and young innovators everywhere.
 
