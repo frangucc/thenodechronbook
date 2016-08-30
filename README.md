@@ -4,11 +4,17 @@
 
 # The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS).  
 
-So let's just take a second to think about that. TNC is a comic book that teaches? How so? Well let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it, and that with a 'graphic novel' we can paint some incredible pictures so to speak. And what exactly is EECS you ask? 
+So let's just take a second to think about that. TNC is a comic book that teaches? How so? 
+
+It has been observed that a big part of 'learning all this stuff' has EVERYTHING to do with the culture surrounding it and the environment (you live it). With that and few simple tools such as a laptop and the internet, you're good to go. 
+
+The graphic novel aspect helps paint incredible pictures of what it means to be a true hacker. At the same time, it forces us to limit what we can fit in the book, so careful choices have to be made about what we show you. 
+
+And what exactly is EECS you ask? 
+
+EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved. How sad.
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
-
-Let's just say EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved. How sad.
 
 Becoming an EECS major isn't just about making money and having a great career. It's about inventing cool stuff and seeing those inventions through to mass production. And yes actually, it is often about making money, by the boatload. 
 
