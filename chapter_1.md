@@ -168,10 +168,6 @@ See notes finish table later...
 * **Non:** Dude, have you seen the new PI 3?
 
 
-{% gist id='https://gist.github.com/frangucc/f396c3f501533b6f471f03b82375d737' %}{% endgist %}
-
-{% gistrun id="e57fa69d4697091a20cec1f240bfaa0f" %}
-{% endgistrun %}
 
 This is one of my favorite things to talk about. What are they used for today but more importantly, what are they going to be used for more in the near future? What's so great about them?
 
