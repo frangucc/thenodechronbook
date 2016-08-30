@@ -2,15 +2,17 @@
 
 # The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS).  
 
-So let's just take a second to think about that. TNC is a comic book that teaches? How so? Well let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it, and that with a graphic novel we can paint the picture so to speak. And what exactly is EECS you ask? 
+So let's just take a second to think about that. TNC is a comic book that teaches? How so? Well let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it, and that with a 'graphic novel' we can paint some incredible pictures so to speak. And what exactly is EECS you ask? 
 
 ![](http://lh5.googleusercontent.com/nVki-Vw5bdZ4rvVkNhI3fVOAftCiuo8nqUB08C0KzN08tmaHHXg6mlcvsg9EdC3LuEit2EUl=w2672-h1600-rw)
 
-Let's just say is EECS is one of the most exciting and lucrative fields known to man. And it's one most won't even hear about until they get to College. However by that time it's probably too late if you're looking to become a serious engineer. And while it's true that some high schools are beginning to offer coding and electrical engineering classes, teens all too often get started late, and that becomes a problem.
+Let's just say is EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved in.
 
-Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff and seeing those inventions through to mass production. These days the majority of all major innovations have some form of computer in them, so that's the area we're going to look at. 
+Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff and seeing those inventions through to mass production. And yes, it's often about making money, and lot's of it. These days the majority of all major innovations have some form of computer in them, so that's the area we're going to look at. 
 
-Computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors in them that can practically drive the vehicle on it's own. 
+And more importantly, we'll also take a look at some of the people, both young and old who've been able to 'hack it' in this industry. We'll examine their personal lives, unique traits and socioeconomic behaviors that led to their successes (and failures).
+
+What we all need to realize right now is that computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones, even your dolls. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can practically drive the vehicle on it's own. Robots are everywhere now and soon, biohacks could even cure diseases or help the paralyzed walk again. 
 
 If you've ever interacted with an gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you wonder where you've spent all of your time thus far. And when you find out they make as much as doctors, wear flip-flops to work and are often pampered at work, you begin to wonder if you can hack it too.
 
