@@ -2,7 +2,7 @@
 
 ### What just happened?
 
-The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical computer science.  And if something new comes out just like it, you should but that too, for this is as much about learning as it is entertainment. 
+The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical computer science.  And if something new comes out just like it, you should but that too, for this is as much about learning as it is entertainment.
 
 So let's just take a second to think about that. TNC is a comic book that teaches. How so? Well, let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it. 
 
