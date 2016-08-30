@@ -20,7 +20,7 @@ Becoming an EECS major isn't just about making money and having a great career. 
 
 These days the majority of all incredible innovations have some form of computer in them, so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
 
-We'll also take a look at some of the people real-world people who've been able to 'hack it' in this fascinating industry and how they got there. We'll examine their personal lives, unique traits and socioeconomic behaviors that led to their successes (and failures).
+We'll also take a look at some of the people real-world people who've been able to 'hack it' in this fascinating industry and how they got there. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
 When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things listen and talk like Siri. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots here amongst us, right now and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again. Harvard scientists are  "copy and pasting" genes right now with binary DNA munching electrical molecules. What was once sci-fi and only in the movies is now becoming reality! What an incredible time to be alive.
 
