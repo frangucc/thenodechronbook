@@ -1,16 +1,24 @@
 # THE NODE CHRONICLES
 
-### What just happened?
+# The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS).  
 
-The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical computer science.  And if something new comes out just like it, you should but that too, for this is as much about learning as it is entertainment.
+So let's just take a second to think about that. TNC is a comic book that teaches? How so? Well let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it, and that with a graphic novel we can paint the picture so to speak. And what exactly is EECS you ask? 
 
-So let's just take a second to think about that. TNC is a comic book that teaches. How so? Well, let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it. 
+![](https://lh6.googleusercontent.com/CUcstsSPfUuqHb7ir94-Ovij0INtcmp2wbpyz8VEzQYu7mU_LKSnv5h6RHbBX2xsabiOah0hHfWk7IA=w2672-h1600-rw)
 
-If you've ever interacted with an extremely good engineer or hacker then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you wonder where you've spent all of your time thus far. 
+Let's just say is EECS is one of the most exciting and lucrative fields known to man. And it's one most won't even hear about until they get to College. However by that time it's probably too late if you're looking to become a serious engineer. And while it's true that some high schools are beginning to offer coding and electrical engineering classes, teens all too often get started late, and that becomes a problem.
+
+Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff and seeing those inventions through to mass production. These days the majority of all major innovations have some form of computer in them, so that's the area we're going to look at. 
+
+Computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors in them that can practically drive the vehicle on it's own. 
+
+If you've ever interacted with an gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you wonder where you've spent all of your time thus far. And when you find out they make as much as doctors, wear flip-flops to work and are often pampered at work, you begin to wonder if you can hack it too.
+
+While this all sounds nice and smooth, there is one thing we should note. These gurus have been putting in work since many were 12 years old. Some say to become truly great you need at least 10,000 hours. Woah, that's a lot of time spent on the computer geeking out. 
 
 Let's also say that there's a secret understanding that the A+ ones have. It's like their own secret lingo. We sometimes refer to this as the Tao.
 
-Well we're here to teach you that lingo. Within minutes of picking up this book you'll understand. If you're reasonably smart, you'll pick up on quite a bit infact. And you'll pick up on it by getting to know one of the most elit3 hardware hackers in the world.  
+We're here to teach you that lingo. Within minutes of picking up this book you'll understand. If you're reasonably smart, you'll pick up on quite a bit infact. And you'll pick up on it by getting to know one of the most elit3 hardware hackers in the world.  
 
 As you pick up on things that you once you wish you could do, you'll quickly become addicted. You'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and exist as a quibit. 
 
