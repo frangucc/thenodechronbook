@@ -50,21 +50,23 @@ If you're reasonably smart you'll pick up on quite a bit. You'll eventually mow 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
 
-Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture that most can't even relate to. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book and hopefully realize something new each time you pick it up. Something mind-blowing. From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial or access it from your memory. It will be with you ubiquitously. It will live with it on all your devices. 
+Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture that most can't even relate to. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book and hopefully realize something new each time you pick it up. Something mind-blowing, even for elit3's. 
+
+From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial and crack the books code. Eventually, you'll access parts of it from your own memory and use it as a tool. It will be with you ubiquitously and it will guide you to new heights.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
 
-The minute you can emulate Gou's traits will forever be the moment that you become an elit3 hacker worthy of a job at any company you wish. You'll have the power to design a lifestyle however so you dream it.
+The minute you being to emulate Gou's traits will forever be the moment that you become an elit3 hacker worthy of a job at any company you wish. And with that you'll have the power to design a life however so you dream it.
 
-And when that day comes, there will always be something new for you to conquer; There will always be a mission to complete, a invention to launch and a way to survive. It's what keeps even the most fascinating billionaires on the planet going, working harder than anyone they know. It's because they know that everything is possible.
+And when that day comes there will still be something new and exciting for you to conquer; There will always be a mission to complete, a invention to launch and a cause worth fighting for. It's what keeps even the most fascinating billionaires on the planet going, working harder than anyone they know - it's because they know that *everything* is possible.
 
 # How it all begins.
 
-Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. We want you to succeed. 
+Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. While he might not tell you all the time, Gou wants you to succeed but you'll also have to learn to read him as he's got very little time for playing games.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
 
-As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Tesla's discovery of alternating current, to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications.
+As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Tesla's discovery of alternating current, to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications. But first you'll need to develop some critical instincts.
 
 The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo, examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions on the planet being built with them. When you follow the QR codes in the book, you'll even have the opportunity to work on the projects yourself. Don't worry, we'll help you gather all the parts you'll need. 
 
