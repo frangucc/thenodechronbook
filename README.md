@@ -6,17 +6,17 @@ So let's just take a second to think about that. TNC is a comic book that teache
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-Let's just say is EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize that until they get to college either. And by that time it could even be too late to get involved. How sad.
+Let's just say EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved. How sad.
 
-Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff and seeing those inventions through to mass production. And yes actually, it is often about making money, by the boatload. 
+Becoming an EECS major isn't just about making money and having a great career. It's about inventing cool stuff and seeing those inventions through to mass production. And yes actually, it is often about making money, by the boatload. 
 
-These days the majority of all incredible innovations have some form of computer in them, so that's the area we're going to look at. How do we make new things from scratch with computers in them. And what can these computers do for us?
+These days the majority of all incredible innovations have some form of computer in them, so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
 
-And we'll also take a look at some of the people, both young and old who've been able to 'hack it' in this fascinating industry. We'll examine their personal lives, unique traits and socioeconomic behaviors that led to their successes (and failures).
+We'll also take a look at some of the people real-world people who've been able to 'hack it' in this fascinating industry and how they got there. We'll examine their personal lives, unique traits and socioeconomic behaviors that led to their successes (and failures).
 
-What we all need to realize right now is that computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones, even your dolls. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can practically drive the vehicle on it's own. Robots are everywhere now and soon, biohacks could even cure diseases, regulate failing organs or help the paralyzed walk again. Harvard scientists are evey "copy and pasting" your genes with binary DNA munching electrical molecules. What was once sci-fi is now becoming reality and it's the future.
+When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things listen and talk like Siri. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots here amongst us, right now and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again. Harvard scientists are  "copy and pasting" genes right now with binary DNA munching electrical molecules. What was once sci-fi and only in the movies is now becoming reality! What an incredible time to be alive.
 
-Are you ready to step up and be a part of it? 
+Are you ready to step up and be a part of the EECS revolution? 
 
 ## The hacker way.
 
