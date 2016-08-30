@@ -32,7 +32,7 @@ The word “hacker” has an unfairly negative connotation from being portrayed 
 
 The Hacker Way is an approach to building that involves continuous improvement and iteration. Hackers believe that something can always be better, and that nothing is ever complete. They just have to go fix it — often in the face of people who say it’s impossible or are content with the status quo.
 
-And if you've ever interacted with a gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you buckle. And when you find out they make as much as doctors, wear flip-flops to work and are often well pampered, you begin to wonder if you can hack it too.
+And if you've ever interacted with a gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you buckle and want to quit trying. And when you find out they make as much as doctors, wear flip-flops to work and are often well pampered, you begin to wonder if you can hack it too.
 
 While this all sounds nice and gravy, there is one thing we should note. Most of these gurus have been putting in work since many were 12 years old. And Mr. Gladwell would say you need to put 10,000 quality hours in before you're a master, and we agree, somewhat. Woah, that's a lot of time spent on the computer geeking out!
 
