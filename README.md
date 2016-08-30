@@ -4,7 +4,7 @@
 
 So let's just take a second to think about that. TNC is a comic book that teaches? How so? Well let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it, and that with a 'graphic novel' we can paint some incredible pictures so to speak. And what exactly is EECS you ask? 
 
-![](http://lh5.googleusercontent.com/nVki-Vw5bdZ4rvVkNhI3fVOAftCiuo8nqUB08C0KzN08tmaHHXg6mlcvsg9EdC3LuEit2EUl=w2672-h1600-rw)
+![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
 Let's just say is EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved in.
 
