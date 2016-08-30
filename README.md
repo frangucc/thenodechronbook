@@ -6,59 +6,69 @@ So let's just take a second to think about that. TNC is a comic book that teache
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-Let's just say is EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved.
+Let's just say is EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize that until they get to college either. And by that time it could even be too late to get involved. How sad.
 
 Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff and seeing those inventions through to mass production. And yes actually, it is often about making money, by the boatload. 
 
-These days the majority of all major innovations have some form of computer in them, so that's the area we're going to look at. 
+These days the majority of all incredible innovations have some form of computer in them, so that's the area we're going to look at. How do we make new things from scratch with computers in them. And what can these computers do for us?
 
 And we'll also take a look at some of the people, both young and old who've been able to 'hack it' in this fascinating industry. We'll examine their personal lives, unique traits and socioeconomic behaviors that led to their successes (and failures).
 
-What we all need to realize right now is that computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones, even your dolls. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can practically drive the vehicle on it's own. Robots are everywhere now and soon, biohacks could even cure diseases or help the paralyzed walk again. A lot of what was once sci-fi is now becoming reality.
+What we all need to realize right now is that computers are getting smaller and smaller. They're in your phones, watches, clothing, soccer balls and drones, even your dolls. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can practically drive the vehicle on it's own. Robots are everywhere now and soon, biohacks could even cure diseases, regulate failing organs or help the paralyzed walk again. Harvard scientists are evey "copy and pasting" your genes with binary DNA munching electrical molecules. What was once sci-fi is now becoming reality and it's the future.
+
+Are you ready to step up and be a part of it? 
 
 ## The hacker way.
-
-If you've ever interacted with an gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you wonder where you've spent all of your time thus far. And when you find out they make as much as doctors, wear flip-flops to work and are often pampered at work, you begin to wonder if you can hack it too.
-
-While this all sounds nice and smooth, there is one thing we should note. These gurus have been putting in work since many were 12 years old. Some say to become truly great you need at least 10,000 hours. Woah, that's a lot of time spent on the computer geeking out.
-
-But why do they do it? What is it that's so powerful that it can make a man or woman sit for thousands of hours in-front of complex code and slave away on microscopic circuits?
-
-Let's just say that there's a secret understanding that the A+ ones have. It's appears in their own secret lingo, it's exuded in their late night behaviors and praised on github with a thousand stars. At MIT, they sometimes refer to some of this as the Tao, or at Facebook it's described as the the Hacker Way.
 
 The word “hacker” has an unfairly negative connotation from being portrayed in the media as people who break into computers. In reality, hacking just means building something quickly or testing the boundaries of what can be done. Like most things, it can be used for good or bad, but the vast majority of hackers I’ve met tend to be idealistic people who want to have a positive impact on the world.
 
 The Hacker Way is an approach to building that involves continuous improvement and iteration. Hackers believe that something can always be better, and that nothing is ever complete. They just have to go fix it — often in the face of people who say it’s impossible or are content with the status quo.
 
-Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. If you're reasonably smart, you'll pick up on quite a bit infact, including some highly technical concepts ranging from various coding algorithms to circuitry and the math sensors produce. And you'll pick up on it by getting to know one of the most elit3 hardware hackers in the world.  
+And if you've ever interacted with a gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you tremble and want to quit trying. Watching them in action makes you wonder where you've spent all of your time thus far. And when you find out they make as much as doctors, wear flip-flops to work and are often pampered at work, you begin to wonder if you can hack it too.
 
-And as others take note to your accomplishments in this field you'll quickly become addicted. You'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and exist as a quibit. 
+While this all sounds nice and smooth, there is one thing we should note. These gurus have been putting in work since many were 12 years old. And Mr. Gladwell would say you need to put 10,000 quality hours in before you're a master. Woah, that's a lot of time spent on the computer geeking out!
 
-We're talking about real, vivid real-life hacker culture here folks. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book. From time to time you will pick it up and read it, access it from your memory and ubiquitously live with it on all your devices. The minute you can emulate Gou's traits will forever be the moment that you personally, become an elit3 hacker worthy of a job anywhere you want and a life however so you dream it.
+But why do 'hackers' do it? What is it that's so powerful that it can make a man or woman sit for thousands of hours in-front of complex code and slave away on microscopic circuits? What keeps them motivated?
 
-And when that day comes, there will always be something new for you to conquer. There will always be a mission to complete, a invention to launch and a way to survive. It's what keeps even the most fascinating billionaires on the planet going, working harder than anyone they know.
+Let's just say that there's a secret understanding that the A+ ones have. It's appears in their own secret lingo, it's exuded in their late night behaviors and praised on github with a thousand stars. At MIT, they sometimes refer to some of this as the Tao, or at Facebook it's described as the the Hacker Way, and it inovolves predicting things, imagination and slaying dragons. Ok not real dragons but metaphorical ones like bugs and Moores Law. 
+
+# Becoming an elit3.
+
+Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms either. If you're reasonably smart, you'll pick up on quite a bit infact, including highly technical crap ranging from AI coding algorithms to circuitry and the math that scientific sensors produce. Best of all, you will come to know all of it through the lens of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
+
+And as you proceed and others take note to your accomplishments in this field, you'll quickly find the warewithall you need to become addicted. You'll power up fast, and if you don't, your doing something wrong. If you're following Gou's lead, you'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and learn to co-exist as if a quibit. 
+
+If you listen to Gou for me, I promise you one day it will just hit you. Bam. You'll wake up and realize you're not a newb anymore and that others will completely respect you for your hacking chops. Your friends jaws will drop as they watch you earn cold hard cash coding from your dorm room. They'll admire your ability to build anything you can fathom and soon enough, you'll become what's known as an guru or an elit3.
+
+Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture that most can't even relate to. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book and hopefully realize something new each time you pick it up. Something mind-blowing. From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial or access it from your memory. It will be with you ubiquitously. It will live with it on all your devices. 
+
+The minute you can emulate Gou's traits will forever be the moment that you become an elit3 hacker worthy of a job at any company you wish. You'll have the power to design a lifestyle however so you dream it.
+
+And when that day comes, there will always be something new for you to conquer; There will always be a mission to complete, a invention to launch and a way to survive. It's what keeps even the most fascinating billionaires on the planet going, working harder than anyone they know. It's because they know that everything is possible.
 
 # How it all begins.
 
 Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. We want you to succeed. 
 
-So as you dive into the dozens of full life-cycle projects, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Tesla's discover of alternating current to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications.
+As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Tesla's discovery of alternating current, to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications.
 
-The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo, examines some critical use cases of tiny computers and microcontrollers while he offers an inpsiring tour of some of the coolest new inventions on the planet. 
+The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo, examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions on the planet being built with them. When you follow the QR codes in the book, you'll even have the opportunity to work on the projects yourself. Don't worry, we'll help you gather all the parts you'll need. 
 
-Reading about Gou and his network illuminates the common traits the MIT bound Taoist. His work ethic, Taoist mindset and personal values are in many ways what leads him to his major breakthroughs. 
+Reading about Gou and his network illuminates the common traits the MIT bound Taoist hacker. His work ethic, mindset and personal values are in many ways what leads him to his major breakthroughs. And his life isn't always easy. Things don't always go smooth, as they won't for you at some point.
 
-He is by all means, the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising ECE communities on the planet. By picking up this book, you have just entered into a community where mods at every major university back Gou up on Github and with all his open source initatives. And you will quickly find out if you have what it takes to be a part of that community.
+Gou is by all means, the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising ECE communities on the planet. By picking up this book, you have just entered into a community where mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will personally will soon find out if you have what it takes to be a part of that community.
 
-So if you think you have what it takes to design your own hardware components, programmatically divide sensors data and write servers that can bring online (or off) some of the most sophisticated electrical computing devices on the planet, then get going. Go to chapter one and get started!
+So if you think you have what it takes to design your own hardware components, programmatically divide sensors data and write servers to power some of the most sophisticated electrical computing devices on the planet, then get going. Go to chapter one and get started!
 
-And for you parents and educators wondering about what we mean by "hacking," let's just say that we don't beat-around-the-bush about hacking. Hacking what's considered, dare I say, a new and very real super power, and it can be used to do evil or to work wonders. 
+# One more bit on hacking.
 
-The term will never go away. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country and there are more than 1000 job listings on Indeed with reference to the word hacking. 
+For you parents and educators still wondering exactly what we mean by "hacking," I'll just say this. First, kids are intrigued by it, whatever it is Second, hacking is what is considered, dare I say, a new and very real super power, and it can be used to do evil or to work wonders. And this is what really gets kids. It's the "how the heck did you just do that" reaction that fuels the hacker way. 
 
-And whilst I am confronted constantly by people who say we shouldn't use the term. The same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere. When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize what hackers do. One could easily argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. 
+The term will never go away. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. There more than a thousand students came to work on some incredibly intense stuff. An there are more than 1000 job listings on Indeed with reference to the word hacking. Facebook and Google even hire "rockstar hackers" for general programming roles. Growth hacking has become the new marketing role and biohacks is a term to describe EECS medical innovations.
 
-Steve Jobs And Steve Wozniak (the old farts that started Apple) even started their careers as hackers.
+![](https://cl.ly/1Y100z152k3O/lahacks.jpg)
+
+And whilst I am confronted constantly by people who say we shouldn't use the term. The same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere. When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize what hackers do. One could easily argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Steve Jobs And Steve Wozniak (the old farts that started Apple) even started their careers as hackers.
 
 Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not "bad".  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad.
 
@@ -68,31 +78,27 @@ Illegal activity is something entirely different, but none the less can be combi
 
 Hacking is just circumventing the norm; life hacks, computer hacks, etc., are all ways of just using things differently, usually apposed to the accepted way of using it, or with counter intuition.
 
-The only thing common among all hackers is a tendency to bend or skate on the edge of rules, be they social, legal, or even just habitual or expectations.
+The only thing common among all hackers is a tendency to bend or skate on the edge of rules, be they social, legal, or even just habitual or expectations. They do not, as part of the hacking definition itself, cause any harm.
 
-They do not, as part of the hacking definition itself, cause any harm.
+We only ever hear about the malicious hacking, such as when data is stolen from a company's servers or when a website is edited. However, in society, we as a people tend to be against corrupt organizations or companies that abuse their power.  As such, hackers who hack these companies as often seen as heros.  It's still malicious, but as the saying goes, the enemy of my enemy is my friend.
 
-We only ever hear about the malicious hacking, such as when data is stolen from a company's servers or when a website is edited.
+As a writer, father and educator, I am of the view that todays millenials are fascinated by all of this stuff but they don't know who to trust and just want honesty. I also am of the opinion that millenials are gifted in ways other generations are not however they have yet to unlock their soft skills as a generation. 
 
-However, in society, we as a people tend to be against corrupt organizations or companies that abuse their power.  As such, hackers who hack these companies as often seen as heros.  It's still malicious, but as the saying goes, the enemy of my enemy is my friend.
+If you're a parent or teacher, I am confident that you will see that I've carefully and tastefully used just enough culture, mystery, mild violence and honesty to help rope teens in with just enough honest so as to get their buy-in. 
 
-Millenials are fascinated by all of this stuff but they don't know who to trust and just want honesty. If you're a parent or teacher, I am confident that you will see that I've carefully and tastefully used just enough culture, mystery, mild violence and honesty to help rope the kids in a little so they can prepare for the potential lifestyle of being an ECE industry contributor someday. 
+# Teaching isn't just about memorization.
 
-####
+As new company exploring an expiramental new transmedia method of teaching, our initial barriers in convincing young prospects had everything to do with getting the kids to spend time willingly on this, on their own. 
 
-ECE is a field where everything is becoming a computer. The process of designing new electrical devices in every shape, form and texture is well encapsulated and visually communicated by this book. It helps inspire kids to want to learn in this area.
+To figure this out, we researched "why gifted hackers spend such huge amounts of time learning, exploiting and tampering with technology." We looked carefully at the moments when hackers had their first aha moments and knew it was right for them. In the first volume, these specific experiences are what has helped an entire team of people create such a prolific educational text.
 
-"Our initial barriers in teaching young engineers had everything to do with the demonstrations of "why hackers huge amounts of time dedicated to this" and "what becomes of inventors when they follow and break the rules." 
+What's more is that the nature of the graphic novel completely unshackles us from what the traditional text book has to offer. And we believe that some day, 3D games on conosoles or VR platforms will play a role in the rapid education and deep learning of some of the complex subjects in this field. These mediums provide immersive, graphical environments to train and simulate components, connections and conventions. 
 
-The nature of the graphic novel unshackles us from what the traditional text book has to offer. And we believe that some day, Playstation and XBOX 3D games could become some of the most important tools for simulating and playing with hardware hacks or to learn about complex stuff that requires really deep, immersive, graphical environments to train. The concept of transmedia in this case gives Gamifyed a huge advantage as a new platform for teaching kids hardware hacking.
-
-The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. The graphic textbook covers these fields in an way  that continuously praises the well grounded engineerist for his theoretical through process and  simulatanious knowledge of the business. The way common pitfalls are avoided and how the satisfaction of say, having the warewithall to sit and learn for hours uninterrupted are all covered in this book.
-
-The engineerist reading this book will become familiar with the critical concepts needed experiment with hundreds of scientific sensors, capture their inputs and write their applications. This new and well put together graphic medium gives readers of all ages the context in which the most important open source innovations have risen. Moreover, it covers the socioeconomic scenarios in which their creators battled to launch their ideas.  
+The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. The graphic textbook covers these fields in an way that continuously praises the well grounded engineerist for his theoretical thought process and simulatanious knowledge of the business and strategies many have used to successfully launch their products. We often refer to this as the politics behind the innovation.
 
 The books key takeaway is that it is as much as a cultural indoctrination as it is a tutorial and learning mechanism.
 
-Our research over the past two years has consistently proved that young masters of success latch onto vivid context. Boys obsessed with watching professional athletes on YouTube teach themselves new techniques. Girls inspired by talented singers on Television watch and listen to clips over and over. In general, prodigies are becoming the new norm for American families and so can the idea of raising a young engineer. 
+Our research over the past two years has consistently proved that young masters of success latch onto vivid context. Boys obsessed with watching professional athletes on YouTube teach themselves new techniques. Girls inspired by talented singers on Television watch and listen to clips over and over. And visa-versa. In general, prodigies are becoming the new norm within the American household. With that includes the idea that your child has other options besides just sports and entertainment. The idea that you could become the next Mark Zuckcoff. 
 
 The Node Chronicles attempts to be what Thrasher magazine was to skateboarding in the 80's and 90's - a movement which led to the exponential motivation and advancement of the sport. Todays professional skateboarders are doing unthinkable things because of Thrashers ability to steadily capture the industry at any given moment consistently.
 
