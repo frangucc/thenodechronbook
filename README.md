@@ -36,15 +36,17 @@ And if you've ever interacted with a gifted engineer or programmer then you know
 
 While this all sounds nice and gravy, there is one thing we should note. Most of these gurus have been putting in work since many were 12 years old. And Mr. Gladwell would say you need to put 10,000 quality hours in before you're a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
 
-What Malcom G. doesn't tell you is how to spend those hours. That's where we come in. Gamifyed Inc. is quickly establishing itself as the Academy for 
+What Malcom G. doesn't tell you is how to spend those hours. That's where we come in. Gamifyed Inc. is quickly establishing itself as the Academy for teenagers who enjoy getting lost in this world - those who are drawn to the potential upside of it all.
 
-But why do 'hackers' do it? What is it that's so powerful that it can make a man or woman sit for thousands of hours in-front of complex code and slave away on microscopic circuits? What keeps them motivated?
+But why do 'hackers' really do it? What is it that's so powerful that it can make a man or woman sit for thousands of hours in-front of complex code and slave away on microscopic circuits? What keeps them motivated and is it all just about money?
 
-Let's just say that there's a secret understanding that the A+ ones have. It's appears in their own secret lingo, it's exuded in their late night behaviors and praised on github with a thousand stars. At MIT, they sometimes refer to some of this as the Tao, or at Facebook it's described as the the Hacker Way, and it inovolves predicting things, imagination and slaying dragons. Ok not real dragons but metaphorical ones like bugs and Moores Law. 
+For now, let's just say that there's a secret understanding that the A+ ones have. Disguised with a secret lingo this 'understanding' exudedes itself in the choices and behaviors we make as beasts of the night. We are praised for it on github with thousands of stars from the other elit3 ones. At MIT, they sometimes refer to some of this as the Tao, or at Facebook it's described as the the Hacker Way. And yes, it is true that some just don't get it and never will. For now, all you need to do is be prepared to predict things, stretch your imagination and to slay a giant dragon. Ok not a real dragon but huge metaphorical one named Moores Law. 
 
 # Becoming an elit3.
 
-Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms either. If you're reasonably smart, you'll pick up on quite a bit infact, including highly technical crap ranging from AI coding algorithms to circuitry and the math that scientific sensors produce. Best of all, you will come to know all of it through the eyes (and over teh shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
+Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms. 
+
+If you're reasonably smart you'll pick up on quite a bit. You'll eventually mow through highly technical crap ranging from AI coding algorithms to circuitry and the math that scientific sensors produce. Best of all you will come to know all of it through the eyes (and over teh shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
 
