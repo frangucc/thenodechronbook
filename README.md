@@ -8,21 +8,23 @@ So let's just take a second to think about that. TNC is a comic book that teache
 
 It has been observed that a big part of 'learning all this stuff' has EVERYTHING to do with the culture surrounding it and the environment (you live it you learn). With that and few simple tools such as a laptop and the internet, you should be good to go. 
 
-The graphic novel aspect helps paint incredible pictures of what it means to be a true hacker. At the same time, it forces us to limit what we can fit in the book, so careful choices have to be made about what we show you. 
+The graphic novel aspect helps us paint incredible pictures of what it means to be a hacker. With that, careful choices must be made about how to use the space on the page.
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either. And by that time it could even be too late to get involved. How sad.
+EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either - and by that time it's a little late to be getting involved.
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-Becoming an EECS major isn't just about making money and having a great career. It's about inventing cool stuff and seeing those inventions through to mass production. And yes actually, it is often about making money, by the boatload. 
+Becoming an EECS major isn't just about making money and having a great career. It's about inventing cool stuff and seeing those inventions through to mass production. And yes technically, it is often about making money - by the boatload. 
 
-These days the majority of all incredible innovations have some form of computer in them, so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
+These days the majority of all incredible innovations have some form of computer in them; so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
 
-We'll also take a look at some of the people real-world people who've been able to 'hack it' in this fascinating industry and how they got there. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
+We'll also take a look at some of the people real world industry influencers who've been able to hack their life by leveraging this fascinating industry. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
-When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things listen and talk like Siri. Your dogs' collar now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots are here amongst us, right now - and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again. Harvard scientists are  "copy and pasting" genes right now with binary DNA munching electrical molecules. What was once sci-fi and only in the movies is now becoming reality! What an incredible time to be alive.
+When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things listen and talk like Siri. Your dogs coller now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots are here amongst us, right now - and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again. 
+
+It's even gotten so crazy that Harvard scientists are "copy and pasting" genes right now with binary DNA munching electrical molecules. What was once sci-fi and only in the movies is now becoming reality! What an incredible time to be alive.
 
 Are you ready to step up and be a part of the EECS revolution? 
 
