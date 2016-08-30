@@ -1,5 +1,5 @@
 CHAPTER 1
-#  The Raspberry PI 101
+#  The Raspberry PI 101 + ;0
 
 https://www.raspberrypi.org/downloads/noobs/ 
 
