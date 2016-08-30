@@ -4,7 +4,7 @@
 
 So let's just take a second to think about that. TNC is a comic book that teaches? How so? Well let's just start by saying that a big part of learning all this stuff is to understand the culture surrounding it, and that with a graphic novel we can paint the picture so to speak. And what exactly is EECS you ask? 
 
-![](ece.jpg)
+![](http://lh5.googleusercontent.com/nVki-Vw5bdZ4rvVkNhI3fVOAftCiuo8nqUB08C0KzN08tmaHHXg6mlcvsg9EdC3LuEit2EUl=w2672-h1600-rw)
 
 Let's just say is EECS is one of the most exciting and lucrative fields known to man. And it's one most won't even hear about until they get to College. However by that time it's probably too late if you're looking to become a serious engineer. And while it's true that some high schools are beginning to offer coding and electrical engineering classes, teens all too often get started late, and that becomes a problem.
 
