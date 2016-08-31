@@ -74,7 +74,7 @@ Gou Sokyeo and his powerful network of family and friends will be right by your 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
 
-As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the outcome. As you'll see, from Nikola Tesla's discovery of alternating current, to the invention of the Turing Machine and even Twitter, you'll find these people generated their own luck.
+As a reader you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the outcome. As you'll see, from Nikola Tesla's discovery of alternating current, to the invention of the Turing Machine and even Twitter, you'll find these people generated their own luck.
 
 So if you'd someday like to be the one to discover the next new critical API or sensor with universal implications, you'll need to develop some critical instincts.
 
@@ -90,21 +90,23 @@ Reading about Gou and his network illuminates the common traits the MIT bound Ta
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917331/gou4.jpg)
 
-And just so you know, Gou is by all means the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising EECS communities on the planet. By picking up this book you have just entered into a community where elit3 mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will soon find out if you have what it takes to be a part of that community.
+And just so you know, Gou is by all means the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the most promising EECS communities on the planet. 
+
+By picking up this book you have just entered into a community where elit3 mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will soon find out if you have what it takes to be a part of that community.
 
 So if you think you have what it takes to design your own hardware components, programmatically divide sensors data and write servers to power some of the most sophisticated electrical computing devices on the planet, then get going. Go to chapter one and get started!
 
 Catch you on the inside?
 
-# One more bit on hacking.
+# One final bit on hacking.
 
-For you parents and educators still wondering exactly what we mean by "hacking," I'll just say this. First, kids are intrigued by it (whatever it is) and second, hacking is what is considered, dare I say, a new and very real super power - it can be used to do evil or to work wonders. Ultimately, it's the "how the heck did you just do that" reaction that empowers the hacker way. 
+For you parents and educators still wondering exactly what we mean by "hacking," I'll just say this: First, kids are intrigued by it (whatever it is) and second, hacking is what is considered, dare I say, a new and very real super power - it can be used to perform cyber-crime or to work legitimate wonders. Ultimately, it's the "how the heck did you just do that" reaction that hackers thrive on and it's a great responsibility we mustn't ignore.
 
-The term will never go away. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. There, more than a thousand students came to work on some incredibly insane spur of the moment stuff, like automonous docking drones and breakthrough machine learning algorithms. 
+The term will never go away and is only becoming more widespread. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. More than a thousand students came to work on some incredibly insane spur of the moment stuff, like automonous docking drones and breakthrough machine learning algorithms. After three nights spent in the gym, the entire stadium ended up completely packed as the finalists presented on stage.
 
 ![](https://cl.ly/1Y100z152k3O/lahacks.jpg)
 
-And whilst I am confronted constantly by people who say we shouldn't use the term. The same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere and kids are hearing about them in their daily lives, so we must embrace it. 
+And whilst I am confronted constantly by people who say we shouldn't use the term, the same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere and kids are hearing about them in their daily lives, so we must embrace it. 
 
 When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize. Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer. 
 
