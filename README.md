@@ -4,27 +4,27 @@
 
 # The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS).  
 
-So let's just take a second to think about that. TNC is a comic book that teaches? How so? 
+So let's just take a second to think about that. A comic book that teaches? How so? And to what degree?
 
-It has been observed that a big part of 'learning all this stuff' has EVERYTHING to do with the culture surrounding it and the environment (you live it you learn). With that and few simple tools such as a laptop and the internet, you should be good to go. 
+It has been observed that a big part of learning this stuff has EVERYTHING to do with the culture surrounding you. And all the elit3 hackers we interviewed attribute their start to the environment they were in at the time they got started.
 
-The graphic novel aspect helps us paint incredible pictures of what it means to be a hacker. With that, careful choices must be made about how to use the space on the page.
+I chose the graphic novel format because it helps me paint that cultural picture unlike any other medium. However with that, careful choices had to be made about how to cleverly use the limited space.
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either - and by that time it's a little late to be getting involved.
+EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either - and by that time it's a little late to be getting involved. Sucks to be them. 
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-Becoming an EECS major isn't just about making money and having a great career. It's about inventing cool stuff and seeing those inventions through to mass production. And yes technically, it is often about making money - by the boatload. 
+Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
 These days the majority of all incredible innovations have some form of computer in them; so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
 
 We'll also take a look at some of the people real world industry influencers who've been able to hack their life by leveraging this fascinating industry. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
-When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things listen and talk like Siri. Your dogs coller now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots are here amongst us, right now - and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again. 
+When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri. Your dogs coller now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots are here amongst us, right now - and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again! That cray cray.  
 
-It's even gotten so crazy that Harvard scientists are "copy and pasting" genes right now with binary DNA munching electrical molecules. What was once sci-fi and only in the movies is now becoming reality! What an incredible time to be alive.
+It's even gotten Marvel cray. Right now, Harvard scientists are "copy and pasting" genes with binary controlled DNA munching electrical molecules. What was once sci-fi is now becoming reality! What an incredible time to be alive.
 
 Are you ready to step up and be a part of the EECS revolution? 
 
@@ -36,53 +36,61 @@ The Hacker Way is an approach to building that involves continuous improvement a
 
 And if you've ever interacted with a gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you buckle and want to quit trying. And when you find out they make as much as doctors, wear flip-flops to work and are often well pampered, you begin to wonder if you can hack it too.
 
-While this all sounds nice and gravy, there is one thing we should note. Most of these gurus have been putting in work since many were 12 years old. And Mr. Gladwell would say you need to put 10,000 quality hours in before you're a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
+While this all sounds gravy, there is one thing you should note. Most of these gurus have been putting in work since many were 12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you can become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
 
-What Malcom G. doesn't tell you is how to spend those hours. That's where we come in. Gamifyed Inc. is quickly establishing itself as the Academy for teenagers who enjoy getting lost in this world - those who are drawn to the potential upside of it all.
+What Malcom G. doesn't tell you is how to spend those hours. That's where my new company comes in. Gamifyed Inc. is quickly establishing itself as the Academy for teenagers who enjoy getting lost in this world - those who are drawn to the potential upside of it all.
 
-But why do 'hackers' really do it? What is it that's so powerful that it can make a man or woman sit for thousands of hours in-front of complex code and slave away on microscopic circuits? What keeps them motivated and is it all just about money?
+But why do 'hackers' really do it? What is it that's so powerful that it can make a man or woman sit for thousands of hours infront of complex code or slave away on microscopic circuits? What keeps them motivated and is it only about money?
 
-For now, let's just say that there's a secret understanding that the A+ ones have. Disguised with a secret lingo this 'understanding' exudedes itself in the choices and behaviors we make as beasts of the night. We are praised for it on github with thousands of stars from the other elit3 ones. At MIT, they sometimes refer to some of this as the Tao, or at Facebook it's described as the the Hacker Way. And yes, it is true that some just don't get it and never will. For now, all you need to do is be prepared to predict things, stretch your imagination and to slay a giant dragon. Ok not a real dragon but huge metaphorical one named Moores Law. 
+For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo this 'understanding' rears itself head when it's time to make choices. Behaviorally hackers are beasts of the night and have very little time for bullshart. 
+
+We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our bots. We tell our bosses what to do and operate with holacratic teams at the greatest companies in the world. At MIT, they sometimes refer to all this nonsense as the Tao of Programming and at Facebook it's described as the the Hacker Way. And yes, it is true that some just don't get it and never will. For now, all you need to do is be prepared to predict things, stretch your imagination and to slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law. 
+
+Don't be scerd.
 
 # Becoming an elit3.
 
-Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms. 
+Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms. It's young bucks riffing about pointers and voltage, arguing over code patterns and stupid configurations. 
 
-If you're reasonably smart you'll pick up on quite a bit. You'll eventually mow through highly technical crap ranging from AI coding algorithms to circuitry and the math that scientific sensors produce. Best of all you will come to know all of it through the eyes (and over teh shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
+If you're reasonably smart you'll pick up on quite a bit. You'll eventually mow through the highly technical QR code crap and get your hands dirty on tutorial stuff ranging from AI algorithms to circuitry and math operations on the scientific data sensors produce. Best of all you will come to know all of it through the eyes (and over teh shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
 
-Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture that most can't even relate to. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book and hopefully realize something new each time you pick it up. Something mind-blowing, even for elit3's. 
+Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture on the planet - that most can't even relate to. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book and hopefully realize something new each time you pick it up. Something mind-blowing, even for elit3's. 
 
-From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial and crack the books code. Eventually, you'll access parts of it from your own memory and use it as a tool. It will be with you ubiquitously and it will guide you to new heights.
+From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial and crack the books code - only to realize on thing. You're getting there. Eventually, you'll access parts of it from your own memory and use it as a tool. It will be with you wherever you go and it will take you to new heights. Think we're kidding?
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
 
 The minute you being to emulate Gou's traits will forever be the moment that you become an elit3 hacker worthy of a job at any company you wish. And with that you'll have the power to design a life however so you dream it.
 
-And when that day comes there will still be something new and exciting for you to conquer; There will always be a mission to complete, a invention to launch and a cause worth fighting for. It's what keeps even the most fascinating billionaires on the planet going, working harder than anyone they know - it's because they know that *everything* is possible.
+And when that day comes you'll still find new and exciting stuff you to conquer; There will always be a mission to complete, a invention to launch and a cause worth fighting for. It's what keeps even the most fascinating billionaires on the planet going, working harder than anyone else they know - it's because they know that *everything* is possible.
 
 # How it all begins.
 
-Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. While he might not tell you all the time, Gou wants you to succeed but you'll also have to learn to read him as he's got very little time for playing games.
+Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. While he might not tell you all the time, Gou truly wants you to succeed, but you'll also have to learn to get a read him as he's got very little time for playing games. He's all about business.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
 
-As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Tesla's discovery of alternating current, to the invention of the Turing Machine and Twitter, know that someday you may be the one to discover the next new, critical API or Sensor Network with universal implications. But first you'll need to develop some critical instincts.
+As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Nikola Tesla's discovery of alternating current, to the invention of the Turing Machine and even Twitter, know that some day you may be the one to discover the next new critical API or sensor with universal implications. But before you can do any of this, you'll need to develop some critical instincts.
+
+Gou's about to pass this down to you so get ready.
 
 ## About the projects.
 
-The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo, examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions on the planet being built with them. When you follow the QR codes in the book, you'll even have the opportunity to work on the projects yourself. Don't worry, we'll help you gather all the parts you'll need. 
+The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions using them. When you follow the QR codes in the book you'll even have the opportunity to work on each of th projects and connect the elit3 mods and subject matter experts. Don't worry, we'll help you gather all the parts you'll need.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910719/setup.jpg)
 
-Reading about Gou and his network illuminates the common traits the MIT bound Taoist hacker. His work ethic, mindset and personal values are in many ways what leads him to his major breakthroughs. And his life isn't always easy. Things don't always go smooth, as they won't for you at some point.
+Reading about Gou and his network illuminates the common traits the MIT bound Taoist hacker. His work ethic, mindset and personal values are in many ways what leads him to his major breakthroughs. And his life isn't always easy. Things don't always go smooth, as they won't for you at some point. Rest assured the 'network' will embrace you.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917331/gou4.jpg)
 
-Gou is by all means, the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising ECE communities on the planet. By picking up this book, you have just entered into a community where mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will personally will soon find out if you have what it takes to be a part of that community.
+And just so you know, Gou is by all means the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the youngest, most promising EECS communities on the planet. By picking up this book you have just entered into a community where elit3 mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will soon find out if you have what it takes to be a part of that community.
 
 So if you think you have what it takes to design your own hardware components, programmatically divide sensors data and write servers to power some of the most sophisticated electrical computing devices on the planet, then get going. Go to chapter one and get started!
+
+Catch you on the inside?
 
 # One more bit on hacking.
 
