@@ -22,7 +22,7 @@ These days the majority of all incredible innovations have some form of computer
 
 We'll also take a look at some of the people real world industry influencers who've been able to hack their life by leveraging this fascinating industry. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
-When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri. Your dogs coller now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots are here amongst us, right now - and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again! That cray cray.  
+When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri. Your dogs coller now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots are here amongst us, right now - and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
 
 It's even gotten Marvel cray. Right now, Harvard scientists are "copy and pasting" genes with binary controlled DNA munching electrical molecules. What was once sci-fi is now becoming reality! What an incredible time to be alive.
 
