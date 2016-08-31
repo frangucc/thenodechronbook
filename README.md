@@ -70,7 +70,7 @@ And when that day comes you'll still find new and exciting stuff to conquer; The
 
 # How it all begins.
 
-Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. While he might not tell you all the time, Gou truly wants you to succeed, but you'll also have to learn to get a read him as he's got very little time for playing games. He's all about business.
+Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. While he might not tell you all the time, Gou truly wants you to succeed, but you'll also have to earn his respect. You'll need to learn to get a read him as he's got very little time for bullshart. You'll have to read between the lines at times.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
 
