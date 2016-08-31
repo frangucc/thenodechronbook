@@ -82,7 +82,7 @@ Gou will quickly help you get up to speed but the rest is up to you so get ready
 
 ## About the projects.
 
-The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions using them. When you follow the QR codes in the book you'll even have the opportunity to work on each of th projects and connect the elit3 mods and subject matter experts. Don't worry, we'll help you gather all the parts you'll need.
+The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions using them. When you follow the QR codes in the book you'll even have the opportunity to work on each of th projects and connect the elit3 mods and subject matter experts. Don't worry, we'll help you gather all the parts you'll need. It'll be no time before you're balling out of control.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910719/setup.jpg)
 
