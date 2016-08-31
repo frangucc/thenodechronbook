@@ -68,6 +68,8 @@ The minute you begin to emulate Gou's traits will forever be the moment that you
 
 And when that day comes you'll still find new and exciting stuff to conquer; There will always be a mission to complete, a invention to launch and a cause worth fighting for. It's what keeps even the most fascinating tech billionaires on the planet going, working harder than anyone else they know - it's because they know that *everything* is possible.
 
+![](https://cl.ly/451Y2j3i1z23/tnc_cover.jpg)
+
 # How it all begins.
 
 Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. While he might not tell you all the time, Gou truly wants you to succeed, but you'll also have to earn his respect. You'll need to learn to get a read him as he's got very little time for bullshart. You'll have to read between the lines at times.
@@ -75,6 +77,8 @@ Gou Sokyeo and his powerful network of family and friends will be right by your 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
 
 As a reader you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the outcome. As you'll see, from Nikola Tesla's discovery of alternating current, to the invention of the Turing Machine and even Twitter, you'll find these people generated their own luck.
+
+![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
 
 So if you'd someday like to be the one to discover the next new critical API or sensor with universal implications, you'll need to develop some critical instincts.
 
@@ -102,21 +106,23 @@ Catch you on the inside?
 
 For you parents and educators still wondering exactly what we mean by "hacking," I'll just say this: First, kids are intrigued by it (whatever it is) and second, hacking is what is considered, dare I say, a new and very real super power - it can be used to perform cyber-crime or to work legitimate wonders. Ultimately, it's the "how the heck did you just do that" reaction that hackers thrive on and it's a great responsibility we mustn't ignore.
 
+And whilst I am confronted constantly by people who say we shouldn't use the term, the same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere and kids are hearing about them in their daily lives, so we must embrace it. 
+
 The term will never go away and is only becoming more widespread. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. More than a thousand students came to work on some incredibly insane spur of the moment stuff, like automonous docking drones and breakthrough machine learning algorithms. After three nights spent in the gym, the entire stadium ended up completely packed as the finalists presented on stage.
 
 ![](https://cl.ly/1Y100z152k3O/lahacks.jpg)
 
-And whilst I am confronted constantly by people who say we shouldn't use the term, the same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere and kids are hearing about them in their daily lives, so we must embrace it. 
+When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize a bit more. 
 
-When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize. Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer. 
+Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917317/turing.jpg)
 
 Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not "bad".  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad.
 
-It's not the skill that made him good or bad.  It's what he did with the skill. Those using their ability to hack to commit cyber-crime are NEVER cool with us. In-fact, we even confront them in the book at some point and draw a clear line in the sand about what's right and wrong. 
+It's not the skill that made him good or bad.  It's what he did with the skill. Those using their ability to hack to commit illegal and immoral acts are NEVER championed by us. In-fact, we even confront them in the book at some point and draw a clear line in the sand about what's right and wrong. 
 
-In a nutshell, hackers can find their way into anything and that's a skill we need more of.
+In a nutshell, hacking is a skill that the world needs more of (the good kind of course).
 
 # Teaching isn't just about memorization.
 
@@ -132,7 +138,11 @@ In the future, we plan to invesgitate this idea more and with a graphic novel fo
 
 The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. The graphic textbook covers these fields in an way that continuously praises the well grounded engineerist for his theoretical thought process and simulatanious knowledge of the business and strategies many have used to successfully launch their products. We often refer to this as the politics behind the innovation. At the same time, the reader is expected to acknowledge new lifes experiences of their own as a result from reading along and cracking The Books code.
 
+![](https://cl.ly/3o3n003Q0d35/tnc_8.jpg)
+
 The books key takeaway is that it is as much as a cultural indoctrination as it is a new theory of how to teach. If we as a company were to coin an acronym for the phenomenom we're pioneering, we'd call it: Graphicly Interactive Storytelling Transmedia Textbook or GISTT. But before we go and throw that term around, know that we're still just figuring all this out. Whether or not the classroom is meant to feel more like Disney or Marvel or an immersive video gaming experience has yet to be proven. One can only speculate right now.
+
+![](https://cl.ly/0e2R282i2L3d/tnc_6.jpg)
 
 # Young prodigies.
 
@@ -140,7 +150,11 @@ What we do know is that our user research over the past two years has consistent
 
 In general, prodigies are becoming the new norm within the American household and the stereotypes are narrowing. Yes, there are such thing as stereotypes. It isn't just geeky boys learning to code anymore it's sweet, normal little girls and football playing class presidents. It's transcended across every continent, skintone and background, so long as you have a computer, internet and drive. 
 
+![](https://cl.ly/3o2r0t0v2934/tnc_lilu.jpg)
+
 The idea that your child has other options besides just sports or music has never been more present. The idea that you could become the next Mark Zuckerberg or Sergay Brin has become evident by the number of unicorns surfacing all of the World. Teens are literally building things in their basements that go online and become worth millions of dollars. Some of the best programmers I have ever worked with we're 15 years old. And Gou Sokyeo is only 13.
+
+![](https://cl.ly/272Y2L370j2n/tnc_2.jpg)
 
 # Proof of concept.
 
@@ -151,6 +165,11 @@ The show Mr. Robot and The Silicon Valley recently highlighted that television c
 A media scan at any given moment is all you need to find inspiration for content. Millions of people write incredibly amazing tutorials and are now making chips and boards that do the unimaginable and Gamifyed simply curates this stuff and fits it all into a classical context. When read from cover to cover in just under a couple hours you walk away with a sense of accomplishment, a new vocabulary and theoretical base of knowledge that's well worth the $75 dollars. 
 
 While other economies around the world lead in manufacturing and even education, America is typically known for their innovation. We also happen to be the leading contributors to the open source movement by a landslide.
+
+![](https://cl.ly/0m0Z1Y3m1M3g/tnc_7.jpg)
+
+
+![](https://cl.ly/0I0x0k1K0q3j/tnc_9.jpg)
 
 ### *Excerpts and Random Facts*
 
