@@ -74,9 +74,11 @@ Gou Sokyeo and his powerful network of family and friends will be right by your 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
 
-As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the greatest innovations in history. From Nikola Tesla's discovery of alternating current, to the invention of the Turing Machine and even Twitter, know that some day you may be the one to discover the next new critical API or sensor with universal implications. But before you can do any of this, you'll need to develop some critical instincts.
+As a reader, you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the outcome. As you'll see, from Nikola Tesla's discovery of alternating current, to the invention of the Turing Machine and even Twitter, you'll find these people generated their own luck.
 
-Gou's about to pass this down to you so get ready.
+So if you'd someday like to be the one to discover the next new critical API or sensor with universal implications, you'll need to develop some critical instincts.
+
+Gou will quickly help you get up to speed but the rest is up to you so get ready to own it.
 
 ## About the projects.
 
