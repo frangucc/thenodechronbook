@@ -44,7 +44,7 @@ But why do 'hackers' really do what they do? What is it that's so powerful that 
 
 For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo this 'understanding' rears itself head when it's time to make choices. Behaviorally, hackers are beasts of the night and have very little time for bullshart. 
 
-We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our bots. We tell our bosses what to do and operate with holacratic teams at the greatest companies in the world. At MIT, they sometimes refer to all this nonsense as the Tao of Programming and at Facebook it's described as the the Hacker Way. And yes, it is true that some just don't get it and never will. For now, all you need to do is be prepared to predict things, stretch your imagination and to slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law. 
+We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our bots. We tell our bosses what to do and operate with holacratic teams at the greatest companies in the world. At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's described as the the Hacker Way. And yes, it is true that some just don't get it and never will. For now, all you need to do is be prepared to predict things, stretch your imagination and to slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law. 
 
 Don't be scerd.
 
