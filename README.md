@@ -58,7 +58,9 @@ If you're reasonably smart you'll pick up on quite a bit. You'll eventually mow 
 
 Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture on the planet - that most can't even relate to. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book and hopefully realize something new each time you pick it up. Something mind-blowing, even for elit3's. 
 
-From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial and crack the books code - only to realize one thing. You're getting there. Eventually, you'll access parts of it from your own memory and use it as a tool. It will be with you wherever you go and it will take you to new heights. Think we're kidding?
+From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial and crack the books code - only to realize one thing. You're getting there. 
+
+Eventually, you'll access parts of it from your own memory and use it as a tool. It will be with you wherever you go and it will take you to new heights. Think we're kidding?
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
 
