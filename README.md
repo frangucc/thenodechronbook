@@ -66,7 +66,7 @@ Eventually, you'll access parts of it from your own memory and use it as a tool.
 
 The minute you begin to emulate Gou's traits will forever be the moment that you become an elit3 hacker worthy of a job at any company you wish. And with that you'll have the power to design a life however so you dream it.
 
-And when that day comes you'll still find new and exciting stuff to conquer; There will always be a mission to complete, a invention to launch and a cause worth fighting for. It's what keeps even the most fascinating billionaires on the planet going, working harder than anyone else they know - it's because they know that *everything* is possible.
+And when that day comes you'll still find new and exciting stuff to conquer; There will always be a mission to complete, a invention to launch and a cause worth fighting for. It's what keeps even the most fascinating tech billionaires on the planet going, working harder than anyone else they know - it's because they know that *everything* is possible.
 
 # How it all begins.
 
