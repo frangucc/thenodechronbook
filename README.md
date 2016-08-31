@@ -94,13 +94,15 @@ Catch you on the inside?
 
 # One more bit on hacking.
 
-For you parents and educators still wondering exactly what we mean by "hacking," I'll just say this. First, kids are intrigued by it, whatever it is Second, hacking is what is considered, dare I say, a new and very real super power, and it can be used to do evil or to work wonders. And this is what really gets kids. It's the "how the heck did you just do that" reaction that fuels the hacker way. 
+For you parents and educators still wondering exactly what we mean by "hacking," I'll just say this. First, kids are intrigued by it (whatever it is) and second, hacking is what is considered, dare I say, a new and very real super power - it can be used to do evil or to work wonders. Ultimately, it's the "how the heck did you just do that" reaction that empowers the hacker way. 
 
-The term will never go away. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. There more than a thousand students came to work on some incredibly intense stuff. An there are more than 1000 job listings on Indeed with reference to the word hacking. Facebook and Google even hire "rockstar hackers" for general programming roles. Growth hacking has become the new marketing role and biohacks is a term to describe EECS medical innovations.
+The term will never go away. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. There, more than a thousand students came to work on some incredibly insane spur of the moment stuff, like automonous docking drones and breakthrough machine learning algorithms. 
 
 ![](https://cl.ly/1Y100z152k3O/lahacks.jpg)
 
-And whilst I am confronted constantly by people who say we shouldn't use the term. The same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere. When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize what hackers do. One could easily argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current or that Alan Turing was cracking the enigma when he discovered the modern computer. 
+And whilst I am confronted constantly by people who say we shouldn't use the term. The same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere and kids are hearing about them in their daily lives, so we must embrace it. 
+
+When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize. Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917317/turing.jpg)
 
@@ -108,17 +110,17 @@ Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, 
 
 It's not the skill that made him good or bad.  It's what he did with the skill. Those using their ability to hack to commit cyber-crime are NEVER cool with us. In-fact, we even confront them in the book at some point and draw a clear line in the sand about what's right and wrong. 
 
-Illegal activity is something entirely different, but none the less can be combined with hacking, just like you can combine knives with murder, but you still use them to cut tomatoes to make pasta.
+In a nutshell, hackers can find their way into anything and that's a skill we need more of.
 
 # Teaching isn't just about memorization.
 
-As new company exploring an expiramental new transmedia method of teaching, our initial barriers in convincing young prospects had everything to do with getting the kids to spend time willingly on this, on their own. As parents or teachers, we know there's only so much we can do to tell this kids this is awesome, but at some point, they need to find this part out on their own.
+Gamifyed is a new company exploring an expiramental new transmedia method of teaching. Our initial barriers in convincing young teens to willingly spend time on this we're unsettling. What we ultimately found is that they need new forms of motivation to break the barrier. Since this moment, our we've been obsessed with figuring this out.
 
-To figure this out, we researched "why gifted hackers spend such huge amounts of time learning, exploiting and tampering with technology." We looked carefully at the moments when hackers had their first "aha moments" and when they knew it was "right for them." In the first volume, these specific experiences are what has helped an entire team of people create such a prolific educational text.
+We've done formal research on "why gifted hackers spend such huge amounts of time learning, exploiting and tampering with technology." We looked carefully at the moments when hackers had their first "aha moments" and when they "just knew they could code." What we found out has been incorporated into every picture, facial expression, text and QR code in the book.
 
-And what we found is that being able to leverage the graphic novel format completely unshackles us from what the traditional text book has to offer in this area. And we believe that some day, 3D games on conosoles or VR platforms add to this. These new age mediums some day play a much greater role in the rapid education and deep learning of some of the complex subjects in this field. provide immersive, graphical environments to train and simulate components, connections and conventions. 
+Throughout this process, we have found that *being able to leverage the graphic novel format* completely unshackles us from what the traditional text book has to offer. And we believe that some day 3D games on conosoles or VR platforms add to this. These new age mediums some day play a much greater role in the rapid onset of deep tech education. 
 
-To prove this, we setup tests with kids to measure how they learn when using different forms of media. Given the same content on paper in text form, with graphics and as a game, we observed that in game form, not only was retention of information higher, but that kids were more likely to want to continue on. Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was twice as impactful on the learner. 
+In the future, we plan to invesgitate this idea more and with a graphic novel foundation, cast, we setup tests with kids to measure how they learn when using different forms of media. Given the same content on paper in text form, with graphics and as a game, we observed that in game form, not only was retention of information higher, but that kids were more likely to want to continue on. Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was twice as impactful on the learner. 
 
 ![](https://cl.ly/080Q0I1G1y21/non_reading.jpg)
 
