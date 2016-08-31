@@ -50,7 +50,7 @@ Don't be scerd.
 
 # Becoming an elit3.
 
-Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms. It's young bucks riffing about pointers and voltage, arguing over code patterns and stupid configurations. 
+Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms, it's a cheat sheet with young bucks riffing about pointers and voltage, arguing over code patterns and stupid configurations. 
 
 If you're reasonably smart you'll pick up on quite a bit. You'll eventually mow through the highly technical QR code crap and get your hands dirty on tutorial stuff ranging from AI algorithms to circuitry and math operations on the scientific data sensors produce. Best of all you will come to know all of it through the eyes (and over the shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
 
