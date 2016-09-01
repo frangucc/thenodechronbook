@@ -82,7 +82,7 @@ What Malcom G. doesn't tell you is how to spend those hours. That's where this b
 
 But why do 'hackers' really do what they do? What is it that's so powerful that it can make a man or woman sit for thousands of hours infront of complex code or slave away on microscopic circuits? What keeps them motivated and is it only about money?
 
-For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo this 'understanding' rears its head when multiple hackers go on fleek. Behaviorally, hackers are beasts of the night and have very little time for bullcrud. And most hackers would probably never use the word "fleek" in a real sentence.  
+For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo, this 'understanding' rears its head when multiple hackers are in the zone. Behaviorally, hackers are beasts of the night and have very little time for bullcrud.  
 
 
 > We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our source. We are peeved when people use buzzwords they know nothing about. We operate with holacratic teams at the greatest companies in the world. 
