@@ -1,4 +1,4 @@
-# THE NODE CHRONICLES
+# The Node Chronicles
 *The Hacker Way*![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910713/book.jpg)
 Draft - Thursday, September 16th, 2016
 Franchino
