@@ -10,13 +10,15 @@ So let's just take a second to think about that. A comic book that teaches? How 
 
 The vast majority of EECS types we interviewed said they got sucked in because someone very close to them was into tech and attributed their success to the atomoshphere they were in at the time they got started.
 
-I chose the graphic novel format because it helps me paint that cultural picture unlike any other medium. With that, careful choices had to be made about how to cleverly use the limited space, hence two years of user research had to be performed to get it right.
+I chose the graphic novel format because it helps me paint that cultural picture unlike any other medium. With that, careful choices had to be made about how to cleverly use the limited space. It took over two years of user research and testing to get it right.
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet right now. Most won't even realize it until they get to college - and by that time others are way ahead. Infact less than 20% of students even attempt a STEM major and of that group, 40% won't make it. 
+EECS is one of the most exciting and lucrative fields on the planet. More than 90% of high school students have no idea how to code and by time the get to college. Statistically, less than 20% of students even attempt a STEM major and of that percent, 40% will end up dropping out because it's over their head. 
 
-For those getting started late, there still is home. The rise of bootcamps, practice apps and learning hubs like Udemy open up a back-door for fast learners. While these methods are cool,  The Node Chronicles is something entirely different. We think it's a breakthrough concept that's never been attempted. 
+For those getting started late, there still is hope. Many great engineers got started late with the help of apprenticeships and tutorials. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy open up a back-door for fast learners who get started late. 
+
+While these methods are useful, The Node Chronicles is different. It's a cultural guide that puts a lot into perspective in an extremely terse form. We think it's a breakthrough concept that's never been attempted. 
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
