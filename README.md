@@ -48,7 +48,7 @@ We'll also take a look at some of the real world industry influencers who've bee
 
 When you realize that computers are getting smaller and smaller, to the point they've become biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri or location aware. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
 
-It's even gotten Disney Marvel cray up in this piece. Harvard scientists are "copy and pasting" genes with binary controlled DNA munching electrical molecules - right now! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
+It's even gotten Disney Marvel cray... Harvard scientists are now "copy and pasting" genes with binary controlled DNA munching electrical molecules! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
 
 So. Are you ready to step up and be a part of the EECS revolution?
 
