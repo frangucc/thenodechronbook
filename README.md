@@ -16,9 +16,9 @@ So let's just take a second to think about that. A comic book that teaches? How 
 
 The vast majority of EECS types we interviewed said they initially got sucked into it because someone close to them was highly involved. The one thing they nearly all agreed on was that it was the 'atomoshphere' that got them going. 
 
-Many also agreed that it was a 'desire to build something clever' and that the 'thought of making money with it someday' was part of it. The highest ranking engineers we interviewed also said they 'quickly found it to be pleasingly addicting.'
+Many also agreed that it was a 'desire to build something clever and useful' and that 'once they figured it out, it got addicting.'
 
-We chose the graphic novel format helps us paint these 'cultural pictures' unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
+We chose the graphic novel format because it helps us paint the 'cultural picture' unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
 
 With that said, careful choices had to be made on how to use such limited space for text. The challenge was so great infact that it required over two years of user research (with mutliple setbacks), just to craft the first 150 pages according to this guideline.
 
