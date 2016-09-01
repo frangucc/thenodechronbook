@@ -7,32 +7,29 @@ Franchino
 
 So let's just take a second to think about that. A comic book that teaches? How so? And to what degree?
 
-The vast majority of EECS types we interviewed said they got sucked into it because someone very close to them was into it and that it was mostly the atomoshphere that got them started.
+The vast majority of EECS types we interviewed said they initially got sucked into it because someone close to them was highly involved. The one thing they nearly all agreed on was that it was the 'atomoshphere' that got them going. 
 
-We chose the graphic novel format helps us paint that 'cultural picture' unlike any other medium. As a company, we like to think all people should be able to share in that atmosphere (especially teens), no matter who or where they come from. 
+Many also agreed that it was a 'desire to build something clever' and that the 'thought of making money with it someday' was relevant. The highest ranking engineers we interviewed also said 'they quickly found it to be pleasingly addicting.'
 
-With that said, careful choices had to be made about how to use such limited space for text. The challenge was so great infact that it required over two years of user research (with several pauses) just to craft the first 150 pages according to this guideline. As it stands today, we consider each page a major piece of the puzzle.
+We chose the graphic novel format helps us paint these 'cultural pictures' unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
+
+With that said, careful choices had to be made on how to use such limited space for text. The challenge was so great infact that it required over two years of user research (with mutliple setbacks), just to craft the first 150 pages according to this guideline.
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet. It's what's etched into the walls at MIT. According to UC Berklye, it's:
+EECS is one of the most exciting and lucrative fields on the planet. It's what's etched in the walls at MIT. According to UC Berkly, EECS is:
 
-> The integration of EE and CS forms the core, with strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research.
+> The integration of EE and CS forms have now formed strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research.
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-
-
-For those getting started late, not to worry. A lot of great engineers got started late with the help of hard knocks, apprenticeships and tutorials. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-door for fast learners. But it's no secret that those who do start early are often better off. In that way, *it's becoming a sport.*
+For those getting started late, not to worry. History is filled with many great engineers and inventors who got started late. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-door for fast learners. But it's no secret that those who do start early are often better off. In that way, *it's becoming a sport.*
 
 While such other methods of teaching are neat and useful, The Node Chronicles is something much different. It's an entirely separate beast. 
 
 TNC is a cultural guide that puts a ton of crap into perspective in an extremely terse, rememberable corpus. It plays like a game of ques and clues and teaches the Hacker Way in strategic proportion to the tutorials.
 
-
 > At Gamifyed, we like to think of all this as a breakthrough method that's never been attempted. And if it works, it could become gamechanging.
-
-
 
 In a nutshell, becoming an EECS major isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
