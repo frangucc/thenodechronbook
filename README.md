@@ -1,7 +1,14 @@
-# The Node Chronicles
+# THE NODE CHRONICLES
 *The Hacker Way*![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910713/book.jpg)
+
+
+---
+
+
 Draft - Thursday, September 16th, 2016
 Franchino
+
+
 
 ## The Node Chronicles is a one-of-a-kind graphic novel saga that teaches electrical engineering and computer science (EECS). 
 
