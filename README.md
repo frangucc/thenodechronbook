@@ -10,17 +10,19 @@ So let's just take a second to think about that. A comic book that teaches? How 
 
 The vast majority of EECS types we interviewed said they got sucked in because someone very close to them was into tech and attributed their success to the atomoshphere they were in at the time they got started.
 
-The graphic novel format helps paint that cultural picture unlike any other medium, so everyone can share in that atmosphere, no matter where you are. With that, careful choices had to be made about how to cleverly use the limited space and channel our artistic freedom. It took over two years of user research and testing to get it right.
+The graphic novel format helps paint that cultural picture unlike any other medium. We think everyone should be able to share in that atmosphere, no matter they are. 
+
+With that said, careful choices had to be made about how to use the limited space most creatively. It took over two years of user research and testing to craft the first 150 pages and we consider each page a piece of the puzzle.
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet. More than 90% of high school students have no idea how to code by time they get to college. Statistically, less than 20% of students even attempt a STEM major and of that percent, 40% will end up dropping out because it's over their head. 
+EECS is one of the most exciting and lucrative fields on the planet. More than 90% of high school students have no idea how to code by time they get to college. Statistically, less than 20% of students even attempt a STEM major and of that percent, 40% will end up dropping out because it's over their head. That's unfortunate.
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-For those getting started late, there still is hope. Many great engineers got started late with the help of apprenticeships and tutorials. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy open up a back-door for fast learners in search of one last pivot before they go hard. 
+For those getting started late, there still is hope. A lot of great engineers got started late with the help of apprenticeships and tutorials. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-door for fast learners. 
 
-While these methods are useful, The Node Chronicles is different. It's a cultural guide that puts a ton of crap into perspective in an extremely terse corpus. We think it's a breakthrough method that's never been attempted. 
+While these methods are nice, The Node Chronicles something alltogether much different. TNC is a cultural guide that puts a ton of crap into perspective in an extremely terse corpus that plays like a game. We think it's a breakthrough method that's never been attempted. 
 
 Becoming an EECS major isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
