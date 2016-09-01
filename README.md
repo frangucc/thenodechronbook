@@ -8,7 +8,7 @@ Franchino
 
 So let's just take a second to think about that. A comic book that teaches? How so? And to what degree?
 
-It has been observed that becoming a programmer or a top EE has everything to do with the culture you just so happen to be surrounded by when it all began. The vast majority of EECS types we interviewed said they got sucked in because someone very close to them was into tech and attributed their success to the atomoshphere they were in at the time they got started.
+The vast majority of EECS types we interviewed said they got sucked in because someone very close to them was into tech and attributed their success to the atomoshphere they were in at the time they got started.
 
 I chose the graphic novel format because it helps me paint that cultural picture unlike any other medium. With that, careful choices had to be made about how to cleverly use the limited space, hence two years of user research had to be performed to get it right.
 
