@@ -78,14 +78,13 @@ And if you've ever interacted with a gifted electrical engineer or programmer th
 
 While this all sounds gravy, there is one thing you should note: Most of these gurus have been putting in work since they were ~12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
 
-What Malcom G. doesn't tell you is how to spend those hours. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as the Virtual Academy for teenagers who enjoy getting lost in this world. We appeal to those drawn to the upside of it all. We're like the scouts but for hacking.
+What Malcom G. doesn't tell you is how to spend those hours. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as a Holacratic Academy for people at all stages of the game. We appeal to those drawn to the upside of it all. We're like the scouts but for hacking.
 
 But why do 'hackers' really do what they do? What is it that's so powerful that it can make a man or woman sit for thousands of hours infront of complex code or slave away on microscopic circuits? What keeps them motivated and is it only about money?
 
-For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo, this 'understanding' rears its head when multiple hackers are in the zone. Behaviorally, hackers are beasts of the night and have very little time for bullcrud.  
+For now, let's just say that there's a secret understanding that the A+ ones have.
 
-
-> We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our source. We are peeved when people use buzzwords they know nothing about. We operate with holacratic teams at the greatest companies in the world. 
+> Under the guise of a secret lingo, we get high on the praise of a thousands of stars on Github. Elit3's from all over the planet contribute to our source. We cringe when people toss around buzzwords and try to sell us out by wasting our time.  
 
 At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's known as 'The Hacker Way.' It's the stuff a lot of people just don't get.
 
