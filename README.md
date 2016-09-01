@@ -25,9 +25,16 @@ EECS is one of the most exciting and lucrative fields on the planet. It's what's
 
 For those getting started late, not to worry. A lot of great engineers got started late with the help of hard knocks, apprenticeships and tutorials. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-door for fast learners. But it's no secret that those who do start early are often better off. In that way, *it's becoming a sport.*
 
-While these methods are nice, The Node Chronicles something alltogether much different. TNC is a cultural guide that puts a ton of crap into perspective in an extremely terse, rememberable corpus that plays like a game of ques and clues. We think it's a breakthrough method that's never been attempted. 
+While such other methods of teaching are neat and useful, The Node Chronicles is something much different. It's an entirely separate beast. 
 
-Becoming an EECS major isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
+TNC is a cultural guide that puts a ton of crap into perspective in an extremely terse, rememberable corpus. It plays like a game of ques and clues and teaches the Hacker Way in strategic proportion to the tutorials.
+
+
+> At Gamifyed, we like to think of all this as a breakthrough method that's never been attempted. And if it works, it could become gamechanging.
+
+
+
+In a nutshell, becoming an EECS major isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
 # What to learn.
 
