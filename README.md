@@ -36,7 +36,7 @@ While such other methods of teaching are neat and useful, The Node Chronicles is
 
 TNC is a cultural guide that puts a ton of crap into perspective in an extremely terse, rememberable corpus. It plays like a game of ques and clues and teaches the Hacker Way in strategic proportion to the tutorials.
 
-> At Gamifyed, we like to think of all this as a breakthrough method that's never been attempted. And if it works, it could become gamechanging.
+> At Gamifyed, we like to think of all this as a breakthrough method that's never been attempted. And if it works, it could be game changing.
 
 In a nutshell, becoming an EECS major isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
