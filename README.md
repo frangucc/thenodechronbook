@@ -6,13 +6,13 @@
 
 So let's just take a second to think about that. A comic book that teaches? How so? And to what degree?
 
-It has been observed that a big part of learning this stuff has EVERYTHING to do with the culture surrounding you. And all the elit3 hackers we interviewed attribute their start to the environment they were in at the time they got started.
+It has been observed that becoming a programmer or top EE has everything to do with the culture you jsut so happen to be surrounded by. More than 99% of the career EECS types we interviewed said they their start either because someone in their family was into it or simply because they happened to be in the right atmosphere at the right time and took advantage.
 
 I chose the graphic novel format because it helps me paint that cultural picture unlike any other medium. However with that, careful choices had to be made about how to cleverly use the limited space.
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college either - and by that time it's a little late to be getting involved. Sucks to be them. 
+EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college - and by that time others are way ahead. For those that get started late we find it requires a little something extra and special to get them up to speed. The rise of bootcamps, practice apps and learning hubs like Udemy are great but they all pale in comparison to The Node Chronicles. There aren't many that teach EECS hardware either.
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
@@ -22,27 +22,27 @@ These days the majority of all incredible innovations have some form of computer
 
 We'll also take a look at some of the real world industry influencers who've been able to hack their life by leveraging this fascinating industry. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
-When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri. Your dogs coller now has a GPS in it and new cars like the Tesla have hundreds of sensors that can  drive the vehicle on it's own. Robots are here amongst us, right now - and soon, biohacks will cure diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
+When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
 
-It's even gotten Marvel cray. Right now, Harvard scientists are "copy and pasting" genes with binary controlled DNA munching electrical molecules. What was once sci-fi is now becoming reality! What an incredible time to be alive.
+It's even gotten Disney Marvel cray up in this piece. Harvard scientists are "copy and pasting" genes with binary controlled DNA munching electrical molecules - right now! What was once sci-fi is now becoming reality. What an incredible time to be alive.
 
 Are you ready to step up and be a part of the EECS revolution? 
 
 ## The hacker way.
 
-The word “hacker” has an unfairly negative connotation from being portrayed in the media as people who break into computers. In reality, hacking just means building something quickly or testing the boundaries of what can be done. Like most things, it can be used for good or bad, but the vast majority of hackers I’ve met tend to be idealistic people who want to have a positive impact on the world.
+The word “hacker” has an unfairly negative connotation from being portrayed in the media as people who break into computers. In reality, hacking just means building something quickly or testing the boundaries of what can be done. Like most things it can be used for good or bad, but the vast majority of hackers I’ve met tend to be idealistic people who want to have a positive impact on the world.
 
 The Hacker Way is an approach to building that involves continuous improvement and iteration. Hackers believe that something can always be better, and that nothing is ever complete. They just have to go fix it — often in the face of people who say it’s impossible or are content with the status quo.
 
-And if you've ever interacted with a gifted engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you buckle and want to quit trying. And when you find out they make as much as doctors, wear flip-flops to work and are often well pampered, you begin to wonder if you can hack it too.
+And if you've ever interacted with a gifted electrical engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you buckle and want to quit trying. And when you find out they make as much as doctors, wear flip-flops to work and are so well pampered, you begin to wonder if you can hack too.
 
-While this all sounds gravy, there is one thing you should note. Most of these gurus have been putting in work since many were 12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you can become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
+While this all sounds gravy, there is one thing you should note. Most of these gurus have been putting in work since they were ~12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
 
-What Malcom G. doesn't tell you is how to spend those hours. That's where my new company comes in. Gamifyed Inc. is quickly establishing itself as the Virtual Academy for teenagers who enjoy getting lost in this world - it naturally appeals to those drawn to the upside of it all. We're like the boyscouts but for young hackers with a huge cherry ontop.
+What Malcom G. doesn't tell you is how to spend those hours. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as the Virtual Academy for teenagers who enjoy getting lost in this world. We appeal to those drawn to the upside of it all. We're like the boyscouts for young hackers.
 
 But why do 'hackers' really do what they do? What is it that's so powerful that it can make a man or woman sit for thousands of hours infront of complex code or slave away on microscopic circuits? What keeps them motivated and is it only about money?
 
-For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo this 'understanding' rears itself head when it's time to make choices. Behaviorally, hackers are beasts of the night and have very little time for bullshart. 
+For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo this 'understanding' rears its head when multiple hackers go on fleek. Behaviorally, hackers are beasts of the night and have very little time for bullshart. And most would never use the word "fleek" in a real sentence.  
 
 We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our bots. We tell our bosses what to do and operate with holacratic teams at the greatest companies in the world. At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's described as the the Hacker Way. And yes, it is true that some just don't get it and never will. For now, all you need to do is be prepared to predict things, stretch your imagination and to slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law. 
 
