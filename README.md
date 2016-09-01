@@ -24,6 +24,8 @@ While these methods are useful, The Node Chronicles is different. It's a cultura
 
 Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
+# What to learn.
+
 These days the majority of all innovations have some form of computer in them; so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
 
 We'll also take a look at some of the real world industry influencers who've been able to hack their life by leveraging this fascinating craft. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
