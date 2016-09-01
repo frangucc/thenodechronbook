@@ -116,33 +116,35 @@ Gou will quickly help you get up to speed but the rest is up to you so get ready
 
 ## About the projects.
 
-The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions using them. When you follow the QR codes in the book you'll even have the opportunity to work on each of th projects and connect the elit3 mods and subject matter experts. Don't worry, we'll help you gather all the parts you'll need. It'll be no time before you're balling out of control.
+The Node Chronicles starts off with a deep dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions using them. 
+
+When you follow the QR codes in the book you'll have the opportunity to work on each of the projects and sometimes even link-up with the elit3 mods to demonstrate your progress. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910719/setup.jpg)
 
-Reading about Gou and his network illuminates the common traits the MIT bound Taoist hacker. His work ethic, mindset and personal values are in many ways what leads him to his major breakthroughs. And his life isn't always easy. Things don't always go smooth, as they won't for you at some point. Rest assured the 'network' will embrace you.
+Reading about Gou and his network illuminates the common traits the MIT bound Taoist hacker. His work ethic, mindset and personal values are in many ways what lead him to his major breakthroughs. And his life isn't always easy. Things don't always go smooth, as they won't for you at some point. Rest assured the 'network' will embrace you.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917331/gou4.jpg)
 
 And just so you know, Gou is by all means the youngest, most elit3 hacker on the planet and there are clear reasons why. By now, his personal network is one of the most promising EECS communities on the planet. 
 
-By picking up this book you have just entered into a community where elit3 mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will soon find out if you have what it takes to be a part of that community.
+By picking up this book you have just entered into a community where elit3 mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will soon find out if you have what it means to be a part of that community.
 
-So if you think you have what it takes to design your own hardware components, programmatically divide sensors data and write servers to power some of the most sophisticated electrical computing devices on the planet, then get going. Go to chapter one and get started!
-
-Catch you on the inside?
+So if you think you have what it takes to design your own hardware components, programmatically divide sensor data and write servers to power some of the most sophisticated electrical computing devices on the planet, then get going. Go to chapter one and get started!
 
 # One final bit on hacking.
 
-For you parents and educators still wondering exactly what we mean by "hacking," I'll just say this: First, kids are intrigued by it (whatever it is) and second, hacking is what is considered, dare I say, a new and very real super power - it can be used to perform cyber-crime or to work legitimate wonders. Ultimately, it's the "how the heck did you just do that" reaction that hackers thrive on and it's a great responsibility we mustn't ignore.
+For those of you parents and educators still wondering exactly what we mean by "hacking," I'll just say this: First, kids are intrigued by the word (whatever it means) and second, hacking is what is considered, dare I say, a new and very real super power - it can be used to perform cyber-crime or to work legitimate wonders. Ultimately, it's the "how the heck did you just do that" reaction that hackers thrive on and it's a great responsibility we mustn't ignore.
 
-And whilst I am confronted constantly by people who say we shouldn't use the term, the same people most often cannot describe what a hackathon is nor can explain what a growth hacker might do. The point is these terms are used everywhere and kids are hearing about them in their daily lives, so we must embrace it. 
+> Millennials and Generation Z want honesty, transparency and opportunity so I decided to use it.
 
-The term will never go away and is only becoming more widespread. Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. More than a thousand students came to work on some incredibly insane spur of the moment stuff, like automonous docking drones and breakthrough machine learning algorithms. After three nights spent in the gym, the entire stadium ended up completely packed as the finalists presented on stage.
+Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. More than a thousand students came to work on some incredibly insane spur of the moment stuff, like automonous docking drones and breakthrough machine learning algorithms. After three nights spent in the gym, the entire stadium ended up completely packed as the finalists presented on stage.
 
 ![](https://cl.ly/1Y100z152k3O/lahacks.jpg)
 
-When you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize a bit more. 
+I'm confronted constantly by people who say not to use the term as it will confused parents and teachers into thinking it's a book about illegal activity. The problem is those same people have never heard of a hackathon. 
+
+And when you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize a bit more. 
 
 Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer. 
 
