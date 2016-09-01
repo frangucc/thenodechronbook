@@ -20,13 +20,13 @@ Many also agreed that it was a 'desire to build something clever and useful' and
 
 We chose the graphic novel format because it helps us paint this 'cultural picture' unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
 
-With that said, careful choices had to be made on how to use such limited space for text. The challenge was so great infact that it required over two years of user research (with mutliple setbacks) to write the first 150 pages.
+With that said, careful choices had to be made on how work with such limited space for text. The challenge was so great that writing the first 150 pages took over two years of research.
 
 And what exactly is EECS you ask? 
 
 EECS is one of the most exciting and lucrative fields on the planet. It's what's etched in the walls at MIT. According to UC Berkly, EECS is:
 
-> The integration of EE and CS forms have now formed strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research.
+> The integration of EE and CS have now formed strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research.
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
