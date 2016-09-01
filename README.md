@@ -14,21 +14,21 @@ The graphic novel format helps paint that cultural picture unlike any other medi
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet. More than 90% of high school students have no idea how to code and by time the get to college. Statistically, less than 20% of students even attempt a STEM major and of that percent, 40% will end up dropping out because it's over their head. 
+EECS is one of the most exciting and lucrative fields on the planet. More than 90% of high school students have no idea how to code by time they get to college. Statistically, less than 20% of students even attempt a STEM major and of that percent, 40% will end up dropping out because it's over their head. 
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
 For those getting started late, there still is hope. Many great engineers got started late with the help of apprenticeships and tutorials. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy open up a back-door for fast learners in search of one last pivot before they go hard. 
 
-While these methods are useful, The Node Chronicles is different. It's a cultural guide that puts a ton of crap into perspective in a terse formation. We think it's a breakthrough concept that's never been attempted. 
+While these methods are useful, The Node Chronicles is different. It's a cultural guide that puts a ton of crap into perspective in an extremely terse corpus. We think it's a breakthrough method that's never been attempted. 
 
-Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
+Becoming an EECS major isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
 # What to learn.
 
 These days the majority of all innovations have some form of computer in them; so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
 
-We'll also take a look at some of the real world industry influencers who've been able to hack their life by leveraging this fascinating craft. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
+We'll also take a look at some of the real world industry influencers who've been able to live brilliant lives by leveraging this fascinating craft. In the book we examine their personal lives and atomspheres as well as their unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
 When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri or location aware. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
 
