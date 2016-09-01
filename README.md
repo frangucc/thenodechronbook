@@ -14,7 +14,7 @@ Franchino
 
 So let's take a second to think about that. A comic book that teaches? How so? And to what degree?
 
-The vast majority of EECS types we interviewed said they initially got sucked in was because someone close to them was highly involved. The one thing they could all clearly agree on was that it was the 'atomoshphere' that got them going. 
+The vast majority of EECS types we interviewed said they initially got sucked in because someone close to them was highly involved. The one thing they could all clearly agree on was that it was the 'atomoshphere' that got them going. 
 
 Many also agreed that it was a 'desire to build something clever and useful' and said, 'once they figured it out, it got addicting.' 
 
