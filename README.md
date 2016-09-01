@@ -3,13 +3,13 @@
 Draft - Thursday, September 16th, 2016
 Franchino
 
-## The Node Chronicles, The Hacker Way is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS). 
+## The Node Chronicles is a one-of-a-kind graphic novel saga that teaches electrical engineering and computer science (EECS). 
 
 So let's just take a second to think about that. A comic book that teaches? How so? And to what degree?
 
-The vast majority of EECS types we interviewed said they got sucked in because someone very close to them was into tech and attributed their success to the atomoshphere they were in at the time they got started.
+The vast majority of EECS types we interviewed said they got sucked in because someone very close to them was into tech and attributed their success to the atomoshphere when they got started.
 
-The graphic novel format helps paint that cultural picture unlike any other medium. We think everyone should be able to share in that atmosphere, no matter they are. 
+The graphic novel format helps paint that cultural picture unlike any other medium - that's why we chose to use it. As a company, we like to think everyone should be able to share in that atmosphere, no matter who or where they come from. 
 
 With that said, careful choices had to be made about how to use the limited space most creatively. It took over two years of user research and testing to craft the first 150 pages and we consider each page a piece of the puzzle.
 
