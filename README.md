@@ -30,7 +30,7 @@ EECS is one of the most exciting and lucrative fields on the planet. It's what's
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-For those getting started late, not to worry. History is filled with  great engineers and inventors who got started late. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-door for fast learners. But it's no secret that those who do start early are often better off. In that way, *it's becoming a sport.*
+For those getting started late, not to worry. History is filled with  great engineers and inventors who got started late. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-doors for fast learners. But it's no secret that those who do start early are often better off. In that way, *it's becoming a sport.*
 
 While such other methods of teaching are neat and useful, The Node Chronicles is something much different. It's an entirely separate beast. 
 
