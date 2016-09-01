@@ -76,7 +76,7 @@ The Hacker Way is an approach to building that involves continuous improvement a
 
 And if you've ever interacted with a gifted electrical engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you buckle and want to quit trying. And when you find out they make as much as doctors, wear flip-flops to work and are so well pampered, you begin to wonder if you can hack too.
 
-While this all sounds gravy, there is one thing you should note. Most of these gurus have been putting in work since they were ~12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
+While this all sounds gravy, there is one thing you should note: Most of these gurus have been putting in work since they were ~12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
 
 What Malcom G. doesn't tell you is how to spend those hours. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as the Virtual Academy for teenagers who enjoy getting lost in this world. We appeal to those drawn to the upside of it all. We're like the boyscouts for young hackers.
 
