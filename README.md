@@ -16,11 +16,11 @@ And what exactly is EECS you ask?
 
 EECS is one of the most exciting and lucrative fields on the planet. More than 90% of high school students have no idea how to code and by time the get to college. Statistically, less than 20% of students even attempt a STEM major and of that percent, 40% will end up dropping out because it's over their head. 
 
-For those getting started late, there still is hope. Many great engineers got started late with the help of apprenticeships and tutorials. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy open up a back-door for fast learners who get started late. 
-
-While these methods are useful, The Node Chronicles is different. It's a cultural guide that puts a lot into perspective in an extremely terse form. We think it's a breakthrough concept that's never been attempted. 
-
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
+
+For those getting started late, there still is hope. Many great engineers got started late with the help of apprenticeships and tutorials. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy open up a back-door for fast learners in search of one last pivot before they go hard. 
+
+While these methods are useful, The Node Chronicles is different. It's a cultural guide that puts a ton of crap into perspective in a terse formation. We think it's a breakthrough concept that's never been attempted. 
 
 Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
