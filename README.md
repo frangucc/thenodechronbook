@@ -1,30 +1,34 @@
 # THE NODE CHRONICLES
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910713/book.jpg)
+Draft - Thursday, September 16th, 2016
+Franchino
 
 ## The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS).  
 
 So let's just take a second to think about that. A comic book that teaches? How so? And to what degree?
 
-It has been observed that becoming a programmer or top EE has everything to do with the culture you jsut so happen to be surrounded by. More than 99% of the career EECS types we interviewed said they their start either because someone in their family was into it or simply because they happened to be in the right atmosphere at the right time and took advantage.
+It has been observed that becoming a programmer or a top EE has everything to do with the culture you just so happen to be surrounded by when it all began. The vast majority of EECS types we interviewed said they got sucked in because someone very close to them was into tech and attributed their success to the atomoshphere they were in at the time they got started.
 
-I chose the graphic novel format because it helps me paint that cultural picture unlike any other medium. However with that, careful choices had to be made about how to cleverly use the limited space.
+I chose the graphic novel format because it helps me paint that cultural picture unlike any other medium. With that, careful choices had to be made about how to cleverly use the limited space, hence two years of user research had to be performed to get it right.
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet right now. Many won't even realize it until they get to college - and by that time others are way ahead. For those that get started late we find it requires a little something extra and special to get them up to speed. The rise of bootcamps, practice apps and learning hubs like Udemy are great but they all pale in comparison to The Node Chronicles. There aren't many that teach EECS hardware either.
+EECS is one of the most exciting and lucrative fields on the planet right now. Most won't even realize it until they get to college - and by that time others are way ahead. Infact less than 20% of students even attempt a STEM major and of that group, 40% won't make it. 
+
+For those getting started late, there still is home. The rise of bootcamps, practice apps and learning hubs like Udemy open up a back-door for fast learners. While these methods are cool,  The Node Chronicles is something entirely different. We think it's a breakthrough concept that's never been attempted. 
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
 Becoming an EECS major isn't just about making money and having a great career either. It's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
-These days the majority of all incredible innovations have some form of computer in them; so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
+These days the majority of all innovations have some form of computer in them; so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
 
-We'll also take a look at some of the real world industry influencers who've been able to hack their life by leveraging this fascinating industry. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
+We'll also take a look at some of the real world industry influencers who've been able to hack their life by leveraging this fascinating craft. We'll examine their personal lives, unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
-When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
+When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri or location aware. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
 
-It's even gotten Disney Marvel cray up in this piece. Harvard scientists are "copy and pasting" genes with binary controlled DNA munching electrical molecules - right now! What was once sci-fi is now becoming reality. What an incredible time to be alive.
+It's even gotten Disney Marvel cray up in this piece. Harvard scientists are "copy and pasting" genes with binary controlled DNA munching electrical molecules - right now! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
 
 Are you ready to step up and be a part of the EECS revolution? 
 
@@ -42,17 +46,19 @@ What Malcom G. doesn't tell you is how to spend those hours. That's where this b
 
 But why do 'hackers' really do what they do? What is it that's so powerful that it can make a man or woman sit for thousands of hours infront of complex code or slave away on microscopic circuits? What keeps them motivated and is it only about money?
 
-For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo this 'understanding' rears its head when multiple hackers go on fleek. Behaviorally, hackers are beasts of the night and have very little time for bullshart. And most would never use the word "fleek" in a real sentence.  
+For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo this 'understanding' rears its head when multiple hackers go on fleek. Behaviorally, hackers are beasts of the night and have very little time for bullcrud. And most hackers would probably never use the word "fleek" in a real sentence.  
 
-We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our bots. We tell our bosses what to do and operate with holacratic teams at the greatest companies in the world. At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's described as the the Hacker Way. And yes, it is true that some just don't get it and never will. For now, all you need to do is be prepared to predict things, stretch your imagination and to slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law. 
+We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our bots. We get pissed off when people throw buzzwords around and operate with holacratic teams at the greatest companies in the world. 
 
-Don't be scerd.
+At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's romanticized as the the Hacker Way. And yes, it is true that some people just don't get it and probably never will - let's not let you become one of those people.
+
+For now, all you need to do is be prepared to predict outcomes, stretch your imagination and to slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law and the Big O Notation. 
 
 # Becoming an elit3.
 
-Gamifyed is here to teach you newbs the proper lingo, culture and hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms, it's a cheat sheet with young bucks riffing about pointers and voltage, arguing over code patterns and memory leaks. 
+Gamifyed is here to teach you newbs the proper lingo, culture and the hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms, it's a cheat sheet with young bucks riffing about pointers and voltage, arguing over code patterns and memory leaks. 
 
-If you're reasonably smart you'll pick up on quite a bit. You'll eventually mow through the highly technical QR code crap and get your hands dirty on tutorial stuff ranging from AI algorithms to circuitry and math operations on the scientific data sensors produce. Best of all you will come to know all of it through the eyes (and over the shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo.  
+If you're a fast learner you'll pick up on quite a bit. Each page acts as a map. They serves as a piece of a larger puzzle. As you mow through the highly technical QR code crap to establish your nerd-cred by getting your hands dirty on tutorial stuff ranging from AI algorithms to circuitry and math ops on the scientific data sensors produce. Best of all you'll witness everything through the eyes (and over the shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
 
