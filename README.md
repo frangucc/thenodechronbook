@@ -77,37 +77,40 @@ For now, all you need to do is be prepared to predict outcomes, stretch your ima
 
 # Becoming an elit3.
 
-Gamifyed is here to teach you newbs the proper lingo, culture and the hacker way. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms, it's a cheat sheet with young bucks riffing about pointers and voltage, arguing over code patterns and memory leaks. 
+Gamifyed is here to teach you newbs the proper lingo, culture and the hacker way. It's should also impress some of the top elit3's. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms, it's a cheat sheet with young bucks riffing about pointers and voltage, arguing over code patterns and memory leaks. *And it's a comic book! What's not to love?* 
 
-If you're a fast learner you'll pick up on quite a bit. Each page acts as a map. They serves as a piece of a larger puzzle. As you mow through the highly technical QR code crap to establish your nerd-cred by getting your hands dirty on tutorial stuff ranging from AI algorithms to circuitry and math ops on the scientific data sensors produce. Best of all you'll witness everything through the eyes (and over the shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo. 
+If you're a fast learner you'll pick up on quite a bit. Each page acts as a map. Each project serves as a piece of a larger puzzle. And if you hammer through the highly technical QR code crap, you might just establish your nerd-cred with topics ranging from AI algorithms to circuitry and math ops on the data your sensors produce. Best of all you'll witness everything through the eyes (and over the shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
 
-Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture on the planet - that most can't even relate to. And to be a Taoist in this field, one must live it. If you take advantage right now you will forever come back to this book and hopefully realize something new each time you pick it up. Something mind-blowing, even for elit3's. 
+Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture on the planet - that most can't even relate to. 
 
 From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial and crack the books code - only to realize one thing. You're getting there. 
 
-Eventually, you'll access parts of it from your own memory and use it as a tool. It will be with you wherever you go and it will take you to new heights. Think we're kidding?
-
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
 
-The minute you begin to emulate Gou's traits will forever be the moment that you become an elit3 hacker worthy of a job at any company you wish. And with that you'll have the power to design a life however so you dream it.
+The minute you begin to emulate Gou's traits will forever be the moment that you become an elit3 hacker worthy of a job at any company you wish. And with that you'll have the power to design a life however so you dream.
 
-And when that day comes you'll still find new and exciting stuff to conquer; There will always be a mission to complete, a invention to launch and a cause worth fighting for. It's what keeps even the most fascinating tech billionaires on the planet going, working harder than anyone else they know - it's because they know that *everything* is possible.
+And when that day comes you'll still find new and exciting stuff to conquer; there will always be a new mission to complete, a invention to launch and a cause worth fighting for. It's what keeps even the most fascinating tech billionaires on the planet going, working harder than anyone else they know - it's because they know that *everything* is possible.
 
 ![](https://cl.ly/451Y2j3i1z23/tnc_cover.jpg)
 
 # How it all begins.
 
-Gou Sokyeo and his powerful network of family and friends will be right by your side to help you keep two steps ahead of the rest. While he might not tell you all the time, Gou truly wants you to succeed, but you'll also have to earn his respect. You'll need to learn to get a read him as he's got very little time for bullshart. You'll have to read between the lines at times.
+Gou Sokyeo and his powerful network of family and friends will be right by your side to help mentor you and keep two steps ahead of the rest. 
+
+While he might not tell you all the time, Gou truly wants you to succeed, but you'll also have to earn his respect. He's got very little time for bullshart so you'll have to read between the lines at times. Gou expects you to pick up on things that aren't always obvious.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
 
-As a reader you'll dive into the dozens of full life-cycle projects and as you do, pay close attention to the situations, opportunities and failures that led to the outcome. As you'll see, from Nikola Tesla's discovery of alternating current, to the invention of the Turing Machine and even Twitter, you'll find these people generated their own luck.
+As a reader you'll dive into the dozens of full life-cycle projects and as you do, pay attention to the situations, opportunities and failures that led to the outcome. If you become enlightened, you'll find out that from Nikola Tesla's discovery of alternating current, to the invention of the Turing Machine and even Twitter, generating you're own luck is what's it's really all about. 
 
 ![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
 
-So if you'd someday like to be the one to discover the next new critical API or sensor with universal implications, you'll need to develop some critical instincts.
+So if you'd someday like to be the one to discover the next new critical API or create the next scientific sensor with universal implications, you'll need to develop some basic instincts first.
+
+> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+
 
 Gou will quickly help you get up to speed but the rest is up to you so get ready to own it.
 
