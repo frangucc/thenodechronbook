@@ -20,7 +20,7 @@ Many also agreed that it was a 'desire to build something clever and useful' and
 
 We chose the graphic novel format because it helps us paint the 'cultural picture' unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
 
-With that said, careful choices had to be made on how to use such limited space for text. The challenge was so great infact that it required over two years of user research (with mutliple setbacks), just to craft the first 150 pages according to this guideline.
+With that said, careful choices had to be made on how to use such limited space for text. The challenge was so great infact that it required over two years of user research (with mutliple setbacks) to write the first 150 pages.
 
 And what exactly is EECS you ask? 
 
