@@ -30,17 +30,33 @@ These days the majority of all innovations have some form of computer in them; s
 
 We'll also take a look at some of the real world industry influencers who've been able to live brilliant lives by leveraging this fascinating craft. In the book we examine their personal lives and atomspheres as well as their unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
-When you realize that computers are getting smaller and smaller, to the point their biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri or location aware. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
+When you realize that computers are getting smaller and smaller, to the point they've become biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri or location aware. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
 
 It's even gotten Disney Marvel cray up in this piece. Harvard scientists are "copy and pasting" genes with binary controlled DNA munching electrical molecules - right now! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
 
-Are you ready to step up and be a part of the EECS revolution? 
+So. Are you ready to step up and be a part of the EECS revolution?
 
 ## The hacker way.
 
 The word “hacker” has an unfairly negative connotation from being portrayed in the media as people who break into computers. In reality, hacking just means building something quickly or testing the boundaries of what can be done. Like most things it can be used for good or bad, but the vast majority of hackers I’ve met tend to be idealistic people who want to have a positive impact on the world.
 
 The Hacker Way is an approach to building that involves continuous improvement and iteration. Hackers believe that something can always be better, and that nothing is ever complete. They just have to go fix it — often in the face of people who say it’s impossible or are content with the status quo.
+
+> The programmers of old were mysterious and profound. We cannot fathom their thoughts, so all we do is describe their appearance.
+
+
+> * Aware, like a fox crossing the water.
+
+> * Alert, like a general on the battlefield. 
+
+> * Kind, like a hostess greeting her guests. 
+
+> * Simple, like uncarved blocks of wood. 
+
+> * Opaque, like black pools in darkened caves.
+
+
+> Who can tell the secrets of their hearts and minds? The answer exists only in Tao.
 
 And if you've ever interacted with a gifted electrical engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you buckle and want to quit trying. And when you find out they make as much as doctors, wear flip-flops to work and are so well pampered, you begin to wonder if you can hack too.
 
@@ -52,11 +68,12 @@ But why do 'hackers' really do what they do? What is it that's so powerful that 
 
 For now, let's just say that there's a secret understanding that the A+ ones have. Under the guise of a secret lingo this 'understanding' rears its head when multiple hackers go on fleek. Behaviorally, hackers are beasts of the night and have very little time for bullcrud. And most hackers would probably never use the word "fleek" in a real sentence.  
 
-We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our bots. We get pissed off when people throw buzzwords around and operate with holacratic teams at the greatest companies in the world. 
 
-At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's romanticized as the the Hacker Way. And yes, it is true that some people just don't get it and probably never will - let's not let you become one of those people.
+> We get high on the praise of a thousands of stars on Github and when the other elit3 ones contribute to our source. We are peeved when people use buzzwords they know nothing about. We operate with holacratic teams at the greatest companies in the world. 
 
-For now, all you need to do is be prepared to predict outcomes, stretch your imagination and to slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law and the Big O Notation. 
+At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's known as 'The Hacker Way.' It's the stuff a lot of people just don't get.
+
+For now, all you need to do is be prepared to predict outcomes, stretch your imagination and slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law and the Big O Notation. 
 
 # Becoming an elit3.
 
