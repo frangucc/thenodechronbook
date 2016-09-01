@@ -24,7 +24,7 @@ With that said, careful choices had to be made on how work with such limited spa
 
 And what exactly is EECS you ask? 
 
-EECS is one of the most exciting and lucrative fields on the planet. It's what's etched in the walls at MIT. According to UC Berkly:
+EECS is one of the most exciting and lucrative fields on the planet. It's what's etched in the walls at MIT and according to UC Berkly:
 
 > The integration of EE and CS have now formed strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research.
 
