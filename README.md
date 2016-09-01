@@ -10,7 +10,7 @@ So let's just take a second to think about that. A comic book that teaches? How 
 
 The vast majority of EECS types we interviewed said they got sucked in because someone very close to them was into tech and attributed their success to the atomoshphere they were in at the time they got started.
 
-I chose the graphic novel format because it helps me paint that cultural picture unlike any other medium. With that, careful choices had to be made about how to cleverly use the limited space. It took over two years of user research and testing to get it right.
+The graphic novel format helps paint that cultural picture unlike any other medium, so everyone can share in that atmosphere, no matter where you are. With that, careful choices had to be made about how to cleverly use the limited space and channel our artistic freedom. It took over two years of user research and testing to get it right.
 
 And what exactly is EECS you ask? 
 
