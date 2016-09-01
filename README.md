@@ -1,14 +1,9 @@
 # THE NODE CHRONICLES
-
-> *The Hacker Way*
-
-
-
-![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910713/book.jpg)
+*The Hacker Way*![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910713/book.jpg)
 Draft - Thursday, September 16th, 2016
 Franchino
 
-## The Node Chronicles is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS). 
+## The Node Chronicles, The Hacker Way is a one-of-a-kind graphic novel that teaches electrical engineering and computer science (EECS). 
 
 So let's just take a second to think about that. A comic book that teaches? How so? And to what degree?
 
