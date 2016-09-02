@@ -124,8 +124,7 @@ So if you'd someday like to be the one to discover the next new critical API or 
 
 > The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
 
-
-Gou will quickly help you get up to speed but the rest is up to you so get ready to own it.
+Gou will quickly help you get up to speed but the rest is up to you, so get ready to own it.
 
 ## About the projects.
 
