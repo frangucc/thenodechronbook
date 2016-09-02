@@ -533,7 +533,6 @@ Eventually, Gou's father teams up with Gou after snapping out of his funk. This 
 
 PAGE 11 & 12 [PROPERTY & BASEMENT INTRO]
 
-``````
 
 ![](https://cl.ly/3H2x0X10460z/NC_06_v2_72.jpg)
 
