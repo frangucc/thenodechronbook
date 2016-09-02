@@ -195,9 +195,11 @@ We've done tons of formal research on 'why gifted hackers spend such huge amount
 
 Throughout this process, we've also found that *being able to leverage the graphic novel format* completely unshackles us from what the traditional text book has to offer. And we believe that some day 3D games on conosoles or VR platforms will add to this. These new age mediums some day play a much greater role in the rapid onset of deep tech education. 
 
-In the future, we plan to investigate this idea thoroughly. Having a graphic novel foundation with a full cast and concept put's us in the unique position to actually develop such new experiences in the future.
+In the future, we plan to investigate this idea thoroughly. Having a graphic novel foundation with a full cast and concept put's us in the unique position to actually develop such new experiences some day.
 
-To dabble in this, we've even setup tests with kids to measure how they learn when using different forms of media. Given the same content on paper in text form, graphic form and as a story-mode in a game, we observed that in game form, not only was retention of information higher, but that kids were more likely to want to continue on. 
+To dabble in this, we sometimes setup tests with kids to measure how they learn when using different forms of media. Given the same content on paper in text form, graphic form and as a story-mode in a game, we observed that in graphic and espeically animated game form, not only was retention of information higher, but that kids were more likely to want to continue on. 
+
+![](https://cl.ly/19422M2f0v3o/designing_frankie.jpg)
 
 Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was twice as impactful on the learner.
 
