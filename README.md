@@ -90,7 +90,7 @@ For now, all you need to do is be prepared to predict outcomes, stretch your ima
 
 # Becoming an elit3.
 
-Gamifyed is here to teach you newbs the proper lingo, culture and the hacker way. It's should also impress some of the top elit3's. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms, it's a cheat sheet with young bucks riffing about pointers and voltage, arguing over code patterns and memory leaks. *And it's a comic book! What's not to love?* 
+Gamifyed is here to teach you newbs the proper lingo, culture and the hacker way. There might even be something in it for the gods. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms, it's a cheat sheet with young bucks riffing about pointers and voltage, arguing over code patterns and memory leaks. *And it's a comic book! What's not to love?* 
 
 If you're a fast learner you'll pick up on quite a bit. Each page acts as a map. Each project serves as a piece of a larger puzzle. And if you hammer through the highly technical QR code crap, you might just establish your nerd-cred on topics ranging from AI algorithms to circuitry and math-ops on the data your sensors produce. Best of all you'll witness everything through the eyes (and over the shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo. 
 
