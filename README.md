@@ -201,7 +201,7 @@ To dabble in this, we sometimes setup tests with kids to measure how they learn 
 
 ![](https://cl.ly/19422M2f0v3o/designing_frankie.jpg)
 
-Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was twice as impactful on the learner.
+Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was more than twice as impactful on the learner.
 
 ![](https://cl.ly/080Q0I1G1y21/non_reading.jpg)
 
