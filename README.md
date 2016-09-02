@@ -130,7 +130,7 @@ Gou will quickly help you get up to speed but the rest is up to you, so get read
 
 The Node Chronicles starts off with a deep dive into the PI Zero (and later the Arduino). The protagonist, Gou Sokyeo examines some critical use cases of these tiny boards while he offers an inpsiring tour of some of the coolest new inventions using them. 
 
-When you follow the QR codes in the book you'll have the opportunity to work on each of the projects and sometimes even link-up with the elit3 mods to demonstrate your progress. 
+When you follow the QR codes in the book you'll have the opportunity to work on each of the projects and sometimes even link-up with the elit3 mods to demonstrate your progress. If you flip open you can even simulate the wiring-up of your first component in 3D! 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910719/setup.jpg)
 
@@ -142,27 +142,29 @@ And just so you know, Gou is by all means the youngest, most elit3 hacker on the
 
 By picking up this book you have just entered into a community where elit3 mods at every major university back Gou up on Github and in IRC. They quickly flock to aid his open source initatives and he's never more than an instant away from other elit3's that can help him solve any problem. You will soon find out if you have what it means to be a part of that community.
 
-So if you think you have what it takes to design your own hardware components, programmatically divide sensor data and write servers to power some of the most sophisticated electrical computing devices on the planet, then get going. Go to chapter one and get started!
+So if you think you have what it takes to design your own hardware components, programmatically divide sensor data and write servers to power some of the most sophisticated electrical computing devices on the planet,* get going*. Go to chapter one and get started!
 
 # One final bit on hacking.
 
-For those of you parents and educators still wondering exactly what we mean by "hacking," I'll just say this: First, kids are intrigued by the word (whatever it means) and second, hacking is what is considered, dare I say, a new and very real super power - it can be used to perform cyber-crime or to work legitimate wonders. Ultimately, it's the "how the heck did you just do that" reaction that hackers thrive on and it's a great responsibility we mustn't ignore.
+For those of you parents and educators still wondering exactly what we mean by 'hacking,' I'll just say this: First, kids are intrigued by the word (whatever it means) and second, hacking is what is considered, dare I say, a new and very real super power - it can be used to perform cyber-crime or to work legitimate wonders. With that power comes great responsibility.
 
 > Millennials and Generation Z want honesty, transparency and opportunity so I decided to use it.
 
-Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. More than a thousand students came to work on some incredibly insane spur of the moment stuff, like automonous docking drones and breakthrough machine learning algorithms. After three nights spent in the gym, the entire stadium ended up completely packed as the finalists presented on stage.
+Last year UCLA hosted one of the largest "HACK-A-THONS" in the country, LA Hacks. Ultimately, it's the 'how the heck did you just glitch that' reaction that hackers thrive on. More than a thousand students got together in small squads to hack on some insanely cool, spur of the moment stuff, like automonous docking drones and breakthrough machine learning algorithms. After three nights spent in the gym, the entire stadium ended up completely packed as the finalists presented on stage.
 
 ![](https://cl.ly/1Y100z152k3O/lahacks.jpg)
 
-I'm confronted constantly by people who say not to use the term as it will confused parents and teachers into thinking it's a book about illegal activity. The problem is those same people have never heard of a hackathon. 
+I'm confronted constantly by people who say not to use the term as it will confused parents and teachers into thinking it's a book about illegal activity. The problem is those same people have never even heard of a hackathon or know very little about the industry. They're somewhat outdated.
 
-And when you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize a bit more. 
+And when you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize 'hacking' is a fundamental ability. 
 
-Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer. 
+Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer's fundamental main algorithm, the Turing or State Machine. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917317/turing.jpg)
 
-Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not "bad".  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad.
+And like so many other scientists, mathmeticians and invetors before him, he was messed with, persecuted and criticized for his work and his personal life - to the extent it ruined his life. While society is much more accepting today, there are still many dangers inventors and entreprenours face. Using a vast historical perspective, we tend to speak on politics quite a bit.
+
+Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not 'bad'.  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad.
 
 It's not the skill that made him good or bad.  It's what he did with the skill. Those using their ability to hack to commit illegal and immoral acts are NEVER championed by us. In-fact, we even confront them in the book at some point and draw a clear line in the sand about what's right and wrong. 
 
@@ -170,45 +172,49 @@ In a nutshell, hacking is a skill that the world needs more of (the good kind of
 
 # Teaching isn't just about memorization.
 
-Gamifyed is a new company exploring an expiramental new transmedia method of teaching. Our initial barriers in convincing young teens to willingly spend time on this we're unsettling. What we ultimately found is that they need new forms of motivation to break the barrier. Since this moment, our we've been obsessed with figuring this out.
+Gamifyed is a new company exploring an expiramental new transmedia method of teaching. Our initial barriers in convincing young teens to willingly spend time on this we're unsettling. What we ultimately found is that they need new forms of motivation to break the barrier. Suffice it to say, *we've been obsessed with figuring this out.*
 
-We've done formal research on "why gifted hackers spend such huge amounts of time learning, exploiting and tampering with technology." We looked carefully at the moments when hackers had their first "aha moments" and when they "just knew they could code." What we found out has been incorporated into every picture, facial expression, text and QR code in the book.
+We've done tons of formal research on 'why gifted hackers spend such huge amounts of time learning, exploiting and tampering with technology.' We looked carefully at the moments when hackers had their first 'aha moments' and when they 'just knew they could code.' We like to think our findings have been incorporated into every picture, facial expression, text and QR code in the book.
 
-Throughout this process, we have found that *being able to leverage the graphic novel format* completely unshackles us from what the traditional text book has to offer. And we believe that some day 3D games on conosoles or VR platforms add to this. These new age mediums some day play a much greater role in the rapid onset of deep tech education. 
+Throughout this process, we've also found that *being able to leverage the graphic novel format* completely unshackles us from what the traditional text book has to offer. And we believe that some day 3D games on conosoles or VR platforms add to this. These new age mediums some day play a much greater role in the rapid onset of deep tech education. 
 
-In the future, we plan to invesgitate this idea more and with a graphic novel foundation, cast, we setup tests with kids to measure how they learn when using different forms of media. Given the same content on paper in text form, with graphics and as a game, we observed that in game form, not only was retention of information higher, but that kids were more likely to want to continue on. Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was twice as impactful on the learner. 
+In the future, we plan to investigate this idea thoroughly. Having a graphic novel foundation with a full cast and concept put's us in the unique position to actually develop such new experiences in the future.
+
+To dabble in this, we've even setup tests with kids to measure how they learn when using different forms of media. Given the same content on paper in text form, graphic form and as a story-mode in a game, we observed that in game form, not only was retention of information higher, but that kids were more likely to want to continue on. 
+
+Next to that we discovered full color, rich graphics combined with storyform content, no matter whether in print or in storymode, was twice as impactful on the learner.
 
 ![](https://cl.ly/080Q0I1G1y21/non_reading.jpg)
 
-The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. The graphic textbook covers these fields in an way that continuously praises the well grounded engineerist for his theoretical thought process and simulatanious knowledge of the business and strategies many have used to successfully launch their products. We often refer to this as the politics behind the innovation. At the same time, the reader is expected to acknowledge new lifes experiences of their own as a result from reading along and cracking The Books code.
+The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. Our 'GISTT' graphic textbook covers these fields in an way that continuously praises the well grounded engineerist for his theoretical thought process and simulatanious knowledge of the business and strategies many have used to successfully launch their products. 
 
 ![](https://cl.ly/3o3n003Q0d35/tnc_8.jpg)
 
-The books key takeaway is that it is as much as a cultural indoctrination as it is a new theory of how to teach. If we as a company were to coin an acronym for the phenomenom we're pioneering, we'd call it: Graphicly Interactive Storytelling Transmedia Textbook or GISTT. But before we go and throw that term around, know that we're still just figuring all this out. Whether or not the classroom is meant to feel more like Disney or Marvel or an immersive video gaming experience has yet to be proven. One can only speculate right now.
+If we as a company were to coin an acronym for the phenomenom we're pioneering, we'd call it: Graphicly Interactive Storytelling Transmedia Textbook or GISTT. But before we go and throw that term around, know that we're still just figuring all this out. Whether or not the classroom is meant to feel more like Disney or Marvel or an immersive video gaming experience has yet to be proven. One can only speculate right now and you the reader will have to keep us informed.
 
 ![](https://cl.ly/0e2R282i2L3d/tnc_6.jpg)
 
 # Young prodigies.
 
-What we do know is that our user research over the past two years has consistently demonstrated that young masters of success latch onto vivid context. Boys obsessed with watching professional athletes on YouTube teach themselves new techniques and become prodigies. Girls inspired by talented singers on Television watch and listen to clips over and over. Young kids with the patience to sit and do art for hours upon consecutive hours become great classical artists, and so on. 
+In general, prodigies are becoming the new norm within the American household and the stereotypes are narrowing. Yes, there are some stereotypes about hackers. It isn't just geeky boys learning to code anymore it's sweet, normal little girls who are good at math and football playing class presidents who want to change the world. It's transcended across every continent, skintone and background, so long as you have a computer, internet and proper context. 
 
-In general, prodigies are becoming the new norm within the American household and the stereotypes are narrowing. Yes, there are such thing as stereotypes. It isn't just geeky boys learning to code anymore it's sweet, normal little girls and football playing class presidents. It's transcended across every continent, skintone and background, so long as you have a computer, internet and drive. 
+What we do know is that our user research over the past two years has consistently demonstrated that young masters of success latch onto vivid context. Girls obsessed with watching professional athletes on YouTube teach themselves new techniques and become prodigies. Boys inspired by talented singers on Television watch and listen to clips over and over. Young children with the patience and warewithall to sit and do art for hours upon consecutive hours become great classical artists, and so on. There isn't just one factor that consistently produces prodigies, *which is why we examine several.*
 
 ![](https://cl.ly/3o2r0t0v2934/tnc_lilu.jpg)
 
-The idea that your child has other options besides just sports or music has never been more present. The idea that you could become the next Mark Zuckerberg or Sergay Brin has become evident by the number of unicorns surfacing all of the World. Teens are literally building things in their basements that go online and become worth millions of dollars. Some of the best programmers I have ever worked with we're 15 years old. And Gou Sokyeo is only 13.
+The idea that your child has other options besides just sports or music has never been more present. The notion that you could become the next Mark Zuckerberg or Sergay Brin has become evident by the number of unicorns surfacing all of the World. Teens are literally building things in their basements that go online and become worth millions of dollars. 
 
 ![](https://cl.ly/272Y2L370j2n/tnc_2.jpg)
 
 # Proof of concept.
 
-The Node Chronicles attempts to be what Thrasher magazine was to skateboarding in the 80's and 90's - a movement which led to the exponential motivation and advancement of the sport. Todays professional skateboarders are doing unthinkable things because of Thrashers ability to steadily capture the industry at any given moment consistently.
+The Node Chronicles attempts to be what Thrasher magazine was to skateboarding in the 80's and 90's - a movement which led to the exponential motivation and advancement of the sport. Today's professional skateboarders are doing unthinkable things because of Thrashers ability to steadily capture the industry at any given moment and make others fall inlove with the culture.
 
-The show Mr. Robot and The Silicon Valley recently highlighted that television could be combined with reasonably accurate technical content to create a show loved by millions while being cultishly coveted by an entire industry. Fans of these shows who code or do start-ups love one thing, that they are somewhat accurate on the technical content. Millions more are even more fascinated who know less about the field and it's because the field is filled with excitement, danger, risk, betrayal and tons of other concerns.
+The show Mr. Robot and The Silicon Valley recently highlighted that television could be combined with reasonably accurate technical content to create a show loved by millions while being cultishly coveted by an entire industry. Fans of these shows who code or do start-ups love one thing, that they are somewhat accurate on the technical content. Millions more are even more fascinated who know less about the field and it's because the field is filled with excitement, danger, risk, betrayal and tons of other concerns. A media scan at any given moment is all you need to find inspiration for this sort of action. 
 
-A media scan at any given moment is all you need to find inspiration for content. Millions of people write incredibly amazing tutorials and are now making chips and boards that do the unimaginable and Gamifyed simply curates this stuff and fits it all into a classical context. When read from cover to cover in just under a couple hours you walk away with a sense of accomplishment, a new vocabulary and theoretical base of knowledge that's well worth the $75 dollars. 
+The fact is that each day, thousands of elit3's out there write incredibly amazing tutorials with simply the hopes of passing down their trade. Gamifyed ultimately wants to be the ones curating this stuff on more than just a blog. We also feel that this stuff all needs to fit it more of a classical context. 
 
-While other economies around the world lead in manufacturing and even education, America is typically known for their innovation. We also happen to be the leading contributors to the open source movement by a landslide.
+When reading this book from cover-to-cover, in just under a couple hours, you'll walk away with a sense of accomplishment, a new vocabulary and theoretical base of knowledge that's well worth the $75 dollars. You'll also have a much better knowledge of how all these pieces fit together and in what order you should learn them.
 
 ![](https://cl.ly/0m0Z1Y3m1M3g/tnc_7.jpg)
 
@@ -221,15 +227,19 @@ The Node Chronicles is pushing a similar boundary in American education. With mo
 
 * 250 teachers representing close to 250 schools purchased the book unaware that they were part of a survey. Each were shipped the first edition and given a month to analyze the book. After the first month they were given a survey. Of the 250 surveys sent, 226 responded within a week. 
 
-96% of the respondands answered three simple questions .
+* 96% of the respondands answered three simple questions .
 
-How likely are you to push to make this required reading for your STEM program?
+* How likely are you to push to make this required reading for your STEM program?
 
-How likely are you to recommend this to parents interested in their kids learning about electronics, coding and computer engineering?
+* How likely are you to recommend this to parents interested in their kids learning about electronics, coding and computer engineering?
 
-How likely are you to purchase more products from us in the future? 
+* How likely are you to purchase more products from us in the future?
+ 
+**Here were the results of the survey. **
 
-Here were the results of the survey. 
+--- Add graphs
+
+-- SKIP to preface.
 
 In 2017, Gamifyed will continue to invest in it's vision to become the leading cultural curator for classrooms and homes where ECE is quickly becoming a top priority. With 50 billion IoT Devices to come online by the year 2020 and each field becoming an information technology field, the prospect of a new "academy" style cultural movement for kids and teenagers could be huge. 
 
@@ -239,6 +249,7 @@ And as you proceed and others take note to your accomplishments in this field, y
 
 If you listen to Gou for me, I promise you one day it will just hit you. Bam. You'll wake up and realize you're not a newb anymore and that others will completely respect you for your hacking chops. Your friends jaws will drop as they watch you earn cold hard cash coding from your dorm room. They'll admire your ability to build anything you can fathom and soon enough, you'll become what's known as an guru or an elit3.
 
+While other economies around the world lead in manufacturing and even education, America is typically known for their innovation. We also happen to be the leading contributors to the open source movement by a landslide.
 
 ### *Volume 1*
 
@@ -332,7 +343,6 @@ PAGE 2-6
 
 ** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
 
-![](IMG_4232.JPG)
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
