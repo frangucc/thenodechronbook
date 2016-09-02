@@ -244,9 +244,9 @@ When reading this book from cover-to-cover, in just under a couple hours, you'll
 
 The Node Chronicles is pushing a similar boundary in American education. With more than 250 schools already analyzing this for their classrooms and 2500 books sold, the user feedback we've gotten can be grouped into three important statistics about this book.
 
-* 250 teachers representing close to 250 schools purchased the book unaware that they were part of a survey. Each were shipped the first edition and given a month to analyze the book. After the first month they were given a survey. Of the 250 surveys sent, 226 responded within a week. 
+250 teachers representing close to 250 schools purchased the book unaware that they were part of a survey. Each were shipped the first edition and given a month to analyze the book. After the first month they were given a survey. Of the 250 surveys sent, 226 responded within a week. 
 
-* 96% of the respondands answered three simple questions .
+96% of the respondands answered three simple questions .
 
 * How likely are you to push to make this required reading for your STEM program?
 
