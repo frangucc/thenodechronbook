@@ -55,6 +55,4 @@ ADDITIONAL INTRODUCTION RESEARCH
 * Lisa
 * Bonner
 * Ophir
-* Eric "Lefty" Kaufman
-* Brad Balder
 * Anonymous
