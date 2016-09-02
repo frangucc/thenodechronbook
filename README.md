@@ -258,13 +258,13 @@ The Node Chronicles is pushing a similar boundary in American education. With mo
 
 --- Add graphs
 
--- SKIP to preface.
+-- READERS, SKIP to preface. This parts bullshart....
 
-In 2017, Gamifyed will continue to invest in it's vision to become the leading cultural curator for classrooms and homes where ECE is quickly becoming a top priority. With 50 billion IoT Devices to come online by the year 2020 and each field becoming an information technology field, the prospect of a new "academy" style cultural movement for kids and teenagers could be huge. 
+In 2017, Gamifyed will continue to invest in it's vision to become the leading cultural curator for classrooms and homes where ECE is quickly becoming a top priority. With 50 billion IoT Devices to come online by the year 2020 and each field is becoming an information technology field, the prospect of a new "academy" style cultural movement for kids and teenagers could be huge. 
 
 The Node Chronicles is the first real, American born, globally relevant graphic novel based on the fascinating tech culture, with historical references to pioneers and their personal situations ranging from and Alan Turing to Bill Gates and Massimo Banzi. 
 
-And as you proceed and others take note to your accomplishments in this field, you'll quickly find the warewithall you need to become addicted. You'll power up fast, and if you don't, your doing something wrong. If you're following Gou's lead, you'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and learn to co-exist as if a quibit. 
+We've found that those proceeding with this book quickly have others take note to their accomplishments and that quickly establishes the necssary warewithall needed to become addicted and learn more. If you're following Gou's lead, you'll want to keep doing it more and more until the stuff just oozes from you, until you sweat in binary and learn to co-exist as if a quibit. 
 
 If you listen to Gou for me, I promise you one day it will just hit you. Bam. You'll wake up and realize you're not a newb anymore and that others will completely respect you for your hacking chops. Your friends jaws will drop as they watch you earn cold hard cash coding from your dorm room. They'll admire your ability to build anything you can fathom and soon enough, you'll become what's known as an guru or an elit3.
 
