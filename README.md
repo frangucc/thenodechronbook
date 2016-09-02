@@ -175,7 +175,7 @@ I'm confronted constantly by people who say not to use the term as it will confu
 
 And when you see a job ad for a JavaScript hacker or read about the 10 year old finnish kid who was given a $10,000 bug bounty for hacking Instagram, you begin to realize 'hacking' is a fundamental ability. 
 
-Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer's fundamental main algorithm, the Turing or State Machine. 
+Some even argue that Tesla was hacking electricity and Edisons DC empire when he pioneered alternating current. Alan Turing was legitimately cracking the enigma when he discovered the modern computer's fundamental main algorithm, the Turing/State Machine. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917317/turing.jpg)
 
