@@ -193,7 +193,7 @@ Gamifyed is a new company exploring an expiramental new transmedia method of tea
 
 We've done tons of formal research on 'why gifted hackers spend such huge amounts of time learning, exploiting and tampering with technology.' We looked carefully at the moments when hackers had their first 'aha moments' and when they 'just knew they could code.' We like to think our findings have been incorporated into every picture, facial expression, text and QR code in the book.
 
-Throughout this process, we've also found that *being able to leverage the graphic novel format* completely unshackles us from what the traditional text book has to offer. And we believe that some day 3D games on conosoles or VR platforms add to this. These new age mediums some day play a much greater role in the rapid onset of deep tech education. 
+Throughout this process, we've also found that *being able to leverage the graphic novel format* completely unshackles us from what the traditional text book has to offer. And we believe that some day 3D games on conosoles or VR platforms will add to this. These new age mediums some day play a much greater role in the rapid onset of deep tech education. 
 
 In the future, we plan to investigate this idea thoroughly. Having a graphic novel foundation with a full cast and concept put's us in the unique position to actually develop such new experiences in the future.
 
