@@ -84,7 +84,7 @@ For now, let's just say that there's a secret understanding that the A+ ones hav
 
 > Under the guise of a secret lingo, we level-up on the praise of a thousands of Github stars. Elit3's from all over the planet contribute to our source as our scripts form like Voltron and our whips go fast as hell. 
 
-At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's known as 'The Hacker Way.' It's the stuff a lot of people just don't get.
+At MIT, they sometimes refer to all this jargon as the Tao of Programming and at Facebook it's known as 'The Hacker Way.' It's the stuff a lot of people just don't get. Only a small handfull of people are actually a part of it.
 
 For now, all you need to do is be prepared to predict outcomes, stretch your imagination and slay your first dragon. Ok not real dragons but huge metaphorical ones with names like Moores Law and the Big O Notation. 
 
