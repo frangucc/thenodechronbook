@@ -10,9 +10,9 @@ Franchino
 
 
 
-## The Node Chronicles is a one-of-a-kind graphic novel saga that teaches electrical engineering and computer science (EECS). 
+## The Node Chronicles is a one-of-a-kind, PG-13 graphic novel saga that teaches electrical engineering and computer science (EECS). 
 
-So let's take a second to think about that. A comic book that teaches? How so? And to what degree?
+So let's take a second to think about that. A comic book that teaches? How so? And to what degree? 
 
 The vast majority of EECS majors we interviewed said they initially got 'sucked in' because someone close to them was highly involved. The main thing they all clearly agreed on was that it was the 'atomoshphere' that got them going. 
 
