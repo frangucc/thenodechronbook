@@ -181,9 +181,9 @@ Some even argue that Tesla was hacking electricity and Edisons DC empire when he
 
 And like so many other scientists, mathmeticians and invetors before him, he was messed with, persecuted and criticized for his work and his personal life - to the extent it ruined his life. While society is much more accepting today, there are still many dangers inventors and entreprenours face. Using a vast historical perspective, we tend to speak on politics quite a bit.
 
-Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not 'bad'.  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad.
+> Hacking is just a skill, like marksmanship.  If somebody is an expert marksman, and they only shoot targets in safe, controlled environment then he's not 'bad'.  If instead that marksman uses his skill to shoot a dozen innocent people at a movie theatre, then he's bad. It's not the skill that made him good or bad.  It's what he did with the skill. 
 
-It's not the skill that made him good or bad.  It's what he did with the skill. Those using their ability to hack to commit illegal and immoral acts are NEVER championed by us. In-fact, we even confront them in the book at some point and draw a clear line in the sand about what's right and wrong. 
+Those using their ability to hack to commit illegal and immoral acts are NEVER championed by The Node Chronicles. In-fact, we even confront them and the aspects of being in control of your decisions and future quite a bit. In the book at some point we draw a clear line in the sand about what's right and wrong when it comes to hacking. 
 
 In a nutshell, hacking is a skill that the world needs more of (the good kind of course).
 
