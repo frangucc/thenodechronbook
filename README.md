@@ -432,7 +432,7 @@ First part must talk about the turing machine and what he created and how he use
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1472842934/NC_04_300_Color_zqjank.jpg)
 
 
-``````TODO: MISSING 2 MORE PAGES FOR TURING SECTION, 4 TOTAL NOW``````
+TODO: MISSING 2 MORE PAGES FOR TURING SECTION, 4 TOTAL NOW
 
 | REFERENCES |
 | -- |
@@ -470,9 +470,6 @@ Alan Turing was unjustly prosecuted in 1952 for what most people today do not re
 | REFERENCES |
 | -- |
 | [ALAN TURING MOVIE SCENE](http://cdn.thedailybeast.com/content/dailybeast/articles/2014/11/29/the-castration-of-alan-turing-britain-s-code-breaking-wwii-hero/jcr:content/image.img.2000.jpg/1417261521198.cached.jpg) |
-
-![](https://files.slack.com/files-pri/T0ELWSVMG-F0TA0JCGH/nc_04_72.jpg)
-![](https://files.slack.com/files-pri/T0ELWSVMG-F0T9VCPRD/nc_05_72.jpg)
 
 **ADDITIONAL HISTORICAL FIGURE CANDIDATES**
 
