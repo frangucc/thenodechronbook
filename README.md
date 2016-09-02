@@ -18,7 +18,7 @@ The vast majority of EECS majors we interviewed said they initially got 'sucked 
 
 Many also agreed that it was a 'desire to build something clever and useful' and said, 'once they figured it out, it got addicting.' 
 
-I chose the graphic novel format because it helps us paint the 'cultural picture' of what it means to be a techy unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
+I chose the graphic novel format because it helps us paint that 'cultural picture' unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
 
 With that said, careful choices had to be made on how work with such limited space for text. The challenge was so great that writing the first 150 pages took over two years of research.
 
@@ -76,7 +76,7 @@ And if you've ever interacted with a gifted electrical engineer or programmer th
 
 While this all sounds gravy, there is one thing you should note: Most of these gurus have been putting in work since they were ~12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
 
-What Malcom G. doesn't tell you is how to spend those hours, so if you're older, that doesn't mean you're out. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as a Holacratic Academy for people at all stages of the game. We're like the scouts but for hacking, driven with purpose, enthralled by the potential upside of it all. We're here to make sure you spend all your time learning as efficiently as possible. We try and keep you away from things that aren't worth learning also, because trust us, there's a lot of crap out there.
+What Malcom G. doesn't tell you is how to spend those hours. And if you're older, you're out, but you certainly can't waste anymore time. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as a Holacratic Academy for people at all stages of the game. We're like the scouts but for hacking, driven with purpose, enthralled by the potential upside of it all. We're here to make sure you spend all your time learning as efficiently as possible. We try and keep you away from things that aren't worth learning also, because trust us, there's a lot of crap out there.
 
 But why do 'hackers' really do what they do? What is it that's so powerful that it can make a man or woman sit for thousands of hours infront of complex code or slave away on microscopic circuits? 
 
