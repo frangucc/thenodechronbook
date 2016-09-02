@@ -112,7 +112,7 @@ And when that day comes you'll still find new and exciting stuff to conquer; the
 
 Gou Sokyeo and his powerful network of family and friends will be right by your side to help mentor you and keep two steps ahead of the rest. 
 
-While he might not tell you all the time, Gou truly wants you to succeed, but you'll also have to earn his respect. He's got very little time for bullshart so you'll have to read between the lines at times. Gou expects you to pick up on things that aren't always obvious.
+While he might not tell you all the time, Gou truly wants you to succeed, but you'll have to earn his respect for that to happen. He's got very little time for bullcrud so you'll have to read between the lines at times. Gou expects you to pick up on things that aren't always obvious, just like your future colleagues will do. Gou expects you to become resourceful. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
 
