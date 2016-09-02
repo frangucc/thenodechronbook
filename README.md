@@ -14,11 +14,11 @@ Franchino
 
 So let's take a second to think about that. A comic book that teaches? How so? And to what degree?
 
-The vast majority of EECS types we interviewed said they initially got sucked in because someone close to them was highly involved. The one thing they could all clearly agree on was that it was the 'atomoshphere' that got them going. 
+The vast majority of EECS majors we interviewed said they initially got 'sucked in' because someone close to them was highly involved. The main thing they all clearly agreed on was that it was the 'atomoshphere' that got them going. 
 
 Many also agreed that it was a 'desire to build something clever and useful' and said, 'once they figured it out, it got addicting.' 
 
-We chose the graphic novel format because it helps us paint this 'cultural picture' unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
+I chose the graphic novel format because it helps us paint the 'cultural picture' of what it means to be a techy unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
 
 With that said, careful choices had to be made on how work with such limited space for text. The challenge was so great that writing the first 150 pages took over two years of research.
 
@@ -30,15 +30,15 @@ EECS is one of the most exciting and lucrative fields on the planet. It's what's
 
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-For those getting started late, not to worry. History is filled with  great engineers and inventors who got started late. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-doors for fast learners. But it's no secret that those who do start early are often better off. In that way, *it's becoming a sport.*
+For those getting started late, not to worry. History is filled with great engineers and inventors who got started late. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-doors for fast learners. But it's no secret that those who do start early are often better off. In that way, *it's becoming a sport.*
 
 While such other methods of teaching are neat and useful, The Node Chronicles is something much different. It's an entirely separate beast. 
 
-TNC is a cultural guide that puts a ton of crap into perspective in an extremely terse, rememberable corpus. It plays like a game of ques and clues and teaches the Hacker Way in strategic proportion to the tutorials.
+TNC is a cultural guide that puts a ton of crap into perspective in an extremely terse, rememberable corpus. It plays like a game of ques and clues and teaches the Hacker Way in strategic proportion to the tutorials. The way we 'set principals' is unlike any other educational experience.
 
 > At Gamifyed, we like to think of all this as a breakthrough method that's never been attempted. And if it works, it could be game changing.
 
-In a nutshell, becoming an EECS major isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
+In a nutshell, becoming an EECS hacker isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
 # What to learn.
 
@@ -48,7 +48,7 @@ We'll also take a look at some of the real world industry influencers who've bee
 
 When you realize that computers are getting smaller and smaller, to the point they've become biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri or location aware. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
 
-It's even gotten Disney Marvel cray... Harvard scientists are now "copy and pasting" genes with binary controlled DNA munching electrical molecules! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
+It's even gotten Disney Marvel cray... Harvard scientists are now "copy and pasting" genes with binary controlled DNA munching electrical molecules that can live in your body! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
 
 So. Are you ready to step up and be a part of the EECS revolution?
 
@@ -60,7 +60,6 @@ The Hacker Way is an approach to building that involves continuous improvement a
 
 > The programmers of old were mysterious and profound. We cannot fathom their thoughts, so all we do is describe their appearance.
 
-
 > * Aware, like a fox crossing the water.
 
 > * Alert, like a general on the battlefield. 
@@ -71,14 +70,13 @@ The Hacker Way is an approach to building that involves continuous improvement a
 
 > * Opaque, like black pools in darkened caves.
 
-
 > Who can tell the secrets of their hearts and minds? The answer exists only in Tao.
 
 And if you've ever interacted with a gifted electrical engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you buckle and want to quit trying. And when you find out they make as much as doctors, wear flip-flops to work and are so well pampered, you begin to wonder if you can hack too.
 
 While this all sounds gravy, there is one thing you should note: Most of these gurus have been putting in work since they were ~12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
 
-What Malcom G. doesn't tell you is how to spend those hours. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as a Holacratic Academy for people at all stages of the game. We're like the scouts but for hacking, driven with purpose, enthralled by the potential upside of it all.
+What Malcom G. doesn't tell you is how to spend those hours, so if you're older, that doesn't mean you're out. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as a Holacratic Academy for people at all stages of the game. We're like the scouts but for hacking, driven with purpose, enthralled by the potential upside of it all. We're here to make sure you spend all your time learning as efficiently as possible. We try and keep you away from things that aren't worth learning also, because trust us, there's a lot of crap out there.
 
 But why do 'hackers' really do what they do? What is it that's so powerful that it can make a man or woman sit for thousands of hours infront of complex code or slave away on microscopic circuits? 
 
@@ -94,13 +92,13 @@ For now, all you need to do is be prepared to predict outcomes, stretch your ima
 
 Gamifyed is here to teach you newbs the proper lingo, culture and the hacker way. It's should also impress some of the top elit3's. Within minutes of picking up this book you'll understand. This isn't just some comic book stuffed with buzzwords and cool sounding acronyms, it's a cheat sheet with young bucks riffing about pointers and voltage, arguing over code patterns and memory leaks. *And it's a comic book! What's not to love?* 
 
-If you're a fast learner you'll pick up on quite a bit. Each page acts as a map. Each project serves as a piece of a larger puzzle. And if you hammer through the highly technical QR code crap, you might just establish your nerd-cred with topics ranging from AI algorithms to circuitry and math ops on the data your sensors produce. Best of all you'll witness everything through the eyes (and over the shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo. 
+If you're a fast learner you'll pick up on quite a bit. Each page acts as a map. Each project serves as a piece of a larger puzzle. And if you hammer through the highly technical QR code crap, you might just establish your nerd-cred on topics ranging from AI algorithms to circuitry and math-ops on the data your sensors produce. Best of all you'll witness everything through the eyes (and over the shoulder) of the youngest, most elit3 hacker in the world, Gou Sokyeo. 
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
 
-Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture on the planet - that most can't even relate to. 
+Yezzir. We're talking about diving right into some of the most intenese, vivid real-life hacker culture on the planet - that most can't even relate to.
 
-From time to time you'll pick it up this book and flip through the pages, read it, open up a tutorial and crack the books code - only to realize one thing. You're getting there. 
+Calm down though, Rome wasn't built in a day. What you need to realize is that from time to time, if you consistently pick up this book and flip through the pages, read it, ponder it and master a tutorial here and there, you'll eventually crack the books code. And on that day you'll realize one thing, *you're getting there.*
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
 
