@@ -22,7 +22,7 @@
 - Translating a circuit to complex
 - Phasors
 - Complex circuit analysis
-## A->D,D->A
+## A->D,D->A Conversion
 - Sampling
 - Spectrum
 - Nyquist Rate
