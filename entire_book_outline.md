@@ -68,8 +68,6 @@ Now that I am confident of exactly how this all has to be put together exactly h
 
 *represented by 5 sections of the first book, The Node Chronicles utilizes transmedia to help mentally organize and memorize 40 total EECS axioms (macro + micro) that when mix and matched are responsible for 80% of all new EECS systems.
 
-
-
 | Awareness | Bio-mechanics | Bio-sensing | Droning | Transmission |
 | -- | -- | -- | -- | -- |
 | Headquarter Boundary and Presence Monitoring & Natural Security | Motion Tracking and Kinetic Behavior Simulation | Molecular Element Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
