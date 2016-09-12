@@ -26,7 +26,7 @@ Know if we were to take a completely different approach and try to retrofit the 
 
 
 
-There are now many projects that have everything to do with drones and cheap quad copters RC quad potters there Arduino or trinket base you have many accelerometer and gyroscope style motion celebration type projects we need in the physics and data analysis data science I'm in start to learn about biomechanics team dynamics motion on the field all that stuff so Space from an inter-from a sports field perspective you're getting physics sports fitness heart rate therapy training and you're creating superhuman athletes
+There are now many projects that have everything to do with drones and cheap quad copters RC quad potters there Arduino or trinket base you have many accelerator and gyroscope style motion celebration type projects we need in the physics and data analysis data science I'm in start to learn about bio-mechanics team dynamics motion on the field all that stuff so Space from an inter-from a sports field perspective you're getting physics sports fitness heart rate therapy training and you're creating superhuman athletes
 
 
 
@@ -64,7 +64,7 @@ The very next most crucial step forward in the five is to pick these 20 x 20 car
 
 Now that I am confident of exactly how this all has to be put together exactly how I'm going to do it I should be able to backfill the stories around each card in the round need to ration and continue to tell the story around it but the QR codes in place and wrap up the screen play
 
-#20 fundamental sensor circuits (macro axioms) and 20 scientific principals (micro axioms) can be found amongst these 5 projects
+#20 fundamental sensor circuits (macro axioms) and 20 scientific principals (micro axioms) can be found among these 5 projects
 
 *represented by 5 sections of the first book, The Node Chronicles utilizes transmedia to help mentally organize and memorize 40 total EECS axioms (macro + micro) that when mix and matched are responsible for 80% of all new EECS systems.
 
@@ -72,7 +72,7 @@ Now that I am confident of exactly how this all has to be put together exactly h
 
 | Awareness | Bio-mechanics | Bio-sensing | Droning | Transmission |
 | -- | -- | -- | -- | -- |
-| Headquarter Monitoring & Security | Motion Tracking and Kinetic Behavior | Molecular Element Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
+| Headquarter Boundary and Presence Monitoring & Natural Security | Motion Tracking and Kinetic Behavior Simulation | Molecular Element Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
 | --- | --- | --- | --- | --- |
 | Camera | Acceleration | CO2 | Servos & Electrical Engines | Antenna |
 | Microphone | Velocity | Oxygen | Actuators | Radio Frequency |
@@ -83,9 +83,9 @@ Now that I am confident of exactly how this all has to be put together exactly h
 | Touch | Force | Physicochemical Detection | 3:10 | 4:10 |
 | Antenna | Torque | Transducers | 3:11 | 4:11 |
 | Microprocessor | Pull/Stretch | Temperature | 3:12 | 4:12 |
-| 0:13 | Force | Salinity | Salinity | 4:13 |
-| 0:14 | 1:14 | Element Detection |  | 4:14 |
-| 0:15 | 1:15 | 2:15 | 3:15 | 4:15 |
+| Capacitors | Force | Salinity | Salinity | 4:13 |
+| Semiconductor | Inductance | Element Detection |  | 4:14 |
+| 0:15 | Diodes | 2:15 | 3:15 | 4:15 |
 | 0:16 | 1:16 | 2:16 | 3:16 | 4:16 |
 | 0:17 | 1:17 | 2:17 | 3:17 | 4:17 |
 | 0:18 | 1:18 | 2:18 | 3:18 | 4:18 |
