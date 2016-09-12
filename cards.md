@@ -66,17 +66,16 @@ This graph will be important
 > If we simply just reiterate the fundamental axioms until we could visualize their basic principals in a collectively memorable and interchangeable way, like an EECS alphabet.  `Franchino 
 
 
-
+``````
 #CARD(*NYQUIST)
 
-``````
-![](https://cl.ly/3b1N47292o0M/nyquist-shannon.jpg)
 
+![](https://cl.ly/3b1N47292o0M/nyquist-shannon.jpg)
 
 
 GIST: https://github.com/balzer82/FFT-Python/blob/master/FFT-Tutorial.py
 
-``````
+
 
 ![](http://www.ni.com/cms/images/devzone/tut/Fig_6_Nyquist_Sampling.JPG)
 
