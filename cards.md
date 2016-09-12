@@ -72,7 +72,9 @@ This graph will be important
 
 ![](https://cl.ly/3b1N47292o0M/nyquist-shannon.jpg)
 
-``` GIST: https://github.com/balzer82/FFT-Python/blob/master/FFT-Tutorial.py ```
+
+
+GIST: https://github.com/balzer82/FFT-Python/blob/master/FFT-Tutorial.py
 
 
 
