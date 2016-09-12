@@ -1,13 +1,17 @@
 # Entire Book Outline
 
-### this needs to be about the 20 macro axioms and 20 micro axioms.
+### There are 5 macro axioms covered in TNC-V1 and ~40 micro axioms.
 
-### the stuff that the wiser elders teach is the 20x20
+[CLICK to SEE ALL AXIOM CARDS](https://frangucc.gitbooks.io/gamifyed/content/cards.html)
 
-This has moved to intro. Cards go here next. 
+![](https://cl.ly/3b1N47292o0M/nyquist-shannon.jpg)
+
+
+These notes are cra. These notes were captured by iPhone dictation in the app Notes. They are in RAW form. 
 
 What was a methodology born out of necessity trying to create this holy grail of a concept is quickly becoming an organizational algorithm based on 20 uniquely fundamental sensor circuits (macro axioms) x 20 pieces of scientific inspiration (micro axioms). Divided amongst 5 significant projects, they may also be mix and matched to create . This sort of curation without any physical abstraction to the parts available on the market makes us more market centric than the toys out there like little bits, and with a storyline, we can offer an academy program. This framework gives the overall package a powerful sense of belonging in an environment where there is so so so so much. I've kept my tests short and sweet with users, I've administered the cards and reading materials, I've studied the learners in my target demographic and this is by far different from what they expect and the format gives me a complete engagement that I can easily build from. The idea that you could obtain the correct pieces of such and exciting industry by hijacking the portion of your brain that likes to follow stories is like latching onto the Underground Railroad to becoming a hacker in a short period of time; having a storyline is a hack in and of itself. The books research generated a deck of 20x20 playing cards as a complete byproduct, and that's the moment I knew how the gamification of my company would play out. It also marks a method of mnemonics unlike anything found in traditional programming education, it's like the 3rd dimension of teaching EECS. There is a fierce competition for the shelf space of the maker space and I'm about to get in where I fit in. 
 
+[CLICK to SEE ALL AXIOM CARDS](https://frangucc.gitbooks.io/gamifyed/content/cards.html)
 
 
 The note clinical starts off with a story of go and no one in the basement doing some secret stuff and they are alerted by the presence of their nanny Houze entered into that their area and they've been keeping track of movements around the house using video devices sonar and even a gyroscope which are gyros phone which can detect movement around the house go ahead essentially created using a bunch of different sensors a dashboard on his computer and it makes no very basic display of what's going on from that activity is able to listen and how Rob
@@ -64,46 +68,9 @@ The very next most crucial step forward in the five is to pick these 20 x 20 car
 
 Now that I am confident of exactly how this all has to be put together exactly how I'm going to do it I should be able to backfill the stories around each card in the round need to ration and continue to tell the story around it but the QR codes in place and wrap up the screen play
 
-#20 fundamental sensor circuits (macro axioms) and 20 scientific principals (micro axioms) can be found among these 5 projects
+#VISIT CARDS SECTION - This was the SUM of all these BS notes.
 
-*represented by 5 sections of the first book, The Node Chronicles utilizes transmedia to help mentally organize and memorize 40 total EECS axioms (macro + micro) that when mix and matched are responsible for 80% of all new EECS systems.
-
-| Awareness | Bio-mechanics | Bio-sensing | Droning | Transmission |
-| -- | -- | -- | -- | -- |
-| Headquarter Boundary and Presence Monitoring & Natural Security | Motion Tracking and Kinetic Behavior Simulation | Molecular Element Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
-| --- | --- | --- | --- | --- |
-| Camera | Acceleration | CO2 | Servos | Antenna |
-| Microphone | Velocity | Oxygen | Actuators | Radio Frequency |
-| Geophone | Orientation | PH | Radio Waves | Solar Power |
-| Pressure | Proximity | Radiation | Power | Infared |
-| Sonar | Motion | Microscopy | Orientation | Spectrometer |
-| Beams | Angle | Cellular Recognition | Computer Architecture | 4:9 |
-| Touch | Force | Physicochemical Detection | Instruction Set | 4:10 |
-| Antenna | Torque | Transducers | Parallel Processing | 4:11 |
-| Microprocessor | Pull/Stretch | Temperature | Motors | 4:12 |
-| Capacitors | Force | Salinity | Engines | 4:13 |
-| Semiconductor | Inductance | Element Detection | Power Storage | 4:14 |
-| Complex Elements (RvsA | Diodes | Logic Elements (A,S,R) | 3:15 | 4:15 |
-| Conversion | Circuit Analysis | Analytes | 3:16 | 4:16 |
-| Linux Controller | Microcontroller(nano) | sd | dd | Fiber Optics |
-| Memory | Voltage | Amplification | 3:18 | 4:18 |
-| Packet Pipes | Bluetooth | CMOS-Based Microsensors  | 3:19 | 4:19 |
-| Wifi & Other Connections | Chemical Hydrolics | Bioreceptors | 3:20 | 4:20 |
-
-
-
-
-
-Notes for above data:
-
-https://rockhealth.com/reports/the-future-of-biosensing-wearables/
-
-![](http://www.lbb.ethz.ch/Research/Biosensors/NanoBioSensing.jpg?hires)
-
-![](http://blogs.uoregon.edu/foodsystems/files/2014/10/Planting-the-Seeds-for-Open-Source-Biosensing-1wawum7.gif)
-
-
-
+[CLICK to SEE ALL AXIOM CARDS](https://frangucc.gitbooks.io/gamifyed/content/cards.html)
 
 
 
