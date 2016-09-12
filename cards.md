@@ -1,6 +1,6 @@
 # Official Cards - ONLY EDIT THIS TABLE.
 
-
+*Can't wait to see these in different colors!
 
 #20 fundamental sensor circuits (macro axioms) and 20 scientific principals (micro axioms) can be found among these 5 projects
 
