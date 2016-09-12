@@ -1,48 +1,72 @@
 # Entire Book Outline
 
-### possible use in intro
+### this needs to be about the 20 macro axioms and 20 micro axioms.
 
-The Node Chronicles is a one-of-a-kind graphic novel that weaves full lifecycle project tutorials with vivid hacker culture and clever depictions of the industry.  
+### the stuff that the wiser elders teach is the 20x20
 
-The Node Chronicles starts off with a dive into the PI Zero (and later the Arduino) by having the protagonist examine some critical use cases of tiny computers and microcontrollers. The book illuminates the common traits of an MIT taoist programming prodigy, Gou, and the life around him.
+This has moved to intro. Cards go here next. 
 
-The book has many derrived benefits as well. For example it highlights dozens upon dozens of cutting edge hardware components, sensors and code snippets used in thousands of bleeding edge electrical computer devices. ECE is a field where everything is becoming a computer. The process of designing new electrical devices in every shape, form and texture is well encapsulated and visually communicated by this book. It helps inspire kids to want to learn in this area.
+What was a methodology born out of necessity trying to create this holy grail of a concept is quickly becoming an organizational algorithm based on 20 uniquely fundamental sensor circuits (macro axioms) x 20 pieces of scientific inspiration (micro axioms). Divided amongst 5 significant projects, they may also be mix and matched to create . This sort of curation without any physical abstraction to the parts available on the market makes us more market centric than the toys out there like little bits, and with a storyline, we can offer an academy program. This framework gives the overall package a powerful sense of belonging in an environment where there is so so so so much. I've kept my tests short and sweet with users, I've administered the cards and reading materials, I've studied the learners in my target demographic and this is by far different from what they expect and the format gives me a complete engagement that I can easily build from. The idea that you could obtain the correct pieces of such and exciting industry by hijacking the portion of your brain that likes to follow stories is like latching onto the Underground Railroad to becoming a hacker in a short period of time; having a storyline is a hack in and of itself. The books research generated a deck of 20x20 playing cards as a complete byproduct, and that's the moment I knew how the gamification of my company would play out. It also marks a method of mnemonics unlike anything found in traditional programming education, it's like the 3rd dimension of teaching EECS. There is a fierce competition for the shelf space of the maker space and I'm about to get in where I fit in. 
 
-"Our initial barriers in teaching young engineers had everything to do with the demonstrations of "why hackers huge amounts of time dedicated to this" and "what becomes of inventors when they follow and break the rules." The nature of the graphic novel has unshackled us from the traditional text book and in the future we may develop games and an animated series to go along with our products."
 
-The field of ECE is expanding rapidly and includes a combination of EE, CS and Software Engineering. This transmedia form of learning navigates through each of these degrees in an way and that continuously praises the well grounded engineerist who has knowledge of the business around your innovations, common pitfalls and warewithall requirements of becoming successful.
 
-The engineerist reading this book will become familiar with the critical concepts needed experiment with hundreds of scientific sensors, capture their inputs and write their applications. This new and well put together graphic medium gives readers of all ages the context in which the most important open source innovations have risen. Moreover, it covers the socioeconomic scenarios in which their creators battled to launch their ideas.  
+The note clinical starts off with a story of go and no one in the basement doing some secret stuff and they are alerted by the presence of their nanny Houze entered into that their area and they've been keeping track of movements around the house using video devices sonar and even a gyroscope which are gyros phone which can detect movement around the house go ahead essentially created using a bunch of different sensors a dashboard on his computer and it makes no very basic display of what's going on from that activity is able to listen and how Rob
 
-The books key takeaway is that it is as much as a cultural indoctrination as it is a tutorial and learning mechanism.
 
-Our research over the past two years has consistently proved that young masters of success latch onto vivid context. Boys obsessed with watching professional athletes on YouTube teach themselves new techniques. Girls inspired by talented singers on Television watch and listen to clips over and over. In general, prodigies are becoming the new norm for American families and so can the idea of raising a young engineer. 
 
-The Node Chronicles attempts to be what Thrasher magazine was to skateboarding in the 80's and 90's - a movement which led to the exponential motivation and advancement of the sport. Todays professional skateboarders are doing unthinkable things because of Thrashers ability to steadily capture the industry at any given moment consistently.
+The next project is with sideways from that into him where is Lilo and they discover that lever is out in the backyard playing with a drone that go so to put together that she's been taught was taught how to make the drone and packet herself and she does so with a small drone. And a remote control in the book makes reference to hacking up an Xbox remote they use a very basic controller so far in the first few examples that I've given you a ready touched on a video camera microphone Gyro phonesonar we worked on getting that data wires wirelessly over a network into a computer for storage and for graphical representation so that's a pretty big project the next project by the time we get into the drone we're dealing with remote receiving we're dealing with motors servos and him all the things related
 
-The show Mr. Robot and The Silicon Valley recently highlighted that television could be combined with reasonably accurate technical content to create a show loved by millions while being cultishly coveted by an entire industry. Fans of these shows who code or do start-ups love one thing, that they are somewhat accurate on the technical content. Millions more are even more fascinated who know less about the field and it's because the field is filled with excitement, danger, risk, betrayal and tons of other concerns.
 
-A media scan at any given moment is all you need to find inspiration for content. Millions of people write incredibly amazing tutorials and are now making chips and boards that do the unimaginable and Gamifyed simply curates this stuff and fits it all into a classical context. When read from cover to cover in just under a couple hours you walk away with a sense of accomplishment, a new vocabulary and theoretical base of knowledge that's well worth the $75 dollars. 
 
-While other economies around the world lead in manufacturing and even education, America is typically known for their innovation. We also happen to be the leading contributors to the open source movement by a landslide.
+So my challenge is to take all of these chapters obviously and pick apart each of the underlying fundamentals circuits and components that are required thus far to tell this whole story moving on the third major project section has to probably do with environmental data they're putting bobbers together and that can send back information about about the environment so the next series of projects are about the floating bobber projects out in the wild and how a device is created to work in nature and work with all things nature and would like to explore hear some something with bio sells tigers some sort of an environmental climate oxygen carbon some sort of data that can be in the environment that would make the third major groupings of product
 
-The Node Chronicles is pushing a similar boundary in American education. With more than 250 schools already analyzing this for their classrooms and 2500 books sold, the user feedback we've gotten can be grouped into three important statistics about this book.
 
-* 250 teachers representing close to 250 schools purchased the book unaware that they were part of a survey. Each were shipped the first edition and given a month to analyze the book. After the first month they were given a survey. Of the 250 surveys sent, 226 responded within a week. 
 
-96% of the respondands answered three simple questions .
+Know if we were to take a completely different approach and try to retrofit the 20 $.20 or trading cards and into the book we find that they're all covered and so between these three stories and see how everything from getting help doctor and visualization fit machine learning algorithms physical sensors AC/DC did you know Bluetooth Wi-Fi sonar video sound earth movement pattern recognition and then I think the fourth and final project should be about sports and tracking data so you can see from the first project also how we track data using those earlier devices and then will start to see how later were able to get data from different unique places not just from within the home and not just within their first grouping of sensors I'm going to start to work with more you need sensors gradually that involve more math and more circuits and so if you were to take the $.20 or trading cards and mix and match them you find that you'd be able to complete the remote drone project the home security project the environmental barber project and the sports data
 
-How likely are you to push to make this required reading for your STEM program?
 
-How likely are you to recommend this to parents interested in their kids learning about electronics, coding and computer engineering?
 
-How likely are you to purchase more products from us in the future? 
+There are now many projects that have everything to do with drones and cheap quad copters RC quad potters there Arduino or trinket base you have many accelerometer and gyroscope style motion celebration type projects we need in the physics and data analysis data science I'm in start to learn about biomechanics team dynamics motion on the field all that stuff so Space from an inter-from a sports field perspective you're getting physics sports fitness heart rate therapy training and you're creating superhuman athletes
 
-Here were the results of the survey. 
 
-In 2017, Gamifyed will continue to invest in it's vision to become the leading cultural curator for classrooms and homes where ECE is quickly becoming a top priority. With 50 billion IoT Devices to come online by the year 2020 and each field becoming an information technology field, the prospect of a new "academy" style cultural movement for kids and teenagers could be huge. 
 
-The Node Chronicles is the first real, American born, globally relevant graphic novel based on the fascinating tech culture, with historical references to pioneers and their personal situations ranging from Tesla and Alan Turing to Bill Gates and Massimo Banzi. 
+With the home security project you're getting this voice sound movement awareness Brysons vibration video film machine learning some security networks transfer and all those things
+
+
+
+With the drone project you're getting motors remote remote-controlled physics flight aerodynamics modeling design real-time communications streaming protocol physics all things you want to know about building a barn capsulated Mediport
+
+
+
+When you have The environmental bobber node project is where you have found sampling you have some sort of possible actuator in capturing capturing data environment carbon oxygen if there's a cell project to view cells so I want to chip temperature in any other types of sensors if we can make a pH if we can make some experiment that captures the state of environment
+
+
+
+We need to look up that project a little bit further but looking to any environmental biological environment type projects and then with in the sports we have movements Celeron mayors gyroscopes bio tracking file for Mattix medicine training but there's a specific technology is involved in heart rate so then possibly the last final major project for fifth project could be satellite satellite and what needs to happen is you need to have five buckets five major projects that require the sensors listed the basic circuits that go along with each of those projects and then from the basic circuits the fundamental concepts in the fundamental pieces of technology need to be broken into
+
+
+
+For example with a drone project we need to take a breakdown of a drone tutorial and all the major circuitry and technology concepts Inc. and encapsulate them each into their own semantic grouping whether it's the math component for the streaming componentor the motors are the frequencies and whatever else every device has to be a smart device that is created worked with meaning that he gets his remote-control a drone drone has to be sending back ETA back to the device and it has to be interacting with that data so or capturing footage or something but I would like to see each project be extremely neat
+
+
+
+With a saddle a project I would assume we would work with some of the fundamental laws of nature such as morris code radio transmission satellite transmission and if there's anyway we can hack you know NASA with a basic project that would create some sort of satellite communications is it in the most manual rudimentary way how does projects also require power
+
+
+
+They require a board and we know or a smaller version processing and you know those things so I would say that there are at least 20 inspirational cards which can represent a fundamental are use or ferry or power power law and then there are 20 and you also want to be able to own every inspiration card and when you completed all 20 circuits we could essentially go back and mix-and-match inspirational cards to inspire new ideas in mixed me know I'm trying to think these things all be incorporated into the book so
+
+
+
+The very next most crucial step forward in the five is to pick these 20 x 20 cards parentheses 20 x 20 cards as an exercise and then begin to Houston into projects so for now I'm going to get new parts and find the mall and begin to make sure they have a place near pier in a very distinct order and that each icon and symbol for each characteristic or fundamental power principle is set in space within the graphic novel each when I lay out these inspiration in the deck of cards that comes with the graphic novel I'll be able to retrofit the stories around that next and then the QR codes and then everything else should be able to finish
+
+
+
+Now that I am confident of exactly how this all has to be put together exactly how I'm going to do it I should be able to backfill the stories around each card in the round need to ration and continue to tell the story around it but the QR codes in place and wrap up the screen play
+
+
+
+Sent from my iPhone
 
 
 
