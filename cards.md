@@ -21,7 +21,7 @@
 | Microprocessor | Pull/Stretch | Temperature | Motors | 4:12 |
 | Capacitors | Force | Salinity | Engines | 4:13 |
 | Semiconductor | Inductance | Element Detection | Power Storage | 4:14 |
-| Complex Elements (RvsA | Diodes | Logic Elements (A,S,R) | 3:15 | 4:15 |
+| Complex Elements (RvsA | Diodes | Logic Elements (A,S,R) | Nyquist Rate & Freq | 4:15 |
 | Conversion | Circuit Analysis | Analytes | 3:16 | 4:16 |
 | Linux Controller | Microcontroller(nano) | sd | dd | Fiber Optics |
 | Memory | Voltage | Amplification | 3:18 | 4:18 |
@@ -64,6 +64,12 @@ This graph will be important
 
 
 > If we simply just reiterate the fundamental axioms until we could visualize their basic principals in a collectively memorable and interchangeable way, like an EECS alphabet.  `Franchino 
+
+
+
+#CARD(*NYQUIST)
+
+![](http://www.ni.com/cms/images/devzone/tut/Fig_6_Nyquist_Sampling.JPG)
 
 
 
