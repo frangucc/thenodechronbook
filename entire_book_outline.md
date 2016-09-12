@@ -1,5 +1,19 @@
 # Entire Book Outline
 
+* Five main sections representing the 5 macro-axioms (see table)
+
+#### SECTIONS 1-5 (the MacroAxioms)
+
+1. STEALTH MODE
+2. JOCK ENERGY
+3. BIOHACKERS
+4. DRONELIFE
+5. THE BINARY TRANSMISSION
+
+ABOUT CARDS and MACRO + MICRO AXIOMS...
+
+
+
 ### There are 5 macro axioms covered in TNC-V1 and ~40 micro axioms.
 
 [CLICK to SEE ALL AXIOM CARDS](https://frangucc.gitbooks.io/gamifyed/content/cards.html)
