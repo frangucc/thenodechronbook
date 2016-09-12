@@ -64,22 +64,27 @@ The very next most crucial step forward in the five is to pick these 20 x 20 car
 
 Now that I am confident of exactly how this all has to be put together exactly how I'm going to do it I should be able to backfill the stories around each card in the round need to ration and continue to tell the story around it but the QR codes in place and wrap up the screen play
 
+#20 fundamental sensor circuits (macro axioms) and 20 scientific principals (micro axioms) can be found amongst these 5 projects
 
-| 0:0 | 1:0 | 2:0 | 3:0 | 4:0 |
+*represented by 5 sections of the first book, The Node Chronicles utilizes transmedia to help mentally organize and memorize 40 total EECS axioms (macro + micro) that when mix and matched are responsible for 80% of all new EECS systems.
+
+
+
+| Awareness | Bio-mechanics | Bio-sensing | Droning | Transmission |
 | -- | -- | -- | -- | -- |
-| 0:2 | 1:2 | 2:2 | 3:2 | 4:2 |
-| 0:3 | 1:3 | 2:3 | 3:3 | 4:3 |
-| 0:4 | 1:4 | 2:4 | 3:4 | 4:4 |
-| 0:5 | 1:5 | 2:5 | 3:5 | 4:5 |
-| 0:6 | 1:6 | 2:6 | 3:6 | 4:6 |
-| 0:7 | 1:7 | 2:7 | 3:7 | 4:7 |
-| 0:8 | 1:8 | 2:8 | 3:8 | 4:8 |
-| 0:9 | 1:9 | 2:9 | 3:9 | 4:9 |
-| 0:10 | 1:10 | 2:10 | 3:10 | 4:10 |
-| 0:11 | 1:11 | 2:11 | 3:11 | 4:11 |
-| 0:12 | 1:12 | 2:12 | 3:12 | 4:12 |
-| 0:13 | 1:13 | 2:13 | 3:13 | 4:13 |
-| 0:14 | 1:14 | 2:14 | 3:14 | 4:14 |
+| Headquarter Monitoring & Security | Motion Tracking and Kinetic Behavior | Molecular Element Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
+| --- | --- | --- | --- | --- |
+| Camera | Acceleration | CO2 | Servos & Electrical Engines | Antenna |
+| Microphone | Velocity | Oxygen | Actuators | Radio Frequency |
+| Geophone | Orientation | PH | Radio Waves | Solar Power |
+| Pressure | Proximity | Radiation | Power | Infared |
+| Sonar | Motion | Microscopy | Orientation | Spectrometer |
+| Beams | Angle | Cellular Recognition | 3:9 | 4:9 |
+| Touch | Force | Physicochemical Detection | 3:10 | 4:10 |
+| Antenna | Torque | Transducers | 3:11 | 4:11 |
+| Microprocessor | Pull/Stretch | Temperature | 3:12 | 4:12 |
+| 0:13 | Force | Salinity | Salinity | 4:13 |
+| 0:14 | 1:14 | Element Detection |  | 4:14 |
 | 0:15 | 1:15 | 2:15 | 3:15 | 4:15 |
 | 0:16 | 1:16 | 2:16 | 3:16 | 4:16 |
 | 0:17 | 1:17 | 2:17 | 3:17 | 4:17 |
@@ -88,6 +93,16 @@ Now that I am confident of exactly how this all has to be put together exactly h
 | 0:20 | 1:20 | 2:20 | 3:20 | 4:20 |
 
 
+
+
+
+Notes for above data:
+
+https://rockhealth.com/reports/the-future-of-biosensing-wearables/
+
+![](http://www.lbb.ethz.ch/Research/Biosensors/NanoBioSensing.jpg?hires)
+
+![](http://blogs.uoregon.edu/foodsystems/files/2014/10/Planting-the-Seeds-for-Open-Source-Biosensing-1wawum7.gif)
 
 
 
