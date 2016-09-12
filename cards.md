@@ -68,9 +68,17 @@ This graph will be important
 
 
 #CARD(*NYQUIST)
+``````
+
+![](https://cl.ly/3b1N47292o0M/nyquist-shannon.jpg)
+
+``` GIST: https://github.com/balzer82/FFT-Python/blob/master/FFT-Tutorial.py ```
+
+
 
 ![](http://www.ni.com/cms/images/devzone/tut/Fig_6_Nyquist_Sampling.JPG)
 
+![](http://ece.gmu.edu/~gbeale/ece_421/images/hw_421_f00_15.gif)
 
 
 Notes for above data:
