@@ -74,23 +74,23 @@ Now that I am confident of exactly how this all has to be put together exactly h
 | -- | -- | -- | -- | -- |
 | Headquarter Boundary and Presence Monitoring & Natural Security | Motion Tracking and Kinetic Behavior Simulation | Molecular Element Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
 | --- | --- | --- | --- | --- |
-| Camera | Acceleration | CO2 | Servos & Electrical Engines | Antenna |
+| Camera | Acceleration | CO2 | Servos | Antenna |
 | Microphone | Velocity | Oxygen | Actuators | Radio Frequency |
 | Geophone | Orientation | PH | Radio Waves | Solar Power |
 | Pressure | Proximity | Radiation | Power | Infared |
 | Sonar | Motion | Microscopy | Orientation | Spectrometer |
-| Beams | Angle | Cellular Recognition | 3:9 | 4:9 |
-| Touch | Force | Physicochemical Detection | 3:10 | 4:10 |
-| Antenna | Torque | Transducers | 3:11 | 4:11 |
-| Microprocessor | Pull/Stretch | Temperature | 3:12 | 4:12 |
-| Capacitors | Force | Salinity | Salinity | 4:13 |
-| Semiconductor | Inductance | Element Detection |  | 4:14 |
-| 0:15 | Diodes | 2:15 | 3:15 | 4:15 |
-| 0:16 | 1:16 | 2:16 | 3:16 | 4:16 |
-| 0:17 | 1:17 | 2:17 | 3:17 | 4:17 |
-| 0:18 | 1:18 | 2:18 | 3:18 | 4:18 |
-| 0:19 | 1:19 | 2:19 | 3:19 | 4:19 |
-| 0:20 | 1:20 | 2:20 | 3:20 | 4:20 |
+| Beams | Angle | Cellular Recognition | Computer Architecture | 4:9 |
+| Touch | Force | Physicochemical Detection | Instruction Set | 4:10 |
+| Antenna | Torque | Transducers | Parallel Processing | 4:11 |
+| Microprocessor | Pull/Stretch | Temperature | Motors | 4:12 |
+| Capacitors | Force | Salinity | Engines | 4:13 |
+| Semiconductor | Inductance | Element Detection | Power Storage | 4:14 |
+| Complex Elements (RvsA | Diodes | Logic Elements (A,S,R) | 3:15 | 4:15 |
+| Conversion | Circuit Analysis | Analytes | 3:16 | 4:16 |
+| Linux Controller | Microcontroller(nano) | sd | dd | Fiber Optics |
+| Memory | Voltage | Amplification | 3:18 | 4:18 |
+| Packet Pipes | Bluetooth | CMOS-Based Microsensors  | 3:19 | 4:19 |
+| Wifi & Other Connections | Chemical Hydrolics | Bioreceptors | 3:20 | 4:20 |
 
 
 
