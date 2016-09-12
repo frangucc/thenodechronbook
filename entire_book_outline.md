@@ -2,15 +2,25 @@
 
 * Five main sections representing the 5 macro-axioms (see table)
 
-#### SECTIONS 1-5 (the MacroAxioms)
+#### PARTS1 1-5 (the MacroAxioms)
 
-1. STEALTH MODE
-2. JOCK ENERGY
-3. BIOHACKERS
+1. STEALTH PACKET MODE
+2. ATHLETIC MACHINES
+3. BIOHACKERS ANONYMOUS
 4. DRONELIFE
 5. THE BINARY TRANSMISSION
 
 ABOUT CARDS and MACRO + MICRO AXIOMS...
+
+#### SECTIONS 1.1-1.18 (the MicroAxioms Part 1)
+
+**Examples**
+
+CARD(*Velocity)
+
+CARD(*Nyquist-Shannon)
+
+[TODO: COMPLETE ALL 40 CARDS]
 
 
 
