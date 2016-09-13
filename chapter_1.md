@@ -134,6 +134,7 @@ PAGE 14 [SHOWING OFF, GOU & NON FIRST DIALOGUE]
 
 * **6 CAP** Disguised as a normal thirteen year old boy, Gou is one of most elite ECE hackers in the world. From his secret basement headquarters in Garfield Park, he takes part in the most innovative programming and engineering projects known to man. 
 
+``````
 
 PAGE 15 [DAD UPSTAIRS SOLEMNLY WATCHING ASSHOLES ON TV]
 
