@@ -11,5 +11,4 @@
 * [Appendix](appendix.md)
 * [Blogs](blogs.md)
 * [Book Outline](entire_book_outline.md)
-* [Chapter 0](chapter_0.md)
 
