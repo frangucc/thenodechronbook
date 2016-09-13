@@ -1,4 +1,4 @@
-# Entire Book Outline
+# Book Outline
 
 * Five main sections representing the 5 macro-axioms (see table)
 
