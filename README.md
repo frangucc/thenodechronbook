@@ -500,16 +500,6 @@ Time-line A Highlights: [See Full UOI Timeline](http://www.ece.illinois.edu/abou
 *Revise this timeline to be more general and include the historical figures listed above*
 
 
-![](http://span.ece.utah.edu/uploads/ECElogo.png)
-
-
-| Section Feedback |
-| -- |
-| How well does it explain modern ECE physics? |
-| Is the tone tongue-in-cheek or abstract? |
-| Do you have other examples from other Universities? |
-| Can you clearly explain or diagram the field of ece? |
-
 
 
 
