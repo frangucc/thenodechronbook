@@ -10,6 +10,18 @@ Computers - Computer Programming
 Hardware - Electrical Engineering Circuits
 
 
+
+![](http://span.ece.utah.edu/uploads/ECElogo.png)
+
+
+| Section Feedback Questions |
+| -- |
+| How well does it explain modern ECE physics? |
+| Is the tone tongue-in-cheek or abstract? |
+| Do you have other examples from other Universities? |
+| Can you clearly explain or diagram the field of ece? |
+
+
 ## CURRICULUM RESOURCES
 
 [https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life ](https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life )
