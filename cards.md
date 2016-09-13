@@ -8,10 +8,10 @@
 
 | Awareness | Bio-mechanics | Bio-sensing | Droning | Transmission |
 | -- | -- | -- | -- | -- |
-| Headquarter Boundary and Presence Monitoring & Natural Security | Motion Tracking and Kinetic Behavior Simulation | Molecular Element Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
+| Headquarter Boundary and Presence Monitoring & Natural Security | Motion Tracking and Kinetic Behavior Simulation | Electrochemical & Molecule Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
 | --- | --- | --- | --- | --- |
 | Camera | Acceleration | CO2 | Servos | Antenna |
-| Microphone | Velocity | Oxygen | Actuators | Radio Frequency |
+| Microphone | **Velocity** | Oxygen | Actuators | Radio Frequency |
 | Geophone | Orientation | PH | Radio Waves | Solar Power |
 | Pressure | Proximity | Radiation | Power | Infared |
 | Sonar | Motion | Microscopy | Orientation | Spectrometer |
@@ -19,9 +19,9 @@
 | Touch | Force | Physicochemical Detection | Instruction Set | 4:10 |
 | Antenna | Torque | Transducers | Parallel Processing | 4:11 |
 | Microprocessor | Pull/Stretch | Temperature | Motors | 4:12 |
-| Capacitors | Force | Salinity | Engines | 4:13 |
+| Capacitors | Force | Electrochemical Sensing | Engines | 4:13 |
 | Semiconductor | Inductance | Element Detection | Power Storage | 4:14 |
-| Complex Elements (RvsA | Diodes | Logic Elements (A,S,R) | Nyquist Rate & Freq | 4:15 |
+| Complex Elements (RvsA | Diodes | Logic Elements (A,S,R) | **Sampling Theorem** | 4:15 |
 | Conversion | Circuit Analysis | Analytes | 3:16 | 4:16 |
 | Linux Controller | Microcontroller(nano) | sd | dd | Fiber Optics |
 | Memory | Voltage | Amplification | 3:18 | 4:18 |
