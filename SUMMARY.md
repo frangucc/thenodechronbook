@@ -6,7 +6,6 @@
 * [Part 3](chapter_3.md)
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
-* [Chapter 9](chapter_9.md)
 * [Chapter 10](chapter_10.md)
 * [Chapter 11](chapter_11.md)
 * [Chapter 12](chapter_12.md)
