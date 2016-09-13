@@ -1,3 +1,36 @@
+# Awareness
+
+
+> Part 1 is dedicated to the awareness of the hackers surroundings. This includes establishing headquarter boundaries, monitoring the presence of other living beings and the natural security around home.
+
+**Key featured axiom cards in Part 1
+**
+
+| Card |
+| -- |
+| Camera |
+| Microphone |
+| Geophone |
+| Pressure |
+| Button |
+| Ulatrasonic/Sonar |
+| Beams |
+| Touch |
+| Capacitors |
+| Semiconducting |
+| Complex Elements (RvsA) |
+| D->A Conversion|
+| Linux |
+| Memory |
+| Packets & Pipes |
+| Wifi & Other Connections |
+| 0:18 |
+| 0:19 |
+| 0:20 |
+
+---
+
+
 CHAPTER 1 - VISIT THE GITHUB READMES, DO NOT READ THIS CRAP RIGHT NOW
 
 #  The Raspberry PI 101 + ;0
