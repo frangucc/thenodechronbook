@@ -6,10 +6,10 @@
 * [Part 3](chapter_3.md)
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
+* [Cards](cards.md)
 * [Appendix](appendix.md)
 * [Cast](cast.md)
 * [Blogs](blogs.md)
 * [Entire Book Outline](entire_book_outline.md)
 * [Chapter 0](chapter_0.md)
-* [Cards](cards.md)
 
