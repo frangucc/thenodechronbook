@@ -75,6 +75,11 @@ This graph will be important
 
 GIST: https://github.com/balzer82/FFT-Python/blob/master/FFT-Tutorial.py
 
+Sampling Theorum
+https://www.youtube.com/watch?v=0slziGiwZOg
+
+
+
 
 
 ![](http://www.ni.com/cms/images/devzone/tut/Fig_6_Nyquist_Sampling.JPG)
@@ -91,7 +96,7 @@ https://rockhealth.com/reports/the-future-of-biosensing-wearables/
 ![](http://blogs.uoregon.edu/foodsystems/files/2014/10/Planting-the-Seeds-for-Open-Source-Biosensing-1wawum7.gif)
 
 
-
+NAME: Elizabeth Holmes started Theranos
 
 
 
