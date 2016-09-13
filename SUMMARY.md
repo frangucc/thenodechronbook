@@ -10,6 +10,6 @@
 * [Cards](cards.md)
 * [Appendix](appendix.md)
 * [Blogs](blogs.md)
-* [Entire Book Outline](entire_book_outline.md)
+* [Book Outline](entire_book_outline.md)
 * [Chapter 0](chapter_0.md)
 
