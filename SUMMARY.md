@@ -8,7 +8,7 @@
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
 * [Cards](cards.md)
+* [Book Outline](entire_book_outline.md)
 * [Blogs](blogs.md)
 * [Appendix](appendix.md)
-* [Book Outline](entire_book_outline.md)
 
