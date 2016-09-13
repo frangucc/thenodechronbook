@@ -6,7 +6,6 @@
 * [Part 3](chapter_3.md)
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
-* [Chapter 12](chapter_12.md)
 * [Appendix](appendix.md)
 * [Cast](cast.md)
 * [Blogs](blogs.md)
