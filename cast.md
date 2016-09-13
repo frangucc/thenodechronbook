@@ -1,19 +1,61 @@
 # Cast
-
-
 ---
 
-ADDITIONAL INTRODUCTION RESEARCH
+
+> TODO: Move content from cast book here. 
+
+
+
+# Gou
+
+Enter Gou's biography.
+
+# Nōn
+
+Enter Nōn's biography.
+
+# Lilu
+
+
+
+# Frank
+
+# Vero
+
+# Ophir
+
+# Ladybug
+
+# Bonner
+
+# Dr. Winslow
+
+# The Rabbi
+
+# Anon
+
+# Lisa
+
+# Michino
+
+
+
+
+ADDITIONAL CAST RESEARCH
 
 ## The New Democratizers
 
-**SPECIAL GUEST CAST**
+**SPECIAL GUEST CAST MEMBERS**
+
+
+> Each new book has two sections in the introduction dedicated to the following people. 
 
 * Lady Ada
 * Massimo Bansi
 * Elon Musk
 * Neil Tyson DeGrasse
 * Michio Kaku
+* Elizabeth Holmes
 * RASP PI CREATOR
 * 5 more people
 
