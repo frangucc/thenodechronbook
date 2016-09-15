@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Part 1](chapter_1.md)
+   * Stealth Mode
 * [Part 2](chapter_2.md)
 * [Part 3](chapter_3.md)
 * [Part 4](chapter_4.md)
