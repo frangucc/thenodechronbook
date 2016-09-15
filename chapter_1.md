@@ -33,6 +33,16 @@ The following macro and micro axiom cards will be collected in the first part. I
 ---
 
 
+Part 1 Includes Sub-Chapters
+
+Stealth Mode
+Remoting In
+Booby Traps
+Sixth Sensing
+Networks and Servers
+
+
+
 
 
 
