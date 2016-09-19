@@ -323,18 +323,3 @@ Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
 | [https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)|
 
 
-# Arduino 101
-
-
-## Microcontroller Basics
-- Microcontroller vs. Microprocessor
-- I/O
-## Intel Arduino
-- Microcontroller (specifics)
-- Bluetooth
-- Accelerometer
-## Mini-Arduino
-- Microcontroller (specifics)
-- Advantages vs. Disadvantages
-- Performance
-
