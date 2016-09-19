@@ -6,7 +6,7 @@
    * [Remote In](remoting.md)
    * RPI City
 * [Part 2 - Biomechanics](chapter_2.md)
-   * [RPI City](rpi_city.md)
+   * [Arduino](rpi_city.md)
 * [Part 3](chapter_3.md)
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
