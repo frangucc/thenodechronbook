@@ -7,7 +7,7 @@
    * [RPI City](rpi_city.md)
 * [Part 2 - Biomechanics](chapter_2.md)
    * [Arduino](rpicity_md.md)
-* [Part 3](chapter_3.md)
+* [Part 3 - Biosensing](chapter_3.md)
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
 * [Cast](cast.md)
