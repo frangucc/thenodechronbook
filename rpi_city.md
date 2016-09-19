@@ -1,9 +1,8 @@
 # RPI City
 
 
+Intro to Boards -- everything below must be incorporate to RPI City, the chapter. 
 
-
-Intro to Boards
 
 CHAPTER 1 - VISIT THE GITHUB READMES, DO NOT READ THIS CRAP RIGHT NOW
 
