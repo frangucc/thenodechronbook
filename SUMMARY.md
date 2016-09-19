@@ -4,7 +4,7 @@
 * [Part 1 - Awareness](chapter_1.md)
    * [Stealth Mode](stealth_mode.md)
    * [Remote In](remoting.md)
-* [Part 2](chapter_2.md)
+* [Part 2 - Biomechanics](chapter_2.md)
    * RPI City
 * [Part 3](chapter_3.md)
 * [Part 4](chapter_4.md)
