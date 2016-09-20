@@ -2,6 +2,8 @@
 
 Everything in this chapter must cover the following topics. 
 
+Must go through an UNO and a Trinket or Nano.
+
 # Arduino 101
 
 
