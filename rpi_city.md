@@ -1,5 +1,5 @@
 # Tripwires
-# RPI City
+## RPI City
 
 Intro to Boards -- everything below must be incorporate to RPI City, the chapter. 
 
