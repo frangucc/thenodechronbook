@@ -13,7 +13,6 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 * Todos
 * ~~Tasks~~
 
----
 
 ## List of Technical Topics Covered
 
