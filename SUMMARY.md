@@ -9,7 +9,7 @@
 * [Biomechanics](chapter_2.md)
    * [Real-Time](rpicity_md.md)
    * [Sportbits](sportbits.md)
-* [Part 3 - Biosensing](chapter_3.md)
+* [Biosensing](chapter_3.md)
    * Oxygen
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
