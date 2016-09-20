@@ -9,7 +9,6 @@ Chapter #2
 * Todos
 * ~~Tasks~~
 
----
 
 ## List of Technical Topics Covered
 
