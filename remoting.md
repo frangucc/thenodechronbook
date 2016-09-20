@@ -255,8 +255,32 @@ PAGE 15
 
 * **6 CAP** Too good of a person, Vero deals with headache after headache helping to raise kids that aren't even hers. 
 
-![](https://files.slack.com/files-pri/T0ELWSVMG-F0U44JNSH/nc_11_72.jpg)
 
+# Script, Technical
+
+The main goal of this chapter is to get the reader to understand the major boards he uses and how to boot them, get to terminals, install some packages, navigate linux a bit and get their basic tools in order.
+
+Tutorials need to be dumbed down and extremely DSL/Object/Verb oriented - almost as if a new way of writing tutorials. This is my conceptual way of writing them. 
+
+Maps and visualizations of these steps are key. We must become the BEST in the world at tutorializing steps like this.... 
+
+It almost reads as if GOU was giving secret instructions...
+
+Here is my first attempt, put into table...
+
+**PI SETUP SCRIPT**
+
+1) I must *FLASH* the OS IMAGE if I want to boot the PI.
+
+2) When I *BOOT* the PI with the IMAGE and hold F7 i get a [LINUX TERMINAL]
+
+3) On Linux, I run [these commands] to get Node.js and NPM installed
+
+4) When I install [GIT] using [NPM] i can then run any open source script or app.
+
+5) When I *clone* a repo with GIT I can run it by following the README
+
+6) If I [Install Gou's Remotify App] I can VNC or Terminal or SSH into my PI and get ROOT access and run any command on the machine I want. [add to Remoting In Chapter]
 
 
 | SECTION REFERENCE MATERIALS |
