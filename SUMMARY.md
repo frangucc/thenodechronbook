@@ -15,7 +15,7 @@
 * [Robotics](chapter_4.md)
    * Servos
 * [Data](chapter_5.md)
-   * Pipes & Packets
+   * [Pipes & Packets](pipes_&_packets.md)
 * [Cast](cast.md)
 * [Cards](cards.md)
 * [Book Outline](entire_book_outline.md)
