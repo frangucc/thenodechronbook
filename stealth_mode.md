@@ -64,8 +64,7 @@ CURRENT BLUE LINES
 
 ![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
 
-
-[](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384279/gitbook_cuts_zmiysz.jpg)
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384279/gitbook_cuts_zmiysz.jpg)
 
 So if you'd someday like to be the one to discover the next new critical API or create the next scientific sensor with universal implications, you'll need to develop some basic instincts first.
 
