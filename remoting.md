@@ -1,4 +1,12 @@
-# Remote In
+# Remote-In
+
+## Section Concept
+
+This brings us to modern day and introduces us to Gou Sokyeo. We learn about his normal state, mindset, love for tech, family structure, environment, home and about some of the gadgets he produces. The main goal of this chapter is to get the reader to understand the major boards he uses and how to boot them and get terminals and VNC running so they can be remoted into or modified and so their environments can be setup. 
+
+This is perhaps the most important step in working with modern technology. Get root acces and control of the machines, their IP's, possibly SSH acess, VNC access, access to the code editors, etc.
+
+
 
 ### VNC, Environment, NPM, Node, Setup
 
