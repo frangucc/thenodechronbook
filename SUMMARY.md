@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part 1 - Awareness](chapter_1.md)
+* [Awareness](chapter_1.md)
    * [Stealth Mode](stealth_mode.md)
    * [Remote In](remoting.md)
    * [RPI City](rpi_city.md)
