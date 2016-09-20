@@ -6,13 +6,11 @@ Politics show => greed, patent, investments, venture capital, protecting ideas
 THE INTRODUCTION CHAPTER
 ## Stealth Mode
 
-
-> Each book we produce starts off with some history. In the first book, we take a look at Tesla and Turing. We then present a strong theme throught the rest of the book on how these characters drive, innovations and politics impacted their lives.
+> Each book we produce starts off with some history. In the first book, we take a look at Tesla and Turing. We then present a strong theme throughout the rest of the book on how these characters drive, innovations and politics impacted their lives.
 
 PAGE 2-6
 
 ** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
-
 
 > **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
 
