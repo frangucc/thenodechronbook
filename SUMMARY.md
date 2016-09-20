@@ -11,7 +11,7 @@
    * [Sportbits](sportbits.md)
 * [Biosensing](chapter_3.md)
    * [Oxygen](oxygen.md)
-   * Sixth Sensing
+   * [Sixth Sensing](sixth_sensing.md)
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
 * [Cast](cast.md)
