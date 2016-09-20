@@ -2,12 +2,15 @@
 
 > This section is where the main characters and cast are introduced in their natural environments. The goal of this section is to provide inspiration for all sorts of cool hacks and projects that Gou, Non and Lilu work on. 
 
+**CHAPTER WORKING NOTES**
 
-> The secon
+* Bulleted list of the state of the chapter
+* Todos
+* ~~Tasks~~
 
+---
 
-
-## Section Technical Concepts
+## List of Technical Topics Covered
 
 Before we can start hacking on anything, we need to ensure we have all the proper setup required. 
 
@@ -52,12 +55,12 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 | [PI+UNO+Ubidots](https://www.hackster.io/daescobar/arduino-raspberry-pi-ubidots-made-easy-905d51?ref=search&ref_id=raspberry%20pi%20and%20arduino&offset=0)  |
 
 
-## Screenplay, non-technical
+## Screenplay overview, *non-technical*
 
 This brings us to modern day and introduces us to Gou Sokyeo. We learn about his normal state, mindset, love for tech, family structure, environment, home and about some of the gadgets he produces. 
 
 
-# Script
+# MAIN SCRIPT A-SIDE
 ---
 
 PRESENT DAY, PAGES 11-20
@@ -256,13 +259,15 @@ PAGE 15
 * **6 CAP** Too good of a person, Vero deals with headache after headache helping to raise kids that aren't even hers. 
 
 
-# Script, Technical
+## Screenplay overview, *technical*
 
 The main goal of this chapter is to get the reader to understand the major boards he uses and how to boot them, get to terminals, install some packages, navigate linux a bit and get their basic tools in order.
 
 Tutorials need to be dumbed down and extremely DSL/Object/Verb oriented - almost as if a new way of writing tutorials. This is my conceptual way of writing them. 
 
 Maps and visualizations of these steps are key. We must become the BEST in the world at tutorializing steps like this.... 
+
+# MAIN SCRIPT B-SIDE
 
 It almost reads as if GOU was giving secret instructions...
 
@@ -281,6 +286,31 @@ Here is my first attempt, put into table...
 5) When I *clone* a repo with GIT I can run it by following the README
 
 6) If I [Install Gou's Remotify App] I can VNC or Terminal or SSH into my PI and get ROOT access and run any command on the machine I want. [add to Remoting In Chapter]
+
+---
+
+> **NOTES TO ARTIST** Tell the artists what his job is here...
+
+---
+
+**ELEMENTS OF SCREENPLAY**
+
+PAGE # [OVERVIEW]
+
+IMAGES OR SKETCH
+
+SCRIPT ELEMENTS
+
+* **CAP 1:** Captions, Speech, Dialogue
+
+> **PANEL ONE** - ALL CAPS!
+> **PANEL TWO** - ALL CAPS!
+
+* **CAP 2:** Captions, Speech, Dialuge
+
+* **BAR 2:** Sidebars, Notes, Pointers
+
+Script should feel like this....
 
 
 | SECTION REFERENCE MATERIALS |
