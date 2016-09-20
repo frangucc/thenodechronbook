@@ -4,11 +4,18 @@
 
 Before we can start hacking on anything, we need to ensure we have all the proper setup required. 
 
-Here we'll 
+* Flash the Image
+* Boot the PI
+* Setup the basic Environment on PI with Arduino 
+* NPM, Node, Setup, IDE Intro
+* Hello World PI
+* Hello World Arduino
+* Hello Ubidots and PI and Arduino Together
 
-
-
-### Flash the Image, Boot the PI, Setup the basic, Environment, NPM, Node, Setup, IDE Intro, Hello World
+First Project
+**Tutorials**
+[Pi3 + Arduino Tutorial
+](https://www.hackster.io/daescobar/arduino-raspberry-pi-ubidots-made-easy-905d51?ref=search&ref_id=raspberry%20pi%20and%20arduino&offset=0)
 
 ## Section Concept
 
