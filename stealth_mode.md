@@ -6,7 +6,43 @@ THE FIRST CHAPTER
 
 There is a great mix of the very basics of Electricity and Computing in this chapter. 
 
-## Stealth Mode Topics
+## List of Technical Topics Covered
+
+
+
+---
+**Merges this stuff**
+
+| COMPLETION TASKS |
+| -- |
+| Add QR Codes |
+| Illustrate 1-3 technical science pages with Tesla using the Axioms | 
+
+* Section QR Codes should be about: AC-DC Tutorial and analog to digital converstion perhaps.
+
+* Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
+
+
+
+---
+
+
+Describe why these major tasks... 
+
+* High Level Bullet 1
+* High Level Bullet 2
+
+| Technical Takeaways |
+| -- |
+| x |
+
+| Axiom Cards Unlocked |
+| -- |
+| x |
+
+| Research |
+| -- |
+| x |
 
 **TODO**
 * These should probably be 2 separate chapters!!!
@@ -26,7 +62,25 @@ Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all fro
 
 
 
-# SCREENPLAY, *Non-technical*
+## Screenplay overview, *non-technical*
+
+Description of the non-technical content.
+
+# MAIN SCRIPT A-SIDE
+---
+
+TIME, PAGE #'S
+
+** INTRO TEXT ** What time is it, who's here and where are we and what are we doing?
+
+[3 paragraphs]
+
+
+---
+
+> **NOTES TO ARTIST** Tell the artists what his job is here...
+
+---
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384737/tesla_iaikrv.jpg)
 
@@ -84,15 +138,61 @@ So if you'd someday like to be the one to discover the next new critical API or 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384943/again_bjy1p5.jpg)
 
 
-| COMPLETION TASKS |
-| -- |
-| Add QR Codes |
-| Illustrate 1-3 technical science pages with Tesla using the Axioms | 
 
-* Section QR Codes should be about: AC-DC Tutorial and analog to digital converstion perhaps.
+---
 
-* Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
+## Screenplay overview, *technical*
 
+Description of the non-technical content.
+
+# MAIN SCRIPT B-SIDE
+---
+
+TIME, PAGE #'S
+
+** INTRO TEXT ** How does the technical stuff setup... How is it captured, shot, communicated?
+
+[3 paragraphs]
+
+---
+
+> **NOTES TO ARTIST** Tell the artists what his job is here...
+
+---
+
+**ELEMENTS OF SCREENPLAY**
+
+PAGE # [OVERVIEW]
+
+IMAGES OR SKETCH
+
+SCRIPT ELEMENTS
+
+* **CAP 1:** Captions, Speech, Dialogue
+
+> **PANEL ONE** - ALL CAPS!
+> **PANEL TWO** - ALL CAPS!
+
+* **CAP 2:** Captions, Speech, Dialuge
+
+* **BAR 2:** Sidebars, Notes, Pointers
+
+Script should feel like this....
+
+
+**PI SETUP SCRIPT**
+
+1) I must *FLASH* the OS IMAGE if I want to boot the PI.
+
+2) When I *BOOT* the PI with the IMAGE and hold F7 i get a [LINUX TERMINAL]
+
+3) On Linux, I run [these commands] to get Node.js and NPM installed
+
+4) When I install [GIT] using [NPM] i can then run any open source script or app.
+
+5) When I *clone* a repo with GIT I can run it by following the README
+
+6) If I [Install Gou's Remotify App] I can VNC or Terminal or SSH into my PI and get ROOT access and run any command on the machine I want. [add to Remoting In Chapter]
 
 | REFERENCES |
 | -- |
@@ -165,6 +265,9 @@ Alan Turing was unjustly prosecuted in 1952 for what most people today do not re
 * **6 ALAN:** Please, don't do this to me. It's not my fault!
 
 * **7 CAP:** We can only see a short distance ahead, but we can see plenty there that needs to be done.
+
+
+
 
 | COMPLETION TASKS |
 | -- |
