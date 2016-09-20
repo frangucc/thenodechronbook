@@ -4,7 +4,7 @@
 * [Awareness](chapter_1.md)
    * [Stealth Mode](stealth_mode.md)
    * [Remote In](remoting.md)
-   * [Booby Traps](rpi_city.md)
+   * [Tripwires](rpi_city.md)
    * [Connections](connections.md)
 * [Biomechanics](chapter_2.md)
    * [Real-Time](rpicity_md.md)
