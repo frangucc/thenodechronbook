@@ -24,8 +24,6 @@ Preface description...
 | x |
 
 
-
-
 ## Screenplay overview, non-technical
 
 This brings us to modern day and introduces us to Gou Sokyeo. We learn about his normal state, mindset, love for tech, family structure, environment, home and about some of the gadgets he produces. 
@@ -41,27 +39,30 @@ TIME, PAGE #'S
 [3 paragraphs]
 
 
-
 ---
 
 > **NOTES TO ARTIST** Tell the artists what his job is here...
 
-
-
 ---
 
-**ELEMENTS OF SCRIPT**
+**ELEMENTS OF SCREENPLAY**
 
 PAGE # [OVERVIEW]
 
-IMAGES OR SKETCHE
+IMAGES OR SKETCH
 
-CAPTIONS
+SCRIPT ELEMENTS
 
-* **1 CAP:** Captions or dialogue
+* **CAP 1:** Captions, Speech, Dialogue
+
+> **PANEL ONE** - ALL CAPS!
+> **PANEL TWO** - ALL CAPS!
+
+* **CAP 2:** Captions, Speech, Dialuge
+
+* **BAR 2:** Sidebars, Notes, Pointers
 
 
-> **PANEL ONE** - WHAT IS IN THE PANEL, ALL CAPS!
 
 
 
