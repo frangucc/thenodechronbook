@@ -10,7 +10,6 @@ CHAPTER 3
 * Todos
 * ~~Tasks~~
 
----
 
 ## List of Technical Topics Covered
 
