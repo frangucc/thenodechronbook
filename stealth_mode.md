@@ -6,6 +6,15 @@ THE FIRST CHAPTER
 
 There is a great mix of the very basics of Electricity and Computing in this chapter. 
 
+
+**CHAPTER WORKING NOTES**
+
+* Bulleted list of the state of the chapter
+* Todos
+* ~~Tasks~~
+
+---
+
 ## List of Technical Topics Covered
 
 ---
