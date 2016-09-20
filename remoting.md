@@ -46,7 +46,7 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 
 | Research |
 | -- |
-| PI Running |
+| PI Up & Running |
 | Arduino Running |
 | Environment Tutelage |
 | [PI+UNO+Ubidots](https://www.hackster.io/daescobar/arduino-raspberry-pi-ubidots-made-easy-905d51?ref=search&ref_id=raspberry%20pi%20and%20arduino&offset=0)  |
