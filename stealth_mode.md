@@ -1,10 +1,11 @@
+
+THE FIRST CHAPTER
 # Stealth Mode
 
 Tesla Chapter which leads to => AtoD, AC, Current, Electricity Basics
 Politics show => greed, patent, investments, venture capital, protecting ideas
 
-THE INTRODUCTION CHAPTER
-## Stealth Mode
+## Stealth Mode PREFACE
 
 > Each book we produce starts off with some history. In the first book, we take a look at Tesla and Turing. We then present a strong theme throughout the rest of the book on how these characters drive, innovations and politics impacted their lives.
 
