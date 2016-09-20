@@ -4,10 +4,17 @@ THE FIRST CHAPTER
 
 > Each book we produce starts off with some history. In the first book, we take a look at Tesla and Turing. We then present a strong theme throughout the rest of the book on how these characters drive, innovations and politics impacted their lives. Moreover, we look at how like many inventors prior, they had to work in secrecy often and be wary of antagonists.
 
+There is a great mix of the very basics of Electricity and Computing in this chapter. 
+
 ## Stealth Mode Topics
 
-Tesla Chapter which leads to => AtoD, AC, Current, Electricity Basics
+**TODO**
+* These should probably be 2 separate chapters!!!
+
+Tesla part which leads to => AtoD, AC, Current, Electricity Basics
 Politics show => greed, patent, investments, venture capital, protecting ideas
+
+Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all from the turing machine. Section also explores diversity, wining a war with brains not braun, etc.
 
 **CHAPTER WORKING NOTES**
 
@@ -25,8 +32,6 @@ Politics show => greed, patent, investments, venture capital, protecting ideas
 
 PAGE 2-6
 ![](NC_02_72.jpg)
-
-
 
 ** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
 
@@ -77,6 +82,17 @@ So if you'd someday like to be the one to discover the next new critical API or 
 ![](https://cl.ly/3O470Q2j172y/NC_03_300_Color.jpg)
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384943/again_bjy1p5.jpg)
+
+
+| COMPLETION TASKS |
+| -- |
+| Add QR Codes |
+| Illustrate 1-3 technical science pages with Tesla using the Axioms | 
+
+* Section QR Codes should be about: AC-DC Tutorial and analog to digital converstion perhaps.
+
+* Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
+
 
 | REFERENCES |
 | -- |
@@ -150,9 +166,27 @@ Alan Turing was unjustly prosecuted in 1952 for what most people today do not re
 
 * **7 CAP:** We can only see a short distance ahead, but we can see plenty there that needs to be done.
 
+| COMPLETION TASKS |
+| -- |
+| Add QR Codes |
+| Illustrate 1-3 technical science pages with Turing using the Axioms | 
+
+
+* Axioms for Turing section should incldue: Microprocessors, CPU Design, FSMs
+
 | REFERENCES |
 | -- |
 | [ALAN TURING MOVIE SCENE](http://cdn.thedailybeast.com/content/dailybeast/articles/2014/11/29/the-castration-of-alan-turing-britain-s-code-breaking-wwii-hero/jcr:content/image.img.2000.jpg/1417261521198.cached.jpg) |
+
+| RAW TUTORIALS |
+| -- |
+| [In Game Dev](https://gamedevelopment.tutsplus.com/tutorials/finite-state-machines-theory-and-implementation--gamedev-11867) |
+| [Basic Explainer 010111](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html) |
+| [FSM in Python](https://www.youtube.com/watch?v=E45v2dD3IQU) |
+|  |
+|  |
+|  |
+
 
 **ADDITIONAL HISTORICAL FIGURE CANDIDATES**
 
