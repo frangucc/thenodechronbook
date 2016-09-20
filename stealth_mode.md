@@ -17,9 +17,16 @@ Politics show => greed, patent, investments, venture capital, protecting ideas
 * Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
 * Axioms for Turing section should incldue: Microprocessors, CPU Design, FSMs
 
+
+
 ### SCREENPLAY BEGINS:
 
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384737/tesla_iaikrv.jpg)
+
 PAGE 2-6
+![](NC_02_72.jpg)
+
+
 
 ** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
 
@@ -35,6 +42,10 @@ PAGE 2-6
 > **PANEL THREE** - PULL BACK EVEN FURTHER TO SHOW THE INFAMOUS TESLA COIL AND SPECTACULAR SHOW OF ELECTRICITY. YOUR CALL ON HOW TESLAS FULL FIGURE FITS INTO THIS PANEL.
 
 * **4 TESLA:** ...this changes everything, again...
+
+
+![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
+
 
 > **PANEL FOUR** - A STRONG KNOCK AT THE DOOR, SOMEONE IS THERE TO SHUT TESLA DOWN, AGAIN. HE HAD ALREADY HAD HIS TOWER OF DREAMS AND PATENTS SHUT DOWN AND STOLEN BY JP MORGAN.
 
@@ -58,11 +69,6 @@ PAGE 2-6
 
 * **10 CAP:** The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence. 
 
-CURRENT BLUE LINES
-![](NC_02_72.jpg)
-
-
-![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384279/gitbook_cuts_zmiysz.jpg)
 
@@ -70,7 +76,7 @@ So if you'd someday like to be the one to discover the next new critical API or 
 
 ![](https://cl.ly/3O470Q2j172y/NC_03_300_Color.jpg)
 
-
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384943/again_bjy1p5.jpg)
 
 | REFERENCES |
 | -- |
