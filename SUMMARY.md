@@ -13,6 +13,7 @@
    * [Oxygen](oxygen.md)
    * [Sixth Sensing](sixth_sensing.md)
 * [Robotics](chapter_4.md)
+   * Servos
 * [Part 5](chapter_5.md)
 * [Cast](cast.md)
 * [Cards](cards.md)
