@@ -1,9 +1,3 @@
-# Wireless Connectivity
-
-
-## Wifi
-
-## Bluetooth
 
 
 
