@@ -10,23 +10,10 @@ Here we'll
 
 ### Flash the Image, Boot the PI, Setup the basic, Environment, NPM, Node, Setup, IDE Intro, Hello World
 
-Couple things. 
+## Section Concept
 
-The Raspberry Pi has no screen. All the available screens suck right now anyhow. 
+This brings us to modern day and introduces us to Gou Sokyeo. We learn about his normal state, mindset, love for tech, family structure, environment, home and about some of the gadgets he produces. The main goal of this chapter is to get the reader to understand the major boards he uses and how to boot them and get terminals.
 
-We're going to setup a way for our phones to act as our linux shell and remote into our PI's static IP that we give it. 
-
-This is the first major hacking into the PI event. This will be significant. 
-
-**Important Links**
-[Remote Control Raspberry Pi](https://www.gadgetdaily.xyz/remotely-control-your-raspberry-pi/)
-Use web interface to control PI and get Terminal Access(read or write?)
-
-[Node Wrapper on WPI](https://github.com/gavinhungry/wpi-gpio)
-A no-frills wrapper around the WiringPi gpio command-line utility.
-
-[Cams and Linux](http://elinux.org/RPi-Cam-Web-Interface)
-Getting cam data and such.
 
 User walks away with:
 
