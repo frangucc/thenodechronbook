@@ -16,6 +16,7 @@
    * Servos
 * [Data](chapter_5.md)
    * [Pipes & Packets](pipes_&_packets.md)
+   * Frequencies
 * [Cast](cast.md)
 * [Cards](cards.md)
 * [Book Outline](entire_book_outline.md)
