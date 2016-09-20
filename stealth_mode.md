@@ -14,7 +14,10 @@ Politics show => greed, patent, investments, venture capital, protecting ideas
 * We've illustrated some of the political history and higher level concepts of Tesla and Turing... But we need to ensure a cohesive, historical story is told.
 * We also need a clear breakout and transition into the technology they created with a clear technical description, references and QR codes out to each. 
   * Section QR Codes should be about: AC-DC Tutorial, FSM Coding Example
-* Axioms included should be about: Voltage, F
+* Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
+* Axioms for Turing section should incldue: Microprocessors, CPU Design, FSMs
+
+### SCREENPLAY BEGINS:
 
 PAGE 2-6
 
@@ -57,6 +60,17 @@ PAGE 2-6
 
 CURRENT BLUE LINES
 ![](NC_02_72.jpg)
+
+
+![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
+
+
+[](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384279/gitbook_cuts_zmiysz.jpg)
+
+So if you'd someday like to be the one to discover the next new critical API or create the next scientific sensor with universal implications, you'll need to develop some basic instincts first.
+
+![](https://cl.ly/3O470Q2j172y/NC_03_300_Color.jpg)
+
 
 
 | REFERENCES |
