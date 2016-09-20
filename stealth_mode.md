@@ -8,8 +8,6 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 
 ## List of Technical Topics Covered
 
-
-
 ---
 **Merges this stuff**
 
