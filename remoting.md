@@ -1,6 +1,13 @@
 # Environments
 
-## Section Concepts
+> This section is where the main characters and cast are introduced in their natural environments. The goal of this section is to provide inspiration for all sorts of cool hacks and projects that Gou, Non and Lilu work on. 
+
+
+> The secon
+
+
+
+## Section Technical Concepts
 
 Before we can start hacking on anything, we need to ensure we have all the proper setup required. 
 
@@ -12,15 +19,39 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 * Hello World Arduino
 * Hello Ubidots and PI and Arduino Together
 
-First Project
-**Tutorials**
-[Pi3 + Arduino Tutorial
-](https://www.hackster.io/daescobar/arduino-raspberry-pi-ubidots-made-easy-905d51?ref=search&ref_id=raspberry%20pi%20and%20arduino&offset=0)
+| Technical Goals |
+| -- |
+| Flash the OS |
+| Boot to Root |
+| Terminal Cheat Sheet |
+| Bash some Packages |
+| Node.js |
+| NPM |
+| Git |
+| Hello World PI |
+| Hello World Arduino |
+| Pi + Arduino LED |
+| 0:8 |
+| 0:9 |
+| 0:10 |
 
-## Section Concept
+| Axioms Used |
+| -- |
+| Flash the OS |
+| Boot to Root |
+
+
+| Research & Inspiration |
+| -- |
+| PI Running |
+| Arduino Running |
+| Environment Tutelage |
+| [PI+UNO+Ubidots](https://www.hackster.io/daescobar/arduino-raspberry-pi-ubidots-made-easy-905d51?ref=search&ref_id=raspberry%20pi%20and%20arduino&offset=0)  |
+
+
+## Screenplay, non-technical
 
 This brings us to modern day and introduces us to Gou Sokyeo. We learn about his normal state, mindset, love for tech, family structure, environment, home and about some of the gadgets he produces. The main goal of this chapter is to get the reader to understand the major boards he uses and how to boot them and get terminals.
-
 
 Tutorials need to be dumbed down and extremely DSL/Object/Verb oriented - almost as if a new way of writing tutorials. This is my conceptual way of writing them. 
 
