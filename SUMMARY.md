@@ -10,7 +10,7 @@
    * [Real-Time](rpicity_md.md)
    * [Sportbits](sportbits.md)
 * [Biosensing](chapter_3.md)
-   * Oxygen
+   * [Oxygen](oxygen.md)
 * [Part 4](chapter_4.md)
 * [Part 5](chapter_5.md)
 * [Cast](cast.md)
