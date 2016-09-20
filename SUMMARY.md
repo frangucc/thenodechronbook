@@ -18,6 +18,7 @@
    * [Pipes & Packets](pipes_&_packets.md)
    * [Frequencies](frequencies.md)
    * [Storage](storage.md)
+   * Protocols & Sockets
 * [Cast](cast.md)
 * [Cards](cards.md)
 * [Book Outline](entire_book_outline.md)
