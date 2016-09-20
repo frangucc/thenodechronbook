@@ -19,7 +19,7 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 * Hello World Arduino
 * Hello Ubidots and PI and Arduino Together
 
-| Technical Goals |
+| Technical Takeaways |
 | -- |
 | Flash the OS |
 | Boot to Root |
@@ -35,11 +35,14 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 | 0:9 |
 | 0:10 |
 
-| Axioms Used |
+| Axioms Unlocked |
 | -- |
-| Flash the OS |
-| Boot to Root |
-
+| Storage |
+| Linux |
+| Scripting |
+| NPM |
+| GIT |
+| GPIO |
 
 | Research & Inspiration |
 | -- |
