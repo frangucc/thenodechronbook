@@ -6,7 +6,7 @@
 
 *represented by 5 sections of the first book, The Node Chronicles utilizes transmedia to help mentally organize and memorize 40 total EECS axioms (macro + micro) that when mix and matched are responsible for 80% of all new EECS systems.
 
-| Awareness | Bio-mechanics | Bio-sensing | Droning | Transmission |
+| Awareness | Bio-mechanics | Bio-sensing | Robotics | Transmission |
 | -- | -- | -- | -- | -- |
 | Headquarter Boundary and Presence Monitoring & Natural Security | Motion Tracking and Kinetic Behavior Simulation | Electrochemical & Molecule Recognition | Remote Controlled Motoring & Mechanics | Long Distance Data Signal & Persistence |
 | --- | --- | --- | --- | --- |
@@ -15,18 +15,19 @@
 | Geophone | Orientation | PH | Radio Waves | Solar Power |
 | Pressure | Proximity | Radiation | Power | Infared |
 | Sonar | Motion | Microscopy | Orientation | Spectrometer |
-| Beams | Angle | Cellular Recognition | Computer Architecture | 4:9 |
-| Touch | Force | Physicochemical Detection | Instruction Set | 4:10 |
-| Antenna | Torque | Transducers | Parallel Processing | 4:11 |
-| Microprocessor | Pull/Stretch | Temperature | Motors | 4:12 |
-| Capacitors | Force | Electrochemical Sensing | Engines | 4:13 |
-| Semiconductor | Inductance | Element Detection | Power Storage | 4:14 |
-| Complex Elements (RvsA | Diodes | Logic Elements (A,S,R) | **Sampling Theorem** | 4:15 |
-| Conversion | Circuit Analysis | Analytes | 3:16 | 4:16 |
-| Linux Controller | Microcontroller(nano) | sd | dd | Fiber Optics |
-| Memory | Voltage | Amplification | 3:18 | 4:18 |
-| Packet Pipes | Bluetooth | CMOS-Based Microsensors  | 3:19 | 4:19 |
-| Wifi & Other Connections | Chemical Hydrolics | Bioreceptors | 3:20 | 4:20 |
+| Voltage | Angle | Cellular Recognition | Computer Architecture | Fields, Forces & Flows |
+| Touch | Force | Physicochemical Detection | Instruction Set | Machine Learning |
+| Antenna | Torque | Transducers | Parallel Processing | Graphics |
+| Microprocessor | Pull/Stretch | Temperature | Motors | Power |
+| Capacitors | Force | Electrochemical Sensing | Engines | Database |
+| Semiconductor | Inductance | Element Detection | Power Storage | Memory Stack & Heap |
+| Complex Elements (RvsA | Diodes | Logic Elements (A,S,R) | **Sampling Theorem** | Packets & Pipes |
+| Conversion | Circuit Analysis | Analytes | Servers | AI |
+| Linux | Microcontroller(nano) | Recursion & Loops | Sockets | Fiber Optics |
+| Git | Voltage | Amplification | Machine Learning | Protocols |
+| SSH | Bluetooth | CMOS-Based Microsensors  | Motors | Arrays & Hashes |
+| NPM | Chemical Hydrolics | Bioreceptors | Operands | Classes & Objects |
+| a | a | a | a | a |
 
 
 
@@ -104,3 +105,54 @@ NAME: Elizabeth Holmes started Theranos
 
 https://www.reddit.com/r/arduino/comments/39xkqa/what_sensors_can_i_use_for_velocity_measurement/
 
+MIT UNDERGRADUATE SUBJECTS
+
+Please note that there may be additional special topics subjects that have been approved as AUS subjects for a particular term. See the SUBJECT UPDATES.
+
+6.022J Quantitative Systems Physiology
+6.023J **Fields, Forces and Flows in Biological Systems**
+6.024J Molecular, Cellular, and Tissue Biomechanics
+6.025J Medical Device Design
+6.027J Biomolecular Feedback Systems
+6.035 Computer Language Engineering
+6.036 I**ntroduction to Machine Learning**
+6.045J Automata, Computability and Complexity
+6.047 Computational Biology: Genomes, Networks, Evolution
+6.049 Evolutionary Biology
+6.061 Introduction to Electric Power
+6.101 Introductory Analog Electronics Laboratory
+6.111 Introductory Digital Systems Laboratory
+6.115 Microcomputer Project Laboratory
+6.131 Power Electronics Laboratory
+6.141J Robotics: Science and Systems I
+6.170 Software Studio
+6.172 Performance Engineering of Software Systems
+6.207 Networks
+6.301 Solid-State Circuits
+6.302 Feedback Systems
+6.502J Introduction to Molecular Simulations
+6.503 Foundations of Algorithms and Computational Techniques in Systems Biology
+6.602 Fundamentals of Photonics
+6.701 Introduction to Nanoelectronics
+6.717 Design and Fabrication of Microelectromechanical Systems
+6.801 Machine Vision
+6.802 Computational Systems Biology
+6.803 The Human Intelligence Enterprise
+6.804J Computational Cognitive Science
+6.805J Foundations of Information Policy
+6.806 Advanced Natural Language Processing
+6.807 Computational Fabrication
+6.809 Interactive Music Systems
+6.811 Principles and Practices of Assistive Technology
+6.813 User Interface Design and Implementation
+6.814 Database Systems
+6.815 Digital and Computational Photography
+6.816 Multicore Programming
+6.819 Advances in Computer Vision
+6.835 Intelligent Multimodal User Interfaces
+6.837 Computer Graphics
+6.857 Network and Computer Security
+6.905 Large-scale Symbolic Systems 
+16.36 Communications Systems and Networks
+21M.359 Computational Music
+IDS.012 Statistics, Computation and Applications
