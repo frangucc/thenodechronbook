@@ -4,12 +4,17 @@ THE FIRST CHAPTER
 
 > Each book we produce starts off with some history. In the first book, we take a look at Tesla and Turing. We then present a strong theme throughout the rest of the book on how these characters drive, innovations and politics impacted their lives. Moreover, we look at how like many inventors prior, they had to work in secrecy often and be wary of antagonists.
 
-## Stealth Mode PREFACE
+## Stealth Mode Topics
 
 Tesla Chapter which leads to => AtoD, AC, Current, Electricity Basics
 Politics show => greed, patent, investments, venture capital, protecting ideas
 
+**CHAPTER WORKING NOTES**
 
+* We've illustrated some of the political history and higher level concepts of Tesla and Turing... But we need to ensure a cohesive, historical story is told.
+* We also need a clear breakout and transition into the technology they created with a clear technical description, references and QR codes out to each. 
+  * Section QR Codes should be about: AC-DC Tutorial, FSM Coding Example
+* Axioms included should be about: Voltage, F
 
 PAGE 2-6
 
