@@ -39,7 +39,7 @@ Part 1 Includes Sub-Chapters
 Stealth Mode
 Remoting In
 Booby Traps
-Sixth Sensing
+
 Networks and Servers
 
 
