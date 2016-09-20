@@ -1,5 +1,5 @@
-CHAPTER #
-# TITLE
+CHAPTER 3
+# NETWORK ACCESS
 
 > Section preface/overview. Explain what happens in this chapter technically and non-technically and the theory behind it's design.
 
