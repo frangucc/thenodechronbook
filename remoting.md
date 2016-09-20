@@ -35,7 +35,7 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 | 0:9 |
 | 0:10 |
 
-| Axioms Unlocked |
+| Axiom Cards Unlocked |
 | -- |
 | Storage |
 | Linux |
@@ -44,7 +44,7 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 | GIT |
 | GPIO |
 
-| Research & Inspiration |
+| Research |
 | -- |
 | PI Running |
 | Arduino Running |
