@@ -4,7 +4,7 @@
 * [Awareness](chapter_1.md)
    * [Stealth Mode](stealth_mode.md)
    * [Enviroman](remoting.md)
-   * [Connections](connections.md)
+   * [Network Access](connections.md)
    * [Remoting In](environments.md)
    * [Tripwires](rpi_city.md)
 * [Biomechanics](chapter_2.md)
