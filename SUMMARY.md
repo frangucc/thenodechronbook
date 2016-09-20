@@ -6,6 +6,7 @@
    * [Remoting In](remoting.md)
    * [Tripwires](rpi_city.md)
    * [Connections](connections.md)
+   * Environments
 * [Biomechanics](chapter_2.md)
    * [Real-Time](rpicity_md.md)
    * [Sportbits](sportbits.md)
