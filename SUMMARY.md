@@ -6,7 +6,7 @@
    * [Remote In](remoting.md)
    * [RPI City](rpi_city.md)
    * [Connections](connections.md)
-* [Part 2 - Biomechanics](chapter_2.md)
+* [Biomechanics](chapter_2.md)
    * [Real-Time](rpicity_md.md)
 * [Part 3 - Biosensing](chapter_3.md)
 * [Part 4](chapter_4.md)
