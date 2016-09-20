@@ -1,5 +1,7 @@
 # Remote In
 
+### VNC, Environment, NPM, Node, Setup
+
 Couple things. 
 
 The Raspberry Pi has no screen. All the available screens suck right now anyhow. 
@@ -22,8 +24,6 @@ User walks away with:
 
 1) *FLASH* the IMAGE
 2) When I *BOOT* the PI with the IMAGE and hold F7 i get 
-
-
 
 
 
