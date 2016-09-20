@@ -10,8 +10,6 @@ CHAPTER 5
 * Todos
 * ~~Tasks~~
 
----
-
 ## List of Technical Topics Covered
 
 Describe why these major tasks... 
@@ -131,11 +129,15 @@ Script should feel like this....
 
 
 
+---
 
 
 
 
 
+
+
+**Merge this old crap.. outdated.. below.**
 
 
 # Tripwires
