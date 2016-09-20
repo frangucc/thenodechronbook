@@ -5,7 +5,7 @@
    * [Stealth Mode](stealth_mode.md)
    * [Remote In](remoting.md)
    * [RPI City](rpi_city.md)
-   * Connections
+   * [Connections](connections.md)
 * [Part 2 - Biomechanics](chapter_2.md)
    * [Real-Time](rpicity_md.md)
 * [Part 3 - Biosensing](chapter_3.md)
