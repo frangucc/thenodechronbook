@@ -14,7 +14,7 @@
    * [Sixth Sensing](sixth_sensing.md)
 * [Robotics](chapter_4.md)
    * [Servos](servos.md)
-   * Actuators
+   * [Actuators](actuators.md)
 * [Data](chapter_5.md)
    * [Pipes & Packets](pipes_&_packets.md)
    * [Frequencies](frequencies.md)
