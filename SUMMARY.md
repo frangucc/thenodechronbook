@@ -15,7 +15,7 @@
 * [Robotics](chapter_4.md)
    * [Servos](servos.md)
    * [Actuators](actuators.md)
-   * Power
+   * [Power](power.md)
 * [Data](chapter_5.md)
    * [Pipes & Packets](pipes_&_packets.md)
    * [Frequencies](frequencies.md)
