@@ -9,34 +9,28 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 ## List of Technical Topics Covered
 
 ---
-**Merges this stuff**
 
-| COMPLETION TASKS |
-| -- |
-| Add QR Codes |
-| Illustrate 1-3 technical science pages with Tesla using the Axioms | 
+High level things covered...
 
-* Section QR Codes should be about: AC-DC Tutorial and analog to digital converstion perhaps.
-
-* Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
-
-
-
----
-
-
-Describe why these major tasks... 
-
-* High Level Bullet 1
-* High Level Bullet 2
+* AC-DC Tutorial and analog to digital converstion
+* AC/DC Motors
+* Energy, electricity, currents
+* FSMS (if we keep turing here)
+* CPU's
+* Microprocessors
 
 | Technical Takeaways |
 | -- |
-| x |
+| Setups up what? |
 
 | Axiom Cards Unlocked |
 | -- |
-| x |
+| Electromagnetism |
+| Vibration |
+| Voltage |
+| FSM |
+| CPUs |
+| Microprocessors |
 
 | Research |
 | -- |
