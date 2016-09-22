@@ -1,7 +1,7 @@
 Chapter #
 # NECK BEARDS
 
-> This section must introduce the computer and it's environments. Booting up a board for the first time is essential and understanding the Linux/Unix and getting around, installing some packages and getting up and running to do some damage is key here. The creators of Linux/Unix/ terminals and bash could be explored. 
+> This section must introduce the modern computer OS foundations and it's filesystems and environments (unix/linux/dos). Booting up a board for the first time is essential and understanding the Linux/Unix and getting around, installing some packages and getting up and running to do some damage is key here. The creators of Linux/Unix/ terminals and bash could be explored. 
 
 Unix - It was developed back in 1969 by AT&T employees working at Bell Labs. Linux came about in either 1983 or 1984 or 1991, depending upon who's holding the knife. The GNU operating system was announced in 1983 by Richard Stallman and started in 1984, while the Linux kernel came about in 1991 courtesy of Linus Torvalds.Mar 24, 2008
 
