@@ -4,7 +4,7 @@
 * [Awareness](chapter_1.md)
    * [Stealth Mode](stealth_mode.md)
    * [Code Crackers](code_crackers.md)
-   * [Enviroments](remoting.md)
+   * [Neckbeards](remoting.md)
    * [Network Access](connections.md)
 * [Biomechanics](chapter_2.md)
    * [Short Circuits](short_circuits.md)
