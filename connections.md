@@ -187,21 +187,211 @@ Script should feel like this....
 
 
 
+Find a clever way to help readers understand these cool tools for networking... (and hacking...)
 
 
+**tcpdump**
 
+Url: www.tcpdump.org/ category: network sniffer
 
+Description: My favourite tool. No matter where you are if the cable is connected, you will always get some useful info on what’s going on around the network you are connected to.
 
----
+Howto: I usually start with tcpdump –n –I ethx. I found this tutorial to be helpful http://danielmiessler.com/study/tcpdump/
 
-old crap to migrate from this section...
+Available ports: tcpdump usually if a part of any standard linux distribution, it uses libcap library. Some windows version is also available “MicroOLAP TCPDUMP for Windows®”(portable) and Windump.
 
+**tcpdump**
 
-# Connections
+ntop
 
-# Wireless Connectivity
+Url: ntop Category: check network traffic usage with statistics (network statistics generator)
 
+Description: ntop is a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform and on Win32 as well.
 
-## Wifi
+Howto: using this tool is straight forward, work pretty much out of the box with minimum configuration. Web based interface makes extracting the statistics easy
 
-## Bluetooth
+Avialable ports for both windows and linux
+
+**ntop**
+
+netsniff-ng
+
+ url http://netsniff-ng.org/ Category: networking toolkit, level: medium to advanced (sniffer)
+
+Description: The netsniff-ng toolkit consists of the following utilities:
+
+netsniff-ng, a high-performance zero-copy analyzer, pcap capturing and replaying tool
+trafgen, a high-performance zero-copy network traffic generator
+bpfc, a Berkeley Packet Filter (BPF) compiler supporting Linux extensions
+ifpps, a top-like kernel networking and system statistics tool
+flowtop, a top-like netfilter connection tracking tool
+curvetun, a lightweight multiuser IP tunnel based on elliptic curve cryptography
+ashunt, an Autonomous System (AS) trace route and ISP testing utility
+Howto: Follow the link to find some of the basic commands working in netsniff-ng
+
+Avialable ports: linux only
+
+**iperf**
+
+url  http://iperf.sourceforge.net/ Category: network throughput testing (network throughput)
+
+Description: Iperf is a commonly used network testing tool that can create TCP and UDP data streams and measure the throughput of a network that is carrying them
+
+Howto: it’s a simple tool with a few simple commands like
+
+Iperf –c 192.168.100.1 # to send packet to the server
+
+Iperf –s #run on receiving/server mode
+
+Follow the link for detail guide on iperf
+
+Avialable ports: windows port and linux
+
+ 
+
+**wireshark**
+
+Url: http://www.wireshark.org/  Category: Packet analyzer (sniffer)
+
+Description: Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. Originally named Ethereal, in May 2006 the project was renamed Wireshark due to trademark issues.
+
+Howto: Usually I have a very simple primitive use for it, most of the time I used to look into tcp/ip packets looking for anomaly while troubleshooting. I found this nice video tutorial on how to use wireshak in detail.
+
+Avialable ports: windows port , linux (redhat)port, other ports
+
+**ethtool**
+
+Url: http://www.kernel.org/pub/software/network/ethtool/ Category: network interface
+
+Description: ethtool is a Linux command for displaying or modifying the Network Interface Controller (NIC) parameters.
+
+Howto: just to display Ethernet driver setting
+
+ethtool eth0
+
+ethtool -i eth0
+
+I found this list useful having a detail usage of this command
+
+Avialable ports linux only
+
+OpenVAS
+
+Url: http://www.openvas.org/ Category: vulnerability scanner (sniffer, scanner)
+
+Description: OpenVAS is a framework of several services and tools offering a vulnerability scanning and vulnerability management solution. OpenVAS was initially named GNessUs as a fork of the Nessus security scanner to allow future free development of the now-proprietary tool.
+
+Howto: If you are used to using Nessus, it is somewhat similar. I found this tutorial to be useful
+
+http://www.unix-tutorials.com/go.php?id=3774
+
+http://www.openvas.org/setup-and-start.html
+
+Available ports: windows and  linux ports
+
+ettercap
+
+Url: http://ettercap.sourceforge.net/ Category: security audit (scanner, sniffer, re-writer)
+
+Description: Ettercap is a free and open source network security tool for man-in-the-middle attacks on LAN. It can be used for computer network protocol analysis and security auditing.
+
+Howto: ettercap is an advanced utility, to use it, one must understand basics of tpc/ip, man in the middle attack, how arp works etc. Check these articles for more on how to use it. http://openmaniak.com/ettercap.php and http://openmaniak.com/ettercap_arp.php
+
+Avialable ports: windows port and  linux port
+
+**netcat**
+
+Url: http://netcat.sourceforge.net/ Category: simple tcp udp read write
+
+Description: Netcat is a computer networking service for reading from and writing network connections using TCP or UDP. Netcat is designed to be a dependable “back-end” device that can be used directly or easily driven by other programs and scripts. At the same time, it is a feature-rich network debugging and investigation tool, since it can produce almost any kind of correlation you would need and has a number of built-in capabilities.
+
+Howto: netcat is simple to use. For example just to open a port on 25 you can use
+
+nc mail.server.net 25
+
+to test if a udp port is open
+
+nc -ul 7000
+
+follow the link for some more fine examples of nc
+
+Available ports: windows port  and linux port
+
+ 
+
+**Putty**
+
+url:  http://www.chiark.greenend.org.uk/~sgtatham/putty/ Category: ssh/telnet/tty client
+
+Description: PuTTY is a free and open source terminal emulator application which can act as a clientfor the SSH, Telnet, rlogin, and raw TCP computing protocols and as a serial consoleclient.
+
+Howto: using putty is very straight forward, I don’t think any one used to using any terminal emulator/ssh/telnet client would require much of a help to learn how to use it out of the box. However if you want to use its advanced functions you may appreciate a little bit of help. For more help Putty document page is a good place to start http://www.chiark.greenend.org.uk/~sgtatham/putty/docs.html
+
+Available ports:  windows port . I haven’t seen a Linux port for putty
+
+ NetStumbler
+
+Url www.netstumbler.com/ Category: wireless network scanning
+
+Description: NetStumbler (also known as Network Stumbler) is a tool for Windows that facilitates detection of Wireless LANs using the 802.11b, 802.11a and 802.11g WLAN standards
+
+Howto: use of Netstambler is very intuitive and self explanatory. Its scans the network for access point and the clients and produces a graphical presentation of what it sees. I found this link to be useful http://www.securitytube.net/video/76
+
+Available ports: windows port. Alternatives: Wifi Analyzer runs on android very useful when you want to walk around and survey the network
+
+Cain and Abel
+
+url: http://www.oxid.it/cain.html Category: security utility and audit tool sets (sniffing)
+
+Description: Cain & Abel is a password recovery tool for Microsoft. It can do so by sniffing the network, using dictionary etc. Some virus scanners detect Cain and Abel as malware. However, as the source code for Cain and Abel is not available for independent security review, there is no sure way to say this tool is 100% safe.
+
+Howto: use is straight forward; however you must know what you are doing in this case. The interface is not as intuitive as a novice would like it to be. Need to spend a bit of time to figure things out yourself. I found this link relatively informative http://www.thehackerslibrary.com/?p=414
+
+Available ports: windows
+
+**nmap
+**
+url: http://nmap.org/ Category: network security scanner
+
+Description: Nmap sends specially crafted packets to the target host and then analyzes the responses. Unlike many simple port scanners that just send packets at some predefined constant rate, Nmap accounts for the network conditions (latency fluctuations, network congestion, the target interference with the scan) during the run. Nmap has been able to extend its discovery capabilities beyond simply figuring out whether a host is up or down and which ports are open and closed; it can determine the operating system of the target, names and versions of the listening services, estimated uptime, type of device, and presence of a firewall.
+
+Howto: nmap is a medium to advanced level tool. Understanding how tcp/ip works will give you the edge on using this.  To run a simple scan for open tcp port we can use
+
+#nmap –sT 192.168.0.1
+
+#nmap –sS 192.168.0.1 # <=this will run a tcp SYN scan
+
+#nmap –sP 192.168.0.1-255     # <= Ping Scan
+
+Basic usage: http://anish.at.preempted.net/nmap.htm
+
+Reference guide: http://nmap.org/book/man.html
+
+Available ports: windows port and linux port
+
+Angry ip scanner
+
+url: http://www.angryip.org Category: network scanner
+
+Description: Angry IP Scanner (or simply ipscan) is an open-source and cross-platform network scanner designed to be fast and simple to use. It scans IP addresses and ports as well as has many other features.
+
+Howto: usage is simple with a fine GUI, works out of the box every time, basic network skills sets are enough to make use of it.
+
+Available ports: windows port and linux port
+
+**iptraf**
+
+url:  http://iptraf.seul.org/ Category: interface traffic monitoring
+
+Description: iptraf provides statistics on network. It works by collecting data on, tcp/urp/arp connections and provide real-time statistics on activity of the interfaces
+
+Howto: usage is simple and straightforward. All you need to do is run it on an interface. Example
+
+Iptraf –I eth1
+
+Read the manual for more information
+
+http://iptraf.seul.org/2.2/manual.html
+
+Avialable ports: linux port
+tag: iptraf, angry ip scanner, nmap, cain and abel, netstumbler, putty, netcat, nc, ettercap, OpenVAS, nessus, ethtool, wireshark, ethereal, iperf, netsniff-ng, ntop, tcpdump, link, download, url, howto, how to, description, 
