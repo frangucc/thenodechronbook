@@ -35,13 +35,11 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 
 * Flash the Image
 * Boot the PI
-* Tour of Linux
+* Tour of Terminals & Linux - cheat sheet
 * Segway to new tools built on Linux - skip to future -
-* Setup the basic Environment on PI with Arduino 
+* Our first BASH Script
 * NPM, Node, Setup, IDE Intro
-* Hello World PI
-* Hello World Arduino
-* Hello Ubidots and PI and Arduino Together
+* Hello World (PI)
 
 | Technical Takeaways |
 | -- |
@@ -53,8 +51,6 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 | NPM |
 | Git |
 | Hello World PI |
-| Hello World Arduino |
-| Pi + Arduino LED |
 | 0:8 |
 | 0:9 |
 | 0:10 |
