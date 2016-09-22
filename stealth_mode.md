@@ -11,6 +11,7 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 * Bulleted list of the state of the chapter
 * Todos
 * ~~Tasks~~
+* Must tie together Tesla portion with Gou's portion and introduce the expiraments.
 
 
 ## List of Technical Topics Covered
