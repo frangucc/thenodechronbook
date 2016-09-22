@@ -7,7 +7,7 @@
    * [Network Access](connections.md)
    * [Remoting In](environments.md)
    * [Tripwires](rpi_city.md)
-   * Code Crackers
+   * [Code Crackers](code_crackers.md)
 * [Biomechanics](chapter_2.md)
    * [Short Circuits](short_circuits.md)
    * [Real-Time](rpicity_md.md)
