@@ -20,20 +20,14 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 
 ---
 
-High level things covered...
-
-* AC-DC Tutorial and analog to digital converstion
-* AC/DC Motors & Machines
-* Energy, electricity, currents
-* Fields, Forces and Flows
-* Flow of Electrons
-* Idea of a complete circuit 
-* Intro to Software - Turing
-* Intro to Hardware - Tesla
-
 | Technical Takeaways |
 | -- |
-| Setups up what? |
+| AC-DC Tutorial and analog to digital converstion |
+| AC/DC Motors & Machines | 
+| Energy, electricity, currents |
+| Fields, Forces and Flows |
+| Flow of Electrons |
+| Idea of a complete circuit |
 
 | Axiom Cards Unlocked |
 | -- |
