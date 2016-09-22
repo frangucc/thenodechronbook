@@ -148,7 +148,7 @@ Description of the non-technical content.
 This brings us to modern day and introduces us to Gou Sokyeo. We learn about his normal state, mindset, love for tech, family structure, environment, home and about some of the gadgets he produces. 
 
 
-# MAIN SCRIPT A-SIDE
+# MAIN SCRIPT B-SIDE
 ---
 
 ## *MAY NEED TO RETHINK THIS PART* SO IT TIES INTO ARDUINO EXPIRAMENTS AND PICKS UP WHERE TESLA LEFT OFF....
@@ -278,7 +278,7 @@ Tutorials need to be dumbed down and extremely DSL/Object/Verb oriented - almost
 
 Maps and visualizations of these steps are key. We must become the BEST in the world at tutorializing steps like this.... 
 
-# MAIN SCRIPT B-SIDE
+# MAIN SCRIPT C-SIDE (kilby + bardeen? outro?)
 
 Gou needs to conduct his first electrical tests here. If we need to bust out an arduino at this point we can. 
 
