@@ -23,7 +23,7 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 High level things covered...
 
 * AC-DC Tutorial and analog to digital converstion
-* AC/DC Motors
+* AC/DC Motors & Machines
 * Energy, electricity, currents
 * Fields, Forces and Flows
 * Flow of Electrons
@@ -53,15 +53,14 @@ High level things covered...
 Tesla part which leads to => AtoD, AC, Current, Electricity Basics
 Politics show => greed, patent, investments, venture capital, protecting ideas
 
-Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all from the turing machine. Section also explores diversity, wining a war with brains not braun, etc.
 
 **CHAPTER WORKING NOTES**
 
 * We've illustrated some of the political history and higher level concepts of Tesla and Turing... But we need to ensure a cohesive, historical story is told.
 * We also need a clear breakout and transition into the technology they created with a clear technical description, references and QR codes out to each. 
-  * Section QR Codes should be about: AC-DC Tutorial, FSM Coding Example
+  * Section QR Codes should be about: AC-DC Tutorial Example
 * Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
-* Axioms for Turing section should incldue: Microprocessors, CPU Design, FSMs
+
 
 
 
