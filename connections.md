@@ -15,6 +15,8 @@ erners-Lee was born in London, England,[21] one of four children born to Mary Le
 
 Origins of TCP/IP - It is the set of communications protocols used for the Internet and other similar networks. It is named from two of the most important protocols in it: the Transmission Control Protocol (TCP) and the Internet Protocol (IP), which were the first two networking protocols defined in this standard.
 
+History of HTTP - The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text.
+
 
 
 Invention of the IP Address, the internet, TCP/IP/ Protocols, SSH, etc. Only the need to knows that stood up. Intro to UNIX and the first OS systems. 
