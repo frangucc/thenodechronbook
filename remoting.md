@@ -1,4 +1,4 @@
-Chapter #2
+Chapter #
 # ENVIRONMENTS
 
 > This section is where the main characters and cast are introduced in their natural environments. The goal of this section is to provide inspiration for all sorts of cool hacks and projects that Gou, Non and Lilu work on. 
