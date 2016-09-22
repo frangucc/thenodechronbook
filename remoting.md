@@ -1,7 +1,7 @@
 Chapter #
 # ENVIRONMENTS
 
-> This section is where the main characters and cast are introduced in their natural environments. The goal of this section is to provide inspiration for all sorts of cool hacks and projects that Gou, Non and Lilu work on. 
+> This section must introduce the computer and it's environments. Booting up a board for the first time is essential and understanding the Linux/Unix and getting around, installing some packages and getting up and running to do some damage is key here. 
 
 **CHAPTER WORKING NOTES**
 
