@@ -13,6 +13,10 @@ erners-Lee was born in London, England,[21] one of four children born to Mary Le
 
 "I just had to take the hypertext idea and connect it to the Transmission Control Protocol and domain name system ideas and—ta-da!—the World Wide Web[27] ... Creating the web was really an act of desperation, because the situation without it was very difficult when I was working at CERN later. Most of the technology involved in the web, like the hypertext, like the Internet, multifont text objects, had all been designed already. I just had to put them together. It was a step of generalising, going to a higher level of abstraction, thinking about all the documentation systems out there as being possibly part of a larger imaginary documentation system."[28]
 
+Origins of TCP/IP - It is the set of communications protocols used for the Internet and other similar networks. It is named from two of the most important protocols in it: the Transmission Control Protocol (TCP) and the Internet Protocol (IP), which were the first two networking protocols defined in this standard.
+
+
+
 Invention of the IP Address, the internet, TCP/IP/ Protocols, SSH, etc. Only the need to knows that stood up. Intro to UNIX and the first OS systems. 
 
 The hacks in this chapter are about getting into networks such as our own, accessing stuff running on our networks, including our root, the disk, etc. HEAVY on SSH'ing, remote control, even a VNC to finish up. 
