@@ -4,6 +4,8 @@ CHAPTER #
 
 > Section preface/overview. Explain what happens in this chapter technically and non-technically and the theory behind it's design.
 
+**NOTE: Consider merging this section with Network Access...**
+
 > This is an important step in working with modern technology. Get root acces and control of the machines, their IP's, possibly SSH acess, VNC access, access to the code editors, etc.
 
 Couple things. 
