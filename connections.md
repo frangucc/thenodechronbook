@@ -1,7 +1,7 @@
 CHAPTER #
 # NETWORK ACCESS
 
-> Section preface/overview. Explain what happens in this chapter technically and non-technically and the theory behind it's design.
+> Origins of the internet and networks. Brief history then immediate transition to modern day in Gou Sokyeo's life and knowledge of networks. 
 
 
 **CHAPTER WORKING NOTES**
