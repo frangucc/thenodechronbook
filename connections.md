@@ -5,6 +5,7 @@ CHAPTER #
 
 Invention of the IP Address, the internet, TCP/IP/ Protocols, SSH, etc. Only the need to knows that stood up. Intro to UNIX and the first OS systems. 
 
+The hacks in this chapter are about getting into networks such as our own, accessing stuff running on our networks, including our root, the disk, etc. HEAVY on SSH'ing, remote control, even a VNC to finish up. 
 
 > This is an important step in working with modern technology. Get root acces and control of the machines, their IP's, possibly SSH acess, VNC access, access to the code editors, etc.
 
