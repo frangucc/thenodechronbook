@@ -1,7 +1,15 @@
 Chapter #
 # ENVIRONMENTS
 
-> This section must introduce the computer and it's environments. Booting up a board for the first time is essential and understanding the Linux/Unix and getting around, installing some packages and getting up and running to do some damage is key here. 
+> This section must introduce the computer and it's environments. Booting up a board for the first time is essential and understanding the Linux/Unix and getting around, installing some packages and getting up and running to do some damage is key here. The creators of Linux/Unix/ terminals and bash could be explored. 
+
+Unix - It was developed back in 1969 by AT&T employees working at Bell Labs. Linux came about in either 1983 or 1984 or 1991, depending upon who's holding the knife. The GNU operating system was announced in 1983 by Richard Stallman and started in 1984, while the Linux kernel came about in 1991 courtesy of Linus Torvalds.Mar 24, 2008
+
+The history of Unix dates back to the mid-1960s when the Massachusetts Institute of Technology, AT&T Bell Labs, and General Electric were jointly developing an experimental time sharing operating system called Multics for the GE-645 mainframe. Multics introduced many innovations, but had many problems.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg/1920px-Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Version_7_Unix_SIMH_PDP11_Emulation_DMR.png)
 
 **CHAPTER WORKING NOTES**
 
@@ -16,6 +24,8 @@ Before we can start hacking on anything, we need to ensure we have all the prope
 
 * Flash the Image
 * Boot the PI
+* Tour of Linux
+* Segway to new tools built on Linux - skip to future -
 * Setup the basic Environment on PI with Arduino 
 * NPM, Node, Setup, IDE Intro
 * Hello World PI
