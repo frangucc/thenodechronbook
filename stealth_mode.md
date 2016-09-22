@@ -43,9 +43,6 @@ High level things covered...
 | Electromagnetism |
 | Vibration |
 | Voltage |
-| FSM |
-| CPUs |
-| Microprocessors |
 | Electrons |
 | Circuit |
 
