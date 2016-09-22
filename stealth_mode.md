@@ -46,9 +46,16 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 | x |
 
 
-#***DIAGRAM OF CHAPTER NEEDED HERE*** -> Tesla, Kilby, Bardeen, Gou...
+#***DIAGRAM OF CHAPTER FLOW NEEDED HERE*** -> Tesla, Kilby, Bardeen, Gou...
 
 ![](http://placehold.it/800x500?text=chapter-diagram-indesign-frank)
+
+
+#***DIAGRAM OF CONCEPTS NEEDED HERE*** -> Current, voltage, magnetism, resitors, capacitators, etc.
+
+![](http://placehold.it/800x500?text=electrical+concepts+in+order)
+
+
 
 
 ## Screenplay overview, *historical portion*
