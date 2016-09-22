@@ -23,9 +23,11 @@ Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all fro
 
 | Technical Takeaways |
 | -- |
-| FSMs |
-| CPUs |
-| Microprocessors |
+| What was the turing machine and how did it evolve into the FSM |
+| Premise behind processing |
+| CPUs & Microprocessor design |
+| ARM |
+| Stack & the Heap, FIFO, LIFO, LILO |
 
 | Axiom Cards Unlocked |
 | -- |
@@ -120,9 +122,6 @@ Alan Turing was unjustly prosecuted in 1952 for what most people today do not re
 | -- |
 | Add QR Codes |
 | Illustrate 1-3 technical science pages with Turing using the Axioms | 
-
-
-* Axioms for Turing section should incldue: Microprocessors, CPU Design, FSMs
 
 | REFERENCES |
 | -- |
