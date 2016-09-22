@@ -3,6 +3,16 @@ CHAPTER #
 
 > Origins of the internet and networks. Brief history then immediate transition to modern day in Gou Sokyeo's life and knowledge of networks. 
 
+ARPANET adopted TCP/IP on January 1, 1983, and from there researchers began to assemble the “network of networks” that became the modern Internet. The online world then took on a more recognizable form in 1990, when computer scientist Tim Berners-Lee invented the World Wide Web.
+
+![](http://worldwebforum.ch/download/attachments/12703568/03_13.jpg?version=1&modificationDate=1463641226643&api=v2)
+
+Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS (born 8 June 1955),[1] also known as TimBL, is an English computer scientist, best known as the inventor of the World Wide Web. He made a proposal for an information management system in March 1989,[3] and he implemented the first successful communication between a Hypertext Transfer Protocol (HTTP) client and server via the Internet sometime around mid-November of that same year.
+
+erners-Lee was born in London, England,[21] one of four children born to Mary Lee Woods and Conway Berners-Lee. His parents worked on the first commercially-built computer, the Ferranti Mark 1. He attended Sheen Mount Primary School, and then went on to attend south west London's Emanuel School from 1969 to 1973, at the time a direct grant grammar school, which became an independent school in 1975.[1][14] A keen trainspotter as a child, he learnt about electronics from tinkering with a model railway.[22] He studied at The Queen's College, Oxford[1] from 1973 to 1976, where he received a first-class bachelor of arts degree in physics.
+
+"I just had to take the hypertext idea and connect it to the Transmission Control Protocol and domain name system ideas and—ta-da!—the World Wide Web[27] ... Creating the web was really an act of desperation, because the situation without it was very difficult when I was working at CERN later. Most of the technology involved in the web, like the hypertext, like the Internet, multifont text objects, had all been designed already. I just had to put them together. It was a step of generalising, going to a higher level of abstraction, thinking about all the documentation systems out there as being possibly part of a larger imaginary documentation system."[28]
+
 Invention of the IP Address, the internet, TCP/IP/ Protocols, SSH, etc. Only the need to knows that stood up. Intro to UNIX and the first OS systems. 
 
 The hacks in this chapter are about getting into networks such as our own, accessing stuff running on our networks, including our root, the disk, etc. HEAVY on SSH'ing, remote control, even a VNC to finish up. 
