@@ -19,7 +19,9 @@ Describe why these major tasks...
 
 | Technical Takeaways |
 | -- |
-| x |
+| FSMs |
+| CPUs |
+| Microprocessors |
 
 | Axiom Cards Unlocked |
 | -- |
