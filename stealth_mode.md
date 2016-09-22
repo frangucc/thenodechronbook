@@ -2,11 +2,11 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
-> **Chapter 1 (Stealth Mode) - **If we want to get into the lowest level of hacking and computing, we need to understand electricity, circuits, fields, forces and flows. Our transmedia figure is Tesla here, as he was a huge thought leader in the area of energy, electricity, alternating current and more. We end this chapter with mention of John Bardeen and Jack Kilby of UoI who created the transistor and integrated circuit, which later would become the premise of modern PCB boards and chips. Our roots with Tesla however encourage EE's to think beyond such limitations, as some day computing will go beyond phsyical boards and move into nano and other forms. Tesla will help us understand the basics of electricity. Tesla's life was also interesting and had plenty of suspense, drama and turmoil. He is an excelent reminder of the historical role venture capital has played in innovation (and lack there of). 
+> **Chapter 1 (Stealth Mode) - **If we want to get into the lowest level of hacking and computing, we need to understand electricity, circuits, fields, forces and flows. Our main figure is Tesla here, as he was a huge thought leader in the area of energy, electricity, alternating current and more. We end this chapter with mention of John Bardeen and Jack Kilby of UoI who created the transistor and integrated circuit, which later would become the premise of modern PCB boards and chips. Our roots with Tesla however encourage EE's to think beyond such limitations, as some day computing will go beyond phsyical boards and move into nano and other forms. Tesla will help us understand the basics of electricity. Tesla's life was also interesting and had plenty of suspense, drama and turmoil. He is an excelent reminder of the historical role venture capital has played in innovation (and lack there of). We even make mention of Banzi and share a brief history of how the Arduino open source microcontroller has expanded our horizons even further.
 
 Another description of chapter (*please merge*).
 
-> **Chapter 1 (Stealth Mode) - **Tesla and the basics of electricity and circuitry with references to John Bardeen and Jack Kilby. Experiments with the Arduino and blinking lights, electricity, voltage, measuring voltage, the very basics come together here while Gou fires up some basic breadboards and circuits. Energy! Theoretically, this chapter gives us a neat little intro to energy, voltage, electricity, basic circuits and some simple Arduino test projects that include resistors, capacitors, voltage, flow, current - very basic and simple circuit patters, gates, logic, fields, electromagnatism. We also disect an Arduino and get into the GPIO. You'll walk away with electrical engineering symbols, ability to read basic schematics and a really good understanding of fields, forces and flows. You'll finish with a higher level program, possibly in C or Python that ties together the stuff you learned into a program that can for loop across the electrical setup you've put together (possibly blinking led patterns or a motor project).
+> **Chapter 1 (Stealth Mode) - **Tesla and the basics of electricity and circuitry with references to John Bardeen, Jack Kilby and Banzi. Experiments with the Arduino and blinking lights, electricity, voltage, measuring voltage, the very basics come together here while Gou fires up some basic breadboards and circuits. Energy! Theoretically, this chapter gives us a neat little intro to energy, voltage, electricity, basic circuits and some simple Arduino test projects that include resistors, conversion, capacitors, voltage, flow, current - very basic and simple circuit patters, gates, logic, fields, electromagnatism. We also disect an Arduino and get into the GPIO. You'll walk away with electrical engineering symbols, ability to read basic schematics and a really good understanding of fields, forces and flows. You'll finish with a higher level program, possibly in C or Python that ties together the stuff you learned into a program that can for loop across the electrical setup you've put together (possibly blinking led patterns or a motor project).
 
 
 
@@ -270,7 +270,7 @@ PAGE 15 [DAD UPSTAIRS SOLEMNLY WATCHING JERKS ON TV]
 
 
 
-## Screenplay overview, *technical*
+## Screenplay overview, *technical portion*
 
 The main goal of this chapter is to get the reader to understand the major boards he uses and how to boot them, get to terminals, install some packages, navigate linux a bit and get their basic tools in order.
 
