@@ -14,7 +14,6 @@ Volume 1, the first book, entited "THE HACKER WAY" has 4 parts.
 * Neck Beards
 * Network Access
 
-
 **Chapter 1 (Stealth Mode) - **Tesla and the basics of electricity and circuitry with referenences to John Bardeen and Jack Kilby. Expiraments with the Arduino and blinking lights, electricity, voltage, measuring voltage, the very basics come together here while gou fires up some basic breadboards and circuits. Energy! Theoretically, this chapter gives us a neat little intro to energy, voltage, electricity, basic circuits and some arduino test projects - very basic and simple...
 
 **Chapter 2 (Code Crackers) -** Turing and the invention of the FSM and modern machines. When we learn about binary, machine code, classifiers and algorithms, we are getting into the lowest level science of computers possibly. There are many experiments and tests that can teach us about this, and we will start by running them on our laptops. 
