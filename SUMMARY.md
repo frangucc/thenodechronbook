@@ -18,7 +18,7 @@
    * [Servos](servos.md)
    * [Actuators](actuators.md)
    * [Power](power.md)
-* [Data](chapter_5.md)
+* [Big Data](chapter_5.md)
    * [Pipes & Packets](pipes_&_packets.md)
    * [Frequencies](frequencies.md)
    * [Storage](storage.md)
