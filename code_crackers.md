@@ -1,8 +1,9 @@
 CHAPTER #
 # CODE CRACKERS
 
-> Section preface/overview. Explain what happens in this chapter technically and non-technically and the theory behind it's design.
+> Before we go too far into hardware and circuits, we need to start with the notion of algorithms, software and coding. This chapter starts with Turing and leads to modern day Gou's execution of git projects on the PI and other machines. By the time we are done, we have an FSM running on a PI with a wonderful historical reference to where it all began. We will finish this chapter with some QUE's to other pioneers that will later be featured in the book and in other volumes. The fundamentals of computer sciences are covered, including processors, cpu's, memory, fsms and software algorithms. 
 
+**Notes: **Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all from the turing machine. Section also explores diversity, wining a war with brains not braun, etc.
 
 **CHAPTER WORKING NOTES**
 
