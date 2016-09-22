@@ -176,17 +176,6 @@ SCRIPT ELEMENTS
 
 Script should feel like this....
 
+We might just do an activity on the computer for this one... 
 
-**PI SETUP SCRIPT**
-
-1) I must *FLASH* the OS IMAGE if I want to boot the PI.
-
-2) When I *BOOT* the PI with the IMAGE and hold F7 i get a [LINUX TERMINAL]
-
-3) On Linux, I run [these commands] to get Node.js and NPM installed
-
-4) When I install [GIT] using [NPM] i can then run any open source script or app.
-
-5) When I *clone* a repo with GIT I can run it by following the README
-
-6) If I [Install Gou's Remotify App] I can VNC or Terminal or SSH into my PI and get ROOT access and run any command on the machine I want. [add to Remoting In Chapter]
+Setup a programming environment or use a virtual one we got... 
