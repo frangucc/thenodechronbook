@@ -10,6 +10,7 @@
 * [Biomechanics](chapter_2.md)
    * [Real-Time](rpicity_md.md)
    * [Sportbits](sportbits.md)
+   * Short Circuits
 * [Biosensing](chapter_3.md)
    * [Oxygen](oxygen.md)
    * [Sixth Sensing](sixth_sensing.md)
