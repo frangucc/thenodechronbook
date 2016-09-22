@@ -1,5 +1,5 @@
 Chapter #
-# ENVIRONMENTS
+# NECK BEARDS
 
 > This section must introduce the computer and it's environments. Booting up a board for the first time is essential and understanding the Linux/Unix and getting around, installing some packages and getting up and running to do some damage is key here. The creators of Linux/Unix/ terminals and bash could be explored. 
 
