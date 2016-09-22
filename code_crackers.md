@@ -52,6 +52,16 @@ CHAPTER #
 
 
 
+#***DIAGRAM OF CHAPTER FLOW NEEDED HERE*** -> Turing, (others?), Gou...
+
+![](http://placehold.it/800x500?text=computer+programming+concepts)
+
+
+#***DIAGRAM OF CONCEPTS NEEDED HERE*** -> Scripts, code, compilers, execution, algorithms, etc.
+
+![](http://placehold.it/800x500?text=mental+model) 
+
+
 
 | Research |
 | -- |
@@ -59,7 +69,7 @@ CHAPTER #
 
 
 
-## Screenplay overview, *non-technical*
+## Screenplay overview, *historical*
 
 To introduce modern software, we introduce the state machine or FSM, or turing machine - which is the premise behind memory, the stack/heap and microprocessing. This is the starting point. Many other after came along to improve and modernize software, but this was the major breakthrough in modern computing. 
 
@@ -156,7 +166,7 @@ Alan Turing was unjustly prosecuted in 1952 for what most people today do not re
 
 ---
 
-## Screenplay overview, *technical*
+## Screenplay overview, *Gou in the present day*
 
 Description of the non-technical content.
 
@@ -165,7 +175,9 @@ Description of the non-technical content.
 
 TIME, PAGE #'S
 
-This is where Gou's section needs to recap what Tesla studied. Get with it Frank.
+This is where Gou's section needs to recap what Tesla studied. Get with it Frank. Hacks from laptop...
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384727/gou4_iqfss9.jpg)
 
 ** INTRO TEXT ** How does the technical stuff setup... How is it captured, shot, communicated?
 
