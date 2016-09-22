@@ -11,6 +11,17 @@ The history of Unix dates back to the mid-1960s when the Massachusetts Institute
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Version_7_Unix_SIMH_PDP11_Emulation_DMR.png)
 
+Ken Thompson, a programmer in the Labs' computing research department, had worked on Multics. He decided to write his own operating system.
+
+While he still had access to the Multics environment, he wrote simulations for the new file and paging system[clarification needed] on it. He also programmed a game called Space Travel, but it needed a more efficient and less expensive machine to run on, and eventually he found a little-used PDP-7 at Bell Labs.[4][5] On the PDP-7, in 1969, a team of Bell Labs researchers led by Thompson and Ritchie, including Rudd Canaday, developed a hierarchical file system, the concepts of computer processes and device files, a command-line interpreter, and some small utility programs.[3] The resulting system, much smaller than the envisioned Multics system, was to become Unix. In about a month's time, Thompson had implemented a self-hosting operating system with an assembler, editor and shell, using a GECOS machine for bootstrapping.[6]
+
+History of the neckbeard.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/36/Ken_n_dennis.jpg)
+
+
+
+
 **CHAPTER WORKING NOTES**
 
 * Bulleted list of the state of the chapter
