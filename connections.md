@@ -175,6 +175,7 @@ Script should feel like this....
 
 Find a clever way to help readers understand these cool tools for networking... (and hacking...)
 
+# Probably do not demo all of this below but do use some of it cleverly and make some reference to other tools you can easily learn once you know the basics.
 
 **tcpdump**
 
@@ -325,15 +326,6 @@ Howto: use of Netstambler is very intuitive and self explanatory. Its scans the 
 
 Available ports: windows port. Alternatives: Wifi Analyzer runs on android very useful when you want to walk around and survey the network
 
-Cain and Abel
-
-url: http://www.oxid.it/cain.html Category: security utility and audit tool sets (sniffing)
-
-Description: Cain & Abel is a password recovery tool for Microsoft. It can do so by sniffing the network, using dictionary etc. Some virus scanners detect Cain and Abel as malware. However, as the source code for Cain and Abel is not available for independent security review, there is no sure way to say this tool is 100% safe.
-
-Howto: use is straight forward; however you must know what you are doing in this case. The interface is not as intuitive as a novice would like it to be. Need to spend a bit of time to figure things out yourself. I found this link relatively informative http://www.thehackerslibrary.com/?p=414
-
-Available ports: windows
 
 **nmap
 **
