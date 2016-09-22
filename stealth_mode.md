@@ -2,16 +2,22 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
-> If we want to get into the lowest level of hacking and computing, we need to understand electricity, circuits, fields, forces and flows. Our transmedia figure is Tesla here, as he was a huge thought leader in the area of energy, electricity, alternating current and more. We end this chapter with mention of John Bardeen and Jack Kilby of UoI who created the transistor and integrated circuit, which later would become the premise of modern PCB boards and chips. Our roots with Tesla however encourage EE's to think beyond such limitations, as some day computing will go beyond phsyical boards and move into nano and other forms. Tesla will help us understand the basics of electricity. Tesla's life was also interesting and had plenty of suspense, drama and turmoil. He is an excelent reminder of the historical role venture capital has played in innovation (and lack there of). 
+> **Chapter 1 (Stealth Mode) - **If we want to get into the lowest level of hacking and computing, we need to understand electricity, circuits, fields, forces and flows. Our transmedia figure is Tesla here, as he was a huge thought leader in the area of energy, electricity, alternating current and more. We end this chapter with mention of John Bardeen and Jack Kilby of UoI who created the transistor and integrated circuit, which later would become the premise of modern PCB boards and chips. Our roots with Tesla however encourage EE's to think beyond such limitations, as some day computing will go beyond phsyical boards and move into nano and other forms. Tesla will help us understand the basics of electricity. Tesla's life was also interesting and had plenty of suspense, drama and turmoil. He is an excelent reminder of the historical role venture capital has played in innovation (and lack there of). 
+
+Another description of chapter (*please merge*).
+
+> **Chapter 1 (Stealth Mode) - **Tesla and the basics of electricity and circuitry with references to John Bardeen and Jack Kilby. Experiments with the Arduino and blinking lights, electricity, voltage, measuring voltage, the very basics come together here while Gou fires up some basic breadboards and circuits. Energy! Theoretically, this chapter gives us a neat little intro to energy, voltage, electricity, basic circuits and some simple Arduino test projects that include resistors, capacitors, voltage, flow, current - very basic and simple circuit patters, gates, logic, fields, electromagnatism. We also disect an Arduino and get into the GPIO. You'll walk away with electrical engineering symbols, ability to read basic schematics and a really good understanding of fields, forces and flows. You'll finish with a higher level program, possibly in C or Python that ties together the stuff you learned into a program that can for loop across the electrical setup you've put together (possibly blinking led patterns or a motor project).
+
+
 
 There is a great mix of the very basics of Electricity and Computing in this chapter. 
 
-**CHAPTER WORKING NOTES**
+**MAJOR TODOS**
 
-* Bulleted list of the state of the chapter
-* Todos
-* ~~Tasks~~
 * Must tie together Tesla portion with Gou's portion and introduce the expiraments.
+* Add several illustrations for Tesla that can bring the story full circle into the scientific Axiom Cards (place the cards)!
+* Rethink the illustrations for GOU and the scenario in which he's exploring the basisc of electricity and electronics. 
+* Decide what Arduino board UNO vs. Nano we will be using and what intro tutorials will best demonstrate the key concepts (elctromag, ac/dc, analog/digital,fields-forces-flows, voltage) - what expiraments can we do here?
 
 
 ## List of Technical Topics Covered
@@ -38,22 +44,6 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 | Research |
 | -- |
 | x |
-
-**TODO**
-* These should probably be 2 separate chapters!!!
-
-Tesla part which leads to => AtoD, AC, Current, Electricity Basics
-Politics show => greed, patent, investments, venture capital, protecting ideas
-
-
-**CHAPTER WORKING NOTES**
-
-* We've illustrated some of the political history and higher level concepts of Tesla and Turing... But we need to ensure a cohesive, historical story is told.
-* We also need a clear breakout and transition into the technology they created with a clear technical description, references and QR codes out to each. 
-  * Section QR Codes should be about: AC-DC Tutorial Example
-* Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
-
-
 
 
 ## Screenplay overview, *non-technical*
