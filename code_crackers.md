@@ -145,6 +145,8 @@ Description of the non-technical content.
 
 TIME, PAGE #'S
 
+This is where Gou's section needs to recap what Tesla studied. Get with it Frank.
+
 ** INTRO TEXT ** How does the technical stuff setup... How is it captured, shot, communicated?
 
 [3 paragraphs]
