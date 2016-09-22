@@ -46,6 +46,11 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 | x |
 
 
+#***DIAGRAM OF CHAPTER NEEDED HERE*** -> Tesla, Kilby, Bardeen, Gou...
+
+![](http://placehold.it/800x500?text=chapter-diagram-indesign-frank)
+
+
 ## Screenplay overview, *historical portion*
 
 Description of the non-technical content.
@@ -138,6 +143,8 @@ This brings us to modern day and introduces us to Gou Sokyeo. We learn about his
 
 # MAIN SCRIPT A-SIDE
 ---
+
+## *MAY NEED TO RETHINK THIS PART* SO IT TIES INTO ARDUINO EXPIRAMENTS AND PICKS UP WHERE TESLA LEFT OFF....
 
 PRESENT DAY, PAGES 11-20
 
