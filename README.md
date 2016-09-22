@@ -3,12 +3,12 @@
 
 
 
-> This introduction is meant to be read by parents, students and industry experts and is not the first chapter. If you would like to begin reading the "book" - skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)).
+> This is not the first chapter. This introduction is meant to be read by parents, students and industry experts, contributors and artists. If you would like to begin reading the "book" - skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)).
 
 ---
 
 
-Draft - Thursday, September 16th, 2016
+Draft - Thursday, September 22nd, 2016
 Franchino
 
 
