@@ -2,7 +2,7 @@
 CHAPTER 6
 # REALTIME / DRONING?
 
-> Section preface/overview. Explain what happens in this chapter technically and non-technically and the theory behind it's design.
+> Moved drone and lilu section here to cover GSM/WIFI/Droning communications....
 
 
 **CHAPTER WORKING NOTES**
