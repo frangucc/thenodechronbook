@@ -19,7 +19,7 @@ History of the neckbeard.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Ken_n_dennis.jpg)
 
-
+Note that all this led to the MAC OS
 
 
 **CHAPTER WORKING NOTES**
