@@ -14,8 +14,12 @@ CHAPTER #
 
 Describe why these major tasks... 
 
-* High Level Bullet 1
-* High Level Bullet 2
+Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all from the turing machine. Section also explores diversity, wining a war with brains not braun, etc.
+
+
+* FSMS (if we keep turing here)
+* CPU's
+* Microprocessors
 
 | Technical Takeaways |
 | -- |
@@ -25,7 +29,11 @@ Describe why these major tasks...
 
 | Axiom Cards Unlocked |
 | -- |
-| x |
+| FSM |
+| CPU |
+| Microprocessor |
+| Algorithm |
+| ? |
 
 | Research |
 | -- |
