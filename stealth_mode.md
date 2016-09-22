@@ -26,6 +26,11 @@ High level things covered...
 * FSMS (if we keep turing here)
 * CPU's
 * Microprocessors
+* Fields, Forces and Flows
+* Flow of Electrons
+* Idea of a complete circuit 
+* Intro to Software - Turing
+* Intro to Hardware - Tesla
 
 | Technical Takeaways |
 | -- |
@@ -39,6 +44,8 @@ High level things covered...
 | FSM |
 | CPUs |
 | Microprocessors |
+| Electrons |
+| Circuit |
 
 | Research |
 | -- |
