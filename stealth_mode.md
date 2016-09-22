@@ -2,7 +2,7 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
-> Each book we produce starts off with some history. In the first book, we take a look at Tesla and Turing. We then present a strong theme throughout the rest of the book on how these characters drive, innovations and politics impacted their lives. Moreover, we look at how like many inventors prior, they had to work in secrecy often and be wary of antagonists.
+> Each book we produce starts off with some history. In the first book, we take a look at Tesla and ~~Turing~~. We then present a strong theme throughout the rest of the book on how these characters drive, innovations and politics impacted their lives. Moreover, we look at how like many inventors prior, they had to work in secrecy often and be wary of antagonists.
 
 This chapter is about the origins of electrical engineering and hardware, and starts off with Tesla - but probably should make mention of the others who pioneered boards, circuits and so forth - ie. Kilby, etc. We will start with Tesla however. Later we will get into several others as the topics arise. 
 
