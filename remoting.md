@@ -99,7 +99,10 @@ Ken Thompson (sitting) and Dennis Ritchie working together at a PDP-11
 Over the sholder shot close-up, just like Gou's over the sholder shots on laptop, of the PDP-11
 
 
+**NOTES!**
+SCREENPLAY TO ADD HERE -- need to flesh out this section asap.
 
+GOU doing some serious hacking in unix, the unix cheat sheet -- getting the environments up and running and prepared to really do some hacking projects... SETUP... Need aretwork, bring in the stuff I got... padd around the stuff I got... 
 
 
 
