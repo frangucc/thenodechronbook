@@ -46,7 +46,7 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 | x |
 
 
-## Screenplay overview, *non-technical*
+## Screenplay overview, *historical portion*
 
 Description of the non-technical content.
 
@@ -270,6 +270,8 @@ Gou needs to conduct his first electrical tests here. If we need to bust out an 
 
 Basically, we can't start with that other scene - needs to tie together what tesla was doing with modern day go - stealth mode + electricity tests, basic pings, voltage, energy, capcitators, elctromagnatism. 
 
+#***MAJOR NEEDS HERE!!!!***
+
 
 > **NOTES TO ARTIST** Tell the artists what his job is here...
 
@@ -376,6 +378,22 @@ This is still a work in progress - splash page should act as a second cover for 
 | Explain or demonstrate how the book is going to work, give a taste of the types of project, action and how a reader should behave or what they will do throughout the book. |
 
 ---
+
+
+**TODO**
+* These should probably be 2 separate chapters!!!
+
+Tesla part which leads to => AtoD, AC, Current, Electricity Basics
+Politics show => greed, patent, investments, venture capital, protecting ideas
+
+
+**RANDOM NOTES**
+
+* We've illustrated some of the political history and higher level concepts of Tesla and Turing... But we need to ensure a cohesive, historical story is told.
+* We also need a clear breakout and transition into the technology they created with a clear technical description, references and QR codes out to each. 
+  * Section QR Codes should be about: AC-DC Tutorial Example
+* Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
+
 
 
 
