@@ -28,6 +28,7 @@ Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all fro
 | CPUs & Microprocessor design |
 | ARM |
 | Stack & the Heap, FIFO, LIFO, LILO |
+| Getting and FSM up and running on the PI |
 
 | Axiom Cards Unlocked |
 | -- |
