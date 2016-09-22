@@ -42,7 +42,21 @@
 | Ground | Logic Gate | a | a | a |
 | Resistor | a | a | a | a |
 | Capacitator | a | a | a | a |
-| Power | a | a | a | a |
+| Operand | a | a | a | a |
+| Class | a | a | a | a |
+| Type | a | a | a | a |
+| Algorithm | a | a | a | a |
+| Package Manager | a | a | a | a |
+| Protocol | a | a | a | a |
+| Method/Function | a | a | a | a |
+| Expression | a | a | a | a |
+| Compiler | a | a | a | a |
+| Binary | a | a | a | a |
+| Array | a | a | a | a |
+| Pointer | a | a | a | a |
+| FSM | a | a | a | a |
+| Binary | a | a | a | a |
+| ? | a | a | a | a |
 
 Adafruit Videos and Tutorials
 
