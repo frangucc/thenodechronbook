@@ -3,11 +3,7 @@ VOLUME 1
 #THE HACKER WAY
 
 
-> This is not meant to be read. Skip to the first part if you would like to read this book as if you were ready to begin.
-
-
-
-
+> This is not meant to be read. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you would like to read this book as if you were ready to begin.
 
 > The Hacker Way is actually the first volume. Biomechanics, biosensing, robotics and Big Data can possibly become the future volumes... 
 
