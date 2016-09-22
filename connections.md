@@ -3,6 +3,8 @@ CHAPTER #
 
 > Origins of the internet and networks. Brief history then immediate transition to modern day in Gou Sokyeo's life and knowledge of networks. 
 
+**NOTE: **refactor the raw text below and create a refined set of storyboards and script based on it. Once complete, move to back or appendix. 
+
 ARPANET adopted TCP/IP on January 1, 1983, and from there researchers began to assemble the “network of networks” that became the modern Internet. The online world then took on a more recognizable form in 1990, when computer scientist Tim Berners-Lee invented the World Wide Web.
 
 ![](http://worldwebforum.ch/download/attachments/12703568/03_13.jpg?version=1&modificationDate=1463641226643&api=v2)
@@ -13,11 +15,11 @@ erners-Lee was born in London, England,[21] one of four children born to Mary Le
 
 "I just had to take the hypertext idea and connect it to the Transmission Control Protocol and domain name system ideas and—ta-da!—the World Wide Web[27] ... Creating the web was really an act of desperation, because the situation without it was very difficult when I was working at CERN later. Most of the technology involved in the web, like the hypertext, like the Internet, multifont text objects, had all been designed already. I just had to put them together. It was a step of generalising, going to a higher level of abstraction, thinking about all the documentation systems out there as being possibly part of a larger imaginary documentation system."[28]
 
+TCP, IP, UDP, POP, SMTP, HTTP, and FTP
+
 Origins of TCP/IP - It is the set of communications protocols used for the Internet and other similar networks. It is named from two of the most important protocols in it: the Transmission Control Protocol (TCP) and the Internet Protocol (IP), which were the first two networking protocols defined in this standard.
 
 History of HTTP - The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text.
-
-
 
 Invention of the IP Address, the internet, TCP/IP/ Protocols, SSH, etc. Only the need to knows that stood up. Intro to UNIX and the first OS systems. 
 
@@ -25,7 +27,16 @@ The hacks in this chapter are about getting into networks such as our own, acces
 
 > This is an important step in working with modern technology. Get root acces and control of the machines, their IP's, possibly SSH acess, VNC access, access to the code editors, etc.
 
-Couple things. 
+**Segway to some functional stuff...
+**
+
+Ping is the most basic tool we use to check connectivity. We also use arp to check the local broadcast domain and the arp resolution table. traceroute(linux)/tracert(windows) is used to check the path to the destination host. “mtr” is a powerful tool to view the network part for a longer period of time, usually installed as an additional package. Windows version of mtr is also available, even a portable version. One more useful tool comes mostly of out the box is nslookup (windows and linux)  and dig for linux; they are very useful troubleshooting identifying dns related investigation. “whois” is one more tool useful to find out more in some ip or domain name, owner, contact authority, as number etc. Last but not the least netstat available both in windows and linux is a useful tool to find out the local network status easily. A follow the link for a detail tutorial on how to use these basic tools.
+
+![](https://i1.wp.com/farm8.staticflickr.com/7082/7285929392_9b5fe3eb8f_z.jpg?zoom=2)
+
+
+
+**Couple notes. Move this. **
 
 The Raspberry Pi has no screen. All the available screens suck right now anyhow. 
 
@@ -52,14 +63,22 @@ Getting cam data and such.
 
 ## List of Technical Topics Covered
 
-Describe why these major tasks... 
+Goals for chapter at this point...
 
-* High Level Bullet 1
-* High Level Bullet 2
+* Understand all the relevant protocols and their history
+* Get to TCP/IP/HTTP/SSH and give examples in technical and non-technical ways
+* 
 
 | Technical Takeaways |
 | -- |
-| x |
+| TCP/IP |
+| HTTP |
+| NETSTAT & others |
+| Identify all the network tools that come with linix |
+| Understanding packets |
+| Understanding SSH |
+
+
 
 | Axiom Cards Unlocked |
 | -- |
