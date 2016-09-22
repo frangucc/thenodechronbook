@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Awareness](chapter_1.md)
+* [The Hacker Way](chapter_1.md)
    * [Stealth Mode](stealth_mode.md)
    * [Code Crackers](code_crackers.md)
    * [Neck Beards](remoting.md)
