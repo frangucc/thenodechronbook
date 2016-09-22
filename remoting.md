@@ -105,6 +105,21 @@ SCREENPLAY TO ADD HERE -- need to flesh out this section asap.
 GOU doing some serious hacking in unix, the unix cheat sheet -- getting the environments up and running and prepared to really do some hacking projects... SETUP... Need aretwork, bring in the stuff I got... padd around the stuff I got... 
 
 
+This is where we need to boot up a system - this is where Gou's over should shots, booting the PI and other scenes come into play.
 
+**PI SETUP SCRIPT**
 
+1) I must *FLASH* the OS IMAGE if I want to boot the PI.
+
+2) When I *BOOT* the PI with the IMAGE and hold F7 i get a [LINUX TERMINAL]
+
+3) On Linux, I run [these commands] to get Node.js and NPM installed
+
+4) When I install [GIT] using [NPM] i can then run any open source script or app.
+
+5) When I *clone* a repo with GIT I can run it by following the README
+
+6) If I [Install Gou's Remotify App] I can VNC or Terminal or SSH into my PI and get ROOT access and run any command on the machine I want. [add to Remoting In Chapter]
+
+---
 
