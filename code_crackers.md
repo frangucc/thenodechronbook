@@ -31,7 +31,27 @@ CHAPTER #
 | CPU |
 | Microprocessor |
 | Algorithm |
-| ? |
+| GIT |
+| Package Manager |
+| Compilers |
+| Types |
+| Binary |
+| Array |
+| Control/Recursion |
+| Variable |
+| Operand |
+| Classes |
+| Pointer |
+
+*Reminder...*
+
+**Macro Axiom Cards **(composite programs that combine various micro axioms, multi-access, mems or algorithms))
+
+**Micro Axiom Cards** (fundamental constructs with different their own nest variations, complexity or patterns)
+
+
+
+
 
 | Research |
 | -- |
