@@ -2,7 +2,7 @@
 PART 1
 #AWARENESS
 
-> Description of this part, high level - what's included in the next 5 chapters?
+> Awareness could actually become the first volume. Biomechanics, biosensing, robotics and Big Data can possibly become the future volumes... 
 
 links to chapters here...
 
