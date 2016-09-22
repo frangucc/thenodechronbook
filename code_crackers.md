@@ -16,13 +16,9 @@ Describe why these major tasks...
 
 Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all from the turing machine. Section also explores diversity, wining a war with brains not braun, etc.
 
-
-* FSMS (if we keep turing here)
-* CPU's
-* Microprocessors
-
 | Technical Takeaways |
 | -- |
+| Intro to algorithms & relative math studies |
 | What was the turing machine and how did it evolve into the FSM |
 | Premise behind processing |
 | CPUs & Microprocessor design |
