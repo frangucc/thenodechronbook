@@ -12,10 +12,6 @@ CHAPTER #
 
 ## List of Technical Topics Covered
 
-Describe why these major tasks... 
-
-Turing part leads to FSM's and the real birth of CPU's, Microprocessing, all from the turing machine. Section also explores diversity, wining a war with brains not braun, etc.
-
 | Technical Takeaways |
 | -- |
 | Intro to algorithms & relative math studies |
