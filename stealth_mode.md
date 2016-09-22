@@ -2,12 +2,9 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
-> Each book we produce starts off with some history. In the first book, we take a look at Tesla and ~~Turing~~. We then present a strong theme throughout the rest of the book on how these characters drive, innovations and politics impacted their lives. Moreover, we look at how like many inventors prior, they had to work in secrecy often and be wary of antagonists.
-
-This chapter is about the origins of electrical engineering and hardware, and starts off with Tesla - but probably should make mention of the others who pioneered boards, circuits and so forth - ie. Kilby, etc. We will start with Tesla however. Later we will get into several others as the topics arise. 
+> If we want to get into the lowest level of hacking and computing, we need to understand electricity, circuits, fields, forces and flows. Our transmedia figure is Tesla here, as he was a huge thought leader in the area of energy, electricity, alternating current and more. We end this chapter with mention of John Bardeen and Jack Kilby of UoI who created the transistor and integrated circuit, which later would become the premise of modern PCB boards and chips. Our roots with Tesla however encourage EE's to think beyond such limitations, as some day computing will go beyond phsyical boards and move into nano and other forms. Tesla will help us understand the basics of electricity. Tesla's life was also interesting and had plenty of suspense, drama and turmoil. He is an excelent reminder of the historical role venture capital has played in innovation (and lack there of). 
 
 There is a great mix of the very basics of Electricity and Computing in this chapter. 
-
 
 **CHAPTER WORKING NOTES**
 
