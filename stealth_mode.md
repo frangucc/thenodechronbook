@@ -25,9 +25,6 @@ High level things covered...
 * AC-DC Tutorial and analog to digital converstion
 * AC/DC Motors
 * Energy, electricity, currents
-* FSMS (if we keep turing here)
-* CPU's
-* Microprocessors
 * Fields, Forces and Flows
 * Flow of Electrons
 * Idea of a complete circuit 
