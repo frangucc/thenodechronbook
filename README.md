@@ -2,6 +2,9 @@
 *The Hacker Way*![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2910713/book.jpg)
 
 
+
+> This introduction is meant to be read by parents, students and industry experts and is not the first chapter. If you would like to begin reading the "book" - skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)).
+
 ---
 
 
