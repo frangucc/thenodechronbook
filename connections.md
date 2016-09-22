@@ -3,6 +3,7 @@ CHAPTER #
 
 > Origins of the internet and networks. Brief history then immediate transition to modern day in Gou Sokyeo's life and knowledge of networks. 
 
+Invention of the IP Address, the internet, TCP/IP/ Protocols, SSH, etc. Only the need to knows that stood up. Intro to UNIX and the first OS systems. 
 
 **CHAPTER WORKING NOTES**
 
