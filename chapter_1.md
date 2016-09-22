@@ -5,7 +5,9 @@ VOLUME 1
 
 > This is not meant to be read. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you would like to read this book as if you were ready to begin.
 
-> The Hacker Way is actually the  volume. Biomechanics, biosensing, robotics and Big Data can possibly become the future volumes... 
+This is an overview of the first volume, meant for contributors. This is an overview of the first volume (the first printed book) and it's contents. 
+
+> The Hacker Way is the  volume. Biomechanics, biosensing, robotics and Big Data are the future volumes... All 5 volumes represent the anatomy of a complete AI system. All 5 volumes will be complete sometime in 2018. The first volume teaches you the foundation, gives you the tools to dig deeper, introduces you to circuitry and programming. With it, anything is possible.
 
 Volume 1, the first book, entited "THE HACKER WAY" has 4 parts.
 
