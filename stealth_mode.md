@@ -412,6 +412,3 @@ Politics show => greed, patent, investments, venture capital, protecting ideas
 
 
 
-
-
-
