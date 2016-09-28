@@ -409,6 +409,87 @@ Politics show => greed, patent, investments, venture capital, protecting ideas
 * Axioms for Tesla section should include: Voltage, Electromagnetism, Vibration (other?)
 
 
+**MIT on Currents**
 
+Math Review	
+Hale Bradt's Math Review Spring 2001
+A. Vector Analysis
+B. Coordinate Systems
+C. Work and Line Integrals
+D. Potential Energy and the Conservation of Mechanical Energy
+E. Simple Harmonic Motion and Mechanical Energy
+8.02 Course Notes	
+Course Notes Movie Links
+1. Fields	Course Notes
+2. Coulomb's Law	Course Notes
+3. Gauss' Law	Course Notes
+4. Electric Potential	Course Notes
+5. Capacitors	Course Notes
+6. Current and Resistance	Course Notes
+7. Direct Current Circuits	Course Notes
+8. Magnetic Fields	Course Notes
+9. Sources of Magnetic Fields	Course Notes
+10. Faraday's Law	Course Notes
+11. Inductance and Energy in Magnetic Fields	Course Notes
+12. Alternating Current Circuits	Course Notes
+13. Maxwell's Equations and Electromagnetic Waves	Course Notes
+14. Interference and Diffraction	Course Notes
+**
+MIT on Electricity and Magnetism**
+
+[http://web.mit.edu/sahughes/www/8.022/](http://web.mit.edu/sahughes/www/8.022/)
+
+1. Introduction: Coulomb's law, superposition, energy of a system of charges.
+2. Electric field: Basic field concept, flux, Gauss's law.
+
+3. More electrostatics: Energy in the field, potential. Some math: gradient and divergence; revisiting Gauss's law.
+
+4. Divergence and curl: This lecture was described by at least one student as "all of 18.022 in a single lecture".
+
+5. Conductors: Fields and potentials around conductors; the electrostatic uniqueness theorem.
+
+6. Capacitance.
+
+7. Current: Basic notions. Current density, current, continuity, Ohm's law.
+
+8. Circuits: Basic notions. EMF and Kirchhoff's rules.
+
+9. Variable currents: RC circuits, Thévenin equivalence.
+
+10. Magnetic fields and forces: Basic properties of the magnetic field and the forces it exerts; special relativity not assumed. This deviates from Purcell's approach.
+
+10a. Clarification to Lecture 10: One calculation in Lec 10 was rather confusing; these notes are my attempt to clear things up.
+
+11. Special relativity 1: Time dilation, length contraction, Lorentz transformations, tranformation of velocity.
+
+12. Special relativity 2: Forces and fields in special relativity. Equivalence of the electric and magnetic forces.
+
+13. Return to magnetic fields.
+
+14. Introduction to Induction: Faraday and Lenz.
+
+15. Mutual and self inductance.
+
+Notes on complex numbers. The only sane way to analyze AC circuits, in my not-so-humble opinion.
+
+16. RL circuits, undriven RLC circuits: What we get when inductors and resistors are combined in circuits. Also introduces the use of complex numbers to analyze circuits.
+
+17. AC circuits and impedance: Our first examination of alternating current circuits. Key things to learn here: life is a lot easier if we use complex numbers in our analysis; Ohm's law works perfectly for all circuit elements --- resistors, capacitors, inductors --- provided we use a quantity called "impedance" to relate voltage and current.
+
+18. More on AC circuits: Power in AC circuits; resonance and filters.
+
+19. Displacement current and Maxwell's equations: Here we finally put everything together and get the full set of "field equations" which describe electricity and magnetism.
+
+20. Wave equation and radiation: Here we massage Maxwell's equations a bit and find a particularly interesting solution: Electromagnetic radiation.
+
+21. Polarization and scattering: Some particularly interesting and important properties of radiation.
+
+22. Energy and momentum in radiation: We examine how electromagnetic energy flows, deriving an extremely important quantity (the Poynting vector).
+
+Note: The following two lectures were not part of the core 8.022 material when I lectured (particularly lecture 24!).
+
+23. Magnetic fields and materials.
+
+24. A (very) brief introduction to general relativity.
 
 
