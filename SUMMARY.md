@@ -6,6 +6,7 @@
    * [Code Crackers](code_crackers.md)
    * [Neck Beards](remoting.md)
    * [Network Access](connections.md)
+   * Sensors
 * [Big Data](chapter_5.md)
    * [Pipes & Packets](pipes_&_packets.md)
    * [Frequencies](frequencies.md)
