@@ -514,22 +514,26 @@ analog/rf circuitry
 | Electrons |
 | Circuit |
 
-**RAW: **A microcontroller (or MCU, short for microcontroller unit) is a small computer (SoC) on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals.
 
 
 > An MCU with a small computer on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals
 
 > The computer, nothing more than a processor, memory and programmable input/output peripherals.
 
-The processor is the brains of the computer where most calculations take place.
+The processor is the brains of the computer where most calculations take place. Calculations?
 
-The arithmetic logic unit (ALU), which performs arithmetic and logical operations.
+The arithmetic logic unit (ALU), which performs arithmetic and logical operations. 0010010010 + 0101001011, like that? Something like that...
 
 The control unit (CU), which extracts instructions from memory and decodes and executes them, calling on the ALU when necessary.
 
+The whole things looks like this...
+Look inside this thing, it's magical. 
+
 Intel and AMD make the fastest processors in the world, but ARM makes chips for tiny computers like the PI.
 
+A microcontroller (or MCU, short for microcontroller unit) is a small computer (SoC) on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals.
 
+You need to know about these. You need to understand the basic structure of a computer man. 
 
 
 A newcomer was shown around;
