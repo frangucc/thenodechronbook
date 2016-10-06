@@ -492,8 +492,109 @@ Note: The following two lectures were not part of the core 8.022 material when I
 
 24. A (very) brief introduction to general relativity.
 
+**Must Know EE to Prose concepts**
+
+Well it depends upon your field of work. I will answer this question according to my field of work, i..e Analog/RF design.
+
+1) Things covered in your Electrical Science courses. Current, voltage laws, equivalent circuits. resonance circuits etc.
+2) Transistor physics, its working, its limitations etc. Analog/RF Circuit Design concepts.
+3) Digital Circuit Design concepts (flip flops, gates etc.), because you will be using them to control your analog/rf circuitry. 
+4) Control Systems. Your concepts of poles and zeroes and stability related concepts need to be clear for you to make stable circuits.
+5) Electromagnetic Theory- The concepts of impedance matching, transmission lines, strip lines etc. come into play mainly in RF design.
+6) Coding skills, at a minimum in MATLAB for you to effectively design circuits. Moreover, you might also need to have some advanced coding knowledge, if you plan to model your own devices and stuff. You might also want to know Verilog-A or Verilog-AMS.
+
+analog/rf circuitry
 
 
+**Prose Examples**
+
+| Electromagnetism |
+| Vibration |
+| Voltage |
+| Electrons |
+| Circuit |
+
+**RAW: **A microcontroller (or MCU, short for microcontroller unit) is a small computer (SoC) on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals.
+
+
+> An MCU with a small computer on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals
+
+> The computer, nothing more than a processor, memory and programmable input/output peripherals.
+
+The processor is the brains of the computer where most calculations take place.
+
+The arithmetic logic unit (ALU), which performs arithmetic and logical operations.
+
+The control unit (CU), which extracts instructions from memory and decodes and executes them, calling on the ALU when necessary.
+
+Intel and AMD make the fastest processors in the world, but ARM makes chips for tiny computers like the PI.
+
+
+
+
+A newcomer was shown around;
+That much I could guess, aided by sound.
+
+There's Archimedes with his lever
+Still busy on problems as ever.
+Says: matter and force are transmutable
+And wrong the laws you thought immutable.
+
+
+Too bad, Sir Isaac, they dimmed your renown
+And turned your great science upside down.
+Now a long haired crank, Einstein by name,
+Puts on your high teaching all the blame.
+
+
+"I am much too ignorant, my son,
+For grasping schemes so finely spun.
+My followers are of stronger mind
+And I am content to stay behind,
+Perhaps I failed, but I did my best,
+These masters of mine may do the rest.
+
+What in these symbols has power?
+None of my letters could build you a tower,
+But something within the screen of my phone
+Has mass, has inertia, has song, has tone.
+
+Where are the electric lines?
+Neither hither nor thither, whichever one signs
+But for some reason, I can't help but feel
+That my electric lines are something more real.
+
+What are the squiggles that wave from afar?
+A symbolic cookie from an imagined jar?
+Or are they a prize for forming a speak
+That, through my squiggles, may squeak?
+
+This current resistance
+in our duel circuit is
+measured in ohmmms
+of my meditated solace,
+Mediated by the breaker
+of a once-broken man
+wary of a blown fuse
+too burnt to salvage, a
+lost cause to discard,
+Replace & repeat with
+each carless disregard of 
+the whattage we're wired
+to handle, may a switch
+on to off when overblown
+prevent the spark that
+burns down a home.
+
+
+404 Not Found
+fireflies will light the lands
+spiral notebooks no longer required
+quiet peace, loud nature
+corpses: Not Found, neither is
+electricity
+is this the end of the world or is this
+tranquility
 
 
 Nikola Tesla 
@@ -520,3 +621,65 @@ Humble inventor
 that transformed homes
 famously stated
 he loved all tomes.
+
+
+shred
+
+
+While listening on my cosmic phone
+I caught words from the Olympus blown.
+A newcomer was shown around;
+That much I could guess, aided by sound.
+"There's Archimedes with his lever
+Still busy on problems as ever.
+Says: matter and force are transmutable
+And wrong the laws you thought immutable."
+"Below, on Earth, they work at full blast
+And news are coming in thick and fast.
+The latest tells of a cosmic gun.
+To be pelted is very poor fun.
+We are wary with so much at stake,
+Those beggars are a pest—no mistake."
+"Too bad, Sir Isaac, they dimmed your renown
+And turned your great science upside down.
+Now a long haired crank, Einstein by name,
+Puts on your high teaching all the blame.
+Says: matter and force are transmutable
+And wrong the laws you thought immutable."
+"I am much too ignorant, my son,
+For grasping schemes so finely spun.
+My followers are of stronger mind
+And I am content to stay behind,
+Perhaps I failed, but I did my best,
+These masters of mine may do the rest.
+Come, Kelvin, I have finished my cup.
+When is your friend Tesla coming up."
+"Oh, quoth Kelvin, he is always late,
+It would be useless to remonstrate."
+Then silence—shuffle of soft slippered feet—
+I knock and—the bedlam of the street.
+
+**More curriculum snippets
+**
+Analog and Mixed-Signal 
+Analog integrated circuits
+Communications ICs
+Data converters
+RF circuit design
+Simulation & modeling
+System-on-a-chip design
+RF/Microwaves/mmWaves and Photonics
+
+Computational techniques
+Interconnects and electronic packaging
+Measurement techniques
+Modeling
+RF/microwave/mmWave components, circuits, and sub-systems
+RF photonics
+Terahertz technology
+
+
+
+An ARM processor is one of a family of CPUs based on the RISC (reduced instruction set computer) architecture developed by Advanced RISC Machines (ARM). ARM makes 32-bit and 64-bit RISC multi-core processors.
+
+
