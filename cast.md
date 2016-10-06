@@ -4,8 +4,6 @@
 
 > TODO: Move content from cast book here. 
 
-
-
 # Gou
 
 Enter Gou's biography.
