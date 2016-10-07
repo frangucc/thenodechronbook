@@ -32,4 +32,5 @@
 * [Art Direction](art_direction.md)
    * [Color Theory](color_theory.md)
    * [Cast Design](cast_design.md)
+   * Inspiration
 
