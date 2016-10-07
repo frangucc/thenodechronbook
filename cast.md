@@ -2,8 +2,6 @@
 ---
 
 
-> TODO: Move content from cast book here. 
-
 # Gou
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384734/Gou_Sketch_z1dmps.jpg)
