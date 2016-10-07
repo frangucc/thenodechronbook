@@ -33,4 +33,5 @@
    * [Color Theory](color_theory.md)
    * [Cast Design](cast_design.md)
    * [Inspiration](inspiration.md)
+   * Design Guidelines
 
