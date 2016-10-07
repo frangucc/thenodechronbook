@@ -2,79 +2,125 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
-Yo, dude. You're not listening. What I'm telling you is like, the Rosetta Stone, with it, you can learn anything. 
+**Yo, dude. You're not listening.** What I'm telling you is like, the **Rosetta Stone,** with it, you can learn anything. 
 
-How you going to learn applied mathematics or coding if you can't comprehend shit? Oh yeah, my teacher say's I'm really great at "comprehension."
+**How you going to** learn **applied mathematics or coding** if you can't comprehend shit? Oh yeah, **my teacher say's I'm really great at "comprehension."**
 
-Good, because I can lead you to water but I can't make you drink. Mark Zuck teaches all Facebook employees about the hacker way. 
+Good, because I can lead you to water but **I can't make you drink**. Mark Zuck teaches all Facebook employees about the hacker way. 
 
-What's it mean tho Gou, not everyones a genius like you. 
+[Gou ironically hands a bottle of water while is **playing "cap" **with the bottle]
 
-Tesla was a hacker. Isn't hacking a bad thing? Bruh, will you shut up for a second and listen.
+**What's it mean tho Gou**, not everyones **a genius like you**. And what's a Rosetta stone?
 
-Archimedes would be turning in his grave right now...
+The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say. 
 
-Whaaa?
+**So how's that relate? **
 
-Nevermind. 
+There's a **very specific set** of things **you need to know about EECS**, there's **even symbols** that represent the important **fundamentals you need to know**. 
 
-So what's this all got to do with the Rosetta Stone, the Tao of Programming and Tesla? I thought you were gonna teach me this bullshart.
+**I'm gonna give you a similar stone right now.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
 
-Tesla was hacking electricity and Direct Current when he discovered one of the most important modern phenom. Alternating Current. 
+**Archimedes** would **be turning in his grave right now...**
 
-Hackers.
+**Whaaa?**
 
-Yeah, dude, Alan Turing, the dude who invented the modern concept of a computer, was literally CRACKING the German Enigma when he came up with the Turing Machine, which is the way processors and memory inside your computers work. It's how all that stuff you play with on your phone get's processed!
+**Nevermind. **
 
-Ok, so go on. Tell me more. I want to be a hacker. 
+Bro, **Tesla was a hacker**. Isn't hacking a bad thing? **Bruh,** will you shut up** for a second** and **listen**.
 
-Bruh, first you need to understand that to comprehend this stuff, you need to take notes on what I'm telling you and you need to fit the pieces together yourself. I'm only going to give you clues on what must know things you need to study. I'll point you in the rigt direction, always. There's no need to pay attention to other crap. I've got your Rosetta Stone for learning this shit. 
+**Tesla was hacking electricity** and **Direct Current** when he discovered one of the most important modern phenom. **Alternating Current. **
 
-Hahah. Gou's Stone. 
+Hackers are just people that don't want to accept the status quo. So they stay on edge with tech and **are always trying to figure out the next move**, what to **build next** that will benefit the **overall industry. **
 
-Here's how it all basically works. 
+[illustrate hackers at industry, awesome jobs, working on cool shit, hackathons, Illustrate the GAME! search these things, hackerspaces, hackathons, hacking, clean rooms, computer science labs, mit labs]
 
-DIAGRAM/IMAGE/ART - intro to MAP, finger points on a page to map or whiteboard.
+**Hackers.** (huh...)
 
-If you understand electrcity, fields, forces and flows, it becomes easier to visualize where stuffs going when it's beyond the naked eye.
+Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a computer,** was literally **CRACKING the German Enigma** when he came up with the** Turing Machine,** which is the way processors and memory inside your computers work. It's how all that stuff you **play with on your phone get's processed!**
 
-If you wanna get into MIT, and you don't understand the basics of Electromagnetism, current, frequency, etc. you're not gonna get very far. 
+**Ok, so go on.** **Tell me more.** I want to be a hacker. 
 
-So all these chips and machines that make up our hardware, these microprocessors, memory, motors, etc. all basically take voltage from power sources and translate them into information or motors somehow?
+**Bruh,** first you need to understand that to **comprehend this stuff**, you need to **take notes** on what I'm telling you and you need to **fit the pieces together **yourself. I'm only going to **give you clues** on what must know things you need to study.** I'll point you in the rigt direction**, always, but if you have what it takes to a hacker, you'll **figure this crap out yourself**. There's no need to pay attention to other stuff. I've got your **Rosetta Stone **for learning this shit. 
 
-Sorta. 
+**Hahah. Gou's Stone. **
 
-Check it. Basically, you need to know about electricity and chips, how they work, and then you need to know how to put an OS on them so you can control them or write pograms to control them. When you write the programs, that's when you'll study object oriented or functional software. 
+**Here's **how it all basically works. 
 
-That's when you write the codes...
+[DIAGRAM/IMAGE/ART - intro to MAP, finger points on a page to map or whiteboard. Map or Stone Map, or the stone is a place on this map... So far on the map we have - {Gous stone, the basement hq, the EE pyramids in an area, the OS land, the Coding building and Network - it's a very high level diagram for now, but you can tell it will be zoomed into later for deeper subjects. sneak in some other mystery - Dads dirty closet, Lilu's tree-house, the rabbi's temple, dr. winslows lab, ladybugs hideout, teslas corporation, zuck...}
 
-Yup.
+**If you understand electrcity,** **fields, forces and flows**, it becomes easier to **visualize** how the lowest level of the **science and tech works** - when it's **beyond the naked eye** and you're dealing with **binary and math.**
 
-And once you know about that stuff, you can learn to put all your stuff online and control stuff from anywhere you are. 
+**So** I need to be a math geek?
 
-Like the matrix?
+**No, **but you need to respect it and **make room for it.** A lot of math is done for you and not everyone has to understand **machine code** and **nyquist rates** to build stuff. 
 
-Bruh. Will you stop with the analogies, let me make the analogies. 
+**But** if you wanna get into MIT, and you don't understand the basics of **Electromagnetism**, **current**, **frequency**, **key algorithms, etc.** you're not gonna get very far. 
+
+**Like** the Big-O notation? 
+
+**Will you stop. **
+
+So all these **chips and machines** that make up our **hardware, these microprocessors, memory, motors, etc.** all basically take **voltage from power** sources and **translate them into information **or **motors** somehow?
+
+**Sorta. **
+
+**Check it.** Basically, you need to know about** electricity and chips,** how they work, and then you need to know how to** put an OS on them **so you can **control them or write pograms to control them**. When you **write the programs**, that's when you'll study **object oriented or functional software. **
+
+**That's when **you write the codes...
+
+**Yup.**
+
+**And** once you know about that stuff, you can learn to **put all your stuff online **and **control stuff** from anywhere you are. 
+
+**Like the matrix?**
+
+**Bruh. **Will you stop with the analogies, let me make the analogies. 
 
 Ok.
 
-So let me recap.
+**So let me recap.**
 
-Electricity & Chips => Operating Systems like Linux => Coding and Scripts => Networking and the Internet?
+**Electricity & Chips => Operating Systems like Linux => Coding and Scripts => Networking and the Internet?**
 
-Yes. Study the shit in that order. And don't go off the path I give you, there's no time for that, it's getting late you're already in high school. If you don't grasp this stuff now, you'll have a 10% chance of getting into this field. 
+**Yes. **Study the shit in **that order**. And **don't go off the path** I give you, there's no time for that, it's getting late you're **already in high school**. If you don't **grasp** this stuff now, you'll have a** 10% chance** of getting into this field. 
 
-Bruh, please. I'm non che b Gou-nin-yho.
+**Bruh, **please. I'm non che b Gou-nin-yho.
 
-Do you even know what software engineers make? Or hardware hackers? 
+**Do** you even know what software **engineers** make? Or hardware **hackers**? 
 
-No, but I know I'd rather be a Zuck or an Elon Musk any day of the week before a Kanye or Kardash.
+**No, **but I know I'd rather be a **Zuck or an Elon Musk** any day of the week before a **Kanye or Kardash.**
 
-Kan-yeezy bruh. Don't dis Kankye. He's so baller. 
+**Kan-yeezy** bruh. Don't dis Kankye. He's so **baller**. 
 
-Dab. 
+**Dab. **
 
+Ok, let's start from the beginning. What did Tesla do and what do I need to know about him? 
 
+I like where your heads at. 
+
+So check it out....
+
+[Enter the Tesla back-story]
+
+[Enter the 3 EMF projects - inject axioms here]
+
+[Enter a trip back to the origin of the bagdad battery]
+
+[Enter some power and voltage tests, metering, frequency, etc - inject axioms here]
+
+[Enter back to Tesla getting jack and some investor, patent, vc politic stuff]
+
+[Quiz on patents, venture capital, incubators, college labs, academic research, whisky]
+
+[Enter to where Elon Musk takes over]
+
+[put in a sonar sensor to show how automoous cars move around.]
+
+[Wrap with Banzi and Adafruit democratizing the parts so we could test this stuff]
+
+[give a couple bonus projects you could do on these boards]
+
+[End with a recap of the test projects and test users, ensure everyone collected their axiom cards and met their obligations. don't let anyone move forward who hasn't earned it by unlocking the "code snippets" on the internet in verios locations that when entered, will unlock their final test.]
 
 
 
