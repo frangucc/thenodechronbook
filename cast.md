@@ -184,7 +184,7 @@ Chino is the dad. He's not very friendly.
 
 At one point, he was a top engineer at Lightbank, but then one day, something happened.
 
-Noone really knows in what happend, and Gou doesn't really like to talk about it. 
+No one really knows in what happened, and Gou doesn't really like to talk about it. 
 
 Vero, the caretaker just said, one day, he was ripped to shreds and lost all his confidence, and that he gave up on his ideas.
 
