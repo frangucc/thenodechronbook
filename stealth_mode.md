@@ -100,27 +100,31 @@ I like where your heads at.
 
 So check it out....
 
-[Enter the Tesla back-story]
+[**More Story:** the Tesla back-story]
 
-[Enter the 3 EMF projects - inject axioms here]
+[**Labs:** the 3 EMF projects - inject axioms here]
 
-[Enter a trip back to the origin of the bagdad battery]
+[**Quiz:** fields, forces, flows, binary, electromagnetism, frequency.]
 
-[Enter some power and voltage tests, metering, frequency, etc - inject axioms here]
+[**Story:** a trip back to the origin of the bagdad battery]
 
-[Enter back to Tesla getting jack and some investor, patent, vc politic stuff]
+[**Labs:** some power and voltage tests, metering, frequency, etc - inject axioms here]
 
-[Quiz on patents, venture capital, incubators, college labs, academic research, whisky]
+[**Story:** back to Tesla getting jack and some investor, patent, vc politic stuff]
 
-[Enter to where Elon Musk takes over]
+[**Quiz:** on patents, venture capital, incubators, college labs, academic research, whisky]
 
-[put in a sonar sensor to show how automoous cars move around.]
+[**Story:** to where Elon Musk takes over]
 
-[Wrap with Banzi and Adafruit democratizing the parts so we could test this stuff]
+[**Lab: **put in a sonar sensor to show how automoous cars move around.]
 
-[give a couple bonus projects you could do on these boards]
+[**Quiz: **what are sensors]
 
-[End with a recap of the test projects and test users, ensure everyone collected their axiom cards and met their obligations. don't let anyone move forward who hasn't earned it by unlocking the "code snippets" on the internet in verios locations that when entered, will unlock their final test.]
+[**Story: **Wrap with Banzi and Adafruit democratizing the parts so we could test this stuff]
+
+[**Labs: **give a couple final bonus projects you could do on these boards]
+
+[**Conclusion & Badges: **End with a recap of the test projects and test users, ensure everyone collected their axiom cards and met their obligations. don't let anyone move forward who hasn't earned it by unlocking the "code snippets" on the internet in verios locations that when entered, will unlock their final test.]
 
 
 
