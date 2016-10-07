@@ -30,4 +30,5 @@
 * [Blogs](blogs.md)
 * [Appendix](appendix.md)
 * [Art Direction](art_direction.md)
+* Color Theory
 
