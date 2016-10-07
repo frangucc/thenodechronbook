@@ -514,26 +514,99 @@ analog/rf circuitry
 | Electrons |
 | Circuit |
 
+To get to the heart of EE, you need to grasp fields, forces and flows. 
+
+Electromagnetism is one of the fundamental forces and is the glue that holds all matter together. Find out how photons, the charged particles that allow us to see the world around us, are at the heart of electromagnetism. When you study EE at MIT, it's one of the first things you need to comprehend. 
+
+This video explains it... 
+
+> [Incredible scientific video on electromagnetism](https://www.youtube.com/watch?v=9FCYGbOWk4w)
+
+**QUICK HISTORY**
+
+The field of electromagnetism was only six years old when Henry began teaching at the Albany Academy in New York. Danish scientist Hans Christian Oersted had discovered in 1820 that an electrical current in a wire from a battery caused a nearby compass needle to deflect.
+
+GO BACK GO 3RD CENTRUY BC
+
+3rd century BC: the Baghdad Battery is dated from this period. It resembles a galvanic cell and is believed by some to have been used for electroplating, although there is no common consensus on the purpose of these devices nor whether they were, indeed, even electrical in nature.[1]
+
+The term Baghdad Battery AKA Parthian Battery is used to refer to three artifacts which were found together: a ceramic pot, a tube of one metal, and a rod of another. The current interpretation [citation needed] of their purpose is as a storage vessel for sacred scrolls such as those from nearby Seleucia on the Tigris.
+
+![](http://www.ancient-origins.net/sites/default/files/baghdad-battery-workings.jpg)
 
 
-> An MCU with a small computer on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals
+How does this seguay into power or visa versa? **Power**, Processor, Memory, Storage, Input/Output Peripherals...
 
-> The computer, nothing more than a processor, memory and programmable input/output peripherals.
+![](https://www.smith.edu/hsc/museum/ancient_inventions/battery1b.JPG)
+
+
+Projects include
+
+* [EMF Field detector ](http://www.instructables.com/id/Arduino-EMF-Detector/)
+* [EMF Levitation](https://www.youtube.com/watch?v=joEBx82g1f8)
+* [Make an electromagnet with Arduino](https://www.youtube.com/watch?v=I5Vnom-PB9Y)
+
+> You don't need to know how to make a processor or too much about the inner workings of memory, but understanding what's generally going on is useful.
+
+"If you want to find the secrets of the Universe, think in terms of energy, frequency and vibration."
+
+Yeah, but what's this got to do with microcontrollers and arduinos?
+
+Shut up.
+
+In 1887: Nikola Tesla develops an induction motor that uses alternating current, or AC, instead of direct current. Do you realize what this meant? This was when everything really got going...
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rotterdam_Ahoy_Europort_2011_%2814%29.JPG/1920px-Rotterdam_Ahoy_Europort_2011_%2814%29.JPG)
+
+An asynchronous motor type of an induction motor is an AC electric motor in which the electric current in the rotor needed to produce torque is obtained by electromagnetic induction from the magnetic field of the stator winding. An induction motor can therefore be made without electrical connections to the rotor as are found in universal, DC and synchronous motors. An asynchronous motor's rotor can be either wound type or squirrel-cage type.
+
+
+
+> An MCU with a small computer on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals. 
+
+> A computer generally made with a processor, memory and programmable input/output peripherals. With a hard disk, it can retrieve programs and run their instructions using it's operating sytem.
 
 The processor is the brains of the computer where most calculations take place. Calculations?
 
-The arithmetic logic unit (ALU), which performs arithmetic and logical operations. 0010010010 + 0101001011, like that? Something like that...
+The processors arithmetic logic unit (ALU), which performs arithmetic and logical operations. (011101010 + 001010100) like that? Something like that...
 
 The control unit (CU), which extracts instructions from memory and decodes and executes them, calling on the ALU when necessary.
 
 The whole things looks like this...
-Look inside this thing, it's magical. 
 
-Intel and AMD make the fastest processors in the world, but ARM makes chips for tiny computers like the PI.
+[Depiction]
+
+Look inside this processor, it's magical. It's a highly complex, extensive set of electronic circuitry that executes stored program instructions. Only a real low level engineer interested in making chips need care about some of this stuff.
+
+All you need to know is how fast and how much they can handle. Let's run a benchtest on this ARM 7 and see how fast we can get it to move. 
+
+Intel and AMD make the fastest processors in the world, but ARM makes chips for tiny computers like the PI. They're really only needed when making a really fast gaming, video editing machine or super computer for doing stuff like, DNA sequencing. DN whaaa? 
 
 A microcontroller (or MCU, short for microcontroller unit) is a small computer (SoC) on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals.
 
-You need to know about these. You need to understand the basic structure of a computer man. 
+You need to know about these, and the Arduino and PI will help you understand the lowest levels of how computers work. You need to understand the basic structure of a computer bruh. Check it out. Let me break it down for you.
+
+**The Processor needs memory. ** So it can store what it processes, binary. For now, just think of the processor as your heart, and the memory as your brain. The CPU keeps pumping through the data but the memory stores it, so it can be remembered. Inside every computer, there's a little interconnected factory of data being pushed around in circuits being warehoused in places. 
+
+[**IMG NEED: **factory/warehouse processor memory analogy diagram - see notes below on warehouse diagram analogy]
+
+[**Other Depictions: ** types of ram, processors, memory, CPU's and boards. Cool diagrams of different pieces and parts where all this fits into play.]
+
+![](http://infocenter.arm.com/help/topic/com.arm.doc.ddi0151c/graphics/1_1.svg)
+
+Computers don't remember or forget things the way that human brains do. Computers work in binary.
+
+Memory is a simple electronic system, consisting of millions of individual cells. These cells all have unique addresses. They store 1 bit of data – either a ‘1’ or a ‘0’ – that either a high or a low voltage. We call this binary. 
+
+Now just like humans have a long and short term memory – a computer also has 2 types of memory. A permanent (or longish) memory (ROM – Read Only Memory and maybe a hard-disk) and a short term ‘scratch pad’ like memory called the RAM (Random Access Memory).
+
+The ROM usually contains information that seldom changes and needs to be preserved. For e.g. it may contain a set of instructions that the computer is required to perform when woken up (called powering up).
+
+The RAM on the other hand contains data that is generated while performing various tasks (called instructions). The scratch pad needs to be large enough and ‘well-managed’ enough to be able to store most of the intermediate data generated without having to erase some and copying it back.
+
+**Condenese thes 2 descriptions* and put back up-top*
+
+Computers don't remember or forget things the way that human brains do. Computers work in binary (explained more fully in the box below): they either know something or they don't—and once they've learned, barring some sort of catastrophic failure, they generally don't forget. Humans are different. We can recognize things ("I've seen that face before somewhere") or feel certain that we know something ("I remember learning the German word for cherry when I was at school") without necessarily being able to recollect them. Unlike computers, humans can forget... remember... forget... remember... making memory seem more like art or magic than science or technology. When clever people master tricks that allow them to memorize thousands of pieces of information, they're celebrated like great magicians—even though what they've achieved is far less impressive than anything a five-dollar, USB flash memory stick could do!
 
 
 A newcomer was shown around;
@@ -686,4 +759,12 @@ Terahertz technology
 
 An ARM processor is one of a family of CPUs based on the RISC (reduced instruction set computer) architecture developed by Advanced RISC Machines (ARM). ARM makes 32-bit and 64-bit RISC multi-core processors.
 
+
+**Warehouse Diagram Aanalogy **
+
+As the name suggests the memory is accessed randomly by different applications.
+
+Imagine you are the owner of a large ware house consisting of different goods. You have to ship them around to different destinations. As you cannot move the warehouse to each and every location, you buy a Goods Carriage (lorry) and fit as many goods as possible from the warehouse and send them to the required shops.
+
+Similarly, Warehouse = computer hard disk with various applications Lorry = RAM and RAM is the lorry which loads the required applications into it and make the applications run smoother.
 
