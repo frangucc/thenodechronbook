@@ -24,11 +24,11 @@
    * [Servos](servos.md)
    * [Actuators](actuators.md)
    * [Power](power.md)
-* [Art Direction](art_direction.md)
-   * [Color Theory](color_theory.md)
 * [Cast](cast.md)
 * [Cards](cards.md)
 * [Book Outline](entire_book_outline.md)
 * [Blogs](blogs.md)
+* [Art Direction](art_direction.md)
+   * [Color Theory](color_theory.md)
 * [Appendix](appendix.md)
 
