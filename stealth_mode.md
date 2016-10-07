@@ -18,7 +18,7 @@ But I really want to know this stuff like you!
 
 ![](http://acmac.uoc.gr/ICAM2013/img/ICAM2013_Banner.jpg)
 
-Yes, that's good, because I can lead you to water but **I can't make you drink**. 
+**Yes,** that's good, because I can lead you to water but **I can't make you drink**. 
 
 [Never depict anything corny like a horse drinking water, but let's find a metaphor.. Hmm... got one, the sip from the CAP bottle being played with in the game of cap.]
 
@@ -52,19 +52,6 @@ The stone was a hack written on a stone. It was **writen in Egyptian, Greek and 
 
 ![](http://www.freemaninstitute.com/RosettaStone-FenwickLOC%20074-750pix.jpg)
 Inspiration Photo
-
-[We need a literally "text" vesion of Gou's stone we can give away] 
-
-[And we need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS. It should look like a combiation of the rosetta stone and some cool glowing stone.]
-
-![](http://cdn.shopify.com/s/files/1/0779/7277/products/1_3061644f-5a89-4a05-a246-b2471f3bcc51_grande.jpeg?v=1444656155)
-Inspiration Photo
-
-![](http://vignette3.wikia.nocookie.net/evil/images/9/91/The_Glowing_Stone.jpg/revision/latest?cb=20150824040101)
-Inspiration Photo
-
-![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475859461/IMG_4160_r4ujze.jpg)
-Inspiration Photo for intro panels.
 
 **So how's that relate? **
 
@@ -132,6 +119,20 @@ Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a com
 
 **Here's **how it all basically works. 
 
+
+[We need a literally "text" vesion of Gou's stone we can give away] 
+
+[And we need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS. It should look like a combiation of the rosetta stone and some cool glowing stone.]
+
+![](http://cdn.shopify.com/s/files/1/0779/7277/products/1_3061644f-5a89-4a05-a246-b2471f3bcc51_grande.jpeg?v=1444656155)
+Inspiration Photo
+
+![](http://vignette3.wikia.nocookie.net/evil/images/9/91/The_Glowing_Stone.jpg/revision/latest?cb=20150824040101)
+Inspiration Photo
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475859461/IMG_4160_r4ujze.jpg)
+Inspiration Photo for intro panels.
+
 [DIAGRAM/IMAGE/ART - intro to MAP, finger points on a page to map or whiteboard. Map or Stone Map, or the stone is a place on this map... So far on the map we have - {Gous stone, the basement hq, the EE pyramids in an area, the OS land, the Coding building and Network - it's a very high level diagram for now, but you can tell it will be zoomed into later for deeper subjects. sneak in some other mystery - Dads dirty closet, Lilu's tree-house, the rabbi's temple, dr. winslows lab, ladybugs hideout, teslas corporation, zuck...}
 
 **If you understand electrcity,** **fields, forces and flows**, it becomes easier to **visualize** how the lowest level of the **science and tech works** - when it's **beyond the naked eye** and you're dealing with **binary and math.**
@@ -140,7 +141,7 @@ Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a com
 
 **So** I need to be a math geek?
 
-**No, **but you need to respect it and **make room for it.** A lot of math is done for you and not everyone has to understand **machine code** and **nyquist rates** to build stuff. 
+**No, **but you ****need to respect it and **make room for it.** A lot of math is done for you and not everyone has to understand **machine code** and **nyquist rates** to build stuff. 
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878071/boom_rye5oi.jpg)
 
@@ -148,11 +149,11 @@ Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a com
 
 **Like** the Big-O notation? 
 
-**Will you stop. **
+**Will you stop!** That has nothing to do with what I'm talking about. But, well, yes, like the Big-O, but not in that example. Ughh,,.. Nevermind. 
 
-So all these **chips and machines** that make up our **hardware, these microprocessors, memory, motors, etc.** all basically take **voltage from power** sources and **translate them into information **or **motors** somehow?
+Non: So all these **chips and machines** that make up our **hardware, these microprocessors, memory, motors, etc.** all basically take **voltage from power** sources and **translate them into information **or **motors** somehow?
 
-**Sorta. **
+**Yeah, sorta. **
 
 **Check it.** Basically, you need to know about** electricity and chips,** how they work, and then you need to know how to** put an OS on them **so you can **control them or write pograms to control them**. When you **write the programs**, that's when you'll study **object oriented or functional software. **
 
@@ -172,17 +173,23 @@ Ok.
 
 **Electricity & Chips => Operating Systems like Linux => Coding and Scripts => Networking and the Internet?**
 
-**Yes. **Study the shit in **that order**. And **don't go off the path** I give you, there's no time for that, it's getting late you're **already in high school**. If you don't **grasp** this stuff now, you'll have a** 10% chance** of getting into this field. 
+**Yes. **Study the stuff in **that order**. And **don't go off the path** - learn what I give you and nothing else right now. There's no time for wastin - it's getting late, you're **already in high school and you're still a newb**. If you don't **grasp** this stuff now, you'll have a** 2% chance** of winning at all in this field. 
 
-**Bruh, **please. I'm non che b Gou-nin-yho.
+**Bruh, **please. I'm non-che-b, Gou-nin-yho.
 
-**Do** you even know what software **engineers** make? Or hardware **hackers**? 
+Please don't call me that.
 
-**No, **but I know I'd rather be a **Zuck or an Elon Musk** any day of the week before a **Kanye or Kardash.**
+Gou: **Do** you even know what software **engineers** make? Or hardware **hackers**? 
 
-**Kan-yeezy** bruh. Don't dis Kankye. He's so **baller**. 
+Non: **No, **but I know I'd rather be a **Zuck or an Elon Musk** any day of the week before a **Kanye or Kardash.**
+
+Gou: **Kan-yeezy** bruh. Don't dis Kankye. He's so **baller**. 
 
 **Dab. **
+
+[Scene ends with both brothers dabbing perfectly, hard as hell.]
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878822/IMG_3287_xj3mdv.jpg)
 
 Ok, let's start from the beginning. What did Tesla do and what do I need to know about him? 
 
