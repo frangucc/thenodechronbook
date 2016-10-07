@@ -1,8 +1,10 @@
 # Cast
 ---
 
+[IMAGE: Stick Full Character Head Sheet here...]
 
-# Gou
+
+# Gou Sokyeo
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384734/Gou_Sketch_z1dmps.jpg)
 
@@ -81,7 +83,7 @@ Whatever that means.
 
 
 
-# Nōn
+# Antonio 'Nōn' Sokyeo
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384739/Non_Sketch_rprmku.jpg)
 
@@ -133,9 +135,47 @@ He said the hardest part about learning to code was that he wasn't motivated to 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384732/Lily_Sketch_c4y6st.jpg)
 
 
+Lilu is the baby sister. She's an AP math student and goes to the high school for math classes. No one knows how, because her father Chino certainly doesn't help with the math. 
+
+Vero, the kids caretaker is decent, but nothing compared it to. Gou thinks it's because she pays attention so well, but her teachers say it's something else. They say she has a really good memory.
+
+She's not into programming yet, and doesn't even realize she's helping Gou solve his hardest problems when she helps him figure out his algorithms and equations in the code he writes. 
+
+Lilu has a thing for puppies, singing and drones. She's been saving up to buy the new Karma drone. 
+
+She rescued a maltipoo from a terrible owner not too long ago, he's great. And funny.
+
+Lilu's in the 3rd grade but teachers have been wondering if she should move up a grade. 
+
+Oh, and she loves tomatoes for some reason. She eats them all the time. 
+
+**More about Lilu:
+**
+
+| Attribute | Property |
+| -- | -- |
+| Name | Lilu Sokyeo |
+| Age | 10 |
+| Height | 4'10" |
+| Nationality | Mixed: Italian, Japanese, American Indian |
+| Religion | Buddhist |
+| Gender | Female |
+| Hometown | Garfield Park Chicago |
+| Siblings | 2, Gou Sokyeo, Antonio 'Nōn' Sokyeo |
+| Parents | Chino Sokyeo, Mother Unknown |
+| School | Roosevelt |
+| Hacker Level | Newb |
+| Cash Assets | $700 |
+| Friends | Becca & Myles |
+| 0:15 | 1:15 |
+| 0:16 | 1:16 |
+| 0:17 | 1:17 |
+| 0:18 | 1:18 |
+| 0:19 | 1:19 |
+| 0:20 | 1:20 |
 
 
-# Frank
+# Chino
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475873713/dad_sketch_tlaftq.jpg)
 
