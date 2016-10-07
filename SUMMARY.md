@@ -31,5 +31,5 @@
 * [Appendix](appendix.md)
 * [Art Direction](art_direction.md)
    * [Color Theory](color_theory.md)
-   * Cast Design
+   * [Cast Design](cast_design.md)
 
