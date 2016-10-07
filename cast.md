@@ -180,6 +180,52 @@ Oh, and she loves tomatoes for some reason. She eats them all the time.
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475873713/dad_sketch_tlaftq.jpg)
 
 
+Chino is the dad. He's not very friendly. 
+
+At one point, he was a top engineer at Lightbank, but then one day, something happened.
+
+Noone really knows in what happend, and Gou doesn't really like to talk about it. 
+
+Vero, the caretaker just said, one day, he was ripped to shreds and lost all his confidence, and that he gave up on his ideas.
+
+She said he was working on something that could have been huge, but that eventually, others got to it first. 
+
+Chino swears they still haven't gotten it right, and is often caught rumbling hatred to himself while pacing around his room.
+
+He doesn't leave much, and when he does, he has really bad social anxiety. 
+
+He only has one rule, and that's not to mess with tech. He doesn't want Gou to become a hacker of any kind, and wishes he would become a lawyer. 
+
+Chino was definitely traumatized by something he saw in the industry and has forgotten what everything is really all about. 
+
+He's even lost sight of the present, his family and himself.
+
+**More about Chino:
+**
+
+| Attribute | Property |
+| -- | -- |
+| Name | Chino Sokyeo |
+| Age | 35 |
+| Height | 6'2" |
+| Nationality | Italian & Japanese |
+| Religion | Jewish Convert |
+| Gender | Male |
+| Hometown | Garfield Park Chicago |
+| Siblings | 2 sisters, not much known about them |
+| Parents | Michu Sokyeo, Katerina Santa Lucia |
+| School | Some College |
+| Hacker Level | Unknown |
+| Cash Assets | Unknown |
+| Friends | Ted |
+| 0:15 | 1:15 |
+| 0:16 | 1:16 |
+| 0:17 | 1:17 |
+| 0:18 | 1:18 |
+| 0:19 | 1:19 |
+| 0:20 | 1:20 |
+
+
 # Vero
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475873715/vero_vzkzyb.jpg)
