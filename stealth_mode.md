@@ -2,6 +2,7 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878073/damn-colors-bruh_a8o9ax.jpg)
 
 **What's all this mean tho Gou**, not everyones **a genius like you**. And what's a Rosetta stone dammit?
 
@@ -91,6 +92,8 @@ Yeah, from that and, my EGHHHEM, COUGH, bitminers.
 
 [suble clue on bitfarm - but easter eggish]
 
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878026/symbols_hlwrtf.jpg)
+
 **I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
 
 It's the hackers guide to EECS man. 
@@ -105,8 +108,7 @@ Electrical Engineering and Computer Science
 
 **Yeah, it's the dopest industry to be in. **
 
-
-
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878072/everywhere_nxytrz.jpg)
 
 Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? [redundant]
 
@@ -134,9 +136,13 @@ Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a com
 
 **If you understand electrcity,** **fields, forces and flows**, it becomes easier to **visualize** how the lowest level of the **science and tech works** - when it's **beyond the naked eye** and you're dealing with **binary and math.**
 
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878073/molecule_csquem.jpg)
+
 **So** I need to be a math geek?
 
 **No, **but you need to respect it and **make room for it.** A lot of math is done for you and not everyone has to understand **machine code** and **nyquist rates** to build stuff. 
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878071/boom_rye5oi.jpg)
 
 **But** if you wanna get into MIT, and you don't understand the basics of **Electromagnetism**, **current**, **frequency**, **key algorithms, etc.** you're not gonna get very far. 
 
