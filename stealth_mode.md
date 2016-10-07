@@ -560,15 +560,33 @@ In 1887: Nikola Tesla develops an induction motor that uses alternating current,
 
 An asynchronous motor type of an induction motor is an AC electric motor in which the electric current in the rotor needed to produce torque is obtained by electromagnetic induction from the magnetic field of the stator winding. An induction motor can therefore be made without electrical connections to the rotor as are found in universal, DC and synchronous motors. An asynchronous motor's rotor can be either wound type or squirrel-cage type.
 
+Here are 10 other things Tesla created...
 
+[10 inventions by tesla](https://www.youtube.com/watch?v=snQl_rmpavg)
 
-> An MCU with a small computer on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals. 
+Today, the dude who's picked up where he left off seems to be Elon Musk. 
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475852408/musk_acne4j.jpg)
+
+Ok, so what's this got to do with computers man. I thought we we're gonna learn how hack or make robots? 
+
+Bruh, chill. First, the binary system, which is how all computers move information around, has everything to do with electricity and power. Second, shut your mouth. 
+
+> A microcontroller with a small computer on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals. 
+
+Yeah, so a microcontroller isn't a computer? 
 
 > A computer generally made with a processor, memory and programmable input/output peripherals. With a hard disk, it can retrieve programs and run their instructions using it's operating sytem.
 
+A microcontroller is a simple computer that can run one program at a time, over and over again. It is very easy to use. A Raspberry Pi is a general-purpose computer, usually with a Linux operating system, and the ability to run multiple programs. It is more complicated to use than an Arduino.
+
+Linux!!! Don't get excited newb. Let's start by understanding how some of the basic parts of a computer all work. Ok. 
+
 The processor is the brains of the computer where most calculations take place. Calculations?
 
-The processors arithmetic logic unit (ALU), which performs arithmetic and logical operations. (011101010 + 001010100) like that? Something like that...
+The processors arithmetic logic unit (ALU), which performs arithmetic and logical operations. (011101010 + 001010100) like that? Something like that... Bruh, this shit is hard.
+
+Then give up, I got no time for negativitity. Ok, sorry, sorry, keep going, this stuff is interesting.
 
 The control unit (CU), which extracts instructions from memory and decodes and executes them, calling on the ALU when necessary.
 
