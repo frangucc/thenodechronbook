@@ -18,6 +18,67 @@ Whaaa?
 
 Nevermind. 
 
+So what's this all got to do with the Rosetta Stone, the Tao of Programming and Tesla? I thought you were gonna teach me this bullshart.
+
+Tesla was hacking electricity and Direct Current when he discovered one of the most important modern phenom. Alternating Current. 
+
+Hackers.
+
+Yeah, dude, Alan Turing, the dude who invented the modern concept of a computer, was literally CRACKING the German Enigma when he came up with the Turing Machine, which is the way processors and memory inside your computers work. It's how all that stuff you play with on your phone get's processed!
+
+Ok, so go on. Tell me more. I want to be a hacker. 
+
+Bruh, first you need to understand that to comprehend this stuff, you need to take notes on what I'm telling you and you need to fit the pieces together yourself. I'm only going to give you clues on what must know things you need to study. I'll point you in the rigt direction, always. There's no need to pay attention to other crap. I've got your Rosetta Stone for learning this shit. 
+
+Hahah. Gou's Stone. 
+
+Here's how it all basically works. 
+
+DIAGRAM/IMAGE/ART - intro to MAP, finger points on a page to map or whiteboard.
+
+If you understand electrcity, fields, forces and flows, it becomes easier to visualize where stuffs going when it's beyond the naked eye.
+
+If you wanna get into MIT, and you don't understand the basics of Electromagnetism, current, frequency, etc. you're not gonna get very far. 
+
+So all these chips and machines that make up our hardware, these microprocessors, memory, motors, etc. all basically take voltage from power sources and translate them into information or motors somehow?
+
+Sorta. 
+
+Check it. Basically, you need to know about electricity and chips, how they work, and then you need to know how to put an OS on them so you can control them or write pograms to control them. When you write the programs, that's when you'll study object oriented or functional software. 
+
+That's when you write the codes...
+
+Yup.
+
+And once you know about that stuff, you can learn to put all your stuff online and control stuff from anywhere you are. 
+
+Like the matrix?
+
+Bruh. Will you stop with the analogies, let me make the analogies. 
+
+Ok.
+
+So let me recap.
+
+Electricity & Chips => Operating Systems like Linux => Coding and Scripts => Networking and the Internet?
+
+Yes. Study the shit in that order. And don't go off the path I give you, there's no time for that, it's getting late you're already in high school. If you don't grasp this stuff now, you'll have a 10% chance of getting into this field. 
+
+Bruh, please. I'm non che b Gou-nin-yho.
+
+Do you even know what software engineers make? Or hardware hackers? 
+
+No, but I know I'd rather be a Zuck or an Elon Musk any day of the week before a Kanye or Kardash.
+
+Kan-yeezy bruh. Don't dis Kankye. He's so baller. 
+
+Dab. 
+
+
+
+
+
+
 
 
 
