@@ -25,10 +25,18 @@ Yeah, and they have the life.
 The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say, but it also helped archeologists understand those ancient languages. 
 
 ![](http://www.freemaninstitute.com/RosettaStone-FenwickLOC%20074-750pix.jpg)
+Inspiration Photo
 
-[We need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS]
+[We need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS. It should look like a combiation of the rosetta stone and some cool glowing stone.]
 
 ![](http://cdn.shopify.com/s/files/1/0779/7277/products/1_3061644f-5a89-4a05-a246-b2471f3bcc51_grande.jpeg?v=1444656155)
+Inspiration Photo
+
+![](http://vignette3.wikia.nocookie.net/evil/images/9/91/The_Glowing_Stone.jpg/revision/latest?cb=20150824040101)
+Inspiration Photo
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475859461/IMG_4160_r4ujze.jpg)
+Inspiration Photo for intro panels.
 
 **So how's that relate? **
 
