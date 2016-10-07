@@ -29,6 +29,4 @@
 * [Book Outline](entire_book_outline.md)
 * [Blogs](blogs.md)
 * [Appendix](appendix.md)
-* [Art Direction](art_direction.md)
-   * Color Theory
 
