@@ -2,6 +2,27 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
+Yo, dude. You're not listening. What I'm telling you is like, the Rosetta Stone, with it, you can learn anything. 
+
+How you going to learn applied mathematics or coding if you can't comprehend shit? Oh yeah, my teacher say's I'm really great at "comprehension."
+
+Good, because I can lead you to water but I can't make you drink. Mark Zuck teaches all Facebook employees about the hacker way. 
+
+What's it mean tho Gou, not everyones a genius like you. 
+
+Tesla was a hacker. Isn't hacking a bad thing? Bruh, will you shut up for a second and listen.
+
+Archimedes would be turning in his grave right now...
+
+Whaaa?
+
+Nevermind. 
+
+
+
+
+
+
 > **Chapter 1 (Stealth Mode) - **If we want to get into the lowest level of hacking and computing, we need to understand electricity, circuits, **fields, forces and flows.** Our main figure is Tesla here, as he was a huge thought leader in the area of energy, electricity, alternating current and more. We end this chapter with mention of John Bardeen and Jack Kilby of UoI **who created the transistor and integrated circuit,** which later would become the premise of **modern PCB boards and chips.** Our roots with Tesla however encourage EE's to think beyond such limitations, as **some day computing will go beyond phsyical boards** and move into nano and other forms. Tesla will help us understand the basics of **electricity**. Tesla's life was also interesting and had plenty of suspense, drama and turmoil. He is an excelent reminder of the historical role venture capital has played in innovation (and lack there of). We even make mention of Banzi and share a brief history of how **the Arduino open source microcontroller** has expanded our horizons even further.
 
 Another description of chapter (*please merge*).
