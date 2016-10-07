@@ -29,5 +29,5 @@
 * [Book Outline](entire_book_outline.md)
 * [Blogs](blogs.md)
 * [Appendix](appendix.md)
-* Art Direction
+* [Art Direction](art_direction.md)
 
