@@ -6,25 +6,49 @@ THE FIRST CHAPTER
 
 **How you going to** learn **applied mathematics or coding** if you can't comprehend shit? Oh yeah, **my teacher say's I'm really great at "comprehension."**
 
+![](http://acmac.uoc.gr/ICAM2013/img/ICAM2013_Banner.jpg)
+
 Good, because I can lead you to water but **I can't make you drink**. Mark Zuck teaches all Facebook employees about the hacker way. 
+
+![](http://cdn.torontolife.com/wp-content/uploads/2016/05/KaylaRocca-TorontoLife-FacebookCanada-9001-2000x1333.jpg)
 
 [Gou ironically hands a bottle of water while is **playing "cap" **with the bottle]
 
-**What's it mean tho Gou**, not everyones **a genius like you**. And what's a Rosetta stone?
+![](http://originsin.adaderana.lk/webgossip/wp-content/uploads/2016/07/cvr-35.jpg)
 
-The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say. 
+Don't facebook employees make a ton of money? 
+
+Yeah, and they have the life. 
+
+**What's all this mean tho Gou**, not everyones **a genius like you**. And what's a Rosetta stone god dammit?
+
+The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say, but it also helped archeologists understand those ancient languages. 
+
+![](http://www.freemaninstitute.com/RosettaStone-FenwickLOC%20074-750pix.jpg)
+
+[We need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS]
+
+![](http://cdn.shopify.com/s/files/1/0779/7277/products/1_3061644f-5a89-4a05-a246-b2471f3bcc51_grande.jpeg?v=1444656155)
 
 **So how's that relate? **
 
-There's a **very specific set** of things **you need to know about EECS**, there's **even symbols** that represent the important **fundamentals you need to know**. 
+There's a **very specific set** of things **you need to know about EECS**, there's **even symbols** that represent the important **fundamentals you need to know**.
 
-**I'm gonna give you a similar stone right now.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
+**I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
+
+It's the hackers guide to EECS man. 
+
+EECS? 
 
 **Archimedes** would **be turning in his grave right now...**
 
+Electrical Engineering and Computer Science
+
 **Whaaa?**
 
-**Nevermind. **
+**Yeah, it's the dopest industry to be in. **
+
+Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? [redundant]
 
 Bro, **Tesla was a hacker**. Isn't hacking a bad thing? **Bruh,** will you shut up** for a second** and **listen**.
 
