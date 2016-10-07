@@ -33,14 +33,16 @@ Bruh, you don't want to just hack it, you need to own it. :p
 
 [first emoji pack]
 
+Tell me more about this stone.
 
-
-The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say, but it also helped archeologists understand those ancient languages. 
+The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say, but it also helped archeologists understand those ancient languages. The stone acts as a legend of sorts. 
 
 ![](http://www.freemaninstitute.com/RosettaStone-FenwickLOC%20074-750pix.jpg)
 Inspiration Photo
 
-[We need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS. It should look like a combiation of the rosetta stone and some cool glowing stone.]
+[We need a literally "text" vesion of Gou's stone we can give away] 
+
+[And we need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS. It should look like a combiation of the rosetta stone and some cool glowing stone.]
 
 ![](http://cdn.shopify.com/s/files/1/0779/7277/products/1_3061644f-5a89-4a05-a246-b2471f3bcc51_grande.jpeg?v=1444656155)
 Inspiration Photo
@@ -56,6 +58,26 @@ Inspiration Photo for intro panels.
 There's a **very specific set** of things **you need to know about EECS**, there's **even symbols** that represent the important **fundamentals you need to know**.
 
 ![](https://s-media-cache-ak0.pinimg.com/736x/00/6a/c1/006ac13bed80faac37ace6630c6d311a.jpg)
+
+In addition to these **key schematic symbols**, I'm giving you all the rest of the must know things. Here, I put them on some cards for you called **Axiom Cards**. 
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475871937/electro_magnetism_axiom_card_pyjnr5.png)
+
+Owning these cards is the key to becoming a hacker. Once you collect them all and understand them you can make some serious money.
+
+Yeah, I even made an app so you can keep tabs on this stuff. It keeps track of what you know and gives you props and stuff when you POWN shit.
+
+Money????
+
+Yeah dude, Citrus Byte pays me $75 an hour to hack on iOS and Android apps.
+
+Is that where you get all that money? 
+
+Yeah, from that and, my EGHHHEM, COUGH, bitminers. 
+
+![](https://i.ytimg.com/vi/-ihMqEDs4B8/maxresdefault.jpg)
+
+[suble clue on bitfarm - but easter eggish]
 
 **I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
 
