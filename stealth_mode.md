@@ -9,21 +9,33 @@ THE FIRST CHAPTER
 
 ![](http://etc.usf.edu/clipart/19400/19491/rosetta_ston_19491_lg.gif)
 
-Yeah, but I'm not a math genius. My problem is learning this stuff, I'm not as smart as you. But I really want to know this stuff like you!
+Yeah, but I'm not a math genius. I can't just learn this stuff like you, I'm not as smart as you. 
 
-**How you going to** learn **applied mathematics or coding** if you can't COMPREHEND what I'm telling you? Oh yeah, **my teacher say's I'm really great at "comprehension."** 
+But I really want to know this stuff like you!
+
+**How you going to** learn **applied mathematics or coding** if you can't COMPREHEND what I'm telling you? And I'm not that booksmart either, I'm just a *hustler.* Ummm.. my **my teacher say's I'm really great at "comprehension! Does that help?"** 
 
 ![](http://acmac.uoc.gr/ICAM2013/img/ICAM2013_Banner.jpg)
 
-Good, because I can lead you to water but **I can't make you drink**. Mark Zuck teaches the entire Facebook team the hacker way, which is all about having a true comprehesion of electrical engineering and computer science. 
+Yes, that's good, because I can lead you to water but **I can't make you drink**. 
+
+[Never depict anything corny like a horse drinking water, but let's find a metaphor.. Hmm... got one, the sip from the CAP bottle being played with in the game of cap.]
+
+*Random Cast Dude or NodeBot Says:* "Mark Zuck teaches the entire Facebook team the hacker way, which is all about having a true comprehesion of electrical engineering and computer science" 
 
 ![](http://cdn.torontolife.com/wp-content/uploads/2016/05/KaylaRocca-TorontoLife-FacebookCanada-9001-2000x1333.jpg)
 
-[Gou ironically hands a bottle of water while is **playing "cap" **with the bottle]
+[Scene of Mark standing up on a big stage for a keynote speach, talking about his billion dollar investment into ending cancer.]
+
+![](https://qzprod.files.wordpress.com/2016/08/mark-zuckerberg.jpg)
+
+[Gou ironically hands a bottle of water while is **playing "cap" **with the bottle - they're in the basement headquarters....]
 
 ![](http://originsin.adaderana.lk/webgossip/wp-content/uploads/2016/07/cvr-35.jpg)
 
 Don't facebook employees make a ton of money? 
+
+![](http://img.timeinc.net/time/photoessays/2006/inside_google/google/01.jpg)
 
 Bruh. They have the life. 
 
