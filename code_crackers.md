@@ -8,7 +8,8 @@ CHAPTER #
 **CHAPTER WORKING NOTES**
 
 * Bulleted list of the state of the chapter
-* Todos
+* To
+* Make list of Code Axiom Symbols (never been done) => go to bottom
 * ~~Tasks~~
 
 ## List of Technical Topics Covered
@@ -211,3 +212,98 @@ Script should feel like this....
 We might just do an activity on the computer for this one... 
 
 Setup a programming environment or use a virtual one we got... 
+
+
+**Code Symbols, just like EE symbols**
+
+This has never been done, there are no references we could find, so we're making our own.
+
+Icons for
+
+| 0:0 | 1:0 |
+| -- | -- |
+| Operator | 1:2 |
+| Array | 1:3 |
+| Data Type | 1:4 |
+| Function | 1:5 |
+| Iterator | 1:6 |
+| Enumerator | 1:7 |
+| Collection | 1:8 |
+| Hash | 1:9 |
+| Lambda | 1:10 |
+| Expression | 1:11 |
+| Method | 1:12 |
+| Variable | 1:13 |
+| Boxing | 1:14 |
+| Generic | 1:15 |
+| Anonymous Function | 1:16 |
+| Tuple? | 1:17 |
+| Class | 1:18 |
+| Object | 1:19 |
+| Struct | 1:20 |
+| Value | 1:21 |
+| Return | 1:22 |
+| Signature | 1:23 |
+| Mutable | 1:24 |
+| Cast | 1:25 |
+| SQL | 1:26 |
+| Map Reduce | 1:27 |
+| Algorithm | 1:28 |
+| Pipe | 1:29 |
+| Hashrocket | 1:30 |
+| Handler | 1:31 |
+| Try Catch | 1:32 |
+| Promise | 1:33 |
+| Request | 1:34 |
+| Header | 1:35 |
+| JSON | 1:36 |
+| Recursion | 1:37 |
+| Prototype | 1:38 |
+| Closure | 1:39 |
+| Modifier | 1:40 |
+| Control Flow | 1:40 |
+| Pointer | 1:40 |
+| Index | 1:40 |
+| Constant | 1:40 |
+| Literal | 1:40 |
+| Monkey Patch | 1:40 |
+| Regular Expression | 1:40 |
+| List | 1:40 |
+| Reflection | 1:40 |
+| Range | 1:40 |
+| Condition | 1:40 |
+| OO Pattern | 1:40 |
+| Directive | 1:40 |
+| Keyword | 1:40 |
+| Module | 1:40 |
+| Mixin | 1:40 |
+| Binding | 1:40 |
+| Comparable | 1:40 |
+| Encoding | 1:40 |
+| IO | 1:40 |
+| Error | 1:40 |
+| Process | 1:40 |
+| Thread | 1:40 |
+| Attribute | 1:40 |
+| Property | 1:40 |
+| Key | 1:40 |
+| Value | 1:40 |
+| Get & Set | 1:40 |
+| Link | 1:40 |
+| Source | 1:40 |
+| Include | 1:40 |
+| Handshake | 1:40 |
+| Encription | 1:40 |
+
+
+
+
+https://en.wikipedia.org/wiki/Category:Programming_constructs
+
+
+
+
+![](http://i.imgur.com/F6aHJPE.jpg)
+Inspiration
+
+
