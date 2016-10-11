@@ -2,6 +2,9 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
+
+> The Frank Discussion
+
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878073/damn-colors-bruh_a8o9ax.jpg)
 
 **What's all this mean tho Gou**, not everyones **a genius like you**. And what's a Rosetta stone dammit?
