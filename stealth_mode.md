@@ -222,13 +222,7 @@ So check it out....
 
 [**Conclusion & Badges: **End with a recap of the test projects and test users, ensure everyone collected their axiom cards and met their obligations. don't let anyone move forward who hasn't earned it by unlocking the "code snippets" on the internet in verios locations that when entered, will unlock their final test.]
 
-
-
-
-
-
-
-
+## End Intro Talk between Gou and Non. Begin seguay to Tesla, Baghdad battery and come back to present with Gou getting ready to do his first hack with EMF, Hall Sensors, Etc. 
 
 > **Chapter 1 (Stealth Mode) - **If we want to get into the lowest level of hacking and computing, we need to understand electricity, circuits, **fields, forces and flows.** Our main figure is Tesla here, as he was a huge thought leader in the area of energy, electricity, alternating current and more. We end this chapter with mention of John Bardeen and Jack Kilby of UoI **who created the transistor and integrated circuit,** which later would become the premise of **modern PCB boards and chips.** Our roots with Tesla however encourage EE's to think beyond such limitations, as **some day computing will go beyond phsyical boards** and move into nano and other forms. Tesla will help us understand the basics of **electricity**. Tesla's life was also interesting and had plenty of suspense, drama and turmoil. He is an excelent reminder of the historical role venture capital has played in innovation (and lack there of). We even make mention of Banzi and share a brief history of how **the Arduino open source microcontroller** has expanded our horizons even further.
 
