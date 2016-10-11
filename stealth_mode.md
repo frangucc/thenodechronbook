@@ -99,17 +99,17 @@ Electrical Engineering and Computer Science
 
 Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? [redundant]
 
-Bro, **Tesla was a hacker**. Isn't hacking a bad thing? **Bruh,** will you shut up** for a second** and **listen**.
+Bro, **Tesla was a hacker**. Like, the maker of the cars? **Bruh,** will you shut up** for a second** and **listen**.
 
-**Tesla was hacking electricity** and **Direct Current** when he discovered one of the most important modern phenom. **Alternating Current. **
+**Nikola Tesla was hacking electricity** and Thomas Edisons **Direct Current** empire when he discovered one of the most important aspects of modern electricity. **Alternating Current. **
 
-Hackers are just people that don't want to accept the status quo. So they stay on edge with tech and **are always trying to figure out the next move**, what to **build next** that will benefit the **overall industry. **
+Hackers are just people that don't want to accept bullshart as the norm, so they mess around and try to beat tech. They **are always trying to figure out the next move by learning from what's out there**. As a result, they help figure out what to **build next**. Or how to fix things so they can better benefit the **overall industry. **
 
 [illustrate hackers at industry, awesome jobs, working on cool shit, hackathons, Illustrate the GAME! search these things, hackerspaces, hackathons, hacking, clean rooms, computer science labs, mit labs]
 
 **Hackers.** (huh...)
 
-Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a computer,** was literally **CRACKING the German Enigma** when he came up with the** Turing Machine,** which is the way processors and memory inside your computers work. It's how all that stuff you **play with on your phone get's processed!**
+Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a computer,** was literally **CRACKING the German Enigma** when he came up with the** Turing Machine.** His hack saved millions of lives in WWII. The turing machine is the premis for how all modern processors and memory inside your computers work, and how computer think. It's how all that stuff you **play with on your phone get's processed by the chips and stuff!**
 
 **Ok, so go on.** **Tell me more.** I want to be a hacker. 
 
@@ -118,7 +118,6 @@ Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a com
 **Hahah. Gou's Stone. **
 
 **Here's **how it all basically works. 
-
 
 [We need a literally "text" vesion of Gou's stone we can give away] 
 
