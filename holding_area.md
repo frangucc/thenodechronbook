@@ -3,6 +3,8 @@
 
 > Reserved for heavy topics, controversial subjects or content that needs immediate resolve and decision. Make no mistake, this book is for teens and has angles in it that make the reader aware we are serious about the direction of our Global community. The holding area is ultimately for organizing important content before inserting it into the main text.
 
+
+
 ### ON PROBLEM SOLVING
 
 ### ON PRIORITIZING
