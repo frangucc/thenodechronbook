@@ -2,6 +2,52 @@
 THE FIRST CHAPTER
 # STEALTH MODE
 
+---
+
+| Technical Takeaways |
+| -- |
+| AC-DC Tutorial and analog to digital converstion |
+| AC/DC Motors & Machines | 
+| Energy, electricity, currents |
+| Fields, Forces and Flows |
+| Flow of Electrons |
+| Idea of a complete circuit |
+
+| Axiom Cards Unlocked |
+| -- |
+| Electromagnetism |
+| Vibration |
+| Electrons |
+| AC Voltage |
+| DC Voltage |
+| Current |
+| Resistor |
+| Ohms Law |
+| Circuit |
+| Ground |
+| Diode |
+| Gates |
+| Inverter |
+| Inductor |
+| Capacitator |
+| Transistor |
+| LED|
+| Breadboard |
+| Arduino |
+| Hall Effect Sensor |
+| Temperature Sensor |
+| Servo |
+
+
+
+
+Go to end of section for complete reference of all technical topics. 
+
+| Research |
+| -- |
+| x |
+
+### THE FIRST READING BEGINS HERE
 
 > The Frank Discussion
 
@@ -244,31 +290,6 @@ There is a great mix of the very basics of Electricity and Computing in this cha
 * Rethink the illustrations for GOU and the scenario in which he's exploring the basisc of electricity and electronics. 
 * Decide what Arduino board UNO vs. Nano we will be using and what intro tutorials will best demonstrate the key concepts (elctromag, ac/dc, analog/digital,fields-forces-flows, voltage) - what expiraments can we do here?
 
-
-## List of Technical Topics Covered
-
----
-
-| Technical Takeaways |
-| -- |
-| AC-DC Tutorial and analog to digital converstion |
-| AC/DC Motors & Machines | 
-| Energy, electricity, currents |
-| Fields, Forces and Flows |
-| Flow of Electrons |
-| Idea of a complete circuit |
-
-| Axiom Cards Unlocked |
-| -- |
-| Electromagnetism |
-| Vibration |
-| Voltage |
-| Electrons |
-| Circuit |
-
-| Research |
-| -- |
-| x |
 
 
 #***DIAGRAM OF CHAPTER FLOW NEEDED HERE*** -> Tesla, Kilby, Bardeen, Gou...
@@ -895,3 +916,33 @@ Imagine you are the owner of a large ware house consisting of different goods. Y
 Similarly, Warehouse = computer hard disk with various applications Lorry = RAM and RAM is the lorry which loads the required applications into it and make the applications run smoother.
 
 ![](http://images.wisegeek.com/man-testing-equipment-with-oscilloscope.jpg)
+
+
+| EE Cards | Ultimate Guides |
+| -- | -- |
+| Electromagnetism | |
+| Vibration | |
+| Electrons | |
+| AC Voltage | |
+| DC Voltage | |
+| Current | |
+| Resistor | https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/ohms-law |
+| Ohms Law | |
+| Circuit | |
+| Ground | |
+| Diode | https://learn.sparkfun.com/tutorials/diodes?_ga=1.14641392.630410206.1473810094 |
+| Gates | |
+| Inverter | |
+| Inductor | |
+| Capacitator | |
+| Transistor | |
+| LED | |
+| Breadboard | |
+| Arduino | |
+| Hall Effect Sensor | |
+| Temperature Sensor | |
+| Servo |  |
+||||
+
+
+
