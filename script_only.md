@@ -1,4 +1,25 @@
-# Script Only
+# SECTION 1
+
+> In section one, we meet Gou Sokyeo and Nōn for the first time. The two boys discuss various topics in the first part, before transitioning to a bit of history in the second part. By the third part, they are back at present and they leave the reader with some final inspiration for moving forward.
+
+
+
+---
+
+
+
+# PART 1
+
+> In part one, we get to see Gou's hometown, home and the basement headquarters. We get a sense for his environment, family life and normal state. The first part is mostly to get to know how Gou and Non think, talk, behave and what they're generally up to. 
+
+
+---
+
+# ACT 1
+
+> In the first act, we do an arial tour of Gou's town and home, and get into the basement headquarters, also known as, Gou's office.
+
+And so it begins....
 
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 1
 town spread
@@ -20,9 +41,19 @@ intentionally blank
 intentionally blank
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 10
 intentionally blank
-### SECTION 1 / PART 1 / ACT 1 / PAGE 11
 
-** 1:1:1:11 OVERVIEW: ** Gou Sokyeo and his brother Nōn are hanging out at the Basement Headquarters per usual. Only today, they're having a Frank discussion about whether Nōn's smart enough to be a hacker.  
+
+
+---
+
+
+# ACT 2
+> They are chatting about what it's truly going to take to become an EECS major, and they get into the topic of Hacking, and what it really means. 
+
+
+### SECTION 1 / PART 1 / ACT 2 / PAGE 1
+
+** 1:1:2:1 OVERVIEW: ** Gou Sokyeo and his brother Nōn are hanging out at the Basement Headquarters per usual. Only today, they're having a Frank discussion about whether Nōn's smart enough to be a hacker.  
 
 > **PANEL ONE** - A HEADSHOT OF NŌN LOOKING CONCERNED.  
 
@@ -45,9 +76,9 @@ intentionally blank
 * **6 GOU:** How you going to learn applied mathematics or coding if you can't COMPREHEND what I'm telling you? And I'm not that book smart either, I'm just a *hustler. Ummm.. my my teacher say's I'm really great at "comprehension! Does that help?"
 
 ![](https://s3.amazonaws.com/gamifyed/NC_11_72.jpg)
-### SECTION 1 / PART 1 / ACT 1 / PAGE 12
+### SECTION 1 / PART 1 / ACT 2 / PAGE 12
 
-** 1:1:1:12 OVERVIEW: ** xxx
+** 1:1:2:2 OVERVIEW: ** xxx
 
 **Yes,** that's good, because I can lead you to water but **I can't make you drink**. 
 
@@ -73,9 +104,9 @@ Bruh, you don't want to just hack it, you need to own it. :p
 
 [first emoji pack]
 
-### SECTION 1 / PART 1 / ACT 2 / PAGE 1
+### SECTION 1 / PART 1 / ACT 2 / PAGE 3
 
-** 1:1:2:1 OVERVIEW: ** xxx
+** 1:1:2:3 OVERVIEW: ** xxx
 
 Tell me more about this stone.
 
@@ -96,9 +127,9 @@ In addition to these **key schematic symbols**, I'm giving you all the rest of t
 
 Owning these cards is the key to becoming a hacker. Once you collect them all and understand them you can make some serious money.
 
-### SECTION 1 / PART 1 / ACT 2 / PAGE 2
+### SECTION 1 / PART 1 / ACT 2 / PAGE 4
 
-** 1:1:2:2 OVERVIEW: ** xxx
+** 1:1:2:4 OVERVIEW: ** xxx
 
 Yeah, I even made an app so you can keep tabs on this stuff. It keeps track of what you know and gives you props and stuff when you POWN shit.
 
@@ -116,9 +147,9 @@ Yeah, from that and, my EGHHHEM, COUGH, bitminers.
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878026/symbols_hlwrtf.jpg)
 
-### SECTION 1 / PART 1 / ACT 2 / PAGE 3
+### SECTION 1 / PART 1 / ACT 2 / PAGE 5
 
-** 1:1:2:3 OVERVIEW: ** xxx
+** 1:1:2:5 OVERVIEW: ** xxx
 
 **I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
 
@@ -139,6 +170,11 @@ Electrical Engineering and Computer Science
 Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? [redundant]
 
 Bro, **Tesla was a hacker**. Like, the maker of the cars? **Bruh,** will you shut up** for a second** and **listen**.
+
+# ACT 3
+
+> In Act 3, Gou really explains and introduces some legacy hackers, such as Tesla and Turing. He explains what makes hackers so special. He leaves the act by letting the reader know that there's a stone that will help decipher the industry.
+
 
 ### SECTION 1 / PART 1 / ACT 3 / PAGE 1
 
@@ -170,13 +206,10 @@ Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a com
 
 **Hahah. Gou's Stone. **
 
-### SECTION 1 / PART 1 / ACT 4 / PAGE 1
 
-** 1:1:4:1 OVERVIEW: ** xxx
+> The first glimpse of the stone, that was once glowing from the window outside Gou's home. We see it a bit closer finally, but not fully. The act ends with an inspiring quote from the Tao.
 
-**Here's **how it all basically works. 
-
-[We need a literally "text" vesion of Gou's stone we can give away] 
+[We need a literally "text" version of Gou's stone we can give away] 
 
 [And we need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS. It should look like a combiation of the rosetta stone and some cool glowing stone.]
 
@@ -190,6 +223,21 @@ Inspiration Photo
 Inspiration Photo for intro panels.
 
 [DIAGRAM/IMAGE/ART - intro to MAP, finger points on a page to map or whiteboard. Map or Stone Map, or the stone is a place on this map... So far on the map we have - {Gous stone, the basement hq, the EE pyramids in an area, the OS land, the Coding building and Network - it's a very high level diagram for now, but you can tell it will be zoomed into later for deeper subjects. sneak in some other mystery - Dads dirty closet, Lilu's tree-house, the rabbi's temple, dr. winslows lab, ladybugs hideout, teslas corporation, zuck...}
+
+
+> Inspiring TAO QUOTE to go with the stone. 
+
+
+
+# ACT 4
+> Gou gives a high level explanation 
+
+### SECTION 1 / PART 1 / ACT 4 / PAGE 1
+
+** 1:1:4:1 OVERVIEW: ** xxx
+
+**Here's **how it all basically works. 
+
 
 ### SECTION 1 / PART 1 / ACT 4 / PAGE 2
 
@@ -281,4 +329,78 @@ Ok, let's start from the beginning. What did Tesla do and what do I need to know
 I like where your heads at. 
 
 So check it out....
+
+#PART 2
+
+
+# MAIN SCRIPT A-SIDE
+---
+
+TIME, PAGE #'S
+
+** INTRO TEXT ** What time is it, who's here and where are we and what are we doing?
+
+[3 paragraphs]
+
+
+---
+
+> **NOTES TO ARTIST** Tell the artists what his job is here...
+
+---
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384737/tesla_iaikrv.jpg)
+
+PAGE 2-6
+![](NC_02_72.jpg)
+
+** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
+
+> **PANEL ONE** - PULL BACK FROM PREVIOUS IMAGE AND SHOW THE IMAGE OF THE TESLA COIL THROUGH THE CORNEA OF NICOLA TESLAS EYE. NO DIALOGUE.
+
+* **1 CAP:** If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.
+
+> **PANEL TWO** - PULL BACK FURTHER TO SHOW NICOLA TESLAS FACE, WIDE EYED AS HE JUST WITNESSES WIRELESS ELECTRICITY WORKING FOR THE FIRST TIME.
+
+* **2 TESLA:** ...free energy...
+* **3 TESLA:** ...it works...
+
+> **PANEL THREE** - PULL BACK EVEN FURTHER TO SHOW THE INFAMOUS TESLA COIL AND SPECTACULAR SHOW OF ELECTRICITY. YOUR CALL ON HOW TESLAS FULL FIGURE FITS INTO THIS PANEL.
+
+* **4 TESLA:** ...this changes everything, again...
+
+
+![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
+
+
+> **PANEL FOUR** - A STRONG KNOCK AT THE DOOR, SOMEONE IS THERE TO SHUT TESLA DOWN, AGAIN. HE HAD ALREADY HAD HIS TOWER OF DREAMS AND PATENTS SHUT DOWN AND STOLEN BY JP MORGAN.
+
+* **5 POLICE:** Tesla, open the door, we know you're in there. You were told to cease and desist.
+
+* **SOUND:** KNOCK, KNOCK, KNOCK
+
+* **6 TESLA:** You're making a mistake. The world needs this. We will destroy our planet without it. 
+
+> **PANEL FIVE** - THE DOOR IS KICKED IN AS A CREW OF POLICE RUSH THE OLD APARTMENT WHERE TESLA HAS BEEN TESTING HIS FREE WIRELESS ENERGY SYSTEM. BEHIND THE POLICE OFFICERS STANDS A MAN IN THE SHADOWS WHO IS PRESUMED TO BE JP MORGAN JR, WHO IS CONTROLLING THE COPS. JP IS WEARING A LONG COAT, TOP HAT, CANE AND HAS A SHINY GOLD POCKET WATCH.
+
+* **SOUND:** CRAAAK--THUMPPPP
+
+* **7 JP MORGAN:** I got you're letter. Did you think you could undermine my family? 
+
+* **8 TESLA:** How could you, these are my ideas, electricity should be free, its not yours to control!
+
+> **PANEL SIX** - TESLA IS LEFT CRUSHED, HIS IDEAS, STOLEN AND CRUSHED, HE HAS BEEN DEFEATED. SEVERAL YEARS PRIOR HIS TOWERS WERE DESTROYED BY THE GOVERNMENT UNDER THE JP MORGANS INSTRUCTIONS. THE COPS AND JP MORGAN HAVE RAIDED THE APARTMENT, DESTROYED EVERYTHING AND LEFT TESLA GRIEVING FOR HE KNOWS HE WILL NEVER BE ABLE TO SUCCEED WITH FREE ENERGY.
+
+* **9 TESLA, WHISPER:** The present is theirs; the future, for which I really worked, is mine. 
+
+* **10 CAP:** The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence. 
+
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384279/gitbook_cuts_zmiysz.jpg)
+
+So if you'd someday like to be the one to discover the next new critical API or create the next scientific sensor with universal implications, you'll need to develop some basic instincts first.
+
+![](https://cl.ly/3O470Q2j172y/NC_03_300_Color.jpg)
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384943/again_bjy1p5.jpg)
 
