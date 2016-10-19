@@ -19,8 +19,10 @@ intentionally blank
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 9
 intentionally blank
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 10
+intentionally blank
+### SECTION 1 / PART 1 / ACT 1 / PAGE 11
 
-** 1:1:1:4 OVERVIEW: ** Gou Sokyeo and his brother Nōn are hanging out at the Basement Headquarters per usual. Only today, they're having a Frank discussion about whether Nōn's smart enough to be a hacker.  
+** 1:1:1:11 OVERVIEW: ** Gou Sokyeo and his brother Nōn are hanging out at the Basement Headquarters per usual. Only today, they're having a Frank discussion about whether Nōn's smart enough to be a hacker.  
 
 > **PANEL ONE** - A HEADSHOT OF NŌN LOOKING CONCERNED.  
 
@@ -43,14 +45,13 @@ intentionally blank
 * **6 GOU:** How you going to learn applied mathematics or coding if you can't COMPREHEND what I'm telling you? And I'm not that book smart either, I'm just a *hustler. Ummm.. my my teacher say's I'm really great at "comprehension! Does that help?"
 
 ![](https://s3.amazonaws.com/gamifyed/NC_11_72.jpg)
+### SECTION 1 / PART 1 / ACT 1 / PAGE 12
 
-** 1:1:1:2 OVERVIEW: ** Gou Sokyeo and his brother Nōn are hanging out at the Basement Headquarters per usual. Only today, they're having a Fra
+** 1:1:1:12 OVERVIEW: ** xxx
 
 **Yes,** that's good, because I can lead you to water but **I can't make you drink**. 
 
 *Random Cast Dude or NodeBot Says:* "Mark Zuck teaches the entire Facebook team the hacker way, which is all about having a true comprehesion of electrical engineering and computer science" 
-
-
 
 [Scene of Mark standing up on a big stage for a keynote speach, talking about his billion dollar investment into ending cancer.]
 
@@ -72,6 +73,10 @@ Bruh, you don't want to just hack it, you need to own it. :p
 
 [first emoji pack]
 
+### SECTION 1 / PART 1 / ACT 2 / PAGE 1
+
+** 1:1:2:1 OVERVIEW: ** xxx
+
 Tell me more about this stone.
 
 The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say, but it also helped archeologists understand those ancient languages. The stone acts as a legend of sorts. 
@@ -91,6 +96,10 @@ In addition to these **key schematic symbols**, I'm giving you all the rest of t
 
 Owning these cards is the key to becoming a hacker. Once you collect them all and understand them you can make some serious money.
 
+### SECTION 1 / PART 1 / ACT 2 / PAGE 2
+
+** 1:1:2:2 OVERVIEW: ** xxx
+
 Yeah, I even made an app so you can keep tabs on this stuff. It keeps track of what you know and gives you props and stuff when you POWN shit.
 
 Money????
@@ -106,6 +115,10 @@ Yeah, from that and, my EGHHHEM, COUGH, bitminers.
 [suble clue on bitfarm - but easter eggish]
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878026/symbols_hlwrtf.jpg)
+
+### SECTION 1 / PART 1 / ACT 2 / PAGE 3
+
+** 1:1:2:3 OVERVIEW: ** xxx
 
 **I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
 
@@ -127,13 +140,25 @@ Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking b
 
 Bro, **Tesla was a hacker**. Like, the maker of the cars? **Bruh,** will you shut up** for a second** and **listen**.
 
+### SECTION 1 / PART 1 / ACT 3 / PAGE 1
+
+** 1:1:3:1 OVERVIEW: ** xxx
+
 **Nikola Tesla was hacking electricity** and Thomas Edisons **Direct Current** empire when he discovered one of the most important aspects of modern electricity. **Alternating Current. **
+
+### SECTION 1 / PART 1 / ACT 3 / PAGE 2
+
+** 1:1:3:2 OVERVIEW: ** xxx
 
 Hackers are just people that don't want to accept bullshart as the norm, so they mess around and try to beat tech. They **are always trying to figure out the next move by learning from what's out there**. As a result, they help figure out what to **build next**. Or how to fix things so they can better benefit the **overall industry. **
 
 [illustrate hackers at industry, awesome jobs, working on cool shit, hackathons, Illustrate the GAME! search these things, hackerspaces, hackathons, hacking, clean rooms, computer science labs, mit labs]
 
 **Hackers.** (huh...)
+
+### SECTION 1 / PART 1 / ACT 3 / PAGE 3
+
+** 1:1:3:3 OVERVIEW: ** xxx
 
 Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a computer,** was literally **CRACKING the German Enigma** when he came up with the** Turing Machine.** His hack saved millions of lives in WWII. The turing machine is the premis for how all modern processors and memory inside your computers work, and how computer think. It's how all that stuff you **play with on your phone get's processed by the chips and stuff!**
 
