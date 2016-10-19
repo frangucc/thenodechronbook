@@ -1,14 +1,26 @@
 # Script Only
 
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 1
+town spread
+### SECTION 1 / PART 1 / ACT 1 / PAGE 2
+town spread
+### SECTION 1 / PART 1 / ACT 1 / PAGE 3
+home
+### SECTION 1 / PART 1 / ACT 1 / PAGE 4
+### SECTION 1 / PART 1 / ACT 1 / PAGE 5
+### SECTION 1 / PART 1 / ACT 1 / PAGE 6
+### SECTION 1 / PART 1 / ACT 1 / PAGE 7
+### SECTION 1 / PART 1 / ACT 1 / PAGE 8
+### SECTION 1 / PART 1 / ACT 1 / PAGE 9
+### SECTION 1 / PART 1 / ACT 1 / PAGE 10
 
-** 1:1:1:1 OVERVIEW: ** Gou Sokyeo and his brother Nōn are hanging out at the Basement Headquarters per usual. Only today, they're having a Frank discussion about whether Nōn's smart enough to be a hacker.  
+** 1:1:1:4 OVERVIEW: ** Gou Sokyeo and his brother Nōn are hanging out at the Basement Headquarters per usual. Only today, they're having a Frank discussion about whether Nōn's smart enough to be a hacker.  
 
 > **PANEL ONE** - A HEADSHOT OF NŌN LOOKING CONCERNED.  
 
 * **1 NŌN:** What's all this mean tho Gou, not everyone's a genius like you. And what's a Rosetta Stone dammit?
 
-> **PANEL TWO** - A HEADSHOT OF GOU DEEPLY IMMERSED WITH THE STONE, WHICH HAS YET TO BE FULLY REVEALED. GOU APPEARS TO BE PUTTING WITNESSING IT'S POWER, EVEN FOR HIMSELF, FOR THE VERY FIRST TIME. HE 
+> **PANEL TWO** - A HEADSHOT OF GOU DEEPLY IMMERSED WITH THE STONE, WHICH HAS YET TO BE FULLY REVEALED. GOU APPEARS TO BE PUTTING WITNESSING IT'S POWER, EVEN FOR HIMSELF, FOR THE VERY FIRST TIME. 
 
 * **2 GOU:** Bruh. You're not listening. I can give you all the knowledge you need to become an elit3. Being a genius has nothing to do with it. 
 
