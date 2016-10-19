@@ -7,6 +7,7 @@
    * [Code Crackers](code_crackers.md)
        * Script Only
    * [Neck Beards](remoting.md)
+       * Script Only
    * [Network Access](connections.md)
    * [Sensors](sensors.md)
 * [Big Data](chapter_5.md)
