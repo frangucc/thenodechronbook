@@ -4,6 +4,18 @@
 > Reserved for heavy topics, controversial subjects or content that needs immediate resolve and decision. Make no mistake, this book is for teens and has angles in it that make the reader aware we are serious about the direction of our Global community. The holding area is ultimately for organizing important content before inserting it into the main text.
 
 
+Northern Illinois University 
+Engineering Circuit Analysis (ele 210) 
+Computer Programming (csci 240) 
+Computer Engineering I (ele 250) 
+CComputer Engineering II (ele 356) 
+Signals and Systems (ele 315) 
+Electronic Circuits (ele 330) 
+Engineering Electromagnetics (ele 370) 
+Design with Field Programmable Logic Devices (ele 430)”
+
+
+
 
 ### ON PROBLEM SOLVING
 
