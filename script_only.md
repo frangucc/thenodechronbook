@@ -1,6 +1,6 @@
 # SECTION 1
 
-> In section one, we meet Gou Sokyeo and Nōn for the first time. The two boys discuss various topics in the first part, before transitioning to a bit of history in the second part. By the third part, they are back at present and they leave the reader with some final inspiration for moving forward.
+> In section one, we meet Gou Sokyeo and Nōn for the first time. The two boys discuss what it takes to be a hacker before transitioning to a bit of history in the second part. By the third part, they are back at present and they leave the reader with some final inspiration for moving forward.
 
 ---
 
@@ -12,7 +12,7 @@
 
 # ACT 1
 
-> In the first act, we do an arial tour of Gou's town and home, and get into the basement headquarters, also known as, Gou's office.
+> In the very first opening act of the entire saga, we do an arial tour of Gou's town and home, and get into the basement headquarters, also known as, Gou's office.
 
 And so it begins....
 
@@ -43,7 +43,7 @@ intentionally blank
 
 
 # ACT 2
-> They are chatting about what it's truly going to take to become an EECS major, and they get into the topic of Hacking, and what it really means. 
+> In the second act, Gou and Nōn are chatting about what it's truly going to take to become an EECS major, and they get into the topic of Hacking, and what it really means to be a hacker, what the soft skills required are. 
 
 
 ### SECTION 1 / PART 1 / ACT 2 / PAGE 1
