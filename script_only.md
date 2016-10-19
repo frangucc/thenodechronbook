@@ -170,6 +170,10 @@ Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a com
 
 **Hahah. Gou's Stone. **
 
+### SECTION 1 / PART 1 / ACT 4 / PAGE 1
+
+** 1:1:4:1 OVERVIEW: ** xxx
+
 **Here's **how it all basically works. 
 
 [We need a literally "text" vesion of Gou's stone we can give away] 
@@ -187,6 +191,10 @@ Inspiration Photo for intro panels.
 
 [DIAGRAM/IMAGE/ART - intro to MAP, finger points on a page to map or whiteboard. Map or Stone Map, or the stone is a place on this map... So far on the map we have - {Gous stone, the basement hq, the EE pyramids in an area, the OS land, the Coding building and Network - it's a very high level diagram for now, but you can tell it will be zoomed into later for deeper subjects. sneak in some other mystery - Dads dirty closet, Lilu's tree-house, the rabbi's temple, dr. winslows lab, ladybugs hideout, teslas corporation, zuck...}
 
+### SECTION 1 / PART 1 / ACT 4 / PAGE 2
+
+** 1:1:4:2 OVERVIEW: ** xxx
+
 **If you understand electrcity,** **fields, forces and flows**, it becomes easier to **visualize** how the lowest level of the **science and tech works** - when it's **beyond the naked eye** and you're dealing with **binary and math.**
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878073/molecule_csquem.jpg)
@@ -196,6 +204,10 @@ Inspiration Photo for intro panels.
 **No, **but you ****need to respect it and **make room for it.** A lot of math is done for you and not everyone has to understand **machine code** and **nyquist rates** to build stuff. 
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878071/boom_rye5oi.jpg)
+
+### SECTION 1 / PART 1 / ACT 4 / PAGE 3
+
+** 1:1:4:3 OVERVIEW: ** xxx
 
 **But** if you wanna get into MIT, and you don't understand the basics of **Electromagnetism**, **current**, **frequency**, **key algorithms, etc.** you're not gonna get very far. 
 
@@ -207,11 +219,19 @@ Non: So all these **chips and machines** that make up our **hardware, these micr
 
 **Yeah, sorta. **
 
+### SECTION 1 / PART 1 / ACT 4 / PAGE 4
+
+** 1:1:4:4 OVERVIEW: ** xxx
+
 **Check it.** Basically, you need to know about** electricity and chips,** how they work, and then you need to know how to** put an OS on them **so you can **control them or write pograms to control them**. When you **write the programs**, that's when you'll study **object oriented or functional software. **
 
 **That's when **you write the codes...
 
 **Yup.**
+
+### SECTION 1 / PART 1 / ACT 4 / PAGE 5
+
+** 1:1:4:5 OVERVIEW: ** xxx
 
 **And** once you know about that stuff, you can learn to **put all your stuff online **and **control stuff** from anywhere you are. 
 
@@ -220,6 +240,10 @@ Non: So all these **chips and machines** that make up our **hardware, these micr
 **Bruh. **Will you stop with the analogies, let me make the analogies. 
 
 Ok.
+
+### SECTION 1 / PART 1 / ACT 4 / PAGE 6
+
+** 1:1:4:6 OVERVIEW: ** xxx
 
 **So let me recap.**
 
@@ -230,6 +254,11 @@ Ok.
 **Bruh, **please. I'm non-che-b, Gou-nin-yho.
 
 Please don't call me that.
+
+### SECTION 1 / PART 1 / ACT 5 / PAGE 1
+
+** 1:1:5:1 OVERVIEW: ** xxx
+
 
 Gou: **Do** you even know what software **engineers** make? Or hardware **hackers**? 
 
@@ -243,8 +272,13 @@ Gou: **Kan-yeezy** bruh. Don't dis Kankye. He's so **baller**.
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878822/IMG_3287_xj3mdv.jpg)
 
+### SECTION 1 / PART 1 / ACT 5 / PAGE 2
+
+** 1:1:5:2 OVERVIEW: ** xxx
+
 Ok, let's start from the beginning. What did Tesla do and what do I need to know about him? 
 
 I like where your heads at. 
 
 So check it out....
+
