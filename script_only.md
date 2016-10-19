@@ -6,13 +6,13 @@
 
 > **PANEL ONE** - A HEADSHOT OF NŌN LOOKING CONCERNED.  
 
-* **1 NŌN:** What's all this mean tho Gou, not everyones a genius like you. And what's a Rosetta stone dammit?
+* **1 NŌN:** What's all this mean tho Gou, not everyone's a genius like you. And what's a Rosetta Stone dammit?
 
-> **PANEL TWO** - PULL BACK FURTHER TO SHOW NICOLA TESLAS FACE, WIDE EYED AS HE JUST WITNESSES WIRELESS ELECTRICITY WORKING FOR THE FIRST TIME.
+> **PANEL TWO** - A HEADSHOT OF GOU DEEPLY IMMERSED WITH THE STONE, WHICH HAS YET TO BE FULLY REVEALED. GOU APPEARS TO BE PUTTING WITNESSING IT'S POWER, EVEN FOR HIMSELF, FOR THE VERY FIRST TIME. HE 
 
-* **2 GOU:** Bruh. You're not listening. What I'm telling you is like, giving you a Rosetta Stone, for figuring out high tech hacking. 
+* **2 GOU:** Bruh. You're not listening. I can give you all the knowledge you need to become an Elit3. Being a genius has nothing to do with it. 
 
-* **3 GOU:** ...it works...
+* **3 GOU:** ...woah...
 
 > **PANEL THREE** - PULL BACK EVEN FURTHER TO SHOW THE INFAMOUS TESLA COIL AND SPECTACULAR SHOW OF ELECTRICITY. YOUR CALL ON HOW TESLAS FULL FIGURE FITS INTO THIS PANEL.
 
