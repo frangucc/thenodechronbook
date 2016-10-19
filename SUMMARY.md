@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [The Hacker Way](chapter_1.md)
    * [Stealth Mode](stealth_mode.md)
-       * Script Only
+       * [Script Only](script_only.md)
    * [Code Crackers](code_crackers.md)
    * [Neck Beards](remoting.md)
    * [Network Access](connections.md)
