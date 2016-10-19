@@ -9,6 +9,7 @@
    * [Neck Beards](remoting.md)
        * Script Only
    * [Network Access](connections.md)
+       * Script Only
    * [Sensors](sensors.md)
 * [Big Data](chapter_5.md)
    * [Pipes & Packets](pipes_&_packets.md)
