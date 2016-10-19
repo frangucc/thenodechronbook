@@ -11,6 +11,7 @@
    * [Network Access](connections.md)
        * [Script Only](script_only_4.md)
    * [Sensors](sensors.md)
+   * Tutorials
 * [Big Data](chapter_5.md)
    * [Pipes & Packets](pipes_&_packets.md)
    * [Frequencies](frequencies.md)
