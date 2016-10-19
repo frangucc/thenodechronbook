@@ -5,7 +5,7 @@
    * [Stealth Mode](stealth_mode.md)
        * [Script Only](script_only.md)
    * [Code Crackers](code_crackers.md)
-       * Script Only
+       * [Script Only](script_only_2.md)
    * [Neck Beards](remoting.md)
        * Script Only
    * [Network Access](connections.md)
