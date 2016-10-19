@@ -227,10 +227,8 @@ Inspiration Photo for intro panels.
 
 > Inspiring TAO QUOTE to go with the stone. 
 
-
-
 # ACT 4
-> Gou gives a high level explanation 
+> Gou gives a high level explanation of the important stuff you're going to need to know and learn. 
 
 ### SECTION 1 / PART 1 / ACT 4 / PAGE 1
 
@@ -303,6 +301,11 @@ Ok.
 
 Please don't call me that.
 
+
+# ACT 5
+
+> Act 5 get's on the topic of money and lifestyle of hackers and inventors. 
+
 ### SECTION 1 / PART 1 / ACT 5 / PAGE 1
 
 ** 1:1:5:1 OVERVIEW: ** xxx
@@ -330,28 +333,28 @@ I like where your heads at.
 
 So check it out....
 
-#PART 2
-
-
-# MAIN SCRIPT A-SIDE
----
-
-TIME, PAGE #'S
-
-** INTRO TEXT ** What time is it, who's here and where are we and what are we doing?
-
-[3 paragraphs]
 
 
 ---
 
-> **NOTES TO ARTIST** Tell the artists what his job is here...
 
----
+# PART 2
+
+> Part 2 takes a break and opens with Tesla and his final days. We leave the reader with a sense of Teslas priorities, accomplishments and where he left off. 
+
+# ACT 1
+
+> xxx <- pick up here...
+
+### SECTION 1 / PART 2 / ACT 1 / PAGE 1
+
+** 1:2:1:1 OVERVIEW: ** xxx
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384737/tesla_iaikrv.jpg)
 
-PAGE 2-6
+### SECTION 1 / PART 2 / ACT 1 / PAGE 2
+
+** 1:2:1:2 OVERVIEW: ** xxx
 ![](NC_02_72.jpg)
 
 ** THE NODE CHRONICLES INTRO: **  Nicola Tesla, creator of the alternating current is muscled and destroyed by JP Morgan Jr (who's there to finish the job his father started).
@@ -369,6 +372,9 @@ PAGE 2-6
 
 * **4 TESLA:** ...this changes everything, again...
 
+### SECTION 1 / PART 2 / ACT 1 / PAGE 3
+
+** 1:2:1:3 OVERVIEW: ** xxx
 
 ![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
 
@@ -380,6 +386,10 @@ PAGE 2-6
 * **SOUND:** KNOCK, KNOCK, KNOCK
 
 * **6 TESLA:** You're making a mistake. The world needs this. We will destroy our planet without it. 
+
+### SECTION 1 / PART 2 / ACT 1 / PAGE 4
+
+** 1:2:1:4 OVERVIEW: ** xxx
 
 > **PANEL FIVE** - THE DOOR IS KICKED IN AS A CREW OF POLICE RUSH THE OLD APARTMENT WHERE TESLA HAS BEEN TESTING HIS FREE WIRELESS ENERGY SYSTEM. BEHIND THE POLICE OFFICERS STANDS A MAN IN THE SHADOWS WHO IS PRESUMED TO BE JP MORGAN JR, WHO IS CONTROLLING THE COPS. JP IS WEARING A LONG COAT, TOP HAT, CANE AND HAS A SHINY GOLD POCKET WATCH.
 
@@ -398,9 +408,17 @@ PAGE 2-6
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384279/gitbook_cuts_zmiysz.jpg)
 
-So if you'd someday like to be the one to discover the next new critical API or create the next scientific sensor with universal implications, you'll need to develop some basic instincts first.
+### SECTION 1 / PART 2 / ACT 1 / PAGE 5
+
+** 1:2:1:5 OVERVIEW: ** xxx
+
+~~So if you'd someday like to be the one to discover the next new critical API or create the next scientific sensor with universal implications, you'll need to develop some basic instincts first.~~
 
 ![](https://cl.ly/3O470Q2j172y/NC_03_300_Color.jpg)
+
+### SECTION 1 / PART 2 / ACT 1 / PAGE 6
+
+** 1:2:1:6 OVERVIEW: ** xxx
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384943/again_bjy1p5.jpg)
 
