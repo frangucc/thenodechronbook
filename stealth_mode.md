@@ -3,7 +3,7 @@ THE FIRST CHAPTER
 # STEALTH MODE
 
 **IMPORTANT**
-If you are an artist, read the script only. Put you work in "pencils" when finished. This page is mostly Franchino's research and raw script.
+If you are an artist, go to. Put you work in "pencils" when finished. This page is mostly Franchino's research and raw script.
 
 ---
 
