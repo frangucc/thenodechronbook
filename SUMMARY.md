@@ -9,8 +9,6 @@
        * [Script Only](script_only_2.md)
    * [Neck Beards](remoting.md)
        * [Script Only](script_only_3.md)
-   * [Network Access](connections.md)
-       * [Script Only](script_only_4.md)
    * [Axiom Cards](axiom_cards.md)
    * [Tutorials](tutorials.md)
    * [Sensors](sensors.md)
