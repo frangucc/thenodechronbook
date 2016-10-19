@@ -15,8 +15,6 @@ Engineering Electromagnetics (ele 370)
 Design with Field Programmable Logic Devices (ele 430)”
 
 
-
-
 ### ON PROBLEM SOLVING
 
 ### ON PRIORITIZING
