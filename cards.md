@@ -2,6 +2,10 @@
 
 *Can't wait to see these in different colors!
 
+Curl API to get latest cards
+
+curl -v https://cdn.contentful.com/spaces/vmrfpc9i6eu8/entries?access_token=fba05696091f9eeec52131c7dbaa07801aa215f0bd30606debe5fcecf8a0d5de
+
 #20 fundamental sensor circuits (macro axioms) and 20 scientific principals (micro axioms) can be found among these 5 projects
 
 *represented by 5 sections of the first book, The Node Chronicles utilizes transmedia to help mentally organize and memorize 40 total EECS axioms (macro + micro) that when mix and matched are responsible for 80% of all new EECS systems.
