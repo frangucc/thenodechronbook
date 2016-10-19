@@ -14,7 +14,7 @@
 
 * **3 GOU:** ...woah...
 
-> **PANEL THREE** - xxx
+> **PANEL THREE** - 3 QUARTER VIEW OF NŌN RESPONDING TO GOU'S COMMENT. 
 
 * **4 NŌN:** Yeah, but I'm not a math genius. I can't just learn this stuff like you, I'm not as smart as you. 
 
