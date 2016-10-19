@@ -445,3 +445,24 @@ all good
 https://github.com/frangucc/g3/invitations
 
 
+
+**
+Notes**
+
+“hi, 
+my name is Manuel amaro, and I'm in my senior year at Niu finishing up my bachelor's in electrical engineering. 
+I have pretty much a great understanding of multiple topics and have helped many of my classmates pass difficult courses. I think this would be a perfect match. I was thinking about making a youtube channel. where I went through material from my past courses a refresher.
+
+Northern Illinois University 
+Engineering Circuit Analysis (ele 210) 
+Computer Programming (csci 240) 
+Computer Engineering I (ele 250) 
+CComputer Engineering II (ele 356) 
+Signals and Systems (ele 315) 
+Electronic Circuits (ele 330) 
+Engineering Electromagnetics (ele 370) 
+Design with Field Programmable Logic Devices (ele 430)”
+
+
+
+
