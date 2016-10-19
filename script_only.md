@@ -2,16 +2,11 @@
 
 > In section one, we meet Gou Sokyeo and Nōn for the first time. The two boys discuss various topics in the first part, before transitioning to a bit of history in the second part. By the third part, they are back at present and they leave the reader with some final inspiration for moving forward.
 
-
-
 ---
-
-
 
 # PART 1
 
 > In part one, we get to see Gou's hometown, home and the basement headquarters. We get a sense for his environment, family life and normal state. The first part is mostly to get to know how Gou and Non think, talk, behave and what they're generally up to. 
-
 
 ---
 
