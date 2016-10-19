@@ -5,13 +5,19 @@ town spread
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 2
 town spread
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 3
-home
+the the stone
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 4
+the the stone
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 5
+the home
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 6
+the home
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 7
+entrance to the basement headquarters (the BHQ)
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 8
+intentionally blank
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 9
+intentionally blank
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 10
 
 ** 1:1:1:4 OVERVIEW: ** Gou Sokyeo and his brother Nōn are hanging out at the Basement Headquarters per usual. Only today, they're having a Frank discussion about whether Nōn's smart enough to be a hacker.  
