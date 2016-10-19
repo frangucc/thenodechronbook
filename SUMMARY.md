@@ -4,6 +4,7 @@
 * [The Hacker Way](chapter_1.md)
    * [Stealth Mode](stealth_mode.md)
        * [Script Only](script_only.md)
+       * Pencils
    * [Code Crackers](code_crackers.md)
        * [Script Only](script_only_2.md)
    * [Neck Beards](remoting.md)
