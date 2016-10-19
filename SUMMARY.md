@@ -12,7 +12,7 @@
        * [Script Only](script_only_4.md)
    * [Sensors](sensors.md)
    * [Tutorials](tutorials.md)
-   * Axiom Cards
+   * [Axiom Cards](axiom_cards.md)
 * [Big Data](chapter_5.md)
    * [Pipes & Packets](pipes_&_packets.md)
    * [Frequencies](frequencies.md)
