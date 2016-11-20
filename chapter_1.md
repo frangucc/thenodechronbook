@@ -2,13 +2,47 @@
 VOLUME 1
 #THE HACKER WAY
 
+Alan Turing was literally cracking the German Enigma Machine when he discovered the premise for all modern computers. The Turing machine helped decipher German communications on where the Germans would attack next. One man, defined by his fascination with certain mathematical algorithms, helped stop the war.
+
+Sound like something straight out of a movie? I assure you, it was not.  
+
+Nikola was hacking Thomas Edisons DC empire when he discovered alternating current. It took us almost 200 years to realize we were killing our planet with fossil fuels before we even attempted solar power and electric vehicles. And now it seems, Elon Musk, Jeff Bezos and the dudes from Google are all concerned with self sustainable habitats here and on other planets. WTH is going on? This truly is starting to sound like a movie.
+
+It's always been something with humans and technology. We have made some costly mistakes in the past. Albert Einstein's fascination with how the universe behaves led to the creation of the atomic bomb and nuclear energy. And these things now are poisoning our land and oceans.
+
+In the end, what's happening is pretty simple. Technology is fairly new to humans. Apparently, modern humans have been running around this planet for 200,000 years without any of the technology that fills our lives today.  
+
+[IMAGE]
+
+That must be a lot on millenials and generation Z. At some point, you have to wonder, is it our very next generation that we will struggle to communicate with next? 
+
+Dr. Louise Banks in the movie Arrival said, "Before we start throwing math problems at them, how about we try and talk to them first." A linguistics professor, she said this as she argued with her scientific counterpart sent out to greet the aliens. How one first might try and communicate with another intelligent life form is how I like to think I'm trying to communicate with readers of this book. 
+
+What are the first things we can agree on? What are our concerns as a planet? What seems to be holding us back? 
+
+I think about the teenager who's reading this book. A lot actually. I think about the moments in my life that lead up to the decisions I took, at their randomness and at others, and found one thing to constant. And that is that everything we do in life seems to be dictated by words in our vocabulary and the thoughts in our minds. Derived from our environment, we come to know a universal language. 
+
+The universal language that I've somehow learned throughout my life have made me who I am. And to be quite honest, I'm not sure if I'm all that happy the state of this language, and perticularly, because there isn't one. There is no explaining the combination of things I've learned since I became a hacker and the things another chooses to learn.  
+
+The brain is a powerful thing. In the 10 years from 9-19, it could process as many as 200 million thoughts. It has tremendous work to do in filing those thought. Processing them, deciding where they go, disposing of some. 
+
+Learning Computer and Electric Science is no different, and it could take years for a bright mind to discover their calling. Rather than aimlessly stack scientific concepts and experiments one after another, directly on top of each other, this book elaborates on the universal language and emotion around the science, and on how those same feelings are ultimately responsible for what we might choose to do in this industry. 
+
+Need you be reminded of the crazy stuff going on right now with VR/AR, Hololens, BioHacks, Data Science, AI, Bayesian Systems & Neural Networks and Higgs Boson? It's as if a new periodic table was formed right under our noses in the past 20 years and we're just learning how to use it.
+
+So here is an example of something I may ultimately contribute to the world. I want to make an AR Harry Potter wand, that can beam huge bolts of lightning anywhere I point it. I want to create a piece of scientific equipment, in the shape of a wizards wand, and log movement from tiny IMU's and use Kalman filtering to ultimately generate real-time AR visualizations.
+
+I could tell you that was my lifes work if it ever worked and it would have been completely enabled and made possible due to the words in my vocabulary, my imagination and the recent advancements in technology within my environment.
+
+It's all quite magical. 
+
+Follow the Stone.
 
 > These are my notes on the first volumes 4 major sections. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you want to dive right in.
 
+> The Hacker Way is the first volume of The Node Chronicles. Biomechanics, hacks and physics and data will come next. If this community survives, we will get to all five major volumes. There shouldn't be many more, as learning more than 7 entire fields within this field is too much. 
 
-> The Hacker Way is the first volume of The Node Chronicles. Biomechanics, biosensing, robotics and Big Data will be future volumes (originally these were all parts of the first volume but it was too much). 
-
-> All 5 volumes represent the anatomy and unique facets of a complete AI system. My goal is to complete all five volumes by 2018. The first volume, "The Hacker Way" teaches you the foundation, gives you the tools to dig deeper, introduces you to circuitry and programming with many refrences to the culture and lifestyle. With just this first volume, I believe that *a lot is possible*.
+> All 5 volumes represent the anatomy and unique facets of our technological capacity as a human race. My goal is to complete all five volumes by 2018. The first volume, "The Hacker Way" teaches you the foundation, gives you the tools to dig deeper, introduces you to circuitry and programming with many refrences to the culture and lifestyle. With just this first volume, I believe that *a lot is possible*.
 
 Volume 1, the first book, entitled "THE HACKER WAY" has 4 parts.
 
