@@ -2,29 +2,45 @@
 VOLUME 1
 #THE HACKER WAY
 
-Alan Turing was literally cracking the German Enigma Machine when he discovered the premise for all modern computers. The Turing machine helped decipher German communications on where the Germans would attack next. One man, defined by his fascination with certain mathematical algorithms, helped stop the war.
+Alan Turing was literally cracking the German Enigma machine when he discovered the premise for all modern computers. The Turing machine helped decipher German communications on where the Germans would attack next. One man, defined by his fascination with certain mathematical algorithms, helped stop the war while hacking together the first modern computer.
 
 Sound like something straight out of a movie? I assure you, it was not.  
 
-Nikola was hacking Thomas Edisons DC empire when he discovered alternating current. It took us almost 200 years to realize we were killing our planet with fossil fuels before we even attempted solar power and electric vehicles. And now it seems, Elon Musk, Jeff Bezos and the dudes from Google are all concerned with self sustainable habitats here and on other planets. WTH is going on? This truly is starting to sound like a movie.
+Nikola was hacking Thomas Edisons DC empire when he discovered alternating current. "You're nothing but a hack Tesla."
 
-It's always been something with humans and technology. We have made some costly mistakes in the past. Albert Einstein's fascination with how the universe behaves led to the creation of the atomic bomb and nuclear energy. And these things now are poisoning our land and oceans.
+It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Today, the owners of Tesla, Facebook, Amazon and Alphabet, the most intelligent companies in the world, are all investing in clean energy, space travel, biosensing, ending cancer and self sustainability. Most of these companies are less than 15 years old. 
 
+WTH is going on? This is really starting to sound like a movie.
 
-I think about the teenager who's reading this book. A lot actually. I think about the moments in my life that lead up to the decisions I took, at their randomness and at others, and found one thing to constant. And that is that everything we do in life seems to be dictated by words in our vocabulary and the thoughts in our minds. Derived from our environment, we come to know a universal language. 
+There always seems to been something messed up going on with humans and technology. Some costly mistakes in our very recent past help reminds us of that. Even Albert Einstein's fascination of the universe's math led to the creation of the atomic bomb and nuclear energy, things that also poison our land and oceans. Ugh. Fukishima.
 
+I think about the teenager who's reading this book, and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon. 
 
-In the end, what's happening is pretty simple. Technology is fairly new to humans. Apparently, modern humans have been running around this planet for 200,000 years without any of the technology that fills our lives today.  
+If everything we do in life is dictated by words in our vocabulary, the thoughts in our minds and what fascinates us. If it is all derived from our direct environment, then I must ask. Is there any way we could come to know a more universal language of technology, something that includes the things in life that are deeply important.
 
-[IMAGE]
+Among them, could there be love, family, good times and tech? It seems we can't get away from tech. It's even attached to us some times. Will we use it or abandon it? Or will we all come together as a global community and own it, command it and take charge of it. Will humans soon begin learning it with our own runaway pace.  
 
-That must be a lot on millenials and generation Z. At some point, you have to wonder, is it our very next generation that we will struggle to communicate with next? 
+In case you're not following, in the end, what's happening is pretty simple. Technology is fairly new to humans and apparently, modern humans have been running around this planet for 200,000 years without much of it. No phones, no google, no internet, no cars or tv's, no chips or radio waves, not even electric lights. But now that those very things are enabling us to learn much faster, to share more knowledge across more boundaries. It seems the speed at which we communicate is the main driver of our technological future. 
+
+According to mainstream archaeology, we've existed as a human race for approximately 199,800 years without any modern technology.
+
+A tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years (1930), the third billion in less than 30 years (1959), the fourth billion in 15 years (1974), and the fifth billion in only 13 years (1987).
+
+During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion.
+In 1970, there were roughly half as many people in the world as there are now.
+Because of declining growth rates, it will now take over 200 years to double again.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/350px-Population_curve.svg.png)
+
+That must be a lot on millennial and generation Z. At some point, you have to wonder, is it our very next generation that we will struggle to communicate with next?
+
+You also have to think, with so many people, all over the world, doing so many things, do we ever get lost? Do scientists exchange information efficiently? Or is it all hidden in papers that noones reading and in big fat books? 
 
 Dr. Louise Banks in the movie Arrival said, "Before we start throwing math problems at them, how about we try and talk to them first." A linguistics professor, she said this as she argued with her scientific counterpart sent out to greet the aliens. How one first might try and communicate with another intelligent life form is how I like to think I'm trying to communicate with teenagers reading this book.
 
-After all, you are the ones who will carry on and shape all future tools and realize all future science.
+After all, you (teenagers) are the ones who will carry on and shape all future tools and realize all future science.
 
-So, what are the first things we can agree on? What are our concerns as a planet? What seems to be holding us back? What are all the current technology companies out there trying to say to us?
+So, what are the first things we can agree on? What are our concerns as a planet? What seems to be holding us back?
 
 The brain is a powerful thing. In the 10 years from 9-19, it could process as many as 200 million thoughts. It has tremendous work to do in filing those thought. Processing them, deciding where they go, disposing of some. 
 
