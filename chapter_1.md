@@ -2,27 +2,31 @@
 VOLUME 1
 #THE HACKER WAY
 
-Alan Turing was literally cracking the German Enigma machine when he discovered the premise for all modern computers. The Turing machine helped decipher German communications on where the Germans would attack next. One man, defined by his fascination with certain mathematical algorithms, helped stop the war while hacking together the first modern computer.
+> These are my notes on the first volumes 4 major sections. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you want to dive right in.
+
+Alan Turing was literally cracking the German Enigma machine when he discovered the premise for all modern computers. The Turing machine he created helped decipher German communications on where the Germans would attack next. One man, defined by his fascination with certain mathematical algorithms, helped stop the war while hacking together the first modern computer.
 
 ![](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2013/07/dn23837-1_800.jpg)
 
 Sound like something straight out of a movie? I assure you, it was not.  
 
-Nikola was hacking Thomas Edisons DC empire when he discovered alternating current. "You're nothing but a hack Tesla."
+Nikola was hacking Thomas Edisons DC empire when he discovered alternating current. 
 
 ![](https://s-media-cache-ak0.pinimg.com/736x/ae/ae/98/aeae9802c365c9120702d7907e0e96b7.jpg)
 
-It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Today, the owners of Tesla, Facebook, Amazon and Alphabet, the most intelligent companies in the world, are all investing in clean energy, space travel, biosensing, ending cancer and self sustainability. Most of these companies are less than 15 years old. 
+"You're nothing but a hack Tesla?" Bruh.
+
+It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Today, the owners of Tesla, Facebook, Amazon and Alphabet, the most intelligent companies in the world, are all investing in clean energy, space travel, biosensing, ending cancer and self sustainability. Most of these companies are less than 15 years old. What type of #$%@ are they on?
 
 ![](http://news.nationalgeographic.com/content/dam/news/2016/09/27/Elon-Musk-Mars-SpaceX/02-elon-musk-space-x-mars.jpg)
 
 WTH is going on? This is really starting to sound like a movie.
 
-There always seems to been something messed up going on with humans and technology. Some costly mistakes in our very recent past help reminds us of that. Even Albert Einstein's fascination of the universe's math led to the creation of the atomic bomb and nuclear energy, things that also poison our land and oceans. Ugh. Fukishima.
+There always seems to been something messed up going on with humans and technology. Some costly mistakes in our very recent past help reminds us of that. Even Albert Einstein's fascination of the universe's math led to the creation of the atomic bomb and nuclear energy, things that also poison our land and oceans. Ugh. Fukishima. It's messin up the whole west coast.
 
 ![](http://fukushimawatch.com/wp-content/uploads/2016/07/fukushima_radiation_nuclear_fallout_map.jpg)
 
-I think about the teenager who's reading this book, and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon. To possibly fix all this. 
+I think about the teenager who is reading this bookn and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon - to fix all this "technical debt."
 
 If everything we do in life is dictated by words in our vocabulary, the thoughts in our minds and what fascinates us, then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 
@@ -30,13 +34,19 @@ If everything we do in life is dictated by words in our vocabulary, the thoughts
 
 Among the teachings of science and technology, could we include love, family and good times, our well being? It seems we can't get away from tech. It's even attached to us. We are born with it in our hands. The question is, will we use it to our advantage or to our demise? What many anthropologists wonder is will we all come together as a global community and own it, command it and take charge of it? Will humans soon begin learning it with our own runaway pace? Will there some day be a collective conciousness for all our science and technology?
 
-I think there already is. Google translates all web pages for you now in any language. Anyone can access whitepapers and low level science, anytime they want, from anywhere. New Data API's and access to super computers on AWS are readily available. But despite all that, readily available information alone doesn't seem to be what motivates students to flock to Universities around the world that offer clean rooms, academic research programs and a place where the toughest problems on the planet are being solved.
+I think there already is. Google translates all web pages for you now in any language. Anyone can access whitepapers and low level science, anytime they want, from anywhere. New Data API's and access to super computers on AWS are readily available. MIT programmers share the Tao of Programming and new science startups have taken aim at hundreds of decentralization platforms for sharing science data quicker. 
 
-In case you're not following, in the end, what's happening is pretty simple. Technology is fairly new to humans and apparently. Modern humans have been running around this planet for 200,000 years without much of it. No phones, no google, no internet, no cars or tv's, no chips or radio waves, not even electric lights. But now, in just a fraction of that time, all those things exist. 
+But despite all that, readily available information alone doesn't seem to be what motivates students to flock to Universities around the world that offer clean rooms, academic research programs and places where the toughest problems on the planet are being solved, like Argon and Fermi. My point? How we are each led to these places seems all too random.
 
-According to mainstream archaeology, we've existed as a human race for approximately 199,800 years without any modern technology.
+![](http://www.extremetech.com/wp-content/uploads/2015/06/higgs-2.jpg)
 
-And a tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years (1930), the third billion in less than 30 years (1959), the fourth billion in 15 years (1974), and the fifth billion in only 13 years (1987).
+In case you're not following, in the end, what's happening is pretty simple. Technology is fairly new to humans. Apparently, modern humans have been running around this planet for 200,000 years without any of it. None of this. No phones, no google, no internet, no cars or tv's, no chips or radio waves, not even electric lights. But now, in just a fraction of that time, all those things exist. 
+
+According to mainstream archaeology, we've existed as a human race for approximately 199,800 years without any modern technology. And in just 200 years, we used what we discovered with dire consequences. And there are a lot more people now. 
+
+![](http://www.funbodytherapy.com/wp-content/uploads/2015/03/evolution-of-man-to-computer.jpg)
+
+A tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years (1930), the third billion in less than 30 years (1959), the fourth billion in 15 years (1974), and the fifth billion in only 13 years (1987).
 
 During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion. In 1970, there were roughly half as many people in the world as there are now.
 Because of declining growth rates, it will now take over 200 years to double again.
@@ -45,9 +55,13 @@ Because of declining growth rates, it will now take over 200 years to double aga
 
 That must be a lot on millennial and generation Z. At some point, you have to wonder, is it our very next generation that we will struggle to communicate with next?
 
-You also have to think; with so many people, all over the world, doing so many things, do we ever get lost? Do scientists exchange information efficiently? Or is it all hidden in papers that noones reading and in big fat books and massive online documents, or on Khan Academy?  
+![](http://blogs.sap.com/innovation/files/2015/10/Wired-In.jpg)
+
+You also have to think; with so many people, all over the world, doing so many things, do we ever get lost? Do scientists communicate efficiently with other generations? Or is all our efforts real value hidden in more and more papers that no one is reading. Is crap lost in big fat books and massive online documents, or on Khan Academy?  
 
 Dr. Louise Banks in the movie Arrival said, "Before we start throwing math problems at them, how about we try and talk to them first." A linguistics professor, she said this as she argued with her scientific counterpart sent out to greet the aliens. How one first might try and communicate with another intelligent life form is how I like to think I'm trying to communicate with teenagers reading this book.
+
+![](http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F569916f4-a73e-11e6-b67a-719634415da0.jpg?crop=998,561,2,65&resize=600)
 
 After all, you (teenagers) are the ones who will carry on and shape all future tools and realize all future science. Naturally, other generations are concerned. What's guiding you? What paths will you take? Are your brains decensitized by all of this? Is it too overwhelming?
 
@@ -55,31 +69,57 @@ So, if an older generation were to develop a global language for communicating w
 
 The brain is a powerful thing. In the 10 years from 9-19, it could process as many as 200 million thoughts. It has tremendous work to do in filing those thought. Processing them, deciding where they go, disposing of some. 
 
+![](http://news.berkeley.edu/wp-content/uploads/2016/04/Brain-Dictionary-750x500-OPTION-2.jpg)
+
 Let me make this easy for you. Follow the stone. 
 
-In my observations of millenials and generation z learners of technology, I've observed a few things.
+Full stop. 
+
+---
+
+
+> In my observations of millenials and generation z learners of technology, I've observed a few things.
+
 
 Millenials are wicked fast on technology. They use shortcuts, find information out quickly and are incredibly omnivorous in how they learn. They value learning deeply over money more so than any prior generation. 
 
+![](http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/23f49207-a998-4eeb-93a9-69c180e81849/File/ef6ec1d5007617978da1db63eca8efd0/a_new_generation_millenials.jpg)
+
 Learning Computer and Electric Science is no different. I suspect the next generation will want to know all of it, deeply. And we must accept that it could take years for a bright mind to discover their calling, and that right after high school or college, millenials might not be that concerned with settling down in the way previous generations had been. 
+
+![](https://edgerton.mit.edu/sites/default/files/styles/gallery_featured/public/media/MIT%20Robotics%20Team%20at%20work%20in%20Area%2051.jpg?itok=ItZrOUSe)
 
 Rather than aimlessly stack scientific concepts and experiments one after another, directly on top of each other, this book elaborates on the universal language and emotion around the science, and on how those same feelings are ultimately responsible for what we might choose to do in this industry.
 
-The stone contains a language of ideas and symbols called axioms. Axioms can be very simple, or contain a collection of other symbols or ideas that operate like a system. When prioritized in a certain order, they can be learned sequentially, but when rearranged, they can be experimented with. Each has a range of complexity, each typically has a connection to at least one other symbol. At face value, the symbols can be studied and learned from. When explored more forensically, they can be used to inspire new experiments and products. Symbols might also be things like; love, prosperity, earth and the word, prudent. 
+Enter The Node Chronicles. 
+
+![](https://s3.amazonaws.com/gamifyed/00_cover.jpg)
+
+The stone Gou Sokeyo creates contains a language of ideas and symbols called axioms. Axioms can be very simple, or contain a collection of other symbols or ideas that operate like a system. When prioritized in a certain order, they can be learned sequentially, but when rearranged, they can be experimented with. Each has a range of complexity, each typically has a connection to at least one other symbol. At face value, the symbols can be studied and learned from. When explored more forensically, they can be used to inspire new experiments and products. Symbols might also be things like; love, prosperity, earth and the word, prudent. 
 
 Need you be reminded of the crazy stuff going on right now with VR/AR, Hololens, BioHacks, Data Science, AI, Bayesian Systems & Neural Networks and Higgs Boson? It's as if a new periodic table was formed right under our noses in the past 20 years and we're just learning how to use it.
 
 ![](https://winblogs.azureedge.net/devices/2015/11/HoloLens.png)
 
+Before we go too far, let's look at an example of how everyday people like you and me end up adding onto our planets runaway innovation curve.
+
 So here is an example of something I may ultimately contribute to the world. I want to make an AR Harry Potter Wand, that can beam huge bolts of lightning anywhere I point it. I want to create a piece of scientific equipment, in the shape of a wizards wand, that can log movement from tiny IMU's within the stick and use real-time Kalman filtering to ultimately generate AR visualizations.
+
+![](http://static5.businessinsider.com/image/53ebe4a26bb3f7ee1d1c3b48-1190-625/i-bought-a-47-interactive-harry-potter-wand-and-it-was-totally-worth-it.jpg)
 
 A project like this could take 2-5 years to make on ones own, but none the less, it would have only been made possible due to the words in my vocabulary, my imagination and the recent advancements in technology within my environment.
 
-It's all quite magical. My recent stint with Harry Potter and awareness of Microsofts new product, Hololens, plus my fascination with making custom PCB's and expiraments with certain MEMS sensors all have me poised to create something totally off the wall that could be wildly awesome. I could make money from it and later, do even cooler things. 
+![](https://qph.ec.quoracdn.net/main-qimg-0b187374e72662f82fd65ef792ef5aa5-c?convert_to_webp=true)
 
-Follow the Stone.
+It's all quite magical. My recent stint with Harry Potter and awareness of Microsofts new product, Hololens, plus my fascination with making custom PCB's and expiraments with certain MEMS sensors all have me poised to create something totally off the wall that could be wildly awesome. Just thinking about all the things I'd need to learn to pull this off excites me. The challenge alone is incredible.
 
-> These are my notes on the first volumes 4 major sections. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you want to dive right in.
+You're about learn more than the technology itself, but what roads some of the best inventors had to travel to get there. 
+
+**Follow the Stone.**
+
+---
+
+
 
 > The Hacker Way is the first volume of The Node Chronicles. Biomechanics, hacks and physics and data will come next. If this community survives, we will get to all five major volumes. There shouldn't be many more, as learning more than 7 entire fields within this field is too much. 
 
@@ -115,6 +155,9 @@ After, Sir Tim Berners-Lee gives us the invention of the internet and protocols 
 
 **Volume 5 - **Robotics (need name)
 
+Random Images....
+
+![](http://www.valuewalk.com/wp-content/uploads/2014/12/Robotic-Cheetah.jpg)
 
 
 
