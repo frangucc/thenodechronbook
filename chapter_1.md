@@ -65,7 +65,7 @@ Dr. Louise Banks in the movie Arrival said, "Before we start throwing math probl
 
 After all, you (teenagers) are the ones who will carry on and shape all future tools and realize all future science. Naturally, other generations are concerned. What's guiding you? What paths will you take? Are your brains decensitized by all of this? Is it too overwhelming?
 
-If an older generation were to develop a global language for communicating with the next generation, they would have to agree on certain things first. What are the first things together, we might all agree on? Will they be concerns for our planet? Will both generations agree on what could be holding humanity back?
+If an older generation were to develop a global language for communicating with the next generation, they would have to agree on certain things first. What are the first things we might all agree on? Will they be concerns for our planet? Will both generations agree on what could be holding humanity back?
 
 The brain is a powerful thing. In the 10 years from 9-19, it could process as many as 200 million thoughts. It has tremendous work to do in filing those thought. Processing them, deciding where they go, disposing of some. 
 
