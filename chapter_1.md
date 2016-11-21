@@ -28,15 +28,19 @@ There always seems to been something messed up going on with humans and technolo
 
 I think about the teenager who is reading this bookn and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon - to fix all this "technical debt."
 
-If everything we do in life is dictated by words in our vocabulary, the thoughts in our minds and what fascinates us, then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
+The Hacker Way is a philosophy. It can act like a religion, and in the end, it's nothing more than a way of thinking shaped by nothing more than a collection of words and emotions, behaviors and attitudes. It contains the theory that we as a people, will not stand for bullshit. 
+
+If everything we do in life is dictated by words in our vocabulary (the thoughts in our minds and what fascinates us), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 
 ![](https://thumbs.mic.com/MmRjN2Q1YjliNSMvVVVINTRkM251YXhNYWVJejFxYjByOElrVFo0PS8yOHg1NDoxNDY5eDc4Ny8xMjgweDYyMC9maWx0ZXJzOnF1YWxpdHkoNzUpL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL2MwcHByY3RoMXNkY2NmajczcW9zZHl5aXlqcHV6eHJwbHp4NXdqc2JmZmpyeWxycGRyY2t0d3B3aXR0dXlkeWIuanBn.jpg)
 
-Among the teachings of science and technology, could we include love, family and good times, our well being? It seems we can't get away from tech. It's even attached to us. We are born with it in our hands. The question is, will we use it to our advantage or to our demise? What many anthropologists wonder is will we all come together as a global community and own it, command it and take charge of it? Will humans soon begin learning it with our own runaway pace? Will there some day be a collective conciousness for all our science and technology?
+Among the teachings of science and technology, could we include love, family and good times, our well being? It seems we can't get away from tech. It's even attached to us. We are born with it in our hands. The question is, will we use it to our advantage or to our demise? What many anthropologists wonder is will we all come together as a global community and own it, command it and take charge of it, or will we fight it? Will humans soon begin learning it with our own runaway pace and will we execute on our knowledge, or will we destroy even more in the process? Will there some day be a collective conciousness for all our science and technology?
 
-I think there already is. Google translates all web pages for you now in any language. Anyone can access whitepapers and low level science, anytime they want, from anywhere. New Data API's and access to super computers on AWS are readily available. MIT programmers share the Tao of Programming and new science startups have taken aim at hundreds of decentralization platforms for sharing science data quicker. 
+I think there already is. Google translates all web pages for you now in any language. Anyone can access whitepapers and low level science, anytime they want, from anywhere. New Data API's and access to super computers on AWS are readily available, and if driven before college, you can go to any University to work on any sorts of problems you want. New science startups have even taken aim at decentralizing science and more so than ever, science and tech seem to be a global community.
 
-But despite all that, readily available information alone doesn't seem to be what motivates students to flock to Universities around the world that offer clean rooms, academic research programs and places where the toughest problems on the planet are being solved, like Argon and Fermi. My point? How we are each led to these places seems all too random.
+The US works with China more than any other two countries to develop billions of technological devices. 
+
+But despite all the readily available inspiration and information, what motivates students to flock to Universities around the world that offer clean rooms, academic research programs and places where the toughest problems on the planet are being solved, like Argon and Fermi, is still somewhat of a mystery. My point? How we are each led to these places seems all too random.
 
 ![](http://www.extremetech.com/wp-content/uploads/2015/06/higgs-2.jpg)
 
@@ -65,33 +69,37 @@ Dr. Louise Banks in the movie Arrival said, "Before we start throwing math probl
 
 After all, you (teenagers) are the ones who will carry on and shape all future tools and realize all future science. Naturally, other generations are concerned. What's guiding you? What paths will you take? Are your brains decensitized by all of this? Is it too overwhelming?
 
-If an older generation were to develop a global language for communicating with the next generation, they would have to agree on certain things first. What are the first things we might all agree on? Will they be concerns for our planet? Will both generations agree on what could be holding humanity back?
+If an older generation were to develop a global language for communicating with the next generation, they would have to agree on certain things first. What are the first things we might all agree on? Will they be concerns for our planet? Will both generations agree on what could be holding humanity back? Is it all a zero sum game if we can't agree?
 
 The brain is a powerful thing. In the 10 years from 9-19, it could process as many as 200 million thoughts. It has tremendous work to do in filing those thought. Processing them, deciding where they go, disposing of some. 
 
 ![](http://news.berkeley.edu/wp-content/uploads/2016/04/Brain-Dictionary-750x500-OPTION-2.jpg)
 
-Let me make this easy for you. Follow the stone. 
+Let me make this easier on you. 
 
-Full stop. 
+**Follow the stone.**
+
 
 ---
 
 
-> In my observations of millenials and generation z learners of technology, I've observed a few things.
+> In my observations of millenials and generation z learners, I've observed a few things.
 
+Millenials are wicked fast on technology. They use shortcuts, find information out quickly and are incredibly omnivorous in how they learn, but they also fall into traps. They value learning deeply over money more so than any prior generation, yet they deal with life differently than we do. 
 
-Millenials are wicked fast on technology. They use shortcuts, find information out quickly and are incredibly omnivorous in how they learn. They value learning deeply over money more so than any prior generation. 
+They are texted to, not called. Facetimed, not visited. They are pushed but would rather be pulled. They get their news differently, make their decisions their own way, and so on.
 
 ![](http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/23f49207-a998-4eeb-93a9-69c180e81849/File/ef6ec1d5007617978da1db63eca8efd0/a_new_generation_millenials.jpg)
 
-Learning Computer and Electric Science is no different. I suspect the next generation will want to know all of it, deeply. And we must accept that it could take years for a bright mind to discover their calling, and that right after high school or college, millenials might not be that concerned with settling down in the way previous generations had been. 
+Learning Computer and Electric Science is no different. I suspect the next generation will want to know all of it, deeply, but that their impetus for doing such will be something beyond other generations comprehension. Ultimately, their decisions will be fueld by their concerns for the future, while their actions will be dictated by the things they know, the words in their vocabulary and state of their environment.
+
+And we must accept that it could take years for a bright mind to discover their calling, and that right after high school or college, millenials might not be that concerned with settling down in the way previous generations had been. Eventually, those who are led to this will make their way.
 
 ![](https://edgerton.mit.edu/sites/default/files/styles/gallery_featured/public/media/MIT%20Robotics%20Team%20at%20work%20in%20Area%2051.jpg?itok=ItZrOUSe)
 
-Rather than aimlessly stack scientific concepts and experiments one after another, directly on top of each other, this book elaborates on the universal language and emotion around the science, and on how those same feelings are ultimately responsible for what we might choose to do in this industry.
+So rather than aimlessly stack scientific concepts and experiments one after another, directly on top of each other, this book elaborates on the universal language and emotion around the science, and on how those same feelings are ultimately responsible for what we might choose to do in this industry.
 
-Enter The Node Chronicles. 
+Enter *The Node Chronicles Book One, The Hacker Way.*
 
 ![](https://s3.amazonaws.com/gamifyed/00_cover.jpg)
 
