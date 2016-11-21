@@ -4,59 +4,78 @@ VOLUME 1
 
 Alan Turing was literally cracking the German Enigma machine when he discovered the premise for all modern computers. The Turing machine helped decipher German communications on where the Germans would attack next. One man, defined by his fascination with certain mathematical algorithms, helped stop the war while hacking together the first modern computer.
 
+![](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2013/07/dn23837-1_800.jpg)
+
 Sound like something straight out of a movie? I assure you, it was not.  
 
 Nikola was hacking Thomas Edisons DC empire when he discovered alternating current. "You're nothing but a hack Tesla."
 
+![](https://s-media-cache-ak0.pinimg.com/736x/ae/ae/98/aeae9802c365c9120702d7907e0e96b7.jpg)
+
 It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Today, the owners of Tesla, Facebook, Amazon and Alphabet, the most intelligent companies in the world, are all investing in clean energy, space travel, biosensing, ending cancer and self sustainability. Most of these companies are less than 15 years old. 
+
+![](http://news.nationalgeographic.com/content/dam/news/2016/09/27/Elon-Musk-Mars-SpaceX/02-elon-musk-space-x-mars.jpg)
 
 WTH is going on? This is really starting to sound like a movie.
 
 There always seems to been something messed up going on with humans and technology. Some costly mistakes in our very recent past help reminds us of that. Even Albert Einstein's fascination of the universe's math led to the creation of the atomic bomb and nuclear energy, things that also poison our land and oceans. Ugh. Fukishima.
 
-I think about the teenager who's reading this book, and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon. 
+![](http://fukushimawatch.com/wp-content/uploads/2016/07/fukushima_radiation_nuclear_fallout_map.jpg)
 
-If everything we do in life is dictated by words in our vocabulary, the thoughts in our minds and what fascinates us. If it is all derived from our direct environment, then I must ask. Is there any way we could come to know a more universal language of technology, something that includes the things in life that are deeply important.
+I think about the teenager who's reading this book, and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon. To possibly fix all this. 
 
-Among them, could there be love, family, good times and tech? It seems we can't get away from tech. It's even attached to us some times. Will we use it or abandon it? Or will we all come together as a global community and own it, command it and take charge of it. Will humans soon begin learning it with our own runaway pace.  
+If everything we do in life is dictated by words in our vocabulary, the thoughts in our minds and what fascinates us, then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 
-In case you're not following, in the end, what's happening is pretty simple. Technology is fairly new to humans and apparently, modern humans have been running around this planet for 200,000 years without much of it. No phones, no google, no internet, no cars or tv's, no chips or radio waves, not even electric lights. But now that those very things are enabling us to learn much faster, to share more knowledge across more boundaries. It seems the speed at which we communicate is the main driver of our technological future. 
+![](https://thumbs.mic.com/MmRjN2Q1YjliNSMvVVVINTRkM251YXhNYWVJejFxYjByOElrVFo0PS8yOHg1NDoxNDY5eDc4Ny8xMjgweDYyMC9maWx0ZXJzOnF1YWxpdHkoNzUpL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL2MwcHByY3RoMXNkY2NmajczcW9zZHl5aXlqcHV6eHJwbHp4NXdqc2JmZmpyeWxycGRyY2t0d3B3aXR0dXlkeWIuanBn.jpg)
+
+Among the teachings of science and technology, could we include love, family and good times, our well being? It seems we can't get away from tech. It's even attached to us. We are born with it in our hands. The question is, will we use it to our advantage or to our demise? What many anthropologists wonder is will we all come together as a global community and own it, command it and take charge of it? Will humans soon begin learning it with our own runaway pace? Will there some day be a collective conciousness for all our science and technology?
+
+I think there already is. Google translates all web pages for you now in any language. Anyone can access whitepapers and low level science, anytime they want, from anywhere. New Data API's and access to super computers on AWS are readily available. But despite all that, readily available information alone doesn't seem to be what motivates students to flock to Universities around the world that offer clean rooms, academic research programs and a place where the toughest problems on the planet are being solved.
+
+In case you're not following, in the end, what's happening is pretty simple. Technology is fairly new to humans and apparently. Modern humans have been running around this planet for 200,000 years without much of it. No phones, no google, no internet, no cars or tv's, no chips or radio waves, not even electric lights. But now, in just a fraction of that time, all those things exist. 
 
 According to mainstream archaeology, we've existed as a human race for approximately 199,800 years without any modern technology.
 
-A tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years (1930), the third billion in less than 30 years (1959), the fourth billion in 15 years (1974), and the fifth billion in only 13 years (1987).
+And a tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years (1930), the third billion in less than 30 years (1959), the fourth billion in 15 years (1974), and the fifth billion in only 13 years (1987).
 
-During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion.
-In 1970, there were roughly half as many people in the world as there are now.
+During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion. In 1970, there were roughly half as many people in the world as there are now.
 Because of declining growth rates, it will now take over 200 years to double again.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/350px-Population_curve.svg.png)
 
 That must be a lot on millennial and generation Z. At some point, you have to wonder, is it our very next generation that we will struggle to communicate with next?
 
-You also have to think, with so many people, all over the world, doing so many things, do we ever get lost? Do scientists exchange information efficiently? Or is it all hidden in papers that noones reading and in big fat books? 
+You also have to think; with so many people, all over the world, doing so many things, do we ever get lost? Do scientists exchange information efficiently? Or is it all hidden in papers that noones reading and in big fat books and massive online documents, or on Khan Academy?  
 
 Dr. Louise Banks in the movie Arrival said, "Before we start throwing math problems at them, how about we try and talk to them first." A linguistics professor, she said this as she argued with her scientific counterpart sent out to greet the aliens. How one first might try and communicate with another intelligent life form is how I like to think I'm trying to communicate with teenagers reading this book.
 
-After all, you (teenagers) are the ones who will carry on and shape all future tools and realize all future science.
+After all, you (teenagers) are the ones who will carry on and shape all future tools and realize all future science. Naturally, other generations are concerned. What's guiding you? What paths will you take? Are your brains decensitized by all of this? Is it too overwhelming?
 
-So, what are the first things we can agree on? What are our concerns as a planet? What seems to be holding us back?
+So, if an older generation were to develop a global language for communicating with the next generation, they would have to agree on certain things first. What are the first things together, we might all agree on? Will they be concerns for our planet? Will both generations agree on what could be holding humanity back?
 
 The brain is a powerful thing. In the 10 years from 9-19, it could process as many as 200 million thoughts. It has tremendous work to do in filing those thought. Processing them, deciding where they go, disposing of some. 
 
 Let me make this easy for you. Follow the stone. 
 
-Learning Computer and Electric Science is no different, and it could take years for a bright mind to discover their calling. Rather than aimlessly stack scientific concepts and experiments one after another, directly on top of each other, this book elaborates on the universal language and emotion around the science, and on how those same feelings are ultimately responsible for what we might choose to do in this industry.
+In my observations of millenials and generation z learners of technology, I've observed a few things.
 
-The stone contains a language of ideas and symbols called axioms. Axioms can be very simple, or contain a collection of other symbols or ideas that operate like a system. When prioritized in a certain order, they can be learned sequentially, but when rearranged, they can be experimented with. Each has a range of complexity, each typically has a connection to at least one other symbol. At face value, the symbols can be studied and learned from. When explored more forensically, they can be used to inspire new experiments and products. 
+Millenials are wicked fast on technology. They use shortcuts, find information out quickly and are incredibly omnivorous in how they learn. They value learning deeply over money more so than any prior generation. 
+
+Learning Computer and Electric Science is no different. I suspect the next generation will want to know all of it, deeply. And we must accept that it could take years for a bright mind to discover their calling, and that right after high school or college, millenials might not be that concerned with settling down in the way previous generations had been. 
+
+Rather than aimlessly stack scientific concepts and experiments one after another, directly on top of each other, this book elaborates on the universal language and emotion around the science, and on how those same feelings are ultimately responsible for what we might choose to do in this industry.
+
+The stone contains a language of ideas and symbols called axioms. Axioms can be very simple, or contain a collection of other symbols or ideas that operate like a system. When prioritized in a certain order, they can be learned sequentially, but when rearranged, they can be experimented with. Each has a range of complexity, each typically has a connection to at least one other symbol. At face value, the symbols can be studied and learned from. When explored more forensically, they can be used to inspire new experiments and products. Symbols might also be things like; love, prosperity, earth and the word, prudent. 
 
 Need you be reminded of the crazy stuff going on right now with VR/AR, Hololens, BioHacks, Data Science, AI, Bayesian Systems & Neural Networks and Higgs Boson? It's as if a new periodic table was formed right under our noses in the past 20 years and we're just learning how to use it.
+
+![](https://winblogs.azureedge.net/devices/2015/11/HoloLens.png)
 
 So here is an example of something I may ultimately contribute to the world. I want to make an AR Harry Potter Wand, that can beam huge bolts of lightning anywhere I point it. I want to create a piece of scientific equipment, in the shape of a wizards wand, that can log movement from tiny IMU's within the stick and use real-time Kalman filtering to ultimately generate AR visualizations.
 
 A project like this could take 2-5 years to make on ones own, but none the less, it would have only been made possible due to the words in my vocabulary, my imagination and the recent advancements in technology within my environment.
 
-It's all quite magical. 
+It's all quite magical. My recent stint with Harry Potter and awareness of Microsofts new product, Hololens, plus my fascination with making custom PCB's and expiraments with certain MEMS sensors all have me poised to create something totally off the wall that could be wildly awesome. I could make money from it and later, do even cooler things. 
 
 Follow the Stone.
 
