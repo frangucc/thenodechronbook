@@ -135,6 +135,8 @@ Yeah, from that and, my EGHHHEM, COUGH, bitminers.
 
 **I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
 
+curl -v https://cdn.contentful.com/spaces/vmrfpc9i6eu8/entries?access_token=fba05696091f9eeec52131c7dbaa07801aa215f0bd30606debe5fcecf8a0d5de
+
 It's the hackers guide to EECS man. 
 
 EECS? 
