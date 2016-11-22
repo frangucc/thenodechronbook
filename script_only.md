@@ -74,76 +74,116 @@ intentionally blank
 
 * **8 GOU:** G00D.
 ![](https://s3.amazonaws.com/gamifyed/NC_11_72.jpg)
-### SECTION 1 / PART 1 / ACT 2 / PAGE 12
+### SECTION 1 / PART 1 / ACT 2 / PAGE 2
 
-** 1:1:2:2 OVERVIEW: ** xxx
+** 1:1:2:2 OVERVIEW: ** After spotting and the Zuck talk on monitor #4, they watch for a sec. 
 
 * **1 GOU:** Check this out. 
 
 * **2 NŌN:** Zuck's giving a talk.
 
-> Zooms into talk Zuck's giving a talk on stage. 
+* **3 GOU:** He's talking about his new app for Oculus. 
 
-*Random Cast Dude or NodeBot Says:* "Mark Zuck teaches the entire Facebook team the hacker way, which is all about having a true comprehesion of electrical engineering and computer science" 
+> **PANEL ONE** - Zooms into talk Zuck's giving a talk on stage. 
 
-[On Monitor 4: Scene of Mark standing up on a big stage for a keynote speach, talking about his billion dollar investment into ending cancer.]
+* **4 NODEBOT:** Mark Zuck teaches the entire Facebook team the hacker way, which is all about having a true comprehesion of electrical engineering and computer science
 
-* **1 GOU:** They bought Insta and Oculus. 
+> **PANEL TWO** [On Monitor 4: Scene of Mark standing up on a big stage for a keynote speach, talking about his billion dollar investment into ending cancer.]
+
+* **5 GOU:** Is that why they bought Oculus? 
 
 ![](https://qzprod.files.wordpress.com/2016/08/mark-zuckerberg.jpg)
 
-[Gou ironically hands a bottle of water while is **playing "cap" **with the bottle - they're in the basement headquarters....]
+### SECTION 1 / PART 1 / ACT 2 / PAGE 3
+
+** 1:1:2:3 OVERVIEW: ** Other side of spread shows they boys are also playing cap while watching the talk. 
+
+> **PANEL ONE** [Gou ironically hands a bottle of water while is **playing "cap" **with the bottle - they're in the basement headquarters....]
+
+* **6 GOU:** C-A-P
 
 ![](http://originsin.adaderana.lk/webgossip/wp-content/uploads/2016/07/cvr-35.jpg)
 
-Don't facebook employees make a ton of money? 
+* **6 NON:** Don't facebook employees make a ton of money?
+
+> **PANEL FOUR** Kickass google desk and office.
 
 ![](http://img.timeinc.net/time/photoessays/2006/inside_google/google/01.jpg)
 
-Bruh. They have the life. 
+* **7 GOU:** They have the life. 
 
-I'm in dude. I'm going to commit to this and see if I can hack it. 
+> **PANEL FIVE** More kickass google office scenery.
 
-Bruh, you don't want to just hack it, you need to own it. :p
+* **8 NON:** I'm in. I'm going to commit to this. 
 
-[first emoji pack]
-
-### SECTION 1 / PART 1 / ACT 2 / PAGE 3
-
-** 1:1:2:3 OVERVIEW: ** xxx
-
-Tell me more about this stone.
-
-The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say, but it also helped archeologists understand those ancient languages. The stone acts as a legend of sorts. 
-
-![](http://www.freemaninstitute.com/RosettaStone-FenwickLOC%20074-750pix.jpg)
-Inspiration Photo
-
-**So how's that relate? **
-
-There's a **very specific set** of things **you need to know about EECS**, there's **even symbols** that represent the important **fundamentals you need to know**.
-
-![](https://s-media-cache-ak0.pinimg.com/736x/00/6a/c1/006ac13bed80faac37ace6630c6d311a.jpg)
-
-In addition to these **key schematic symbols**, I'm giving you all the rest of the must know things. Here, I put them on some cards for you called **Axiom Cards**. 
-
-![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475871937/electro_magnetism_axiom_card_pyjnr5.png)
-
-Owning these cards is the key to becoming a hacker. Once you collect them all and understand them you can make some serious money.
+> **BONUS: ** [first ever hacker emoji pack]
 
 ### SECTION 1 / PART 1 / ACT 2 / PAGE 4
 
 ** 1:1:2:4 OVERVIEW: ** xxx
 
-Yeah, I even made an app so you can keep tabs on this stuff. It keeps track of what you know and gives you props and stuff when you POWN shit.
+* **1 NON:** Tell me more about the stone.
 
-Money????
+> **PANEL ONE** Talking head of Non. Opens up another conversation. 
 
-Yeah dude, Citrus Byte pays me $75 an hour to hack on iOS and Android apps.
+* **2 GOU:** A Pharoh made it to help people in the future figure out their language and message. It was **writen in Egyptian, Greek and Hyroglphs** so that anyone in the future could read what the **pharoah** had to say. It also helped archeologists translate those ancient languages.
 
-Is that where you get all that money? 
+> **PANEL TWO** Pahroah dark, mysterious, etching into the stone, making the stone. 
 
-Yeah, from that and, my EGHHHEM, COUGH, bitminers. 
+* **3 NON:** So it's like a legend?
+
+* **4 GOU:** Yup.
+
+![](http://www.freemaninstitute.com/RosettaStone-FenwickLOC%20074-750pix.jpg)
+Inspiration Photo
+
+* **5 NON:** So what's that got to do with hardware hacking and writing code?
+
+> **PANEL THREE** More shots of the stone. Begin revealing the symbols. 
+
+### SECTION 1 / PART 1 / ACT 2 / PAGE 5
+
+** 1:1:2:3 OVERVIEW: ** Zooms and closeups of the stone, a truly beautiful spread where Gou is showing his kid brother what the stone is all about. 
+
+* **1 GOU:** There's a **very specific set** of things **you need to know about EECS**, there's **even symbols** that represent the important **fundamentals you need to know**. Learning it all is like learning a new language, and the stone is like, a huge shortcut. 
+
+> **PANEL ONE** Reveal the symbol sheet. 
+
+> **PANEL TWO** Zoom into the symobl sheet with fingers pointing. 
+
+* **2 NON:** Love shortcuts.
+
+> **PANEL THREE** Overlay the sheet with the stone in background, zoom out a bit, see they are pointing at all the symbols over shoulder, and that it soon will be put on a stone called Gou's Stone. 
+
+![](https://s-media-cache-ak0.pinimg.com/736x/00/6a/c1/006ac13bed80faac37ace6630c6d311a.jpg)
+
+### SECTION 1 / PART 1 / ACT 2 / PAGE 6
+
+** 1:1:2:4 OVERVIEW: ** The other half of spread, explains a bit about the symbols.  
+
+
+
+> **PANEL SEVEN**
+
+* **8 GOU:** In addition to these **key schematic symbols**, I'm giving you all the rest of the must know things. I put them on cards so I could learn them faster. I call them **Axiom Cards**. You can have them. 
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475871937/electro_magnetism_axiom_card_pyjnr5.png)
+
+* **8 GOU:** Owning these cards is the key to becoming a hacker. Once you collect them all and understand them you can make some serious money.
+
+### SECTION 1 / PART 1 / ACT 2 / PAGE 7
+
+** 1:1:2:7 OVERVIEW: ** xxx
+
+* **1 GOU:** There's also an app so you can study on the go. It keeps track of what you know and don't know.
+
+* **2 NON:** Are you ever going to tell me where you get all that money from? 
+
+* **3 GOU:** Citrus Byte pays me to code their iOS and Android gaming engine.
+
+* **4 NON:** Is that where you get all that money? 
+
+* **5 GOU:** Yeah, from that and, my E-G-H-H-H-E-M, C-O-U-G-H, bitminers. 
 
 ![](https://i.ytimg.com/vi/-ihMqEDs4B8/maxresdefault.jpg)
 
@@ -151,9 +191,9 @@ Yeah, from that and, my EGHHHEM, COUGH, bitminers.
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878026/symbols_hlwrtf.jpg)
 
-### SECTION 1 / PART 1 / ACT 2 / PAGE 5
+### SECTION 1 / PART 1 / ACT 2 / PAGE 8
 
-** 1:1:2:5 OVERVIEW: ** xxx
+** 1:1:2:8 OVERVIEW: ** xxx
 
 **I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
 
