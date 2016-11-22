@@ -52,34 +52,43 @@ intentionally blank
 
 > **PANEL ONE** - A HEADSHOT OF NŌN LOOKING CONCERNED.  
 
-* **1 NŌN:** What's all this mean tho Gou, not everyone's a genius like you. And what's a Rosetta Stone dammit?
+* **1 NŌN:** What's this all mean tho Gou? I'm not a genius like you. And what about the Rosetta Stone?
 
 > **PANEL TWO** - A HEADSHOT OF GOU DEEPLY IMMERSED WITH THE STONE, WHICH HAS YET TO BE FULLY REVEALED. GOU APPEARS TO BE PUTTING WITNESSING IT'S POWER, EVEN FOR HIMSELF, FOR THE VERY FIRST TIME. 
 
-* **2 GOU:** Bruh. You're not listening. I can give you all the knowledge you need to become an elit3. Being a genius has nothing to do with it. 
+* **2 GOU:** L-O-O-K, the knowledge you need to become a good hacker is all around you. You just gotta know what to look for, and what you're trying to do. 
 
 * **3 GOU:** ...woah...
 
 > **PANEL THREE** - 3 QUARTER VIEW OF NŌN RESPONDING TO GOU'S COMMENT. 
 
-* **4 NŌN:** Yeah, but I'm not a math genius. I can't just learn this stuff like you, I'm not as smart as you. 
+* **4 NŌN:** I feel like I don't get it they way you do. 
 
-* **5 NŌN:** But I really want to know this stuff like you!
+* **5 NŌN:** What can I do? 
 
 > **PANEL FOUR** - xxx
 
-* **6 GOU:** How you going to learn applied mathematics or coding if you can't COMPREHEND what I'm telling you? And I'm not that book smart either, I'm just a *hustler. Ummm.. my my teacher say's I'm really great at "comprehension! Does that help?"
+* **6 GOU:** Are you a fast learner? All you need to be able to do is C-O-M-P-R-E-H-E-N-D some reading material, and study some stuff. Once you do that, it will all suddenly make sense. That's all it's about. Don't worry if it doesn't all make sense, just keep doing it. 
 
+* **7 NŌN:** My teacher once said I was good at comprehending things.
+
+* **8 GOU:** G00D.
 ![](https://s3.amazonaws.com/gamifyed/NC_11_72.jpg)
 ### SECTION 1 / PART 1 / ACT 2 / PAGE 12
 
 ** 1:1:2:2 OVERVIEW: ** xxx
 
-**Yes,** that's good, because I can lead you to water but **I can't make you drink**. 
+* **1 GOU:** Check this out. 
+
+* **2 NŌN:** Zuck's giving a talk.
+
+> Zooms into talk Zuck's giving a talk on stage. 
 
 *Random Cast Dude or NodeBot Says:* "Mark Zuck teaches the entire Facebook team the hacker way, which is all about having a true comprehesion of electrical engineering and computer science" 
 
-[Scene of Mark standing up on a big stage for a keynote speach, talking about his billion dollar investment into ending cancer.]
+[On Monitor 4: Scene of Mark standing up on a big stage for a keynote speach, talking about his billion dollar investment into ending cancer.]
+
+* **1 GOU:** They bought Insta and Oculus. 
 
 ![](https://qzprod.files.wordpress.com/2016/08/mark-zuckerberg.jpg)
 
