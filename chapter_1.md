@@ -2,33 +2,48 @@
 VOLUME 1
 #THE HACKER WAY
 
-> These are my notes on the first volumes 4 major sections. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you want to dive right in.
+> Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you prefer not to read the essay. 
 
-Alan Turing was literally cracking the German Enigma machine when he discovered the premise for all modern computers. The Turing machine he created helped decipher German communications on where the Germans would attack next. One man, defined by his fascination with certain mathematical algorithms, helped stop the war while hacking together the first modern computer.
+Alan Turing was L-I-T-E-R-A-L-L-Y cracking the German Enigma when he discovered something that changed computing forever. One man and his love for math algos, pwnd the Nazi's. 
+
+Yup.
 
 ![](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2013/07/dn23837-1_800.jpg)
 
-Sound like something straight out of a movie? I assure you, it was not.  
+Sound like a movie? Yup. It's not.  
 
-Nikola was hacking Thomas Edisons DC empire when he discovered alternating current. 
+Nikola hacked Edison too. He threatened his DC empire when he discovered alternating current. 
 
 ![](https://s-media-cache-ak0.pinimg.com/736x/ae/ae/98/aeae9802c365c9120702d7907e0e96b7.jpg)
 
-"You're nothing but a hack Tesla?" Bruh.
+"Tesla. Hack. Bruh." This is really does sound like a movie.
 
-It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Today, the owners of Tesla, Facebook, Amazon and Alphabet, the most intelligent companies in the world, are all investing in clean energy, space travel, biosensing, ending cancer and self sustainability. Most of these companies are less than 15 years old. What type of #$%@ are they on?
+It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to. Tesla just acquired Solar City!
+
+Acquihire? No idiot. Seriously, I don't know why I bother with you. Dum dum. 
+
+Bruh; Tesla, Facebook, AMZN and Alphabet - they're all investing in space travel; self sustinability. 
+
+What type of # $ % @ they on Gou?
 
 ![](http://news.nationalgeographic.com/content/dam/news/2016/09/27/Elon-Musk-Mars-SpaceX/02-elon-musk-space-x-mars.jpg)
 
-WTH is going on? This is really starting to sound like a movie.
+You don't even want to know. Elon's on point. And he's baller. 
 
-There always seems to been something messed up going on with humans and technology. Some costly mistakes in our very recent past help reminds us of that. Even Albert Einstein's fascination of the universe's math led to the creation of the atomic bomb and nuclear energy, things that also poison our land and oceans. Ugh. Fukishima. It's messin up the whole west coast.
+There always something M-E-S-S-E-D U-P going on with humans and tech. 
+
+Some big mistakes in our very recent past really sucked. There's consequences to everything, sometimes, it's unfair - look at nuclear energy; this G-O-S-H-D-A-R-N sciences is making the planet sick! It's poisoning our land and oceans!!!! Damn. Fukishima. 
+
+It's messin up the whole West Coast. A-N-D N-O-B-O-D-Y's even talking about it!
 
 ![](http://fukushimawatch.com/wp-content/uploads/2016/07/fukushima_radiation_nuclear_fallout_map.jpg)
 
-I think about the teenager who is reading this bookn and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon - to fix all this "technical debt."
 
-The Hacker Way is a philosophy. It can act like a religion, and in the end, it's nothing more than a way of thinking shaped by nothing more than a collection of words and emotions, behaviors and attitudes. It contains the theory that we as a people, will not stand for bullshit. 
+> FRANCHINO _ I think about the teenager who is reading this bookn and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon - to fix all this "technical debt."
+
+Check this out. The Hacker Way is a philosophy. It can act like a religion, and in the end, it's nothing more than a way of thinking shaped by nothing more than a collection of words and emotions, behaviors and attitudes. It contains the theory that we as a people, will not stand for bullshit. 
+
+W-H-A-T T-H-E?
 
 If everything we do in life is dictated by words in our vocabulary (the thoughts in our minds and what fascinates us), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 
