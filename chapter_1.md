@@ -2,7 +2,7 @@
 VOLUME 1
 #THE HACKER WAY
 
-> Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you prefer not to read the essay. 
+> This is the BOOK ONE essay. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you prefer not to read the essay. 
 
 Alan Turing was L-I-T-E-R-A-L-L-Y cracking the German Enigma when he discovered something that changed computing forever. One man and his love for math algos, pwnd the Nazi's. 
 
@@ -49,11 +49,7 @@ If everything we do in life is dictated by words in our vocabulary (the thoughts
 
 ![](https://thumbs.mic.com/MmRjN2Q1YjliNSMvVVVINTRkM251YXhNYWVJejFxYjByOElrVFo0PS8yOHg1NDoxNDY5eDc4Ny8xMjgweDYyMC9maWx0ZXJzOnF1YWxpdHkoNzUpL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL2MwcHByY3RoMXNkY2NmajczcW9zZHl5aXlqcHV6eHJwbHp4NXdqc2JmZmpyeWxycGRyY2t0d3B3aXR0dXlkeWIuanBn.jpg)
 
-Among the teachings of science and technology, could we include love, family and good times, our well being? It seems we can't get away from tech. It's even attached to us. We are born with it in our hands. The question is, will we use it to our advantage or to our demise? What many anthropologists wonder is will we all come together as a global community and own it, command it and take charge of it, or will we fight it? Will humans soon begin learning it with our own runaway pace and will we execute on our knowledge, or will we destroy even more in the process? Will there some day be a collective conciousness for all our science and technology?
-
-I think there already is. Google translates all web pages for you now in any language. Anyone can access whitepapers and low level science, anytime they want, from anywhere. New Data API's and access to super computers on AWS are readily available, and if driven before college, you can go to any University to work on any sorts of problems you want. New science startups have even taken aim at decentralizing science and more so than ever, science and tech seem to be a global community.
-
-The US works with China more than any other two countries to develop billions of technological devices. 
+Among the teachings of science and technology, we include love, family and well being. It seems we can't get away from tech, and when learning it, we must not forget what it means to be human. 
 
 But despite all the readily available inspiration and information, what motivates students to flock to Universities around the world that offer clean rooms, academic research programs and places where the toughest problems on the planet are being solved, like Argon and Fermi, is still somewhat of a mystery. My point? How we are each led to these places seems all too random.
 
