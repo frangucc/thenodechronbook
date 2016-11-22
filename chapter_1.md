@@ -16,7 +16,7 @@ Nikola hacked Edison too. He threatened his DC empire when he discovered alterna
 
 ![](https://s-media-cache-ak0.pinimg.com/736x/ae/ae/98/aeae9802c365c9120702d7907e0e96b7.jpg)
 
-"Tesla. Hack. Bruh." This is really does sound like a movie.
+"Tesla. Hack. Bruh. This is really does sound like a movie."
 
 It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to. Tesla just acquired Solar City!
 
@@ -32,14 +32,14 @@ You don't even want to know. Elon's on point. And he's baller.
 
 There always something M-E-S-S-E-D U-P going on with humans and tech. 
 
-Some big mistakes in our very recent past really sucked. There's consequences to everything, sometimes, it's unfair - look at nuclear energy; this G-O-S-H-D-A-R-N sciences is making the planet sick! It's poisoning our land and oceans!!!! Damn. Fukishima. 
+Some big mistakes in our very recent past really sucked. There's consequences to everything, sometimes, it's unfair - look at nuclear energy; this G-O-S-H-D-A-R-N science is making the planet sick! It's poisoning our land and oceans!!!! Damn you Fukishima. 
 
-It's messin up the whole West Coast. A-N-D N-O-B-O-D-Y's even talking about it!
+It's messin up the whole West Coast. and N-O-B-O-D-Y's even talking about it!
 
 ![](http://fukushimawatch.com/wp-content/uploads/2016/07/fukushima_radiation_nuclear_fallout_map.jpg)
 
 
-> FRANCHINO _ I think about the teenager who is reading this bookn and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon - to fix all this "technical debt."
+> AUTHOR NOTE: _ I think about the teenager who is reading this bookn and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon - to fix all this "technical debt."
 
 Check this out. The Hacker Way is a philosophy. It can act like a religion, and in the end, it's nothing more than a way of thinking shaped by nothing more than a collection of words and emotions, behaviors and attitudes. It contains the theory that we as a people, will not stand for bullshit. 
 
