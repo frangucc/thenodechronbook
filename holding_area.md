@@ -475,4 +475,23 @@ Design with Field Programmable Logic Devices (ele 430)”
 
 
 
+Technology is attached to us now. We are born with it in our hands, we wear it and walk with it in our pocket. The question is, will we use it to our advantage or to our demise? 
 
+What many anthropologists wonder is will we all come together as a global community and own it, command it and take charge of it, or will we fight it? Will humans soon begin learning it with our own runaway pace and will we execute on our knowledge, or will we destroy even more in the process? Will there some day be a collective conciousness for all our science and technology?
+
+I think there already is. Google translates all web pages for you now in any language. Anyone can access whitepapers and low level science, anytime they want, from anywhere. New Data API's and access to super computers on AWS are readily available, and if driven before college, you can go to any University to work on any sorts of problems you want. New science startups have even taken aim at decentralizing science and more so than ever, science and tech seem to be a global community.
+
+The US works with China more than any other two countries to develop billions of technological devices. 
+
+
+
+Do you know what the Sanskrit word for “War” was?
+
+“a desire for more cows.”
+
+The Steering Problem
+ 
+[https://www.ted.com/talks/sam_harris_science_can_show_what_s_right](https://www.ted.com/talks/sam_harris_science_can_show_what_s_right)
+ 
+[Wait but why](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+The Artificial Intelligence Revolution: Part 2 - Wait But Why Part 2: "Our Immortality or Our Extinction". When Artificial Intelligence gets superintelligent, it's either going to be a dream or a nightmare for us. (72KB)
