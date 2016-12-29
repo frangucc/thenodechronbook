@@ -10,7 +10,6 @@
         * [Script Only](script_only_2.md)
     * [Neck Beards](remoting.md)
         * [Script Only](script_only_3.md)
-    * [Axiom Cards](axiom_cards.md)
     * [Tutorials](tutorials.md)
     * [Sensors](sensors.md)
 * [Big Data](chapter_5.md)
