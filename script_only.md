@@ -210,25 +210,37 @@ Inspiration Photo
 
 ** 1:1:2:8 OVERVIEW: ** xxx
 
-**I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
+* **GOU: **I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own. It will help you always follow and understand this stuff, or guide you. If you follow the stone, you will become an EECS major.
 
-It's the hackers guide to EECS man.
+> **PANEL -**
 
-EECS?
+* **GOU:** It's the hackers guide to EECS man.
 
-**Archimedes** would **be turning in his grave right now...**
+> **PANEL -**
 
-Electrical Engineering and Computer Science
+* **NON: **EECS?
 
-**Whaaa?**
+> **PANEL -**
 
-**Yeah, it's the dopest industry to be in. **
+* **GOU:** Archimedes would be turning in his grave right now...
+
+* **GOU:** Electrical Engineering and Computer Science
+
+* **NON: **Whaaa?
+
+> **PANEL -**
+
+* **GOU:**Yeah, this industry's lit. 
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878072/everywhere_nxytrz.jpg)
 
-Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? \[redundant\]
+* **NON: **Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? \[redundant\]
+* **GOU: **Bro, Tesla was a hacker. 
 
-Bro, **Tesla was a hacker**. Like, the maker of the cars? **Bruh,** will you shut up** for a second** and **listen**.
+> **PANEL -**
+
+* **NON: **Like, the maker of the cars? 
+* **GOU: **Bruh, will you shut up for a second and listen.
 
 # ACT 3
 
@@ -381,11 +393,11 @@ Gou: **Kan-yeezy** bruh. Don't dis Kankye. He's so **baller**.
 
 ** 1:1:5:2 OVERVIEW: ** xxx
 
-Ok, let's start from the beginning. What did Tesla do and what do I need to know about him?
+**NON: **Ok, let's start from the beginning. What did Tesla do and what do I need to know about him?
 
-I like where your heads at.
+**GOU: **I like where your heads at.
 
-So check it out....
+**NON: **So check it out....
 
 ---
 
@@ -473,9 +485,7 @@ DOWNLOAD THE AP AD
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384943/again_bjy1p5.jpg)
 
-
-
-###  SECTION 1 / PART 3 / ACT 1 / PAGE 1
+### SECTION 1 / PART 3 / ACT 1 / PAGE 1
 
 ** 1:3:1:1 OVERVIEW: ** The book started off with pitch on why learning EECS is so cool. The second part travelled back into the past to look at the origins of electricity and Teslas interest in phenomena. Part 3, this part, picks up with Non, the NEWB, yearning to start practicing phenomena. But first, he must SSH into his raspberry PI from his computer, so he may get started.
 
@@ -483,53 +493,54 @@ DOWNLOAD THE AP AD
 
 * **SOUND:** DANGGG!
 
-* **NON:** I don’t have an HDMI monitor on me, can’t hack. Doesn't this thing have a USB? 
+* **NON:** I don’t have an HDMI monitor on me, can’t hack. Doesn't this thing have a USB?
 
 > **PANEL TWO - **Non is pissed, he doesn't have a monitor. He's scratching his head. All he wants to do is hack!
 
-* **GOU: **What you try’na do? 
+* **GOU: **What you try’na do?
 
-* **NON: **Was feeling like practicing some phenomena. 
+* **NON: **Was feeling like practicing some phenomena.
 
 > **PANEL THREE - **Gou has his head tucked in his shirt as if headless and says, with arms out like a bird without a head.
 
-* **GOU: **Go headless bruh. 
+* **GOU: **Go headless bruh. 
 
 > **PANEL FOUR & FIVE - **Huge AHA moment for Non. The gets right back to his laptop and desk and pi while uttering several unwarranted no-doubts.
 
-* **NON: **Oh yeeaahhhhhh…. no doubt, no doubt, no doubt, no doubt, no doubt, no doubt. 
+* **NON: **Oh yeeaahhhhhh…. no doubt, no doubt, no doubt, no doubt, no doubt, no doubt. 
 
-QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
+QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
 
 ### SECTION 1 / PART 3 / ACT 1 / PAGE 2
 
-1:3:1:2 OVERVIEW: After realizing he can get into the PI from his computer, Non must actually do this. 
+1:3:1:2 OVERVIEW: After realizing he can get into the PI from his computer, Non must actually do this.
 
 > **PANEL ONE **- Gou asks Non if he knows the IP address so he can SSH in there.
 
-* **GOU:** Do know the PI’s IP? Hack in there. \(to find this, type hostname -I from your Pi's terminal.\)
+* **GOU:** Do know the PI’s IP? Hack in there. \(to find this, type hostname -I from your Pi's terminal.\)
 
 > **PANEL TWO -** Non responds to Gou. About to be frustrated, he calms his stuff.
 
-* **NON:** I suck at SSH. And no, I don’t have the IP. 
-* **NON: **If my PI was hooked up to a monitor I could just type hostname -I from the terminal.
+* **NON:** I suck at SSH. And no, I don’t have the IP. 
+* **NON: **If my PI was hooked up to a monitor I could just type hostname -I from the terminal.
 
 > PANEL THREE - Terrifying anime style shot of Non raging as he screams the following line.
 
 * **NON: **All I want is a SHELL gosh darnit!
 
-* **GOU: **If you got no monitor, your gonna need to plug the PI in and check the Router Device List from another computer on the same WIFI. If you know the router login, it will be easy. If not, you’re gonna need to use NMAP.
+* **GOU: **If you got no monitor, your gonna need to plug the PI in and check the Router Device List from another computer on the same WIFI. If you know the router login, it will be easy. If not, you’re gonna need to use NMAP.
+
 * **NON: **NMAP yo.
 * **NON: **Get NMAP yo.
 * **NON: **No doubt yo.
 
 > PANEL 4 BIG - Non is looking at instructions on the web on how to use NMAP. He's practicing RTFM. He looks up how to use NMAP on google on his laptop, else he would have asked Gou's AI called Node.
 
-* **ON LAPTOP SCREEN: **To use nmap to scan the devices on your network, you need to know the subnet you are connected to. First find your own IP address, in other words the one of the computer you're using to find your Pi's IP address:
+* **ON LAPTOP SCREEN: **To use nmap to scan the devices on your network, you need to know the subnet you are connected to. First find your own IP address, in other words the one of the computer you're using to find your Pi's IP address:
 
-* * On Linux, type hostname -I into a terminal window
-* * On Mac OS, go to System Preferences then Network and select your active network connection to view the IP address
-* * On Windows, go to the Control Panel, then under Network and Sharing Center, click View network connections, select your active network connection and click View status of this connection to view the IP address
+* * On Linux, type hostname -I into a terminal window
+* * On Mac OS, go to System Preferences then Network and select your active network connection to view the IP address
+* * On Windows, go to the Control Panel, then under Network and Sharing Center, click View network connections, select your active network connection and click View status of this connection to view the IP address
 
 > Panel 5 - Non is looking close up at his screen, waiting for NMAP to do it's thang....
 
@@ -541,24 +552,23 @@ QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access
 
 1:3:1:3 OVERVIEW: After realizing he can
 
-* **GOU: **Yup, now scan the whole subnet for other devices. For example, if your IP address is 192.168.1.5, other devices will be at addresses like 192.168.1.2, 192.168.1.3, 192.168.1.4, etc. The notation of this subnet range is 192.168.1.0/24 \(this covers 192.168.1.0 to 192.168.1.255\).
+* **GOU: **Yup, now scan the whole subnet for other devices. For example, if your IP address is 192.168.1.5, other devices will be at addresses like 192.168.1.2, 192.168.1.3, 192.168.1.4, etc. The notation of this subnet range is 192.168.1.0/24 \(this covers 192.168.1.0 to 192.168.1.255\).
 
-* **Gou: **Or just use the nmap command with the -sn flag \(ping scan\) on the whole subnet range. This may take a few seconds: nmap-sn192.168.1.0/24
+* **Gou: **Or just use the nmap command with the -sn flag \(ping scan\) on the whole subnet range. This may take a few seconds: nmap-sn192.168.1.0/24
 
 * * Ping scan just pings all the IP addresses to see if they respond. For each device that responds to the ping, the output shows the hostname and IP address like so:
 
-
-    > Starting Nmap 6.40 \( http://nmap.org \) at 2014-03-10 12:46 GMT
-    > Nmap scan report for hpprinter \(192.168.1.2\)
-    > Host is up \(0.00044s latency\).
-    > Nmap scan report for Gordons-MBP \(192.168.1.4\)
-    > Host is up \(0.0010s latency\).
-    > Nmap scan report for ubuntu \(192.168.1.5\)
-    > Host is up \(0.0010s latency\).
-    > Nmap scan report for raspberrypi \(192.168.1.8\)
-    > Host is up \(0.0030s latency\).
-    > Nmap done: 256 IP addresses \(4 hosts up\) scanned in 2.41 seconds
-    > Here you can see a device with hostname raspberrypi has IP address 192.168.1.8.
+> Starting Nmap 6.40 \( [http://nmap.org](http://nmap.org) \) at 2014-03-10 12:46 GMT  
+> Nmap scan report for hpprinter \(192.168.1.2\)  
+> Host is up \(0.00044s latency\).  
+> Nmap scan report for Gordons-MBP \(192.168.1.4\)  
+> Host is up \(0.0010s latency\).  
+> Nmap scan report for ubuntu \(192.168.1.5\)  
+> Host is up \(0.0010s latency\).  
+> Nmap scan report for raspberrypi \(192.168.1.8\)  
+> Host is up \(0.0030s latency\).  
+> Nmap done: 256 IP addresses \(4 hosts up\) scanned in 2.41 seconds  
+> Here you can see a device with hostname raspberrypi has IP address 192.168.1.8.
 
 * **NON: **WOOOHHOOOOOO!!!!!
 
@@ -566,19 +576,19 @@ QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access
 
 ### SECTION 1 / PART 3 / ACT 1 / PAGE 4
 
-1:3:1:4 OVERVIEW: Continuation of ridiculous celebration from the previous page, all for getting the IP address of the PI to be able to hack into it. This truly is a huge accomplishment to those who are even scared to turn a raspberry Pi on. 
+1:3:1:4 OVERVIEW: Continuation of ridiculous celebration from the previous page, all for getting the IP address of the PI to be able to hack into it. This truly is a huge accomplishment to those who are even scared to turn a raspberry Pi on.
 
 > **PANEL ONE - **Non is ready to go. Fired up. He's anxious and is looking down at this beautiful chip called a PI. He then frantically belts out his lines, again, as if about to rage. He's excited.
 
-* **NON: **Ok so now what? I wanna write some scripts and bust out my sensors. 
+* **NON: **Ok so now what? I wanna write some scripts and bust out my sensors.
 
 * **GOU: **YO YOU NEED RELAXXXXXXXXX BOY!!!!!!
 
 > **PANEL TWO - **Gou gives new instructions to Non. While standing over Non's shoulder, he tells him what to do next. Non is driving. He's stepped away from his desk to have this moment with Non. It's always exciting to see a newb SSH for the first time, especially when they realize they just hacked into another computer score.
 
-* **GOU: **SSH into that IP you just figured out. If you’re still stuck, try this. DUNCE\_QR\_CANT\_GET\_MY\_PI\_IP\_WAHHH. 
+* **GOU: **SSH into that IP you just figured out. If you’re still stuck, try this. DUNCE\_QR\_CANT\_GET\_MY\_PI\_IP\_WAHHH.
 
-* **NON: **You’re such a newb. 
+* **NON: **You’re such a newb.
 
 * **GOU: **Are you in yet???……………………
 
@@ -586,88 +596,30 @@ QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access
 
 * **TERMINAL: **ssh pi@&lt;IP&gt;
 
-* **READER NOTE: **If you receive a connection timed out error it is likely that you've entered the wrong IP address for the Raspberry Pi.
+* **READER NOTE: **If you receive a connection timed out error it is likely that you've entered the wrong IP address for the Raspberry Pi.
 
-* * When the connection works you'll see a security/authenticity warning. Type yesto continue. You'll only see this warning the first time you connect.
+* * When the connection works you'll see a security/authenticity warning. Type yesto continue. You'll only see this warning the first time you connect.
+  * In the event your Pi has taken the IP address of a device to which your computer has connected before \(even if this was on another network\), you may be given a warning and asked to clear the record from your list of known devices. Following this instruction and trying the ssh command again should be successful.
+  * Next you'll be prompted for the password for the pi login: on Raspbian the default password is raspberry. You should now be able to see the Raspberry Pi prompt which will be identical to the one found on the Raspberry Pi itself.
 
-  In the event your Pi has taken the IP address of a device to which your computer has connected before \(even if this was on another network\), you may be given a warning and asked to clear the record from your list of known devices. Following this instruction and trying the ssh command again should be successful.
+* * > If you have set up another user on the Pi, you can connect to it the same way, replacing the username with your own, e.g. eben@192.168.1.5
+    > pi@raspberrypi ~ $
+    > You are now connected to the Pi remotely and can execute commands.
+    > BONUS ROUND
+    > QR\_X-FORWARDING
+    > You can also forward your X session over SSH to allow use of graphical applications by using the -Y flag:
+    > ssh-Y pi@192.168.1.5
+    > Now you're on the command line as before, but you have the ability to open up graphical windows, for example:
+    > idle3&
+    > This will open up the Python editor IDLE in a graphical window.
+    > scratch&
+    > This will open up Scratch.
+    > For further documentation on the ssh command just enter man ssh into the Terminal.
+    > To configure your Pi to allow passwordless SSH access with a public/private key pair see the [passwordless SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md) guide.
 
-  Next you'll be prompted for the password for the pi login: on Raspbian the default password is raspberry. You should now be able to see the Raspberry Pi prompt which will be identical to the one found on the Raspberry Pi itself.
-
-If you have set up another user on the Pi, you can connect to it the same way, replacing the username with your own, e.g. eben@192.168.1.5
-
-pi@raspberrypi ~ $
-
-You are now connected to the Pi remotely and can execute commands.
-
-BONUS ROUND
-
-QR\_X-FORWARDING
-
-You can also forward your X session over SSH to allow use of graphical applications by using the -Y flag:
-
-ssh-Y pi@192.168.1.5
-
-Now you're on the command line as before, but you have the ability to open up graphical windows, for example:
-
-idle3&
-
-This will open up the Python editor IDLE in a graphical window.
-
-scratch&
-
-This will open up Scratch.
-
-For further documentation on the ssh command just enter man ssh into the Terminal.
-
-To configure your Pi to allow passwordless SSH access with a public/private key pair see the [passwordless SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md) guide.
-
-Congratulations, you just earned the following badges:
+**CHAPTER END BADGE PAGE: **Congratulations, you just earned the following badges:
 
 BOOTER, NMAP NEWB, SSH NEWB, TERMINAL NEWB
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
