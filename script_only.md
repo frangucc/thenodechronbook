@@ -1,18 +1,18 @@
 # SECTION 1
 
-> In section one, we meet Gou Sokyeo and Nōn for the first time. The two boys discuss what it takes to be a hacker before transitioning to a bit of history in the second part. By the third part, they are back at present and they leave the reader with some final inspiration for moving forward.
+> In section one, we meet Gou Sokyeo and his younger brother Nōn for the first time. The two boys discuss what it takes to be an EECS hacker before transitioning to a bit of history in the second part. By the third part, they are back at present, with Nōn desperately wanting to dive in and boot up his Raspberry PI so he can start learning.
 
 ---
 
 # PART 1
 
-> In part one, we get to see Gou's hometown, home and the basement headquarters. We get a sense for his environment, family life and normal state. The first part is mostly to get to know how Gou and Non think, talk, behave and what they're generally up to.
+> In part one, we get to see Gou's hometown, home and the basement headquarters. We get a sense for his environment, family life and normal state. In the first part, the objective is to help the readers understand the benefits of EECS, Science and what it's like to work in the Tech Industry and be a famous entreprenour.
 
 ---
 
 # ACT 1
 
-> In the very first opening act of the entire saga, we do an arial tour of Gou's town and home, and get into the basement headquarters, also known as, Gou's office.
+> In the very first opening act of the entire saga, we do an arial tour of Gou's town and home, and get into the basement headquarters, also known as, Gou's office. Here, the two boys have an inspiring conversation about why the EECS field is so great.
 
 And so it begins....
 
@@ -55,6 +55,14 @@ intentionally blank
 ### SECTION 1 / PART 1 / ACT 1 / PAGE 10
 
 intentionally blank
+
+
+
+**---HACKING DISCLAIMER ----**
+
+Clarify to the reader what we mean by hacker. Use Mark Zuckerbergs explanation of what it means to be a hacker.
+
+
 
 ---
 
@@ -280,7 +288,7 @@ Yeah, dude, **Alan Turing,** the dude who invented the **modern concept of a com
 
 \[We need a literally "text" version of Gou's stone we can give away\]
 
-\[And we need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS. It should look like a combiation of the rosetta stone and some cool glowing stone.\]
+\[And we need a dope glowing stone that can represent the legend for all 5 volumes and mastery of EECS. It should look like a combination of the rosetta stone and some cool glowing stone.\]
 
 ![](http://cdn.shopify.com/s/files/1/0779/7277/products/1_3061644f-5a89-4a05-a246-b2471f3bcc51_grande.jpeg?v=1444656155)  
 Inspiration Photo
@@ -487,7 +495,7 @@ DOWNLOAD THE AP AD
 
 ### SECTION 1 / PART 3 / ACT 1 / PAGE 1
 
-** 1:3:1:1 OVERVIEW: ** The book started off with pitch on why learning EECS is so cool. The second part travelled back into the past to look at the origins of electricity and Teslas interest in phenomena. Part 3, this part, picks up with Non, the NEWB, yearning to start practicing phenomena. But first, he must SSH into his raspberry PI from his computer, so he may get started.
+**1:3:1:1 OVERVIEW: ** The book started off with pitch on why learning EECS is so cool. The second part travelled back into the past to look at the origins of electricity and Teslas interest in phenomena. Part 3, this part, picks up with Non, the NEWB, yearning to start practicing phenomena. But first, he must SSH into his raspberry PI from his computer, so he may get started.
 
 > **PANEL ONE** - Non sits down to try and play with the PI for the first time. He's been reading up on Phenomena and wants to try some stuff. Face at desk, realizes he has to plug the PI into an HDMI monitor, but doesn't want to do that. He'd rather hack into it from his Macbook pro.
 
@@ -531,7 +539,9 @@ QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access/
 * **GOU: **If you got no monitor, your gonna need to plug the PI in and check the Router Device List from another computer on the same WIFI. If you know the router login, it will be easy. If not, you’re gonna need to use NMAP.
 
 * **NON: **NMAP yo.
+
 * **NON: **Get NMAP yo.
+
 * **NON: **No doubt yo.
 
 > PANEL 4 BIG - Non is looking at instructions on the web on how to use NMAP. He's practicing RTFM. He looks up how to use NMAP on google on his laptop, else he would have asked Gou's AI called Node.
@@ -601,29 +611,22 @@ QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access/
 * * When the connection works you'll see a security/authenticity warning. Type yesto continue. You'll only see this warning the first time you connect.
   * In the event your Pi has taken the IP address of a device to which your computer has connected before \(even if this was on another network\), you may be given a warning and asked to clear the record from your list of known devices. Following this instruction and trying the ssh command again should be successful.
   * Next you'll be prompted for the password for the pi login: on Raspbian the default password is raspberry. You should now be able to see the Raspberry Pi prompt which will be identical to the one found on the Raspberry Pi itself.
-
-* * > If you have set up another user on the Pi, you can connect to it the same way, replacing the username with your own, e.g. eben@192.168.1.5
-    > pi@raspberrypi ~ $
-    > You are now connected to the Pi remotely and can execute commands.
-    > BONUS ROUND
-    > QR\_X-FORWARDING
-    > You can also forward your X session over SSH to allow use of graphical applications by using the -Y flag:
-    > ssh-Y pi@192.168.1.5
-    > Now you're on the command line as before, but you have the ability to open up graphical windows, for example:
-    > idle3&
-    > This will open up the Python editor IDLE in a graphical window.
-    > scratch&
-    > This will open up Scratch.
-    > For further documentation on the ssh command just enter man ssh into the Terminal.
+* * > If you have set up another user on the Pi, you can connect to it the same way, replacing the username with your own, e.g. eben@192.168.1.5  
+    > pi@raspberrypi ~ $  
+    > You are now connected to the Pi remotely and can execute commands.  
+    > BONUS ROUND  
+    > QR\_X-FORWARDING  
+    > You can also forward your X session over SSH to allow use of graphical applications by using the -Y flag:  
+    > ssh-Y pi@192.168.1.5  
+    > Now you're on the command line as before, but you have the ability to open up graphical windows, for example:  
+    > idle3&  
+    > This will open up the Python editor IDLE in a graphical window.  
+    > scratch&  
+    > This will open up Scratch.  
+    > For further documentation on the ssh command just enter man ssh into the Terminal.  
     > To configure your Pi to allow passwordless SSH access with a public/private key pair see the [passwordless SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md) guide.
 
 **CHAPTER END BADGE PAGE: **Congratulations, you just earned the following badges:
 
 BOOTER, NMAP NEWB, SSH NEWB, TERMINAL NEWB
-
-
-
-
-
-
 
