@@ -56,13 +56,9 @@ intentionally blank
 
 intentionally blank
 
-
-
-**---HACKING DISCLAIMER ----**
+**---HACKING DISCLAIMER TO READER ----**
 
 Clarify to the reader what we mean by hacker. Use Mark Zuckerbergs explanation of what it means to be a hacker.
-
-
 
 ---
 
@@ -186,13 +182,13 @@ Inspiration Photo
 
 ** 1:1:2:4 OVERVIEW: ** The other half of spread, explains a bit about the symbols.
 
-> **PANEL SEVEN**
+> **PANEL ONE**
 
-* **8 GOU:** In addition to these **key schematic symbols**, I'm giving you all the rest of the must know things. I put them on cards so I could learn them faster. I call them **Axiom Cards**. You can have them. 
+* **1 GOU:** In addition to these **key schematic symbols**, I'm giving you all the rest of the must know things. I put them on cards so I could learn them faster. I call them **Axiom Cards**. You can have them. 
 
-![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475871937/electro_magnetism_axiom_card_pyjnr5.png)
+> **PANEL TWO - **Show axiom cards.
 
-* **8 GOU:** Owning these cards is the key to becoming a hacker. Once you collect them all and understand them you can make some serious money.
+* **2 GOU:** Owning these cards is the key to becoming a hacker. Once you collect them all and understand them you can make some serious money.
 
 ### SECTION 1 / PART 1 / ACT 2 / PAGE 7
 
@@ -625,6 +621,10 @@ QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access/
     > This will open up Scratch.  
     > For further documentation on the ssh command just enter man ssh into the Terminal.  
     > To configure your Pi to allow passwordless SSH access with a public/private key pair see the [passwordless SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md) guide.
+
+_FJ \_ Before ending part 1, consider adding 3-4 projects now on the PI. Booting the PI is not enough. _
+
+
 
 **CHAPTER END BADGE PAGE: **Congratulations, you just earned the following badges:
 
