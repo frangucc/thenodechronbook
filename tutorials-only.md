@@ -14,6 +14,21 @@ when you open the pi, insert the SD card that comes with it and follow the instr
 
 # Going Headless
 
+QR\_CODE\_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
+
+(ONE OF VERY EARLY QR CODES REFERENCED IN THE SCRIPT ONLY SECTION)
+
+Found at the end of 
+### SECTION 1 / PART 3 / ACT 1 / PAGE 1
+
+Edit here -> [https://www.gitbook.com/book/frangucc/gamifyed/edit#/edit/master/script_only.md?_k=ur4n6r](https://www.gitbook.com/book/frangucc/gamifyed/edit#/edit/master/script_only.md?_k=ur4n6r)
+
+
+
+
+
+
+
 
 
 
