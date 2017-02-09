@@ -10,13 +10,13 @@ Yup.
 
 ![](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2013/07/dn23837-1_800.jpg)
 
-Sound like a movie? Yup. It's not.  
+Sound like a movie? Yeah. It's not.  
 
 Nikola hacked Edison too. He threatened his DC empire when he discovered alternating current. 
 
 ![](https://s-media-cache-ak0.pinimg.com/736x/ae/ae/98/aeae9802c365c9120702d7907e0e96b7.jpg)
 
-"Tesla. Hack. Bruh. This is really does sound like a movie."
+"Tesla? A hacker? Bruh. This is really does sound like a movie."
 
 It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to. Tesla just acquired Solar City!
 
