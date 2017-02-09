@@ -345,6 +345,30 @@ Setup a programming environment or use a virtual one we got...
 
 This has never been done, there are no references we could find, so we're making our own.
 
+
+WOAH THIS CHAPTER TAKES A TURN
+
+Ada Lovelace
+Babbage’s difference engine 
+Wolfram Alpha
+
+What do they all have in common?
+
+![](http://bit-player.org/wp-content/uploads/2016/01/Wolfram-Babbage-Lovelace.png)
+
+
+When you boot noobs/raspbian, you get a shell, why? Why is that there?
+
+![](https://www.wolfram.com/raspberry-pi/images/screen-wolfram-language-hover.png)
+
+Should we learn a tiny bit about the Wolfram language?
+
+What are all the things we should learn? Can they all be found in a legend? Something like this?
+
+![](http://nicholasarmstrong.com/assets/pages/portfolio/academics/Periodic-Table-of-Courses.png)
+
+
+
 Icons for
 
 | 0:0 | 1:0 |
