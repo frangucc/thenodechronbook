@@ -19,15 +19,19 @@ So let's take a second to think about that. A comic book that teaches? How so? A
 
 The vast majority of EECS majors we interviewed said they initially got 'sucked in' because someone close to them was highly involved. The main thing they all clearly agreed on was that it was the 'atomoshphere' that got them going. 
 
+![](https://d17oy1vhnax1f7.cloudfront.net/items/0l1V1a0D3H0m2u023K2Z/again_bjy1p5.jpg?v=b5dba873)
+
 Many also agreed that it was a 'desire to build something clever and useful' and said, 'once they figured it out, it got addicting.' 
 
 I chose the graphic novel format because it helps us paint that 'cultural picture' unlike any other medium. As a company, we like to think all people should be able to share in that 'atmosphere' (especially teens), no matter who or where they come from. 
 
-With that said, careful choices had to be made on how work with such limited space for text. The challenge was so great that writing the first 150 pages took over two years of research.
+With that said, careful choices had to be made on how work with such limited space for text. The challenge was so great that writing the first 150 pages took over two years of research. In-fact, our research never stops, it's always ongoing. You can even contribute by going [here](https://goo.gl/forms/kvYGpnBg6f8beEGt1). 
 
-And what exactly is EECS you ask? 
+And what exactly is EE/CS you ask? (also referred to as ECE) 
 
-EECS is one of the most exciting and lucrative fields on the planet. It's what's etched in the walls at MIT and according to UC Berkly:
+![](http://tech.mit.edu/V131/N51/graphics/fbookevent-6.jpg)
+
+EE/CS is one of the most exciting and lucrative fields on the planet. The words are etched in the walls at MIT and according to UC Berkly:
 
 > The integration of EE and CS have now formed strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research.
 
@@ -41,6 +45,8 @@ And if you're still a bit confused as to where you've just landed, the author in
 
 For those getting started late, not to worry. History is filled with great engineers and inventors who got started late. The rise of bootcamps, practice apps and learning hubs like the General Assembly, CodeCademy and Udemy have opened up plenty of back-doors for fast learners. But it's no secret that those who do start early are often better off. In that way, *it's becoming a sport.*
 
+![](http://clubhousenews.com/wp-content/uploads/2014/04/LA-hackathon.jpg)
+
 While such other methods of teaching are neat and useful, The Node Chronicles is something much different. It's an entirely separate beast. 
 
 TNC is a cultural guide that puts a ton of crap into perspective in an extremely terse, rememberable corpus. It plays like a game of ques and clues and teaches the Hacker Way in strategic proportion to the tutorials. The way we 'set principals' is unlike any other educational experience.
@@ -53,14 +59,15 @@ Here's just a preview of all the moving subjects. It's quite the challenge!
 
 ![](http://nicholasarmstrong.com/assets/pages/portfolio/academics/Periodic-Table-of-Courses.png)
 
-But we take some shortcuts with the book, which looks more like this:
-
-![](https://cl.ly/162v3A3G352j/file.jpg)
-
 
 # What to learn.
 
 These days the majority of all innovations have some form of computer in them; so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
+
+The scope of what's in the book sorta looks like this:
+
+![](https://cl.ly/162v3A3G352j/file.jpg)
+> Dare we illustrate this...
 
 We'll also take a look at some of the real world industry influencers who've been able to live brilliant lives by leveraging this fascinating craft. In the book we examine their personal lives and atomspheres as well as their unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
@@ -184,7 +191,9 @@ If you begin reding this book and decide this stuff is worth pursuing, definitel
 ![](https://cl.ly/1A0o1W1f3w0i/tnc_3.jpg)
 
 
+![](https://pbs.twimg.com/media/CrcceTDWYAAYml_.jpg:large)
 
+![](https://pbs.twimg.com/media/CrccLt2XgAIXKKo.jpg:large)
 
 
 # One last bit on hacking.
