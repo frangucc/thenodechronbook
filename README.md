@@ -64,9 +64,11 @@ These days the majority of all innovations have some form of computer in them; s
 
 We'll also take a look at some of the real world industry influencers who've been able to live brilliant lives by leveraging this fascinating craft. In the book we examine their personal lives and atomspheres as well as their unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
-
+![](https://cl.ly/0s42011Q0G0G/TNC_Banzi.jpg)
 
 When you realize that computers are getting smaller and smaller, to the point they've become biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri or location aware. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
+
+![](https://cl.ly/1z1z0q1O0H1Z/tnc_stone.jpg)
 
 It's even gotten Disney Marvel cray... Harvard scientists are now "copy and pasting" genes with binary controlled DNA munching electrical molecules that can live in your body! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
 
@@ -75,6 +77,8 @@ So. Are you ready to step up and be a part of the EECS revolution? In a nutshell
 ## The hacker way.
 
 The word “hacker” has an unfairly negative connotation from being portrayed in the media as people who break into computers. In reality, hacking just means building something quickly or testing the boundaries of what can be done. Like most things it can be used for good or bad, but the vast majority of hackers I’ve met tend to be idealistic people who want to have a positive impact on the world.
+
+![](https://cl.ly/3E0R0302063Q/TNC_The_HACKER_WAY.jpg)
 
 The Hacker Way is an approach to building that involves continuous improvement and iteration. Hackers believe that something can always be better, and that nothing is ever complete. They just have to go fix it — often in the face of people who say it’s impossible or are content with the status quo.
 
@@ -95,6 +99,8 @@ The Hacker Way is an approach to building that involves continuous improvement a
 And if you've ever interacted with a gifted electrical engineer or programmer then you know there's a certain nerd swagger that the really good ones have. It's hard to describe. Seeing their work can make you buckle and want to quit trying. And when you find out they make as much as doctors, wear flip-flops to work and are so well pampered, you begin to wonder if you can hack too.
 
 While this all sounds gravy, there is one thing you should note: Most of these gurus have been putting in work since they were ~12 years old. Mr. Gladwell would say you need to put 10,000 quality hours in before you become a master, and we agree, somewhat. Woah, that's still a lot of time spent on the computer geeking out!
+
+![](https://pbs.twimg.com/media/C4PAAqHUEAAD-JQ.jpg:large)
 
 What Malcom G. doesn't tell you is how to spend those hours. And if you're older, you're not out necessarily, but you certainly can't waste anymore time. That's where this book comes into play. Gamifyed Inc. is quickly establishing itself as a Holacratic Academy for people at all stages of the game. We're like the scouts but for hacking, driven with purpose, enthralled by the potential upside of it all. We're here to make sure you spend all your time learning as efficiently as possible. We try and keep you away from things that aren't worth learning also, because trust us, there's a lot of gunk out there NOT worth learning.
 
