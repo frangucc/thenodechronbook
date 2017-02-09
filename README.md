@@ -79,7 +79,7 @@ When you realize that computers are getting smaller and smaller, to the point th
 
 It's even gotten Disney Marvel cray... Harvard scientists are now "copy and pasting" genes with binary controlled DNA munching electrical molecules that can live in your body! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
 
-So. Are you ready to step up and be a part of the EECS revolution? In a nutshell, this is what we're gonna learn. 
+So. Are you ready to step up and be a part of the EE/CS revolution? 
 
 ## The hacker way.
 
