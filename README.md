@@ -31,11 +31,9 @@ EECS is one of the most exciting and lucrative fields on the planet. It's what's
 
 > The integration of EE and CS have now formed strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research.
 
-
-
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
-And if you're still a bit confused as to where you've just landed. 
+And if you're still a bit confused as to where you've just landed, the author invites you to watch this video of the current process of Book 1, The Node Chronicles - They Hacker Way. 
 
 {% youtube %} https://www.youtube.com/watch?v=9bZkp7q19f0 {% endyoutube %}
 
@@ -51,17 +49,28 @@ TNC is a cultural guide that puts a ton of crap into perspective in an extremely
 
 In a nutshell, becoming an EECS hacker isn't just about making money and having a great career either, it's about inventing cool stuff, solving incredible problems and seeing those inventions through to some form of market. And yes technically, it is often about making money - by the boatload. 
 
+Here's just a preview of all the moving subjects. It's quite the challenge!
+
+![](http://nicholasarmstrong.com/assets/pages/portfolio/academics/Periodic-Table-of-Courses.png)
+
+But we take some shortcuts with the book, which looks more like this:
+
+![](https://cl.ly/162v3A3G352j/file.jpg)
+
+
 # What to learn.
 
 These days the majority of all innovations have some form of computer in them; so that's the area we're going to look at. How do we make new things from scratch with computers in them? And what can these computers do for us?
 
 We'll also take a look at some of the real world industry influencers who've been able to live brilliant lives by leveraging this fascinating craft. In the book we examine their personal lives and atomspheres as well as their unique traits and the socioeconomic behaviors that led to their successes (and failures).
 
+
+
 When you realize that computers are getting smaller and smaller, to the point they've become biologic and nanoscopic, you begin to think - they're in your phones, watches, clothing, soccer balls and drones, even your toys and dolls. They're what makes things voice enabled like Siri or location aware. Your dogs coller now has a GPS and new cars like the Tesla have hundreds of sensors that drive the vehicle on it's own. Robots are here amongst us, right now and soon enough, biohacks will cure varoius diseases, regulate failing organs and help the paralyzed walk again! That's cray cray.  
 
 It's even gotten Disney Marvel cray... Harvard scientists are now "copy and pasting" genes with binary controlled DNA munching electrical molecules that can live in your body! What was once sci-fi is now becoming reality. *What an incredible time to be alive.*
 
-So. Are you ready to step up and be a part of the EECS revolution?
+So. Are you ready to step up and be a part of the EECS revolution? In a nutshell, this is what we're gonna learn. 
 
 ## The hacker way.
 
