@@ -37,7 +37,7 @@ EECS is one of the most exciting and lucrative fields on the planet. It's what's
 
 And if you're still a bit confused as to where you've just landed. 
 
-{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
+{% youtube %} https://www.youtube.com/watch?v=9bZkp7q19f0 {% endyoutube %}
 
 > The hardest part about learning EECS is simply wrapping your head around it. - Franchino, Creator of The Node Chronicles
 
