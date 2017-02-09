@@ -2,7 +2,7 @@
 VOLUME 1
 #THE HACKER WAY
 
-> This is the BOOK ONE essay. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you prefer not to read the essay. 
+> This is the BOOK ONE essay. It's not pretty. Skip to the first chapter ([Stealth Mode](https://frangucc.gitbooks.io/gamifyed/content/stealth_mode.html)) if you prefer not to read the essay. 
 
 Alan Turing was L-I-T-E-R-A-L-L-Y cracking the German Enigma when he discovered something that changed computing forever. One man and his love for math algos, pwnd the Nazi's. 
 
