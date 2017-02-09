@@ -31,8 +31,13 @@ EECS is one of the most exciting and lucrative fields on the planet. It's what's
 
 > The integration of EE and CS have now formed strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research.
 
+
+
 ![](https://cl.ly/1y2T0y1Q3Y3b/ECE.jpg)
 
+And if you're still a bit confused as to where you've just landed. 
+
+{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
 
 > The hardest part about learning EECS is simply wrapping your head around it. - Franchino, Creator of The Node Chronicles
 
