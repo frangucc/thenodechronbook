@@ -39,6 +39,7 @@ EE/CS is one of the most exciting and lucrative fields on the planet. The words 
 
 And if you're still a bit confused as to where you've just landed, the author invites you to watch this video of the current process of Book 1, The Node Chronicles - They Hacker Way. 
 
+
 {% youtube %} https://www.youtube.com/watch?v=pCuYLRaLCK0 {% endyoutube %}
 
 > The hardest part about learning EECS is simply wrapping your head around it. - Franchino, Creator of The Node Chronicles
