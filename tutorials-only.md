@@ -102,14 +102,12 @@ netstat -in
 
 linux
 
-
-
-
 https://www.youtube.com/watch?v=fLtsXwdM4n0 6 things to do to a pi after buying
 
-kali linux installation https://www.youtube.com/watch?v=6xXnUGR_e4E
+kali linux (stay away installation https://www.youtube.com/watch?v=6xXnUGR_e4E
 
 Frank read https://www.youtube.com/watch?v=Mcz7phI9H1A
 
+Basically, we need to decide what environment we will move to. This book must square away a really great environment where we can go from. 
 
 
