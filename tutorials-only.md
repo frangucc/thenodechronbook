@@ -1,11 +1,8 @@
 # Installing Noobs & Raspbian OS
 
-
-
 ```
 QR_CODE_BOOTING_NOOBS
 ```
-
 
 When you first boot up NOOBS, you’ll get a selection of OSes to choose from. Which operating systems are available depends on which model of Raspberry Pi you are using. For this guide, we’ll stick to the most common OSesoperating systems available on the newest models of the Raspberry Pi. Right now, that’s [Raspbian](https://www.raspberrypi.org/downloads/raspbian/), [OSMC](https://osmc.tv/), [OpenELEC](http://openelec.tv/), [Windows IoT Core](https://developer.microsoft.com/en-us/windows/iot), [RISC OS](https://www.riscosopen.org/).
 
@@ -15,8 +12,6 @@ when you open the pi, insert the SD card that comes with it and follow the instr
 
 ![](/assets/noobs4.jpg)
 
-
-
 ![](/assets/noobs3.jpg)
 
 # Going Headless
@@ -25,32 +20,31 @@ when you open the pi, insert the SD card that comes with it and follow the instr
 QR_CODE_GOHEADLESS = [https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
 ```
 
-
-(ONE OF VERY EARLY QR CODES REFERENCED IN THE SCRIPT ONLY SECTION)
+\(ONE OF VERY EARLY QR CODES REFERENCED IN THE SCRIPT ONLY SECTION\)
 
 ```
 hostname -I (from the pi)
 ssh@pi<IP> (from the remote machine)
 ```
 
-username: pi
+username: pi  
 password: raspberry
 
 # raspi config
 
 this always fun for things like overclocking, advanced options, changing the passwords, boot options, etc.
 
-sudo raspi-config 
+sudo raspi-config
 
 The headless part SCRIPT can be found at the end of this section of the script only area of stealth mode.
+
 ### SECTION 1 / PART 3 / ACT 1 / PAGE 1
 
-Edit here -> [https://www.gitbook.com/book/frangucc/gamifyed/edit#/edit/master/script_only.md?_k=ur4n6r](https://www.gitbook.com/book/frangucc/gamifyed/edit#/edit/master/script_only.md?_k=ur4n6r)
-
+Edit here -&gt; [https://www.gitbook.com/book/frangucc/gamifyed/edit\#/edit/master/script\_only.md?\_k=ur4n6r](https://www.gitbook.com/book/frangucc/gamifyed/edit#/edit/master/script_only.md?_k=ur4n6r)
 
 # Making sure the keyboard works - first ever config edit
 
-https://www.youtube.com/watch?v=L1F-TxTPyiM
+[https://www.youtube.com/watch?v=L1F-TxTPyiM](https://www.youtube.com/watch?v=L1F-TxTPyiM)
 
 sudo vi /etc/default/keyboard
 
@@ -58,24 +52,24 @@ sudo vi /etc/default/keyboard
 
 CONTENTS
 
-Commands
-Some basic and more advanced Linux commands
-Text editors
-A selection of text editors available on the Pi
-Users
-Setting up multiple Linux users on your Pi system
-Root
-The root user and the sudo prefix
-Cron / Crontab
-Setting up scheduled tasks
-.bashrc and .bash_aliases
-Your shell configuration and aliases
-rc.local
+Commands  
+Some basic and more advanced Linux commands  
+Text editors  
+A selection of text editors available on the Pi  
+Users  
+Setting up multiple Linux users on your Pi system  
+Root  
+The root user and the sudo prefix  
+Cron / Crontab  
+Setting up scheduled tasks  
+.bashrc and .bash\_aliases  
+Your shell configuration and aliases  
+rc.local  
 Configuration of initialisation
 
 ## The SUPERUSER & PI WITH SUDO
 
-The Linux operating system is a multi-user operating system which allows multiple users to log in and use the computer. To protect the computer (and the privacy of other users), the users' abilities are restricted.
+The Linux operating system is a multi-user operating system which allows multiple users to log in and use the computer. To protect the computer \(and the privacy of other users\), the users' abilities are restricted.
 
 Most users are allowed to run most programs, and to save and edit files stored in their own home folder. Normal users are not normally allowed to edit files in other users' folders or any of the system files. There's a special user in Linux known as the superuser, which is usually given the username root. The superuser has unrestricted access to the computer and can do almost anything.
 
@@ -97,27 +91,25 @@ It would defeat the point of the security if anyone could just put sudo in front
 
 
 
+# Checklist time. We're about to start with input output in C, but before that, make sure we've done this stuff...
+
+unix safe
+who
+uname -a
+hostname -I
+hostname -i
+netstat -in
+
+linux
 
 
 
 
+https://www.youtube.com/watch?v=fLtsXwdM4n0 6 things to do to a pi after buying
 
+kali linux installation https://www.youtube.com/watch?v=6xXnUGR_e4E
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Frank read https://www.youtube.com/watch?v=Mcz7phI9H1A
 
 
 
