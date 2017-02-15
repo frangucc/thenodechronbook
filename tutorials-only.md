@@ -158,7 +158,13 @@ Frank read this is histerical https://youtu.be/ogM69CFbjV4?t=36s
 
 Basically, we need to decide what environment we will move to. This book must square away a really great environment where we can go from. 
 
-Is Kali important or not? Is this too deep into penetration testing? 
+Is Kali important or not? Is this too deep into penetration testing?
+
+### My official thoughts on this are the minute we go too deep here and get into things like Aircrack, Wifi hacking, etc - the line is crossed from studying IoT/Electronics/Software product making to the ultra specifics of penetration testing and security. This book must direct the hacker mentality (figuring and learning anything out) and apply it to robots, products and software. 
+
+> The fact is that these areas are where things overlap and yes, need to be secure, eventually. You cannot make an IoT product without thinking about handshakes, encryption, passing through wifi (with permission), LoRa/Bluetooth/RF, etc. 
+
+> Despite all this stuff, let's not forget that The Hacker Way should give hackers a well rounded ability to figure any of this stuff out and go really deep in some areas when there is a very specific need. 
 
 # ssh keygen known_hosts SCP has to come in soon
 
