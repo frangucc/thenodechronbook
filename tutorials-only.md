@@ -100,6 +100,20 @@ hostname -I
 hostname -i
 netstat -in
 
+### USERS MUST
+
+* be able to fire up a linux machine or connect to one from a unix or power shell terminal. 
+* be able to connect to that machine and transfer files over to that machine using ssh + scp/cat/cp/mv etc.
+* run docker and github on the host machine to create a web based portal for hosting their software
+* connect their software to the cloud and physical real world devices and store data on AWS
+* Run more complicated programs and tasks with electronics and breadboards, gain points and unlock privs the more you register and run services. 
+
+# 6 things to do to a pi after unboxing video
+
+
+{% youtube %}https://www.youtube.com/watch?v=fLtsXwdM4n0 {% endyoutube %}
+
+
 linux
 
 https://www.youtube.com/watch?v=fLtsXwdM4n0 6 things to do to a pi after buying
@@ -110,4 +124,62 @@ Frank read https://www.youtube.com/watch?v=Mcz7phI9H1A
 
 Basically, we need to decide what environment we will move to. This book must square away a really great environment where we can go from. 
 
+# gcc compiler
 
+must install xcode on mac
+
+install command line tools on mac - GET TO A GCC compiler. Must have a GCC compiler - figure it out. here are clues. Google it. 
+
+Teach people how to google stuff. End of day, you need to be able to run 
+
+```
+gcc -v
+```
+
+-v flag common, does this thing exit ie: 
+
+```
+node.js -v
+ruby -v
+
+```
+xcode-select --install
+
+```
+
+# cool online tool for interpreting code in any language
+http://codepad.org/ by sauscelabs
+(we should use this on Gamifyeds website)
+
+# do we dive right into something like pointers?
+
+```
+
+    #include <stdio.h>
+ 
+     int func_one() {
+         printf("This is function one\n");
+         return 1;
+     }
+ 
+     int func_two() {
+         printf("This is function two\n");
+         return 2;
+     }
+ 
+     int main() {
+         int value;
+         int (*function_ptr) ();
+ 
+         function_ptr = func_one;
+         printf("function_ptr is 0x%08x\n", function_ptr);
+         value = function_ptr();
+         printf("value returned was %d\n", value);
+ 
+         function_ptr = func_two;
+         printf("function_ptr is 0x%08x\n", function_ptr);
+         value = function_ptr();
+         printf("value returned was %d\n", value);
+     }
+ 
+ ```
