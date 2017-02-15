@@ -113,16 +113,60 @@ netstat -in
 
 {% youtube %}https://www.youtube.com/watch?v=fLtsXwdM4n0 {% endyoutube %}
 
+----- Installing Raspbian OS
+----- Do the SSH into Raspberry Pi 
+----- Get the GUI of Raspberry Pi onto Laptop
+----- AutoLogin the Raspbian OS for doing Automation 
+----- Setup Wi-Fi and Bluetooth of the Raspberry Pi 3
+----- Customizing Raspbian OS Panel settings, Desktop Appearence
 
-linux
+Download Putty.exe
+http://dl1.filehippo.com/371b5381fdcb...
 
-https://www.youtube.com/watch?v=fLtsXwdM4n0 6 things to do to a pi after buying
+Download VNC Viewer x64 Bit
+https://www.realvnc.com/download/file...
+
+Download Win32DiskImager
+http://jaist.dl.sourceforge.net/proje...
+
+Download Raspbian Image
+http://vx2-downloads.raspberrypi.org/...
+
+Download WinRar
+http://www.win-rar.com/fileadmin/winr...
+
+Commands
+sudo apt-get update --fix-missing
+sudo apt-get install tightvncserver
+tightvncserver
+sudo apt-get install blueman
+sudo apt-get install wicd-gtk
+
+> What this man describes in the youtube video is how to plug your PI in and have it automatically connect to the WIFI on boot with (wicd-gtk) and fire up Bluetooth services with (blueman) so that the PI can both be connected to and connect to other nearby devices. 
+
+Establishing these connections is important. 
+
+# To Kali or not to Kali
 
 kali linux (stay away installation https://www.youtube.com/watch?v=6xXnUGR_e4E
 
-Frank read https://www.youtube.com/watch?v=Mcz7phI9H1A
+Frank read this is histerical https://youtu.be/ogM69CFbjV4?t=36s
+
+"but they don't even know the shit about the tutorials...."
+
+"their using the aircrackng..." 
 
 Basically, we need to decide what environment we will move to. This book must square away a really great environment where we can go from. 
+
+Is Kali important or not? Is this too deep into penetration testing? 
+
+# ssh keygen known_hosts SCP has to come in soon
+
+> this is how we connect our macbook pros to ubuntu servers and such we use in the cloud, to hose our APIs, bots, etc. 
+
+# About time for a .bashrc configuration here
+
+> incredibly cool to be able to edit this config file, which runs anytime linux boots. 
 
 # gcc compiler
 
