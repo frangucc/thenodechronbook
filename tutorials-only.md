@@ -62,7 +62,12 @@ Root
 The root user and the sudo prefix  
 Cron / Crontab  
 Setting up scheduled tasks  
-.bashrc and .bash\_aliases  
+.bashrc and .bash\_aliases 
+
+ open ~/.bash_profile
+
+Note that in some cases the profile may be called ~/.profile.
+   
 Your shell configuration and aliases  
 rc.local  
 Configuration of initialisation
